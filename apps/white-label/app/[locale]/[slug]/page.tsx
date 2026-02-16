@@ -28,13 +28,13 @@ type PropsType = {
   params: Promise<{ slug: string; locale: Locale }>;
 };
 
-// export async function generateStaticParams() {
-//   const countries = await getCountriesWithStartingPrice();
-//   const regions = await getRegionsThatHavePackages();
-//   const allDestinations = [...countries, ...regions];
+export async function generateStaticParams() {
+  const countries = await getCountriesWithStartingPrice();
+  const regions = await getRegionsThatHavePackages();
+  const allDestinations = [...countries, ...regions];
 
-//   return allDestinations.map((item) => ({ slug: item.slug }));
-// }
+  return allDestinations.map((item) => ({ slug: item.slug }));
+}
 
 export async function generateMetadata({ params }: PropsType) {
   const { slug, locale } = await params;
