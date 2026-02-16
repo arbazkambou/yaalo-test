@@ -1,0 +1,1891 @@
+{
+  "HomePage": {
+    "metaData": {
+      "title": "Smart eSIM - Directe reis-eSIM voor 200+ landen | Snelle 4G/5G-gegevens",
+      "description": "Krijg snelle, betrouwbare 4G/5G-gegevens in meer dan 200 landen met Smart eSIM. Geen roamingkosten, snelle activatie en veilige wereldwijde connectiviteit voor elke reis.",
+      "keywords": "eSIM, eSIM kopen, regionale eSIM, lokale eSIM, regionale eSIM kopen, lokale eSIM kopen, lokale eSIM aanschaffen, regionale eSIM aanschaffen, data eSIM, e-SIM, eSIM plan, eSIM winkel, eSIM marktplaats, reiziger, dataplannen, e-SIM kopen, goedkope data, connectiviteit"
+    },
+    "hero": {
+      "title": "Koop wereldwijde reisconnectiviteit met <highlight>Smart</highlight> eSIM",
+      "subtitle": "<strong>4G/5G supersnel</strong> internet met eSIM-abonnementen in 200+ landen – binnen seconden geactiveerd!",
+      "downloadApp": "Download de app",
+      "imageAlt": "Illustratie van reisconnectiviteit met eSIM"
+    },
+    "esimFeatures": {
+      "title": "Koop prepaid eSIMs online voor internationaal reizen tegen betaalbare tarieven",
+      "features": {
+        "fair": {
+          "title": "Eerlijke prijzen",
+          "description": "Databundels afgestemd op reizigers, niet op dure roamingkosten."
+        },
+        "roaming": {
+          "title": "Echte roamingvrijheid",
+          "description": "Blijf verbonden in meerdere landen met één eSIM."
+        },
+        "fast": {
+          "title": "Snel wereldwijd internet",
+          "description": "Betrouwbare 4G/5G-dekking waar je ook aankomt."
+        },
+        "setup": {
+          "title": "Snelle installatie",
+          "description": "Activeer binnen seconden. Reizen zonder gedoe."
+        }
+      }
+    },
+    "startingPrice": {
+      "title": "Vind je volgende bestemming uit meer dan 200 landen!",
+      "tabs": {
+        "local": "Lokaal",
+        "regional": "Regionaal",
+        "global": "Wereldwijd"
+      },
+      "allDestinations": "Bekijk alle bestemmingen",
+      "startsAt": "Vanaf",
+      "globalPackage": "Wereldwijde pakketten",
+      "noOfCountries": "149 landen ondersteund"
+    },
+    "esimCompatible": {
+      "title": "CONTROLEER OF JE TELEFOON ESIM-TECHNOLOGIE ONDERSTEUNT",
+      "description": "De meeste moderne smartphones zijn al eSIM-klaar. Sinds de iPhone XS ondersteunen alle modellen eSIM. Ook verschillende Android-merken bieden eSIM-ondersteuning in hun high-end toestellen.",
+      "compatibleBtn": "Alle eSIM-compatibele telefoons",
+      "srOnlyText": "Enkele telefoons die eSIM-technologie ondersteunen"
+    },
+    "whyEsim": {
+      "title": "Waarom is Smart eSIM de beste eSIM voor internationaal reizen?",
+      "description": "Alles draait om vertrouwen, en Smart eSIM stelt de gebruiker altijd centraal.",
+      "showPlansBtn": "Toon eSIM-abonnementen",
+      "cards": {
+        "1": {
+          "title": "Wereldwijde dekking",
+          "body": "Gebruik je eSIM in meer dan 200 landen. Kies uit lokale, regionale of wereldwijde eSIMs."
+        },
+        "2": {
+          "title": "Beveiligde verbinding",
+          "body": "Versleutelde bescherming volgens alle veiligheidsnormen."
+        },
+        "3": {
+          "title": "Directe activatie",
+          "body": "Koop, scan en verbind binnen minuten. Gebruik de app thuis of op de luchthaven."
+        },
+        "4": {
+          "title": "Transparante prijzen",
+          "body": "Geen contracten. Geen roamingkosten. Gewoon eerlijke databundels voor reizen zonder verborgen kosten."
+        }
+      }
+    },
+    "customerReviews": {
+      "title": "Ervaringen van klanten die ons betrouwbaar maken!",
+      "reviews": {
+        "1": "Eén scan en ik was meteen online. Het was het makkelijkste onderdeel van mijn hele reis.",
+        "2": "Eindelijk een eSIM waarvoor je geen technische kennis nodig hebt. Het werkte gewoon.",
+        "3": "Geen wachtrijen voor SIM-kaarten op het vliegveld en geen stress. Smart eSIM bespaarde me tijd en geld.",
+        "4": "Door drie landen gereisd zonder mijn instellingen aan te raken. De soepelste reiservaring ooit.",
+        "5": "De eSIM binnen enkele minuten gedownload en overal verbonden gebleven. Het maakte mijn hele reis een stuk relaxter."
+      }
+    },
+    "faqsData": {
+      "title": "Veelgestelde vragen",
+      "description": "Vind snel antwoorden op veelgestelde vragen.",
+      "faqs": {
+        "1": {
+          "title": "Hoe werkt een eSIM?",
+          "body": "Een eSIM werkt als een digitale versie van een fysieke simkaart. In plaats van iets te plaatsen, download je een mobiel abonnement direct op je telefoon. Na activatie verbindt je toestel met lokale netwerken, net als bij een gewone simkaart, maar zonder het wisselen van kaarten tijdens het reizen."
+        },
+        "2": {
+          "title": "Kan ik Smart eSIM gebruiken in elk land waar ik naartoe reis?",
+          "body": "Ja! Smart eSIM dekt meer dan 200 bestemmingen. Of je nu naar Europa, Azië, het Midden-Oosten of Amerika reist, je bent direct online. Kies een abonnement, installeer het en je bent verbonden zodra je mobiele data inschakelt."
+        },
+        "3": {
+          "title": "Hoe installeer of activeer ik Smart eSIM?",
+          "body": "Activatie is eenvoudig. Na aankoop ontvang je een QR-code of een installatielink in de app. Ga naar de mobiele instellingen van je telefoon, kies “eSIM toevoegen”, scan de code en activeer deze. Binnen enkele minuten werkt je internet, zonder documenten of wachttijden."
+        },
+        "4": {
+          "title": "Welke telefoons ondersteunen eSIM?",
+          "body": "De meeste moderne smartphones ondersteunen eSIM, waaronder recente iPhones (XS en nieuwer), Samsung Galaxy-modellen, Google Pixel-toestellen en diverse nieuwe Android-telefoons. Twijfel je? Controleer onze eSIM-compatibele apparaten via het menu Meer."
+        },
+        "5": {
+          "title": "Is het gebruik van een eSIM veilig?",
+          "body": "Ja. eSIM-technologie gebruikt versleutelde profielen die je verbinding beschermen tegen sim-swap-aanvallen en ongeautoriseerde toegang. Zolang je telefoon is beveiligd met een schermvergrendeling en tweestapsverificatie, blijven je gegevens veilig."
+        },
+        "6": {
+          "title": "Kan ik Smart eSIM gebruiken bij het reizen door meerdere landen tijdens één trip?",
+          "body": "Ja. Als je abonnement meerdere landen ondersteunt, schakelt Smart eSIM automatisch over naar lokale partnernetwerken zodra je een grens overgaat. Je hoeft niets opnieuw te installeren."
+        },
+        "7": {
+          "title": "Verloopt mijn eSIM als ik deze niet meteen gebruik?",
+          "body": "De meeste Smart eSIM-abonnementen hebben een activatieperiode van 30 tot 90 dagen. Je kunt nu kopen en later installeren. De geldigheid start pas zodra de eSIM voor het eerst verbinding maakt met het netwerk."
+        }
+      }
+    }
+  },
+  "EsimPage": {
+    "metaData": {
+      "title": "Koop Smart eSIM voor Reizen | Directe Wereldwijde Mobiele Gegevens",
+      "description": "Krijg je Smart eSIM voor elk land, regio of wereldwijde avontuur. Activeer het in enkele minuten, vermijd roamingkosten en blijf wereldwijd verbonden met snelle, betrouwbare reisgegevens.",
+      "keywords": "eSIM, eSIM kopen, regionale eSIM, lokale eSIM, regionale eSIM kopen, lokale eSIM kopen, lokale eSIM aanschaffen, regionale eSIM aanschaffen, data eSIM, e-SIM, eSIM plan, eSIM winkel, eSIM marktplaats, reiziger, dataplannen, e-SIM kopen, goedkope data, connectiviteit, eSIM kopen, regionale eSIM, eSIM-plannen, data eSIM, e-SIM, eSIM-plan, eSIM-winkel, eSIM-marktplaats, dataplannen, e-SIM kopen, goedkope eSIM-gegevens, connectiviteit"
+    },
+    "hero": {
+      "heading": "Zoek je volgende bestemming",
+      "description": "Bezoek je een land? Plan je een reis door een hele regio? Droom je van een wereldreis die uitkomt? Koop een internationale eSIM en geniet van ultieme connectiviteitsvrijheid!"
+    },
+    "tabs": {
+      "local": "Lokaal",
+      "regional": "Regionaal",
+      "global": "Wereldwijd"
+    },
+    "exploreEsims": "Ontdek ons aanbod data-eSIMs voor meer dan 200 bestemmingen",
+    "faqsData": {
+      "title": "Veelgestelde vragen",
+      "description": "Vind snel antwoorden op veelgestelde vragen.",
+      "faqs": {
+        "1": {
+          "title": "Kan ik een Smart eSIM kopen vóór mijn reis?",
+          "body": "Ja. Je kunt je Smart eSIM op elk moment vóór vertrek aanschaffen. Het abonnement start pas zodra de eSIM verbinding maakt met een lokaal netwerk op je bestemming. Vroeg kopen is een slimme manier om stress op de luchthaven te vermijden."
+        },
+        "2": {
+          "title": "Kan ik een Smart eSIM kopen en activeren terwijl ik al in het buitenland ben?",
+          "body": "Ja, dat kan. Zolang je toegang hebt tot wifi, kun je een abonnement kopen, de QR-code scannen en je eSIM binnen enkele minuten activeren. Ideaal voor last-minute reizen of wanneer roaming te duur wordt."
+        },
+        "3": {
+          "title": "Waar kan ik het beste een Smart eSIM kopen voor internationaal reizen?",
+          "body": "Je kunt direct kopen via de Smart eSIM-website of de app downloaden. De app is beschikbaar voor zowel iOS als Android. Kies je land of regio, selecteer een databundel en installeer deze direct."
+        },
+        "4": {
+          "title": "Kan ik een Smart eSIM voor iemand anders kopen?",
+          "body": "Ja. Na afronding van de aankoop kun je de activatie-QR-code delen met een vriend of familielid. Zij scannen de code op hun toestel en zijn meteen verbonden. Perfect als cadeau of voor groepsreizen."
+        },
+        "5": {
+          "title": "Hoe controleer ik of mijn telefoon eSIM ondersteunt?",
+          "body": "De meeste recente iPhones, Samsung-toestellen, Google Pixel-telefoons en andere high-end Android-modellen ondersteunen eSIM. Op onze website vind je een volledige compatibiliteitslijst om dit vooraf te controleren."
+        },
+        "6": {
+          "title": "Is het goedkoper om een Smart eSIM vóór of na mijn reis te kopen?",
+          "body": "Vóór vertrek kopen is meestal voordeliger. Zo vermijd je dure simkaartkraampjes op luchthavens, last-minute roamingkosten en toeristenprijzen. Bovendien land je direct met werkend internet."
+        },
+        "7": {
+          "title": "Werkt mijn Smart eSIM in meerdere landen?",
+          "body": "Ja, als je kiest voor een regionaal of wereldwijd eSIM-abonnement. Je Smart eSIM schakelt automatisch over naar het sterkste lokale netwerk tijdens je reis, zonder opnieuw installeren of wisselen."
+        }
+      }
+    }
+  },
+  "RegionalPage": {
+    "metaData": {
+      "title": "Regionale eSIM's: Betaalbare Data voor 200+ Landen",
+      "description": "Krijg regionale eSIM's met lokale tarieven voor meer dan 200 bestemmingen. Betrouwbare prepaidplannen voor naadloze connectiviteit tijdens internationale en lokale reizen.",
+      "keywords": "eSIM, eSIM kopen, regionale eSIM, lokale eSIM, regionale eSIM kopen, lokale eSIM kopen, lokale eSIM aanschaffen, regionale eSIM aanschaffen, data eSIM, e-SIM, eSIM plan, eSIM winkel, eSIM marktplaats, reiziger, dataplannen, e-SIM kopen, goedkope data, connectiviteit, eSIM kopen, regionale eSIM, eSIM-plannen, data eSIM, e-SIM, eSIM-plan, eSIM-winkel, eSIM-marktplaats, dataplannen, e-SIM kopen, goedkope eSIM-gegevens, connectiviteit"
+    },
+    "hero": {
+      "heading": "Zoek je volgende bestemming",
+      "description": "Bezoek je een land? Plan je een reis door een hele regio? Droom je van een wereldreis die uitkomt? Koop een internationale eSIM en geniet van connectiviteitsvrijheid!"
+    },
+    "tabs": {
+      "local": "Lokaal",
+      "regional": "Regionaal",
+      "global": "Wereldwijd"
+    },
+    "discoverEsim": "Ontdek regionale eSIM-opties in verschillende regio’s",
+    "startsAt": "Vanaf",
+    "faqsData": {
+      "title": "Veelgestelde vragen",
+      "description": "Vind snel antwoord op veelgestelde vragen.",
+      "faqs": {
+        "1": {
+          "title": "Wat is een regionale eSIM?",
+          "body": "Een regionale eSIM is één eSIM die meerdere landen dekt binnen één databundel en één eSIM-profiel. Zo kun je bijvoorbeeld alle landen binnen Europa bezoeken met slechts één eSIM-profiel."
+        },
+        "2": {
+          "title": "Kun je een eSIM in meerdere landen gebruiken?",
+          "body": "Ja, je kunt één eSIM in meerdere landen gebruiken, afhankelijk van het gekozen eSIM-abonnement. Lokale eSIMs werken in één land, regionale eSIMs dekken tot 34 landen en wereldwijde eSIMs zijn bruikbaar in ongeveer 64 landen."
+        },
+        "3": {
+          "title": "In welke regio’s biedt Smart eSIM diensten aan?",
+          "body": "Smart eSIM biedt diensten aan in verschillende regio’s, waaronder Afrika, Azië, Europa, Noord-Amerika, Zuid-Amerika en Oceanië."
+        },
+        "4": {
+          "title": "Wat is het beste regionale eSIM-abonnement voor Europa?",
+          "body": "Smart eSIM biedt verschillende regionale eSIM-abonnementen voor Europa met een geldigheid van 7 tot 30 dagen en databundels van 1GB tot 20GB per maand. Het beste abonnement is 10GB voor 30 dagen, voor slechts $13,03."
+        },
+        "5": {
+          "title": "Wat is het beste regionale eSIM-abonnement voor Azië?",
+          "body": "Smart eSIM biedt meerdere regionale eSIM-abonnementen voor Azië met een geldigheid van 7 tot 30 dagen en databundels van 1GB tot 20GB per maand. Het beste abonnement is 10GB voor 30 dagen, geprijsd op $34,70."
+        },
+        "6": {
+          "title": "Zijn deze regionale eSIMs prepaid of postpaid?",
+          "body": "Regionale eSIMs van Smart eSIM zijn prepaid. Dit betekent dat je vooraf betaalt voor de data die je wilt gebruiken."
+        }
+      }
+    }
+  },
+  "RegionalSlugPage": {
+    "faqsData": {
+      "title": "Veelgestelde vragen",
+      "description": "Vind snel antwoord op veelgestelde vragen.",
+      "faqs": {
+        "1": {
+          "title": "Welk eSIM-dataplan moet ik kiezen voor {region}?",
+          "body": "Kies een abonnement op basis van je databehoefte en de duur van je verblijf. eSIMCard biedt verschillende lokale, regionale en wereldwijde plannen met een looptijd van 1 tot 30 dagen."
+        },
+        "2": {
+          "title": "Hoe koop ik een eSIM in {region}?",
+          "body": "Je kunt online een eSIM kopen via de website of app van eSIMCard, beschikbaar voor iOS en Android. Selecteer eenvoudig het gewenste abonnement en volg het afrekenproces."
+        },
+        "3": {
+          "title": "Hoe activeer ik een eSIM voor {region}?",
+          "body": "Na aankoop kun je je eSIM activeren via de eSIMCard-app, beschikbaar op Android en iOS. Het proces omvat het scannen van de eSIM-QR-code die je na aankoop ontvangt."
+        },
+        "4": {
+          "title": "Hoe gebruik ik een eSIM in {region}?",
+          "body": "Zorg ervoor dat je apparaat eSIM ondersteunt. Installeer de eSIM met de meegeleverde QR-code en selecteer deze als actief mobiel abonnement in de instellingen van je toestel."
+        },
+        "5": {
+          "title": "Wanneer start mijn databundel?",
+          "body": "Zodra je je bestemming hebt bereikt en de eerste byte data verbruikt, wordt je eSIM-dataplan als actief beschouwd. Vanaf dat moment telt het dataverbruik mee voor je bundel."
+        },
+        "6": {
+          "title": "Kan ik mijn eSIM-data opwaarderen of verlengen?",
+          "body": "Ja, je kunt je databundel opwaarderen of verlengen via de eSIMCard-app, waar je je abonnementen kunt beheren en extra data kunt kopen."
+        },
+        "7": {
+          "title": "Kan ik een terugbetaling krijgen van eSIMCard?",
+          "body": "Bij eSIMCard zijn terugbetalingen mogelijk bij dekkingsproblemen, technische problemen of onjuiste kosten. Verzoeken moeten binnen 12 dagen worden ingediend en worden, indien goedgekeurd, binnen 1 tot 3 werkdagen terugbetaald."
+        },
+        "8": {
+          "title": "Wat is het Fair Use Policy voor onbeperkte eSIM-dataplannen?",
+          "body": "Volgens het Fair Use Policy (FUP) kan de internetsnelheid in zeldzame gevallen worden verlaagd na het gebruik van 1 GB data per dag. De normale snelheid wordt de volgende dag hersteld."
+        },
+        "9": {
+          "title": "Kan ik mijn fysieke simkaart en eSIMCard-eSIM tegelijk gebruiken?",
+          "body": "Ja, als je toestel dual-SIM ondersteunt, kun je zowel een fysieke simkaart als een eSIM tegelijkertijd gebruiken."
+        },
+        "10": {
+          "title": "Kan ik tethering of een persoonlijke hotspot gebruiken?",
+          "body": "Ja, je kunt tethering en een persoonlijke hotspot instellen met je eSIM van eSIMCard. Zo kun je je internetverbinding delen met andere apparaten tijdens het reizen."
+        }
+      }
+    }
+  },
+  "GlobalPage": {
+    "metaData": {
+      "title": "Krijg Internationale eSIM voor Reizigers | Prepaid Data Plannen",
+      "description": "Maak wereldwijd verbinding met onze Global eSIM-data pakketten. De ideale keuze voor reizigers die connectiviteit in meerdere landen nodig hebben zonder roamingkosten.",
+      "keywords": "eSIM, eSIM kopen, regionale eSIM, lokale eSIM, regionale eSIM kopen, lokale eSIM kopen, lokale eSIM aanschaffen, regionale eSIM aanschaffen, data eSIM, e-SIM, eSIM plan, eSIM winkel, eSIM marktplaats, reiziger, dataplannen, e-SIM kopen, goedkope data, connectiviteit, eSIM kopen, regionale eSIM, eSIM-plannen, data eSIM, e-SIM, eSIM-plan, eSIM-winkel, eSIM-marktplaats, dataplannen, e-SIM kopen, goedkope eSIM-gegevens, connectiviteit"
+    },
+    "global": "Globaal",
+    "hero": {
+      "heading": "Zoek je volgende bestemming",
+      "description": "Bezoek je een land? Plan je een reis door een hele regio? Wordt je droom van een wereldreis werkelijkheid? Koop een internationale eSIM en ervaar volledige connectiviteitsvrijheid!"
+    },
+    "tabs": {
+      "local": "Lokaal",
+      "regional": "Regionaal",
+      "global": "Wereldwijd"
+    },
+    "faqsData": {
+      "title": "Veelgestelde vragen",
+      "description": "Vind snel antwoorden op veelgestelde vragen.",
+      "faqs": {
+        "1": {
+          "title": "Wat is de beste eSIM voor internationaal reizen?",
+          "body": "De beste eSIM voor internationaal reizen hangt af van je bestemming, dataverbruik en budget. Kies een aanbieder met brede dekking en flexibele, betaalbare abonnementen. Voor wereldwijde reizen is een globale eSIM een populaire keuze."
+        },
+        "2": {
+          "title": "Waar kan ik internationale eSIM-abonnementen kopen?",
+          "body": "Je kunt internationale eSIM-abonnementen eenvoudig online kopen via websites of apps van eSIM-aanbieders. Met Smart eSIM download je het eSIM-profiel direct op je toestel – snel, veilig en zonder gedoe."
+        },
+        "3": {
+          "title": "Wat kost een internationale eSIM?",
+          "body": "De kosten van een internationale eSIM verschillen per databundel, dekking en looptijd. Prijzen beginnen vaak bij een paar euro voor kort gebruik en lopen op bij bredere wereldwijde dekking. Zo heb je altijd een optie die past bij jouw reis."
+        },
+        "4": {
+          "title": "Werkt een eSIM met internationaal roaming?",
+          "body": "Ja. Een eSIM werkt met internationaal roaming door verbinding te maken met lokale netwerken in het buitenland. Zo gebruik je mobiel internet zonder de hoge kosten van traditionele roaming."
+        },
+        "5": {
+          "title": "Welke eSIM is het beste voor wereldwijd roaming?",
+          "body": "De beste eSIM voor wereldwijd roaming biedt brede wereldwijde dekking, zodat je meerdere landen kunt bezoeken zonder van simkaart te wisselen. Wereldwijde eSIM-abonnementen zijn ideaal voor rondreizen en frequente reizigers."
+        },
+        "6": {
+          "title": "Hoe werkt een wereldwijde eSIM?",
+          "body": "Met een wereldwijde eSIM download je een digitale simkaart op je telefoon die automatisch verbinding maakt met lokale netwerken in ondersteunde landen. Geen fysieke simkaart nodig – gewoon activeren en direct online."
+        },
+        "7": {
+          "title": "Wat is het verschil tussen een wereldwijde eSIM en een lokale eSIM?",
+          "body": "Een wereldwijde eSIM werkt in meerdere landen en is perfect voor reizen met meerdere bestemmingen. Een lokale eSIM is bedoeld voor één specifiek land of regio en is vaak voordeliger bij een langer verblijf."
+        }
+      }
+    }
+  },
+  "AboutUsPage": {
+    "metaData": {
+      "title": "Over Smart eSIM - Vertrouwde Wereldwijde Reizen eSIM Provider",
+      "description": "Smart eSIM houdt reizigers verbonden met snelle, veilige mobiele data in meer dan 200 landen. Geen roamingkosten, geen SIM-kaarten. Gewoon directe, betaalbare wereldwijde connectiviteit.",
+      "keywords": "eSIM, eSIM kopen, regionale eSIM, lokale eSIM, regionale eSIM kopen, lokale eSIM kopen, lokale eSIM aanschaffen, regionale eSIM aanschaffen, data eSIM, e-SIM, eSIM plan, eSIM winkel, eSIM marktplaats, reiziger, dataplannen, e-SIM kopen, goedkope data, connectiviteit, esim, over Smart eSIM"
+    },
+    "hero": {
+      "title": "Over Smart eSIM",
+      "description": "Verbonden blijven tijdens het reizen hoeft niet duur, ingewikkeld of stressvol te zijn."
+    },
+    "globalTravelSection": {
+      "title": "Wie wij zijn als wereldwijde travel eSIM-aanbieder",
+      "description": "Wij zijn een team van reizigers, engineers en digitale productspecialisten. Na jaren van trage netwerken en te dure databundels in het buitenland, besloten we een slimmere oplossing te bouwen.",
+      "descriptionTwo": "Smart eSIM is ontwikkeld met één doel: reizigers wereldwijd verbinden met:",
+      "features": {
+        "1": {
+          "body": "Betaalbare internationale mobiele data zonder roamingkosten"
+        },
+        "2": {
+          "body": "Directe eSIM-activatie via QR-code of onze app"
+        },
+        "3": {
+          "body": "Wereldwijde eSIM-dekking in meer dan 200 landen en regio’s"
+        },
+        "4": {
+          "body": "Veilige, versleutelde verbinding die je digitale identiteit beschermt tijdens het reizen"
+        }
+      },
+      "descriptionThree": "Wij geloven dat elke reiziger gemak verdient terwijl hij of zij nieuwe herinneringen maakt."
+    },
+    "missionSection": {
+      "title": "Onze missie",
+      "description": "Onze missie is om wereldwijde reisconnectiviteit eenvoudig, veilig en betaalbaar te maken met Smart eSIM-technologie. We bieden snel internationaal internet zonder roamingkosten, zodat reizigers grensoverschrijdend online blijven met betrouwbare dekking en directe activatie."
+    },
+    "storySection": {
+      "title": "Ons verhaal",
+      "description": "Smart eSIM is ontstaan uit een herkenbaar reisprobleem: aankomen in een nieuw land zonder data, zonder kaarten en zonder verbinding. We ontwikkelden een naadloze eSIM-oplossing die elke reis verandert in een verbonden ervaring. Vandaag vertrouwd door locals, reizigers, digital nomads en internationale bedrijven."
+    },
+    "joinSection": {
+      "title": "Reis vrij & verbind direct",
+      "description": "Waar je volgende bestemming ook is, verbonden blijven mag je reis niet vertragen. Smart eSIM geeft je snelle en veilige mobiele data zodra je landt. Geen roamingkosten, geen wachtrijen, geen verificatie en geen SIM-wissels. Scan, activeer en geniet van de beste eSIM-oplossing in meer dan 200 bestemmingen wereldwijd."
+    },
+    "faqsData": {
+      "title": "Veelgestelde vragen",
+      "description": "Vind snel antwoorden op veelgestelde vragen.",
+      "faqs": {
+        "1": {
+          "title": "Wat is een eSIM en hoe werkt Smart eSIM?",
+          "body": "Een eSIM is een digitale simkaart die in je telefoon is ingebouwd en waarmee je verbinding maakt zonder een fysieke sim te wisselen. Met Smart eSIM is het eenvoudig: kies je bestemming, koop een bundel, scan de QR-code en je toestel is direct actief. Snel en veilig mobiel internet zodra je aankomt."
+        },
+        "2": {
+          "title": "Wat zijn de nadelen van eSIM en hoe lost Smart eSIM deze op?",
+          "body": "Sommige reizigers maken zich zorgen over compatibiliteit of verbindingsverlies bij het wisselen van netwerken. Smart eSIM voorkomt dit met duidelijke compatibiliteitsinformatie, stap-voor-stap activatie en toegang tot hoogwaardige netwerken in 200+ landen. Daarnaast staat onze support klaar wanneer je hulp nodig hebt."
+        },
+        "3": {
+          "title": "Is een eSIM beter dan een fysieke simkaart voor internationaal reizen?",
+          "body": "Voor de meeste reizigers wel. Met Smart eSIM profiteer je van directe activatie, geen roamingkosten en wereldwijde connectiviteit. Je behoudt je fysieke sim voor bellen en gebruikt Smart eSIM voor snel en betrouwbaar internet in het buitenland. Dat is veiliger, sneller en veel handiger."
+        },
+        "4": {
+          "title": "Krijg ik met Smart eSIM een lokaal of internationaal telefoonnummer?",
+          "body": "Smart eSIM-reisabonnementen zijn primair bedoeld voor datagebruik en bevatten meestal geen lokaal telefoonnummer. Je kunt apps zoals WhatsApp, FaceTime, Messenger en VoIP gewoon blijven gebruiken. Voor bellen bieden we in sommige landen en regio’s ook bundels met belopties."
+        },
+        "5": {
+          "title": "Is Smart eSIM de moeite waard voor reizen?",
+          "body": "Zeker. Met Smart eSIM vermijd je roamingkosten, sla je SIM-wachtrijen op luchthavens over en ben je direct online bij aankomst. Ideaal voor frequente reizigers, digital nomads, studenten en gezinnen die betaalbaar en stabiel internet nodig hebben in meerdere landen."
+        },
+        "6": {
+          "title": "Is het gebruik van een eSIM veilig en zijn er risico’s?",
+          "body": "Smart eSIM maakt gebruik van beveiligde, versleutelde verbindingen die beschermen tegen SIM-swap-aanvallen en ongeautoriseerde toegang. In tegenstelling tot fysieke simkaarten kan een eSIM niet worden verwijderd of gekopieerd. Je data blijft beschermd en je bent verbonden met betrouwbare netwerkpartners wereldwijd."
+        }
+      }
+    }
+  },
+  "ContactUsPage": {
+    "metaData": {
+      "title": "Smart eSIM Ondersteuning | Neem Contact met Ons op voor Reizen eSIM Hulp",
+      "description": "Hulp nodig met activatie, plannen of eSIM setup? Neem contact op met Smart eSIM voor snelle, vriendelijke reisondersteuning. Live chat, e-mailondersteuning en snelle reacties wereldwijd.",
+      "keywords": "eSIM, eSIM kopen, regionale eSIM, lokale eSIM, regionale eSIM kopen, lokale eSIM kopen, lokale eSIM aanschaffen, regionale eSIM aanschaffen, data eSIM, e-SIM, eSIM plan, eSIM winkel, eSIM marktplaats, reiziger, dataplannen, e-SIM kopen, goedkope data, connectiviteit, esim contact, esim-informatie"
+    },
+    "hero": {
+      "title": "Je kunt ons altijd bereiken!",
+      "description": "Of je nu je volgende reis voorbereidt of net aan boord gaat – ons supportteam staat 24/7 voor je klaar voor een soepele Smart eSIM-ervaring."
+    },
+    "reachOut": {
+      "title": "Neem contact met ons op via!",
+      "description": "Wij stellen klanttevredenheid voorop en bieden de volgende kanalen om je direct te helpen:",
+      "features": {
+        "emailSupport": {
+          "title": "E-mailondersteuning",
+          "description": "Stuur ons je vraag via <email>support@smartesim.co</email> en we reageren binnen één werkdag of sneller."
+        },
+        "liveChat": {
+          "title": "Live chat",
+          "description": "Spreek binnen enkele minuten met een expert. Ideaal voor snelle vragen, hulp bij activatie of wanneer je onderweg meer wilt weten.Bel ons op <email>+1(360)581-4579</email>"
+        }
+      }
+    },
+    "contactForm": {
+      "title": "Stuur ons een bericht",
+      "description": "Heb je een vraag, technische ondersteuning nodig of hulp bij het kiezen van het juiste Smart eSIM-abonnement?",
+      "nameLabel": "Volledige naam",
+      "emailLabel": "E-mailadres",
+      "subjectLabel": "Onderwerp",
+      "messageLabel": "Bericht",
+      "phoneLabel": "Telefoonnummer",
+      "submitButton": "Verzenden",
+      "validationMessages": {
+        "name": {
+          "required": "Volledige naam is verplicht",
+          "minLength": "Volledige naam moet minimaal 2 tekens bevatten",
+          "maxLength": "Volledige naam mag niet langer zijn dan 50 tekens"
+        },
+        "email": {
+          "required": "E-mailadres is verplicht",
+          "invalid": "Voer een geldig e-mailadres in"
+        },
+        "subject": {
+          "required": "Geef een onderwerp op voor je bericht",
+          "maxLength": "Het onderwerp mag maximaal 200 tekens bevatten"
+        },
+        "phone": {
+          "required": "Telefoonnummer is verplicht",
+          "maxLength": "Telefoonnummer is te lang"
+        },
+        "description": {
+          "required": "Het berichtveld mag niet leeg zijn",
+          "maxLength": "Het bericht mag maximaal 600 tekens bevatten"
+        },
+        "recaptchaError": "Voltooi de reCAPTCHA."
+      }
+    },
+    "faqsData": {
+      "title": "Veelgestelde vragen",
+      "description": "Vind snel antwoorden op veelgestelde vragen.",
+      "faqs": {
+        "1": {
+          "title": "Hoe neem ik contact op met de klantenservice van Smart eSIM?",
+          "body": "Je kunt ons team op elk moment bereiken via live chat of e-mail. Via de live chat krijg je het snelst antwoord, e-mails worden binnen één werkdag beantwoord."
+        },
+        "2": {
+          "title": "Hoe los ik eSIM-netwerk- of verbindingsproblemen op?",
+          "body": "De meeste problemen worden opgelost door dataroaming in te schakelen, je telefoon opnieuw op te starten of een ander beschikbaar netwerk te selecteren. Blijft het probleem bestaan, neem dan contact op met onze support en we helpen je verder."
+        },
+        "3": {
+          "title": "Hoe activeer ik mijn Smart eSIM?",
+          "body": "Na aankoop scan je de QR-code of gebruik je de installatieoptie in de app. Ga naar de instellingen van je toestel → eSIM toevoegen → volg de stappen. De activatie duurt meestal minder dan twee minuten."
+        },
+        "4": {
+          "title": "Waarom activeert mijn eSIM niet op mijn iPhone?",
+          "body": "Controleer of je iPhone simlockvrij is, verbonden is met wifi en eSIM ondersteunt. Als de QR-code niet installeert, start je toestel opnieuw op en probeer het opnieuw. Ons team helpt je graag als het probleem aanhoudt."
+        },
+        "5": {
+          "title": "Kan Smart eSIM mij een telefoonnummer geven?",
+          "body": "Sommige Smart eSIM-abonnementen zijn alleen voor data, terwijl andere een telefoonnummer of virtueel nummer bevatten. Controleer de abonnementsdetails vóór aankoop of vraag ons team om bevestiging."
+        },
+        "6": {
+          "title": "Hoe stop ik de automatische verlenging van mijn eSIM?",
+          "body": "Je kunt automatische verlenging uitschakelen via je Smart eSIM-account of contact opnemen met onze support voor hulp. Zodra dit is uitgeschakeld, wordt je abonnement niet opnieuw verlengd."
+        }
+      }
+    }
+  },
+  "FAQsPage": {
+    "metaData": {
+      "title": "Smart eSIM FAQ's: Instellen, Activering, Dekking en Ondersteuning",
+      "description": "Vind antwoorden over de installatie van Smart eSIM, activatiestappen, ondersteunde telefoons, beveiliging, datagebruik, reisdekking en probleemoplossing om wereldwijd met vertrouwen verbonden te blijven.",
+      "keywords": "eSIM, eSIM kopen, regionale eSIM, lokale eSIM, regionale eSIM kopen, lokale eSIM kopen, lokale eSIM aanschaffen, regionale eSIM aanschaffen, data eSIM, e-SIM, eSIM plan, eSIM winkel, eSIM marktplaats, reiziger, dataplannen, e-SIM kopen, goedkope data, connectiviteit, esimblogs, blogs, esim-informatie"
+    },
+    "hero": {
+      "title": "Veelgestelde vragen",
+      "description": "Vind snel antwoorden op veelgestelde vragen"
+    },
+    "faqsData": {
+      "title": "Dit zijn enkele van de meest gestelde vragen!",
+      "description": "Vind snel antwoorden op veelgestelde vragen.",
+      "faqs": {
+        "1": {
+          "title": "Wat is een eSIM en hoe werkt het?",
+          "body": "Een eSIM is een ingebouwde digitale simkaart waarmee je mobiele diensten activeert zonder een fysieke kaart. Het mobiele abonnement wordt direct op je telefoon gedownload en maakt meteen verbinding met lokale netwerken. Voor reizigers betekent dit geen gedoe meer met het wisselen van simkaarten op luchthavens of in winkels."
+        },
+        "2": {
+          "title": "Wat zijn de nadelen van een eSIM?",
+          "body": "Het belangrijkste nadeel van een eSIM is dat je een compatibel toestel nodig hebt en dat de installatie correct moet verlopen. Je kunt een eSIM niet fysiek verwijderen zoals een gewone simkaart en bij het wisselen van telefoon is een overdracht nodig. Voor de meeste reizigers wegen deze beperkingen echter niet op tegen het gemak."
+        },
+        "3": {
+          "title": "Gebruikt een eSIM je telefoonnummer?",
+          "body": "Ja, een eSIM kan je telefoonnummer gebruiken als je provider nummeroverdracht ondersteunt. Reis-eSIMs zijn meestal alleen voor data, waardoor apps zoals WhatsApp, iMessage en sociale media je bestaande nummer blijven gebruiken. Je kunt je fysieke sim actief houden voor bellen."
+        },
+        "4": {
+          "title": "Is een eSIM een goed idee?",
+          "body": "Ja, een eSIM is een slimme keuze dankzij de snelle installatie, betere beveiliging en het gebruiksgemak tijdens het reizen. Je vermijdt roamingkosten, wachtrijen voor simkaarten en het risico op het verliezen van fysieke simkaarten. De meeste reizigers vinden eSIMs handiger en voordeliger."
+        },
+        "5": {
+          "title": "Hoe neem ik contact op met een eSIM-provider?",
+          "body": "Je kunt een eSIM-provider bereiken via de app, het helpcentrum of 24/7 live chat. Veel aanbieders bieden ook e-mailondersteuning en stapsgewijze probleemoplossing in het dashboard. Online support is vaak sneller dan bij traditionele telecomproviders."
+        },
+        "6": {
+          "title": "Hoe activeer ik mijn eSIM?",
+          "body": "Je activeert een eSIM door een QR-code te scannen of op een installatieknop in de app te tikken. Je telefoon voegt het eSIM-profiel toe via de mobiele instellingen en maakt binnen enkele minuten verbinding. Dit werkt zowel vóór vertrek als op je bestemming."
+        },
+        "7": {
+          "title": "Geeft een eSIM je een telefoonnummer?",
+          "body": "Een standaard eSIM van je provider kan je telefoonnummer bevatten, net als een fysieke simkaart. Reis-eSIMs zijn meestal data-only en geven geen nieuw nummer voor bellen. Apps zoals WhatsApp, FaceTime en Messenger blijven je bestaande nummer gebruiken."
+        },
+        "8": {
+          "title": "Is een eSIM de moeite waard?",
+          "body": "Ja, een eSIM is het zeker waard als je goedkoper internet, veilige connectiviteit en geen roamingverrassingen wilt. Je installeert de eSIM één keer, schakelt soepel tussen landen en hoeft geen kleine simkaartjes te hanteren. Vooral frequente reizigers profiteren van de flexibiliteit en lage kosten."
+        },
+        "9": {
+          "title": "Wat zijn de risico’s van een eSIM?",
+          "body": "Het grootste risico is een fout tijdens de installatie, bijvoorbeeld als de QR-code verkeerd wordt gescand of te vroeg wordt verwijderd. Ook kan toegang verloren gaan als je telefoon beschadigd raakt, omdat de eSIM niet fysiek kan worden verwijderd. Met een betrouwbare aanbieder zijn deze risico’s minimaal."
+        },
+        "10": {
+          "title": "Verbruikt een eSIM meer batterij?",
+          "body": "Nee, een eSIM verbruikt niet meer batterij dan een fysieke simkaart. Het batterijverbruik hangt af van netwerksterkte, apps op de achtergrond en locatiediensten, niet van de eSIM zelf. Veel reizigers merken zelfs een gelijk of beter batterijverbruik."
+        },
+        "11": {
+          "title": "Kan ik berichten versturen met Smart eSIM?",
+          "body": "Ja, je kunt berichten sturen via apps zoals WhatsApp, iMessage en Telegram met een eSIM-databundel. Alleen eSIMs van telecomproviders ondersteunen standaard sms-berichten met een telefoonnummer. Voor reizen vervangen berichtapps voor de meeste mensen sms."
+        },
+        "12": {
+          "title": "Kan ik mijn fysieke sim omzetten naar een eSIM?",
+          "body": "Ja, veel providers laten je een fysieke sim omzetten naar een eSIM via hun app of klantenportaal. Je ontvangt een QR-code of activatielink waarmee je nummer naar het eSIM-profiel wordt overgezet. Dit duurt meestal minder dan twee minuten."
+        },
+        "13": {
+          "title": "Is een eSIM beter dan een fysieke simkaart?",
+          "body": "Een eSIM is beter voor reizen, flexibiliteit en veiligheid, omdat je eenvoudig van netwerk kunt wisselen zonder simkaarten te verwisselen. Een fysieke simkaart is vooral handig bij oudere toestellen of als je provider geen eSIM ondersteunt. De meeste nieuwe telefoons werken optimaal met eSIM."
+        },
+        "14": {
+          "title": "Kan een eSIM problemen veroorzaken?",
+          "body": "Problemen met eSIMs zijn zeldzaam en ontstaan meestal door een verkeerde installatie of een niet-ondersteund toestel. De meeste issues zijn eenvoudig op te lossen door het profiel opnieuw te installeren of de instellingen te controleren. Betrouwbare aanbieders zoals Smart eSIM bieden snelle oplossingen."
+        },
+        "15": {
+          "title": "Krijg je met een eSIM een lokaal nummer?",
+          "body": "Alleen abonnementen van telecomproviders bieden een lokaal telefoonnummer voor bellen en sms. Reis-eSIMs zijn meestal data-only, waardoor je je bestaande nummer via apps gebruikt. Voor een echt lokaal nummer heb je een lokaal belabonnement nodig."
+        },
+        "16": {
+          "title": "Kan ik met een eSIM een Amerikaans nummer krijgen?",
+          "body": "Ja, als je een eSIM van een Amerikaanse provider of een virtuele nummerservice koopt. Reis-eSIMs voor de VS bieden data, maar geen Amerikaans mobiel nummer. Apps zoals Google Voice kunnen een Amerikaans nummer leveren indien nodig."
+        },
+        "17": {
+          "title": "Waarom zou ik geen eSIM gebruiken?",
+          "body": "Je kunt een eSIM vermijden als je toestel niet compatibel is of als je vaak fysieke simkaarten wilt wisselen. Sommige gebruikers die regelmatig van telefoon wisselen geven de voorkeur aan fysieke simkaarten. Voor de meeste reizigers is eSIM echter eenvoudiger en handiger."
+        },
+        "18": {
+          "title": "Hoe los ik netwerkproblemen met eSIM op?",
+          "body": "Je kunt eSIM-problemen oplossen door de vliegtuigmodus aan en uit te zetten, je telefoon opnieuw op te starten of de netwerkinstellingen te resetten. Soms helpt het om handmatig het juiste netwerk te selecteren. De Smart eSIM-app bevat ook een ingebouwde probleemoplossingsgids."
+        },
+        "19": {
+          "title": "Wordt mijn service stopgezet als ik een eSIM verwijder?",
+          "body": "Het verwijderen van een eSIM wist het profiel van je telefoon. Sommige aanbieders hanteren een eenmalig verwijderbeleid, wat betekent dat je na verwijdering een nieuwe eSIM moet kopen. Als je je Smart eSIM-profiel verwijdert, wordt de service beëindigd en moet je een nieuwe eSIM aanschaffen."
+        }
+      }
+    }
+  },
+  "EsimCompatiblePage": {
+    "metaData": {
+      "title": "eSIM Compatibele Telefoons | Lijst van Android & iPhones (2025)",
+      "description": "Bekijk de complete lijst van eSIM-compatibele Android- en iPhones. We vermelden alle nieuwste modellen tot oudere (eSIM-compatibele) telefoons met de maximale eSIM-capaciteit.",
+      "keywords": "eSIM, eSIM kopen, regionale eSIM, lokale eSIM, regionale eSIM kopen, lokale eSIM kopen, lokale eSIM aanschaffen, regionale eSIM aanschaffen, data eSIM, e-SIM, eSIM plan, eSIM winkel, eSIM marktplaats, reiziger, dataplannen, e-SIM kopen, goedkope data, connectiviteit, esim telefoon, esim compatibel, iPhone, Samsung, Huawei, Motorola"
+    },
+    "hero": {
+      "heading": "eSIM-compatibele telefoons",
+      "searchPlaceholder": "Zoek compatibele telefoons",
+      "description": "eSIM-compatibele apparaten zijn smartphones, tablets, smartwatches en andere gadgets die embedded SIM-technologie (eSIM) ondersteunen. In tegenstelling tot traditionele simkaarten zijn eSIM’s ingebouwd in het apparaat en digitaal te activeren zonder fysieke kaart. Dit maakt het eenvoudiger om van provider te wisselen, verhoogt de beveiliging en ondersteunt meerdere profielen op één toestel. Populaire eSIM-compatibele apparaten zijn recente modellen van Apple, Samsung, Google en sommige laptops en wearables.",
+      "compatibleDevices": "Compatibele apparaten met eSIM",
+      "noMatch": "Geen apparaat gevonden 🙂",
+      "compatibleDevicesDescription": "Je kunt hier je apparaatnaam invoeren of onze <FooterLink>pagina met ondersteunde apparaten</FooterLink> bekijken",
+      "searchDevice": "Zoek je apparaat",
+      "chooseBrand": "Kies een merk",
+      "congratsText": "Gefeliciteerd! Je telefoon is compatibel",
+      "wantToBuy": "Wil je een eSIM kopen voor",
+      "yesBuy": "Ja, eSIM kopen"
+    },
+    "iPhones": {
+      "heading": "Hier is de lijst met eSIM-compatibele iPhones",
+      "description": "iPhone XR en alle nieuwere iPhones hebben een ingebouwde eSIM. De iPhone XR was het eerste model met eSIM-ondersteuning, gevolgd door de XS en XS Max. Daarna kwamen de iPhone 11-serie en de SE (2e generatie) in 2020."
+    },
+    "iPads": {
+      "heading": "iPads met eSIM (Cellular-modellen)",
+      "description": "Vraag je je af of jouw iPad eSIM ondersteunt? Goed nieuws: veel recente modellen doen dat. Van de iPad Pro tot de iPad Air en zelfs de iPad mini — er is waarschijnlijk een eSIM-geschikte iPad die bij jouw gebruik past."
+    },
+    "Samsung": {
+      "heading": "Samsung-telefoons die eSIM ondersteunen",
+      "description": "Alles ingebouwd en direct klaar voor gebruik — dat is het voordeel van eSIM-technologie in Samsung-telefoons. Met eSIM verbind je je netwerk met slechts een paar tikken. De vraag is dus: welke Samsung-telefoon ondersteunt eSIM?",
+      "descriptionTwo": "Hier vind je de volledige lijst met Samsung-telefoons met eSIM-technologie"
+    },
+    "GooglePixel": {
+      "heading": "Google Pixel-telefoons",
+      "description": "Heb je een Google Pixel? Dan ben je waarschijnlijk al klaar voor de eSIM-revolutie. Simpel en efficiënt. Maar ondersteunt jouw Google Pixel eSIM?",
+      "descriptionTwo": "Pixel 3a-modellen uit Zuidoost-Azië ondersteunen geen eSIM."
+    },
+    "Huawei": {
+      "heading": "Huawei-telefoons die eSIM ondersteunen",
+      "description": "Ondersteunen Huawei-telefoons eSIM? Niet alle modellen, maar sommige Huawei-toestellen zijn wel eSIM-compatibel. Bekijk de lijst met Huawei-telefoons om te controleren of jouw toestel eSIM ondersteunt.",
+      "noSupport": "ondersteunt geen eSIM"
+    },
+    "Oppo": {
+      "heading": "Oppo-telefoons die eSIM ondersteunen",
+      "description": "Ondersteunt jouw Oppo-telefoon eSIM? Bekijk de Oppo eSIM-compatibele telefoonlijst en ontdek welke toestellen probleemloze connectiviteit bieden."
+    },
+    "Sony": {
+      "heading": "Sony-telefoons met eSIM",
+      "description": "Op zoek naar een Sony-telefoon met eSIM-ondersteuning? Niet alle modellen zijn compatibel. Bekijk de lijst met Sony eSIM-geschikte telefoons om te zien of jouw toestel wordt ondersteund."
+    },
+    "Xiaomi": {
+      "heading": "Xiaomi-telefoons met eSIM",
+      "description": "Ontdek de Xiaomi eSIM-telefoonlijst en zie welke Xiaomi-modellen eSIM ondersteunen voor naadloze digitale connectiviteit zonder fysieke simkaart."
+    },
+    "Motorola": {
+      "heading": "Motorola-telefoons met eSIM",
+      "description": "Bekijk de lijst met Motorola eSIM-compatibele telefoons en blijf verbonden, waar je reis je ook brengt."
+    },
+    "Honor": {
+      "heading": "Honor-telefoons met eSIM",
+      "description": "Zoek je betaalbare eSIM-compatibele telefoons in plaats van dure vlaggenschepen? Honor heeft verschillende eSIM-geschikte modellen uitgebracht. Bekijk de lijst met Honor-telefoons met eSIM."
+    },
+    "OtherAndroid": {
+      "heading": "Andere Android-toestellen die eSIM ondersteunen",
+      "description": "Welke andere Android-telefoons ondersteunen eSIM? Van Surface Pro-tablets tot Sharp Aquos, van Gemini PDA tot Rakuten en Honor Magic — steeds meer apparaten bieden eSIM-ondersteuning."
+    },
+    "supportedSection": {
+      "heading": "Aantal eSIM’s ondersteund door smartphones en wearables",
+      "description": "Het aantal eSIM’s dat een smartphone ondersteunt, verschilt per fabrikant en model. De meeste moderne smartphones, vooral vlaggenschepen van Apple, Samsung en Google, ondersteunen minimaal één eSIM. Nieuwere modellen kunnen zelfs meerdere eSIM’s ondersteunen, zodat je meerdere abonnementen of nummers kunt gebruiken.",
+      "descriptionTwo": "Het exacte aantal ondersteunde eSIM’s vind je meestal in de specificaties van het apparaat. Voor jouw gemak hebben we dit per toestel voor je op een rij gezet."
+    },
+    "tableHeadings": {
+      "manufacturer": "Fabrikant",
+      "phoneModel": "Telefoonmodel",
+      "numberOfEsims": "Aantal eSIM’s"
+    },
+    "faqsData": {
+      "title": "Veelgestelde vragen",
+      "description": "Vind snel antwoorden op veelgestelde vragen.",
+      "faqs": {
+        "1": {
+          "title": "Kan ik mijn toestel eSIM-compatibel maken?",
+          "body": "Helaas kun je een toestel niet zomaar eSIM-compatibel maken. eSIM-ondersteuning hangt af van de hardware en software van je apparaat. Als het toestel niet met eSIM is ontworpen, wordt dit niet ondersteund."
+        },
+        "2": {
+          "title": "Hoe weet ik of mijn telefoon eSIM ondersteunt?",
+          "body": "Controleer de instellingen of specificaties van je toestel. Op iPhones ga je naar Instellingen → Algemeen → Info en zoek je naar eSIM-informatie. Je kunt ook online zoeken op je telefoonmodel."
+        },
+        "3": {
+          "title": "Ondersteunt de iPhone 12 eSIM?",
+          "body": "Ja, de iPhone 12-serie ondersteunt zowel een fysieke nano-SIM als eSIM. Ideaal voor zakelijk en privégebruik of tijdens internationale reizen."
+        },
+        "4": {
+          "title": "Is eSIM beter dan een fysieke simkaart?",
+          "body": "‘Beter’ is relatief, maar eSIM is zeker moderner en handiger. Je hebt geen fysieke kaart nodig en wisselt sneller van provider of abonnement. Voor reizigers is eSIM bijzonder praktisch, mits je toestel dit ondersteunt."
+        }
+      }
+    }
+  },
+  "SharedUI": {
+    "appInstall": {
+      "download": "50.000+ downloads",
+      "title": "Download de app nu",
+      "description": "Gebruik virtuele nummers en internationale belopties. Koop, installeer en beheer je eSIMs eenvoudig."
+    },
+    "emailReceive": {
+      "title": "Je ontvangt je eSIM-profiel per e-mail of in de app",
+      "description": "Zodra je aankoop is voltooid, sturen we je instructies om je eSIM te installeren en activeren. Geniet direct van betaalbare data tijdens je reis.",
+      "shareWith": "Je ontvangt:",
+      "installation": "Installatie-instructies voor QR-code en handmatige installatie"
+    },
+    "esimSteps": {
+      "title": "Activeer je Smart eSIM in minder dan één minuut",
+      "titleWithCountry": "Hoe werkt eSIM in {country}?",
+      "description": "Een eenvoudige installatie in 3 stappen om je data-eSIM te activeren vóór vertrek of direct na aankomst.",
+      "steps": {
+        "step1": {
+          "heading": "Kies een abonnement",
+          "description": "Selecteer je bestemming en een databundel die past bij je reisduur en gebruik."
+        },
+        "step2": {
+          "heading": "Scan & installeer",
+          "description": "Je QR-code wordt direct geleverd. Eén scan en je eSIM-profiel staat op je telefoon."
+        },
+        "step3": {
+          "heading": "Verbind en reis zorgeloos",
+          "description": "Geniet van stabiel, snel mobiel internet voor navigatie, werk, communicatie en streaming."
+        }
+      }
+    },
+    "searchPackagesList": {
+      "placeholder": "Wat is je volgende avontuur?",
+      "searchPlaceholder": "Voer je bestemming in",
+      "searchDestination": "Zoek je bestemming",
+      "dataOnly": "Alleen data",
+      "noMatch": "Geen resultaat — bekijk onze populaire bestemmingen!",
+      "topDestinations": "Populaire bestemmingen"
+    },
+    "checkEsim": "Controleer eSIM-toestel",
+    "filter": "Filter",
+    "addToCart": "Toevoegen aan winkelwagen",
+    "buyNow": "Nu kopen",
+    "details": "Details",
+    "days": "Dagen",
+    "selectData": "Selecteer data",
+    "selectDays": "Selecteer dagen",
+    "resetFilter": "Filter resetten",
+    "orLine": "Of ga verder met",
+    "unlimited": "Onbeperkt",
+    "data": "Data",
+    "globalPlaceholder": "Zoek land of netwerk",
+    "unlimitedSms": "Onbeperkte sms",
+    "yes": "Ja",
+    "no": "Nee",
+    "highSpeedThenUnlimited": "{unthrottle_data}/dag aan hogesnelheidsdata, daarna onbeperkte data met {throttle_speed}. De datalimiet wordt elke 24 uur opnieuw ingesteld vanaf het eerste gebruik.",
+    "features": {
+      "data": "Data",
+      "validity": "Geldigheid",
+      "speed": "Snelheidslimiet",
+      "tethering": "Tethering / hotspot"
+    },
+    "widerCoverage": {
+      "title": "Op zoek naar bredere dekking?",
+      "description": "Ontdek onze eSIM-abonnementen tegen scherpe prijzen voor wereldwijde connectiviteit."
+    },
+    "supportedCountries": "Ondersteunde landen & netwerken",
+    "noSearchMatch": "Geen resultaten gevonden",
+    "countryHeadings": {
+      "title": {
+        "dataVoice": "Reis-eSIM",
+        "dataOnly": "Prepaid reizen"
+      },
+      "headingDescription": {
+        "dataVoice": "Voor {country} met data & bellen",
+        "dataOnly": "eSIM voor {country}"
+      },
+      "paragraph": {
+        "dataVoice": "Ontdek de beste eSIM-databundels met onbeperkt bellen voor reizen naar {country}. Inclusief een UK-nummer voor gesprekken en sms.",
+        "dataOnly": "Koop de beste eSIM voor {country} bij Smart eSIM. Geniet van stabiele verbinding en betaalbare databundels, waar je ook bent."
+      }
+    },
+    "pagesMetaComponent": {
+      "feature": {
+        "title": "Kenmerken",
+        "subheading": "{country} eSIM-belangrijkste kenmerken"
+      },
+      "description": {
+        "title": "Beschrijving",
+        "subheading": "Over Smart eSIM voor {country}"
+      },
+      "technicalSpecs": {
+        "title": "Technische specificaties",
+        "subheading": "Onze virtuele sim-specificaties"
+      }
+    },
+    "navLinks": {
+      "buyEsim": "eSIM kopen",
+      "aboutUs": "Over ons",
+      "contactInfo": "Contact",
+      "more": "Meer",
+      "esimCompatible": "eSIM-compatibele telefoons",
+      "faqs": "FAQ’s",
+      "blog": "Blog",
+      "login": "Inloggen",
+      "wallet": "Wallet",
+      "account": "Account",
+      "home": "Home",
+      "esim": "eSIM",
+      "myEsim": "Mijn eSIM",
+      "logout": "Uitloggen"
+    },
+    "footerLinks": {
+      "contactInfo": "Contact",
+      "popularDestinations": "Populaire bestemmingen",
+      "links": "Links",
+      "support": "Support",
+      "privacyPolicy": "Privacybeleid",
+      "terms": "Algemene voorwaarden",
+      "refundPolicy": "Restitutiebeleid",
+      "esimCompatible": "eSIM-compatibele telefoons",
+      "faqs": "FAQ’s",
+      "blog": "Blog",
+      "home": "Home",
+      "aboutUs": "Over ons",
+      "buyEsim": "eSIM kopen",
+      "allRights": "Alle rechten voorbehouden"
+    }
+  },
+  "TermsPage": {
+    "metaData": {
+      "title": "Smart eSIM Voorwaarden: Veilige Wereldwijde eSIM-diensten, Terugbetalings- en Privacybeleid",
+      "description": "Lees de voorwaarden van Smart eSIM voor veilige, wereldwijde eSIM-diensten. Begrijp ons terugbetalingsbeleid, apparaatcompatibiliteit en privacy voor een naadloze reiservaring.",
+      "keywords": "eSIM, eSIM kopen, regionale eSIM, lokale eSIM, regionale eSIM kopen, lokale eSIM kopen, lokale eSIM aanschaffen, regionale eSIM aanschaffen, data eSIM, e-SIM, eSIM plan, eSIM winkel, eSIM marktplaats, reiziger, dataplannen, e-SIM kopen, goedkope data, connectiviteit"
+    },
+    "terms": {
+      "heading": "Algemene voorwaarden",
+      "pageTitle": "Algemene voorwaarden",
+      "data": [
+        {
+          "title": "1. Geldigheid van de algemene voorwaarden",
+          "content": [
+            {
+              "type": "text",
+              "text": "Deze algemene voorwaarden zijn van toepassing op alle diensten die ons bedrijf levert in verband met de wederverkoop van prepaid eSIMs. Deze voorwaarden zijn bindend en afdwingbaar zodra je gebruikmaakt van onze diensten."
+            },
+            {
+              "type": "text",
+              "text": "Afwijkingen van deze voorwaarden accepteren wij uitsluitend als deze uitdrukkelijk en schriftelijk zijn overeengekomen."
+            }
+          ]
+        },
+        {
+          "title": "1.2. Omschrijving van de diensten",
+          "content": [
+            {
+              "type": "text",
+              "text": "Onze diensten omvatten het aanbieden en beheren van eSIMs (elektronische simkaarten) voor mobiele apparaten, zodat gebruikers toegang krijgen tot mobiele netwerken zonder een fysieke simkaart."
+            },
+            {
+              "type": "text",
+              "text": "Onbeperkte bundels bieden elke 24 uur vanaf het eerste gebruik 1GB 5G-data op volle snelheid. Na verbruik van 1GB blijft onbeperkte data beschikbaar tegen lagere snelheid voor de rest van de 24 uur."
+            }
+          ],
+          "subTitles": [
+            {
+              "title": "1.2.1. Wederverkoop van eSIM",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wij bieden prepaid eSIMs te koop aan die in verschillende regio’s en landen gebruikt kunnen worden. Deze eSIMs zijn ontworpen om klanten op een eenvoudige en flexibele manier toegang te geven tot mobiele datadiensten."
+                }
+              ]
+            },
+            {
+              "title": "1.2.2. Registratie voor het gebruik van onze diensten",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Om onze diensten te gebruiken, moeten klanten zich registreren en noodzakelijke persoonsgegevens verstrekken, zoals naam, adres en e-mailadres. Deze registratie is essentieel voor het activeren en beheren van de eSIM-diensten."
+                }
+              ]
+            },
+            {
+              "title": "1.2.3. Onze verplichtingen",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wij streven ernaar onze klanten een hoogwaardige service te bieden. Wij garanderen echter geen ononderbroken of foutloze dienstverlening."
+                }
+              ]
+            },
+            {
+              "title": "1.2.4. Verplichtingen van de klant",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Klanten worden geacht onze diensten verantwoord te gebruiken. Misbruik, illegale of frauduleuze handelingen zijn verboden en kunnen leiden tot opschorting van de dienstverlening."
+                }
+              ]
+            },
+            {
+              "title": "1.2.5. Compatibiliteit van apparaten",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Klanten zijn verantwoordelijk voor het controleren of hun apparaten compatibel zijn met eSIM-technologie. Compatibiliteit kan verschillen per provider en land van herkomst."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "2. Registratie en activatie",
+          "content": [],
+          "subTitles": [
+            {
+              "title": "2.1. Registratievereisten",
+              "content": [
+                {
+                  "type": "bold",
+                  "text": "Persoonsgegevens: Klanten moeten correcte persoonsgegevens verstrekken, waaronder naam, factuuradres en e-mailadres."
+                },
+                {
+                  "type": "bold",
+                  "text": "Account aanmaken: Klanten maken een account aan om aankopen en eSIM-gebruik te beheren."
+                },
+                {
+                  "type": "bold",
+                  "text": "Akkoord met voorwaarden: Klanten moeten tijdens de registratie akkoord gaan met de algemene voorwaarden."
+                },
+                {
+                  "type": "bold",
+                  "text": "Controle toestelcompatibiliteit: Klanten zijn verantwoordelijk voor het controleren van toestelcompatibiliteit vóór aankoop."
+                }
+              ]
+            },
+            {
+              "title": "2.2. Aankoop- en activatieproces",
+              "content": [
+                {
+                  "type": "bold",
+                  "text": "Selectie van eSIM: Klanten kunnen kiezen uit meerdere eSIM-abonnementen."
+                },
+                {
+                  "type": "bold",
+                  "text": "Betaalproces: Betalingen worden geaccepteerd via Credit/Debit Card, Google Pay, Apple Pay en Alipay in USD."
+                },
+                {
+                  "type": "bold",
+                  "text": "Levering van eSIM: eSIMs worden elektronisch geleverd via e-mail en via het gebruikersaccount."
+                },
+                {
+                  "type": "bold",
+                  "text": "Activatie: Activatie vereist het scannen van een QR-code en het volgen van de verstrekte instructies."
+                },
+                {
+                  "type": "bold",
+                  "text": "Support en hulp: Ons supportteam helpt bij activatieproblemen."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "3. Betaling en financiële voorwaarden",
+          "content": [],
+          "subTitles": [
+            {
+              "title": "3.1. Kosten en betaling",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Betalingen kunnen worden gedaan met Credit/Debit Cards, PayPal, Google Pay, Apple Pay en Alipay."
+                },
+                {
+                  "type": "text",
+                  "text": "Alle transacties worden verwerkt in Amerikaanse dollars (USD) en beveiligd via betaalproviders zoals Stripe."
+                }
+              ]
+            },
+            {
+              "title": "3.2. Restituties en annuleringen",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "eSIMs zijn niet restitueerbaar. Er wordt geen restitutie verleend voor incompatibele of simlock-toestellen."
+                },
+                {
+                  "type": "text",
+                  "text": "Onbeperkte bundels kunnen een lagere snelheid ervaren na het bereiken van de maximale datalimiet."
+                },
+                {
+                  "type": "text",
+                  "text": "Maandabonnementen moeten worden verlengd om het nummer te behouden."
+                },
+                {
+                  "type": "text",
+                  "text": "Virtuele nummers ondersteunen geen WhatsApp-OTP-codes en zijn niet restitueerbaar."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "4. Juridisch en compliance",
+          "content": [],
+          "subTitles": [
+            {
+              "title": "4.1. Toepasselijk recht en juridische naleving",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Deze voorwaarden worden beheerst door de wetgeving van het rechtsgebied waar de dienstverlener is geregistreerd."
+                }
+              ]
+            },
+            {
+              "title": "4.2. Aansprakelijkheid en garantie",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Diensten worden geleverd “zoals ze zijn” zonder enige garantie. De dienstverlener is niet aansprakelijk voor indirecte of gevolgschade."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "5. Contact- en juridische informatie",
+          "content": [
+            {
+              "type": "text",
+              "text": "Voor hulp kun je contact opnemen met ons supportteam via e-mail."
+            },
+            {
+              "type": "link",
+              "text": "E-mail support: support@smartesim.co",
+              "linkText": "support@smartesim.co"
+            },
+            {
+              "type": "text",
+              "text": "WhatsApp-ondersteuning: +1(360)581-4579",
+              "linkText": "13605814579"
+            }
+          ],
+          "subTitles": [
+            {
+              "title": "5.3. Intellectuele eigendomsrechten",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Alle intellectuele eigendomsrechten met betrekking tot de dienst behoren toe aan de dienstverlener."
+                }
+              ]
+            },
+            {
+              "title": "5.4. Privacybeleid",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Persoonsgegevens worden verwerkt volgens ons privacybeleid."
+                }
+              ]
+            },
+            {
+              "title": "5.5. Overdracht",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Gebruikers mogen hun rechten niet overdragen zonder voorafgaande schriftelijke toestemming."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "6. Aanvullende bepalingen",
+          "content": [],
+          "subTitles": [
+            {
+              "title": "6.1. Levering van diensten",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Diensten worden direct geactiveerd of op een gepland moment na aankoop."
+                },
+                {
+                  "type": "text",
+                  "text": "Toegang tot de dienst is beschikbaar via het gebruikersaccount onder “Mijn eSIMs”."
+                }
+              ]
+            },
+            {
+              "title": "6.2. Overige bepalingen",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wij behouden ons het recht voor om deze voorwaarden op elk moment te wijzigen."
+                },
+                {
+                  "type": "text",
+                  "text": "Indien een bepaling ongeldig wordt verklaard, blijven de overige bepalingen onverminderd van kracht."
+                },
+                {
+                  "type": "text",
+                  "text": "Het niet afdwingen van een recht betekent niet dat wij daarvan afstand doen."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "RefundPolicyPage": {
+    "metaData": {
+      "title": "Smart eSIM Terugbetalingsbeleid: Duidelijke Richtlijnen voor Terugbetalingen en Geschiktheid",
+      "description": "Smart eSIM terugbetalingsbeleid, met dekking van geschiktheid, technische problemen en apparaatcompatibiliteit voor een naadloze eSIM-ervaring. Vraag eenvoudig een terugbetaling aan.",
+      "keywords": "eSIM, eSIM kopen, regionale eSIM, lokale eSIM, regionale eSIM kopen, lokale eSIM kopen, lokale eSIM aanschaffen, regionale eSIM aanschaffen, data eSIM, e-SIM, eSIM plan, eSIM winkel, eSIM marktplaats, reiziger, dataplannen, e-SIM kopen, goedkope data, connectiviteit"
+    },
+    "refundPolicy": {
+      "title": "Restitutiebeleid",
+      "description": "Bij eSIM zetten we ons in voor een soepele en prettige ervaring voor onze klanten. Ons restitutiebeleid is bedoeld om duidelijkheid te bieden in de zeldzame gevallen waarin je een terugbetaling moet aanvragen. Hieronder vind je uitgebreide informatie over onze procedures en voorwaarden voor restitutie.",
+      "data": [
+        {
+          "title": "Voorwaarden en geschiktheid voor restitutie",
+          "content": [
+            {
+              "type": "bold",
+              "text": "Dekkingsproblemen: Als de eSIM niet kan worden geïnstalleerd door dekkingsproblemen, kun je een terugbetaling of wijziging aanvragen."
+            },
+            {
+              "type": "bold",
+              "text": "Technische problemen: Als technische problemen bij eSIM zelf vandaan komen en niet snel kunnen worden opgelost, is restitutie alleen mogelijk als er geen data is verbruikt."
+            },
+            {
+              "type": "bold",
+              "text": "Geldigheid van databundel: Er wordt geen restitutie aangeboden zodra de eSIM is geïnstalleerd en gebruikt."
+            },
+            {
+              "type": "bold",
+              "text": "Onbedoelde aankopen: Er wordt geen restitutie aangeboden zodra de eSIM is geïnstalleerd en gebruikt."
+            },
+            {
+              "type": "bold",
+              "text": "Onjuiste kosten: Bezwaar tegen kosten moet binnen 12 dagen na ontvangst worden gemeld, met details waarom het bedrag onjuist is."
+            },
+            {
+              "type": "bold",
+              "text": "Frauduleuze activiteiten: eSIM behoudt zich het recht voor restitutie te weigeren bij vermoeden van misbruik, schending van voorwaarden of frauduleuze activiteiten."
+            },
+            {
+              "type": "bold",
+              "text": "Toestelcompatibiliteit: Het is belangrijk dat je vóór aankoop controleert of je telefoon eSIM-compatibel is. Er wordt geen restitutie verleend bij incompatibiliteit."
+            },
+            {
+              "type": "bold",
+              "text": "Eenmalige aankoop: eSIM is een eenmalige aankoop en niet restitueerbaar."
+            },
+            {
+              "type": "bold",
+              "text": "Virtuele nummers: Virtuele nummers werken niet met WhatsApp en andere social media-diensten, en de klant heeft geen recht op restitutie als OTP-codes niet worden ontvangen."
+            }
+          ]
+        },
+        {
+          "title": "Procedure voor het aanvragen van restitutie",
+          "content": [
+            {
+              "type": "bold",
+              "text": "Termijn: Verzoeken om restitutie moeten binnen 30 dagen na aankoop worden ingediend."
+            },
+            {
+              "type": "bold",
+              "text": "Samenwerking: Snelle en tijdige medewerking bij troubleshooting is vereist om in aanmerking te komen voor restitutie."
+            },
+            {
+              "type": "bold",
+              "text": "Melding: E-mail support@smartesim.co met je restitutieverzoek, inclusief relevante details en redenen."
+            }
+          ]
+        },
+        {
+          "title": "Uitzonderingen en specifieke situaties",
+          "content": [
+            {
+              "type": "bold",
+              "text": "Ongeautoriseerde aankopen: Onder voorbehoud van onderzoek en goedkeuring."
+            },
+            {
+              "type": "bold",
+              "text": "Aanpassingen: Wijzigingen of maatwerk zijn na aankoop niet toegestaan."
+            },
+            {
+              "type": "bold",
+              "text": "Ultimate Mobile Services: De dienst kan zonder voorafgaande kennisgeving worden opgeschort en komt niet in aanmerking voor restitutie."
+            },
+            {
+              "type": "bold",
+              "text": "Let op: eSIM behoudt zich het recht voor aankopen te annuleren bij vermoeden van fraude of spamgebruik."
+            }
+          ]
+        },
+        {
+          "title": "Aanvullende voorwaarden",
+          "content": [
+            {
+              "type": "bold",
+              "text": "Fair Usage Policy: Van toepassing op alle bundels en abonnementen."
+            },
+            {
+              "type": "bold",
+              "text": "Aansprakelijkheid: eSIM is niet aansprakelijk voor onbeschikbaarheid van de dienst of netwerkgerelateerde problemen."
+            },
+            {
+              "type": "bold",
+              "text": "Garantie: Er worden geen garanties gegeven voor constante of ononderbroken netwerkbeschikbaarheid."
+            }
+          ]
+        },
+        {
+          "title": "Contact en ondersteuning",
+          "content": [
+            {
+              "type": "text",
+              "text": "Voor vragen of hulp kun je contact opnemen met ons supportteam via "
+            },
+            {
+              "type": "link",
+              "text": "support@smartesim.co",
+              "linkText": "support@smartesim.co"
+            },
+            {
+              "type": "text",
+              "text": "We staan klaar om je te helpen voor een soepele en zorgeloze ervaring."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "PrivacyPolicyPage": {
+    "metaData": {
+      "title": "Smart eSIM Privacybeleid: Bescherming van Je Persoonlijke Gegevens en Beveiliging",
+      "description": "Leer hoe Smart eSIM je gegevens verzamelt, gebruikt en beveiligt. Ontdek privacyrechten, het gebruik van cookies en beveiligingsmaatregelen om een veilige online ervaring te garanderen.",
+      "keywords": "eSIM, eSIM kopen, regionale eSIM, lokale eSIM, regionale eSIM kopen, lokale eSIM kopen, lokale eSIM aanschaffen, regionale eSIM aanschaffen, data eSIM, e-SIM, eSIM plan, eSIM winkel, eSIM marktplaats, reiziger, dataplannen, e-SIM kopen, goedkope data, connectiviteit"
+    },
+    "privacyPolicy": {
+      "title": "Privacybeleid",
+      "data": [
+        {
+          "title": "1. Wie wij zijn",
+          "content": [
+            {
+              "type": "text",
+              "text": "Het adres van onze website is:"
+            },
+            {
+              "type": "link",
+              "text": " https://smartesim.co/",
+              "linkText": "https://smartesim.co/"
+            }
+          ]
+        },
+        {
+          "title": "2. Reacties",
+          "content": [
+            {
+              "type": "text",
+              "text": "Wanneer bezoekers reacties achterlaten op de site, verzamelen wij de gegevens die in het reactieformulier worden getoond, evenals het IP-adres en de browser user agent string van de bezoeker om spamdetectie te ondersteunen."
+            },
+            {
+              "type": "text",
+              "text": "Na goedkeuring van je reactie is je profielfoto openbaar zichtbaar in de context van je reactie."
+            }
+          ]
+        },
+        {
+          "title": "3. Media",
+          "content": [
+            {
+              "type": "text",
+              "text": "Als je afbeeldingen uploadt naar de website, vermijd dan het uploaden van afbeeldingen met ingebedde locatiegegevens (EXIF GPS)."
+            },
+            {
+              "type": "text",
+              "text": "Bezoekers van de website kunnen locatiegegevens uit afbeeldingen op de website downloaden en extraheren."
+            }
+          ]
+        },
+        {
+          "title": "4. Cookies",
+          "content": [
+            {
+              "type": "text",
+              "text": "Als je een reactie achterlaat op onze site, kun je ervoor kiezen je naam, e-mailadres en website in cookies op te slaan. Dit is voor jouw gemak zodat je je gegevens niet opnieuw hoeft in te vullen bij een volgende reactie."
+            },
+            {
+              "type": "text",
+              "text": "Deze cookies blijven één jaar bewaard."
+            },
+            {
+              "type": "text",
+              "text": "Als je onze inlogpagina bezoekt, plaatsen we een tijdelijke cookie om te bepalen of je browser cookies accepteert. Deze cookie bevat geen persoonsgegevens en wordt verwijderd wanneer je je browser sluit."
+            },
+            {
+              "type": "text",
+              "text": "Wanneer je inlogt, plaatsen we ook cookies om je inloginformatie en schermvoorkeuren op te slaan. Inlogcookies blijven twee dagen bewaard en cookies voor schermopties blijven één jaar bewaard."
+            },
+            {
+              "type": "text",
+              "text": "Als je “Onthoud mij” selecteert, blijft je login twee weken actief. Als je uitlogt, worden de inlogcookies verwijderd."
+            },
+            {
+              "type": "text",
+              "text": "Als je een artikel bewerkt of publiceert, wordt er een extra cookie in je browser opgeslagen. Deze cookie bevat geen persoonsgegevens en verloopt na één dag."
+            }
+          ]
+        },
+        {
+          "title": "5. Ingesloten content van andere websites",
+          "content": [
+            {
+              "type": "text",
+              "text": "Artikelen op deze site kunnen ingesloten content bevatten zoals video’s, afbeeldingen of artikelen."
+            },
+            {
+              "type": "text",
+              "text": "Ingesloten content van andere websites gedraagt zich op dezelfde manier alsof de bezoeker de andere website heeft bezocht."
+            },
+            {
+              "type": "text",
+              "text": "Deze websites kunnen gegevens over je verzamelen, cookies gebruiken, tracking van derden insluiten en je interactie met ingesloten content monitoren."
+            }
+          ]
+        },
+        {
+          "title": "6. Met wie we je gegevens delen",
+          "content": [
+            {
+              "type": "text",
+              "text": "Als je een wachtwoordreset aanvraagt, wordt je IP-adres opgenomen in de reset-e-mail."
+            }
+          ]
+        },
+        {
+          "title": "7. Hoe lang we je gegevens bewaren",
+          "content": [
+            {
+              "type": "text",
+              "text": "Als je een reactie achterlaat, worden de reactie en de metadata onbeperkt bewaard zodat we vervolgreacties automatisch kunnen herkennen en goedkeuren."
+            },
+            {
+              "type": "text",
+              "text": "Voor gebruikers die zich op onze website registreren, slaan we de persoonsgegevens die zij verstrekken op in hun gebruikersprofiel."
+            },
+            {
+              "type": "text",
+              "text": "Alle gebruikers kunnen hun persoonsgegevens op elk moment inzien, bewerken of verwijderen, behalve dat ze hun gebruikersnaam niet kunnen wijzigen. Websitebeheerders kunnen deze informatie ook inzien en bewerken."
+            }
+          ]
+        },
+        {
+          "title": "8. Welke rechten je hebt over je gegevens",
+          "content": [
+            {
+              "type": "text",
+              "text": "Als je een account hebt op deze site of reacties hebt achtergelaten, kun je verzoeken om een exportbestand te ontvangen van de persoonsgegevens die we van je bewaren."
+            },
+            {
+              "type": "text",
+              "text": "Je kunt ook verzoeken dat we alle persoonsgegevens die we van je bewaren verwijderen, met uitzondering van gegevens die we verplicht moeten bewaren voor administratieve, juridische of beveiligingsdoeleinden."
+            }
+          ]
+        },
+        {
+          "title": "9. Waar je gegevens naartoe worden gestuurd",
+          "content": [
+            {
+              "type": "text",
+              "text": "Reacties van bezoekers kunnen worden gecontroleerd via een geautomatiseerde spamdetectieservice."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "LoginPage": {
+    "metaData": {
+      "title": "Smart eSIM: Koop de Beste eSIM-plannen voor je Internationale Reis",
+      "description": "Koop lokale, regionale en wereldwijde eSIM voor internationale reizen. Geniet van snelle en betrouwbare dekking tegen reiziger-vriendelijke prijzen met smart eSIM. Verkrijg nu je gewenste eSIM.",
+      "keywords": "eSIM, eSIM kopen, regionale eSIM, lokale eSIM, regionale eSIM kopen, lokale eSIM kopen, lokale eSIM aanschaffen, regionale eSIM aanschaffen, data eSIM, e-SIM, eSIM plan, eSIM winkel, eSIM marktplaats, reiziger, dataplannen, e-SIM kopen, goedkope data, connectiviteit"
+    },
+    "authImage": {
+      "rating": "Beoordeeld met 4,9 sterren door 14k+ klanten"
+    },
+    "tabLinks": {
+      "login": "Inloggen",
+      "register": "Registreren"
+    },
+    "form": {
+      "signIn": "Inloggen",
+      "emailLabel": "E-mail",
+      "passwordLabel": "Wachtwoord",
+      "forgotPassword": "Wachtwoord vergeten?",
+      "login": "Inloggen",
+      "enterName": "Voer je naam in",
+      "enterEmail": "Voer je e-mailadres in",
+      "enterPassword": "Voer je wachtwoord in",
+      "confirmPassword": "Bevestig je wachtwoord",
+      "loginSuccess": "Erfolgreich angemeldet!",
+      "validationMessages": {
+        "email": {
+          "invalid": "Voer een geldig e-mailadres in."
+        },
+        "password": {
+          "min": "Wachtwoord is verplicht.",
+          "max": "Wachtwoord mag maximaal 100 tekens bevatten."
+        }
+      }
+    }
+  },
+  "RegisterPage": {
+    "authImage": {
+      "rating": "Beoordeeld met 4,9 sterren door 14k+ klanten"
+    },
+    "tabLinks": {
+      "login": "Inloggen",
+      "register": "Registreren"
+    },
+    "form": {
+      "signUp": "Nu registreren",
+      "nameLabel": "Naam",
+      "emailLabel": "E-mail",
+      "passwordLabel": "Wachtwoord",
+      "confirmPassword": "Bevestig wachtwoord",
+      "otpLabel": "Voer de OTP in die je per e-mail hebt ontvangen",
+      "resendOtp": "OTP opnieuw verzenden",
+      "forgotPassword": "Wachtwoord vergeten?",
+      "register": "Registreren",
+      "enterName": "Voer je naam in",
+      "enterEmail": "Voer je e-mailadres in",
+      "enterPassword": "Voer je wachtwoord in",
+      "confirmYourPassword": "Bevestig je wachtwoord",
+      "validationMessages": {
+        "name": {
+          "min": "Naam moet minimaal 4 tekens bevatten.",
+          "max": "Naam mag maximaal 100 tekens bevatten."
+        },
+        "email": {
+          "invalid": "Voer een geldig e-mailadres in."
+        },
+        "password": {
+          "min": "Wachtwoord moet minimaal 8 tekens bevatten.",
+          "max": "Wachtwoord mag maximaal 100 tekens bevatten."
+        },
+        "confirmPassword": {
+          "min": "Bevestig wachtwoord moet minimaal 8 tekens bevatten.",
+          "max": "Bevestig wachtwoord mag maximaal 100 tekens bevatten."
+        },
+        "otp": {
+          "min": "OTP moet minimaal 4 tekens bevatten.",
+          "max": "OTP mag maximaal 4 tekens bevatten."
+        },
+        "refine": {
+          "message": "Wachtwoorden komen niet overeen."
+        }
+      },
+      "registerSuccess": "Dein Konto wurde erfolgreich erstellt. Bitte melde dich mit deinem neuen Konto an.",
+      "otpSendSuccess": "Der OTP-Code wurde an deine E-Mail-Adresse gesendet. Bitte verifiziere ihn."
+    }
+  },
+  "ResetPasswordPage": {
+    "resetPassword": "Wachtwoord resetten",
+    "emailLabel": "E-mail",
+    "passwordLabel": "Wachtwoord",
+    "confirmPassword": "Bevestig wachtwoord",
+    "enterOtp": "Voer de OTP in die je per e-mail hebt ontvangen",
+    "resendOtp": "OTP opnieuw verzenden",
+    "submit": "Verzenden",
+    "emailReceive": "We sturen je een OTP om je wachtwoord te resetten",
+    "validationMessages": {
+      "email": {
+        "invalid": "Voer een geldig e-mailadres in."
+      },
+      "password": {
+        "min": "Wachtwoord moet minimaal 8 tekens bevatten.",
+        "max": "Wachtwoord mag maximaal 100 tekens bevatten."
+      },
+      "confirmPassword": {
+        "min": "Bevestig wachtwoord moet minimaal 8 tekens bevatten.",
+        "max": "Bevestig wachtwoord mag maximaal 100 tekens bevatten."
+      },
+      "otp": {
+        "min": "OTP moet minimaal 4 tekens bevatten.",
+        "max": "OTP mag maximaal 6 tekens bevatten."
+      },
+      "refine": {
+        "message": "Wachtwoorden komen niet overeen."
+      }
+    }
+  },
+  "BlogPage": {
+    "metaData": {
+      "title": "eSIM Blog: Laatste Updates, Tips en Inzichten over eSIM Technologie",
+      "description": "Blijf op de hoogte met de Smart eSIM blog die de laatste updates, handleidingen, probleemoplossingstips en reisinzichten behandelt.",
+      "keywords": "eSIM, eSIM kopen, regionale eSIM, lokale eSIM, regionale eSIM kopen, lokale eSIM kopen, lokale eSIM aanschaffen, regionale eSIM aanschaffen, data eSIM, e-SIM, eSIM plan, eSIM winkel, eSIM marktplaats, reiziger, dataplannen, e-SIM kopen, goedkope data, connectiviteit, esimblogs, blogs, esim-informatie"
+    },
+    "hero": {
+      "download": "50000+ downloads",
+      "title": "Smart eSIM Blogs",
+      "description": "Blijf verbonden met ’s werelds meest betrouwbare eSIM-diensten.",
+      "noBlogs": "Geen blog gevonden 🙂",
+      "allBlogs": "Alle blogs",
+      "searchPlaceholder": "Zoek in onze blogs"
+    },
+    "paginationBtn": {
+      "previous": "Vorige",
+      "next": "Volgende"
+    }
+  },
+  "refillPage": {
+    "validationMessages": {
+      "stripeMissing": "Die Stripe-Checkout-URL fehlt.",
+      "stripeRedirect": "Weiterleitung zu Stripe...",
+      "refreshedFailed": "Die Aktualisierung des Wallets ist fehlgeschlagen.",
+      "paymentFailed": "Die Zahlung ist fehlgeschlagen. Bitte versuche es erneut.",
+      "refreshedSuccess": "Wallet-Aufladung erfolgreich."
+    },
+
+    "metaData": {
+      "title": "Smart eSIM - Wallet Opwaarderen",
+      "description": "Laad je Smart eSIM Wallet op met een Kaart of Apple Pay",
+      "keywords": "eSIM, eSIM kopen, regionale eSIM, lokale eSIM, regionale eSIM kopen, lokale eSIM kopen, lokale eSIM aanschaffen, regionale eSIM aanschaffen, data eSIM, e-SIM, eSIM plan, eSIM winkel, eSIM marktplaats, reiziger, dataplannen, e-SIM kopen, goedkope data, connectiviteit, Smart eSIM, opwaarderen, bundel kopen, pakket kopen"
+    },
+    "title": "Wallet opwaarderen",
+    "refillForm": {
+      "placeholder": "Voer het bedrag in om op te waarderen",
+      "paybtn": "Betalen",
+      "validationMessages": {
+        "amount": {
+          "typeError": "Bedrag moet een getal zijn",
+          "min": "Minimum bedrag is 1",
+          "max": "Maximum bedrag is 300"
+        }
+      }
+    },
+    "currentBalance": "Huidig saldo",
+    "errorMessage": "Er is iets misgegaan bij het ophalen van de gebruiker!",
+    "orderHistoryTable": {
+      "sucessMessage": "Wallet succesvol opgewaardeerd",
+      "errorMessage": "Betaling mislukt. Probeer het opnieuw.",
+      "title": "Transactiegeschiedenis",
+      "refreshing": "Bezig met vernieuwen...",
+      "refresh": "Vernieuwen",
+      "id": "ID",
+      "amount": "Bedrag",
+      "description": "Omschrijving",
+      "time": "Tijd",
+      "nodata": "Geen gegevens beschikbaar"
+    }
+  },
+  "mySimPage": {
+    "metaData": {
+      "title": "Smart eSIM: Koop de Beste eSIM-plannen voor je Internationale Reis",
+      "description": "Koop lokale, regionale en wereldwijde eSIM voor internationale reizen. Geniet van snelle en betrouwbare dekking tegen reiziger-vriendelijke prijzen met smart eSIM. Verkrijg nu je gewenste eSIM.",
+      "keywords": "eSIM, eSIM kopen, regionale eSIM, lokale eSIM, regionale eSIM kopen, lokale eSIM kopen, lokale eSIM aanschaffen, regionale eSIM aanschaffen, data eSIM, e-SIM, eSIM plan, eSIM winkel, eSIM marktplaats, reiziger, dataplannen, e-SIM kopen, goedkope data, connectiviteit"
+    },
+    "title": "SIM-gegevens",
+    "mySimTab": "Mijn eSIMs",
+    "pendingSimTab": "Openstaande eSIMs",
+    "mysim": "Mijn SIMs",
+    "noSimFound": "Geen eSIM gevonden",
+    "noPendingSimFound": "Geen openstaande eSIM gevonden",
+    "failedToGetSims": "Kan eSIMs niet ophalen"
+  },
+  "simDetailPage": {
+    "title": "eSIM-gegevens",
+    "description": "Blijf verbonden met ’s werelds meest betrouwbare eSIM-diensten",
+    "esimInstallation": "eSIM-installatie",
+    "devices": "Apparaten",
+    "direct": "Direct",
+    "qrCode": "QR-code",
+    "manual": "Handmatig",
+    "clickHere": "Klik hier om te installeren",
+    "notWorking": "Als de eSIM niet werkt, controleer dan het volgende",
+    "apn": "APN",
+    "dataRoaming": "Dataroaming",
+    "on": "Aan",
+    "smdpAddress": "SMDP+-adres",
+    "inprocess": "In behandeling",
+    "activationCode": "Activatiecode",
+    "descriptionTwo": "Kopieer dit nummer en voer de gegevens handmatig in om je eSIM te installeren. Zorg voor een stabiele internetverbinding vóór de installatie.",
+    "manualEntry": "Handmatige invoer",
+    "dataUsage": "Gegevensgebruik",
+    "outOf": "uit",
+    "unlimitedData": "Onbeperkte Gegevens",
+    "remainingData": "Overgebleven Gegevens",
+    "address": "Adres",
+    "number": "nummer",
+    "purchaseData": "Aankoopdatum",
+    "coverage": "Dekking",
+    "status": "Status",
+    "activationInProcess": "Pakketactivatie is in proces",
+    "coverageModal": {
+      "coverage": "Bekijk dekking",
+      "supportedCountries": "Ondersteunde landen en netwerken",
+      "searchCountryNetwork": "Zoek land of netwerk"
+    },
+    "simDetail": {
+      "simId": "SIM-ID",
+      "iccid": "ICCID",
+      "status": "Status",
+      "purchaseDateEt": "Aankoopdatum (ET)",
+      "activatedBundle": "Geactiveerde bundel",
+      "seeDetails": "Details bekijken",
+      "activationInProcess": "De activatie van het pakket is bezig..."
+    },
+    "iosInstallationInstruction": {
+      "direct": {
+        "step1": {
+          "key1": "Stap 1/2:",
+          "key2": "1. Tik op 'Installeer eSIM'.",
+          "key3": "2. Tik op 'Toestaan' in het dialoogvenster dat verschijnt om bevestiging te vragen.",
+          "key4": "3. Volg de instructies op het scherm om de eSIM-download en installatie te voltooien.",
+          "key5": "4. Kies een label voor je nieuwe eSIM-plan.",
+          "key6": "5. Kies 'Primair' voor je standaardlijn en tik vervolgens op 'Doorgaan'.",
+          "key7": "6. Kies de 'Primair' die je wilt gebruiken voor iMessage en FaceTime voor je Apple ID en tik op 'Doorgaan'.",
+          "key8": "7. Kies je nieuwe eSIM-plan voor mobiele gegevens en tik op 'Doorgaan'."
+        },
+        "step2": {
+          "key1": "Stap 2/2 (optioneel):",
+          "key2": "1. Ga naar 'Mobiele data' en selecteer de onlangs gedownloade eSIM op je apparaat. Zet de schakelaar 'Deze lijn inschakelen' aan en selecteer je nieuwe eSIM-plan voor mobiele gegevens.",
+          "key3": "2. Tik op 'Netwerkselectie', zet de schakelaar 'Automatisch' uit en selecteer handmatig het ondersteunde netwerk als je eSIM is verbonden met het verkeerde netwerk.",
+          "key4": "3. Zet de schakelaar 'Data roaming' aan voor je nieuwe eSIM-plan."
+        }
+      },
+      "qr": {
+        "step1": {
+          "key1": "Stap 1/2:",
+          "key2": "1. Ga naar Instellingen op je apparaat.",
+          "key3": "2. Tik op 'Cellular' of 'Mobiel'.",
+          "key4": "3. Tik op 'Voeg een mobiel plan toe' of 'Voeg een mobiel dataplan toe'.",
+          "key5": "4. Gebruik je afgedrukte QR-code of een ander apparaat dat de QR-code weergeeft om je eSIM QR-code te scannen.",
+          "key6": "5. Kies een label of pas een label aan voor je eSIM.",
+          "key7": "6. Selecteer je eSIM alleen voor mobiele gegevens op de pagina Standaardlijn.",
+          "key8": "7. Je zou je nieuwe eSIM moeten zien onder 'Mobiele data' of 'Mobiele dataplannen'."
+        },
+        "step2": {
+          "key1": "Stap 2/2 (optioneel):",
+          "key2": "1. Selecteer je eSIM onder 'Mobiele plannen'.",
+          "key3": "2. Zorg ervoor dat de schakelaar 'Deze lijn inschakelen' aan staat.",
+          "key4": "3. Ga naar 'Netwerkselectie' en selecteer het ondersteunde netwerk.",
+          "key5": "4. Ga naar 'Mobiele datanetwerk' en werk het 'APN' veld bij onder 'MOBIELE DATA'. De overige velden moeten leeg blijven.",
+          "key6": "5. Zet 'Data roaming' aan.",
+          "key7": "6. Heb je hulp nodig? Chat met ons."
+        }
+      },
+      "manual": {
+        "step1": {
+          "key1": "Stap 1/2:",
+          "key2": "1. Ga naar Instellingen > Cellular/Mobiel > Voeg een mobiel plan toe.",
+          "key3": "2. Tik op 'Voer gegevens handmatig in'.",
+          "key4": "3. Voer je SM-DP+ adres en activatiecode in.",
+          "key5": "4. Tik op 'Voeg mobiel plan toe'.",
+          "key6": "5. Label de eSIM.",
+          "key7": "6. Kies je voorkeur voor standaardlijn om te bellen of berichten te verzenden.",
+          "key8": "7. Kies de voorkeurlijn voor iMessage, FaceTime en Apple ID.",
+          "key9": "8. Kies het eSIM-plan als je standaardlijn voor mobiele gegevens en zet 'Sta schakeldata-overdracht toe' niet aan om kosten op je andere lijn te voorkomen.",
+          "key10": "9. Je eSIM is succesvol geïnstalleerd, scroll naar beneden."
+        },
+        "step2": {
+          "key1": "Stap 2/2 (optioneel):",
+          "key2": "1. Selecteer je eSIM onder 'Mobiele plannen'.",
+          "key3": "2. Zorg ervoor dat de schakelaar 'Deze lijn inschakelen' aan staat.",
+          "key4": "3. Ga naar 'Netwerkselectie' en selecteer het ondersteunde netwerk.",
+          "key5": "4. Ga naar 'Mobiele datanetwerk' en werk het 'APN' veld bij onder 'MOBIELE DATA'. De overige velden moeten leeg blijven.",
+          "key6": "5. Zet 'Data roaming' aan.",
+          "key7": "6. Heb je hulp nodig? Chat met ons."
+        }
+      }
+    },
+    "androidInstallationInstruction": {
+      "qr": {
+        "step1": {
+          "key1": "Stap 1:",
+          "key2": "1. Ga naar 'Instellingen', tik op 'Netwerk en internet', tik vervolgens op '(+)' naast het SIM-gedeelte. Als het niet beschikbaar is, tik dan op 'SIMs' op je apparaat.",
+          "key3": "2. Tik op 'Download een SIM in plaats daarvan?', tik vervolgens op 'Volgende'.",
+          "key4": "3. Tik op 'Gebruik een ander netwerk' als je je netwerk moet bevestigen.",
+          "key5": "4. Scan de QR-code, tik vervolgens op 'Downloaden'.",
+          "key6": "5. Tik op 'Instellingen' wanneer je het scherm 'Download voltooid' ziet."
+        },
+        "step2": {
+          "key1": "Stap 2/2 (optioneel):",
+          "key2": "1. Ga naar 'SIMs', selecteer vervolgens de onlangs gedownloade eSIM op je apparaat.",
+          "key3": "2. Zet de 'Gebruik SIM' schakelaar aan, tik vervolgens op 'Ja'.",
+          "key4": "3. Zet de 'Mobiele data' schakelaar aan.",
+          "key5": "4. Zet de 'Roaming' schakelaar aan, tik vervolgens op 'OK'.",
+          "key6": "5. Tik op de schakelaar 'Automatisch netwerk selecteren', kies vervolgens het ondersteunde netwerk dat beschikbaar is in de eSIM-app handmatig als je eSIM verbonden is met het verkeerde netwerk.",
+          "key7": "6. Tik op 'Toegangspunten', tik vervolgens op '(+)'.",
+          "key8": "7. Voer de APN in die beschikbaar is in de eSIM-app door deze in de velden Naam en APN in te voeren.",
+          "key9": "8. Tik op de drie stippen rechtsboven op het scherm, tik op 'Opslaan', selecteer vervolgens de APN die je hebt opgeslagen door op de radioknop te klikken."
+        }
+      },
+      "manual": {
+        "step1": {
+          "key1": "Stap 01/02:",
+          "key2": "1. Ga naar 'Instellingen', tik op 'Netwerk en internet', tik vervolgens op '(+)' naast het SIM-gedeelte. Als het niet beschikbaar is, tik dan op 'SIMs' op je apparaat.",
+          "key3": "2. Tik op 'Download een SIM in plaats daarvan?', tik vervolgens op 'Volgende'.",
+          "key4": "3. Tik op 'Gebruik een ander netwerk' als je je netwerk moet bevestigen.",
+          "key5": "4. Tik op 'Hulp nodig?', tik vervolgens op 'Voer het handmatig in'.",
+          "key6": "5. Voer de code in die beschikbaar is in de eSIM-app door deze te kopiëren, tik op 'Doorgaan', tik vervolgens op 'Downloaden'.",
+          "key7": "6. Tik op 'Instellingen' wanneer je het scherm 'Download voltooid' ziet."
+        },
+        "step2": {
+          "key1": "Stap 2/2 (optioneel):",
+          "key2": "1. Ga naar 'SIMs', selecteer vervolgens de onlangs gedownloade eSIM op je apparaat.",
+          "key3": "2. Zet de 'Gebruik SIM' schakelaar aan, tik vervolgens op 'Ja'.",
+          "key4": "3. Zet de 'Mobiele data' schakelaar aan.",
+          "key5": "4. Zet de 'Roaming' schakelaar aan, tik vervolgens op 'OK'.",
+          "key6": "5. Tik op de schakelaar 'Automatisch netwerk selecteren', kies vervolgens het ondersteunde netwerk dat beschikbaar is in de eSIM-app handmatig als je eSIM verbonden is met het verkeerde netwerk.",
+          "key7": "6. Tik op 'Toegangspunten', tik vervolgens op '(+)'.",
+          "key8": "7. Voer de APN in die beschikbaar is in de eSIM-app door deze in de velden Naam en APN in te voeren.",
+          "key9": "8. Tik op de drie stippen rechtsboven op het scherm, tik op 'Opslaan', selecteer vervolgens de APN die je hebt opgeslagen door op de radioknop te klikken."
+        }
+      }
+    },
+    "activatedPackages": {
+      "title": "Geactiveerde Pakketten",
+      "package": "Pakket",
+      "activated": "Geactiveerd",
+      "expiry": "Vervaldatum"
+    },
+    "completedPackages": {
+      "pastPackages": "Afgelopen Pakketten",
+      "package": "Pakket",
+      "activated": "Geactiveerd",
+      "expiry": "Vervaldatum"
+    },
+    "assignedPackages": {
+      "notActivated": "Niet Geactiveerde Pakketten",
+      "package": "Pakket",
+      "quantity": "Aantal"
+    },
+    "revokedPackages": {
+      "revoked": "Ingetrokken Pakketten",
+      "package": "Pakket",
+      "revokedAt": "Ingetrokken Op"
+    },
+    "qrCodeMessages": {
+      "notFound": "Der QR-Code konnte nicht gefunden werden.",
+      "failedCanvas": "Canvas-Kontext konnte nicht abgerufen werden.",
+      "FailedLoad": "Der QR-Code konnte nicht geladen werden.",
+      "notSupported": "Nicht unterstützt",
+      "shareTitle": "QR-Code",
+      "shareText": "Hier ist der QR-Code.",
+      "fallbackDownload": "Teilen wird nicht unterstützt. Der QR-Code wurde stattdessen heruntergeladen."
+    }
+  },
+  "cartPage": {
+    "purchasePackagesMessages": {
+      "redirectingToStripe": "Weiterleitung zu Stripe...",
+      "orderProcessed": "Deine Bestellung wurde verarbeitet!",
+      "alreadyRegistered": "Deine E-Mail-Adresse ist bereits registriert. Bitte melde dich an."
+    },
+    "emptyCart": "Je winkelwagen is leeg",
+    "reviewCart": "Bekijk je winkelwagen",
+    "checkout": "Afrekenen",
+    "continueShopping": "Verder winkelen",
+    "exploreText": "Je hebt nog geen eSIM-pakketten toegevoegd. Begin met het verkennen van onze plannen om verbonden te blijven!",
+    "browseText": "Bekijk onze eSIM-pakketten",
+    "unlimitedDataFor": "Onbeperkte data voor",
+    "esimDataFor": "eSIM-data voor",
+    "Duration": "Duur",
+    "Data": "Gegevens",
+    "Unlimited": "Onbeperkt",
+    "checkoutProcessBar": {
+      "shoppingCart": "Winkelwagen",
+      "checkout": "Afrekengegevens",
+      "orderComplete": "Bestelling voltooid",
+      "two": "2",
+      "three": "3"
+    },
+    "currentBalance": "Huidig saldo",
+    "payAsGuest": {
+      "loginSuccess": "Succesvol ingelogd!",
+      "signLogin": "Registreren / Inloggen",
+      "loginAsGuest": "Inloggen als gast",
+      "loginAsUser": "Inloggen als gebruiker",
+      "description": "Ontvang 15% cashback op je eerste bestelling wanneer je je registreert.",
+      "descriptionTwo": "Je eSIM wordt naar je e-mail gestuurd. We sturen alleen belangrijke berichten over de servicekwaliteit.",
+      "fullName": "Volledige naam",
+      "email": "E-mailadres",
+      "password": "Wachtwoord",
+      "hidePassword": "Wachtwoord verbergen",
+      "showPassword": "Wachtwoord tonen",
+      "forgetPassword": "Wachtwoord vergeten?",
+      "login": "Inloggen",
+      "continueAsGuest": "Doorgaan als gast",
+      "clickToContinueAsGuest": "Door te klikken op 'Doorgaan als gast' ga je akkoord met onze",
+      "termsOfUse": "Gebruiksvoorwaarden",
+      "privacyPolicy": "Privacybeleid",
+      "and": "en",
+      "stripeText": " en je wordt doorgestuurd naar Stripe voor een veilige betaling.",
+      "validationMessages": {
+        "name": {
+          "minLength": "Naam moet minimaal 2 tekens bevatten."
+        },
+        "email": {
+          "invalid": "Voer een geldig e-mailadres in."
+        },
+        "password": {
+          "required": "Wachtwoord is verplicht.",
+          "maxLength": "Wachtwoord mag niet langer zijn dan 100 tekens."
+        }
+      }
+    },
+    "checkoutDetails": {
+      "orderSummary": "Besteloverzicht",
+      "pricing": "Prijzen",
+      "payFromWallet": "Betalen vanuit wallet",
+      "toPayOnCheckout": "Te betalen bij afrekenen",
+      "gurantedText": "Gegarandeerd veilig afrekenen",
+      "checkout": "Afrekenen",
+      "summary": "Overzicht",
+      "subTotal": "Subtotaal",
+      "total": "Totaal",
+      "cartSummary": "Besteloverzicht",
+      "discountCode": "Heb je een kortingscode?",
+      "promoCode": "promotiecode",
+      "apply": "Toepassen"
+    },
+    "cartItemList": {
+      "product": "Product",
+      "price": "Prijs",
+      "quantity": "Aantal"
+    },
+    "checkoutBtn": {
+      "purchaseNow": "Nu kopen",
+      "secureCheckout": "Ga naar veilig afrekenen"
+    },
+    "checkoutTermsConditionMessage": {
+      "byClicking": "Door te klikken op",
+      "purchaseNow": "Nu kopen",
+      "secureCheckout": "Ga naar veilig afrekenen",
+      "youAgree": "ga je akkoord met onze",
+      "termsOfUse": "Gebruiksvoorwaarden",
+      "and": "en",
+      "privacyPolicy": "Privacybeleid",
+      "redirectedStripe": " en je wordt doorgestuurd naar Stripe voor een veilige betaling."
+    },
+    "errorMessage": "Er is iets misgegaan bij het ophalen van de gebruiker!",
+    "orderHistoryTable": {
+      "sucessMessage": "Wallet succesvol opgewaardeerd",
+      "errorMessage": "Betaling mislukt. Probeer het opnieuw.",
+      "title": "Transactiegeschiedenis",
+      "refreshing": "Vernieuwen...",
+      "refresh": "Vernieuwen",
+      "id": "ID",
+      "amount": "Bedrag",
+      "description": "Beschrijving",
+      "time": "Tijd",
+      "nodata": "Geen gegevens beschikbaar"
+    },
+    "applyPromoCode": {
+      "validationMessages": {
+        "promo_code": {
+          "required": "Voer een promotiecode in",
+          "minLength": "Promotiecode moet minimaal 3 tekens bevatten",
+          "maxLength": "Promotiecode mag maximaal 30 tekens bevatten",
+          "pattern": "Promotiecode mag alleen letters, cijfers, koppeltekens en underscores bevatten",
+          "alreadyApplied": "Er is al een kortingscode toegepast"
+        }
+      }
+    },
+    "addToCartMessages": {
+      "noSelectedPackage": "Bitte wähle zuerst ein Paket aus.",
+      "cartFull": "Du kannst deinem Warenkorb nur bis zu 5 eSIM-Pakete hinzufügen."
+    }
+  },
+  "NotFoundPage": {
+    "title": "Oeps! Pagina niet gevonden",
+    "description": "Het lijkt erop dat de pagina die je zoekt niet (meer) bestaat — of misschien heeft ze nooit bestaan. Geen zorgen, we helpen je graag weer op weg en houden je verbonden!",
+    "popularLinks": "Populaire pagina’s die je misschien zoekt:",
+    "links": {
+      "esims": "Bekijk alle eSIM-bestemmingen",
+      "blog": "Bezoek onze blog",
+      "contact": "Neem contact met ons op",
+      "faqs": "Veelgestelde vragen",
+      "home": "Terug naar de homepage"
+    }
+  },
+  "ErrorPage": {
+    "title": "Er is iets misgegaan",
+    "description": "We hebben momenteel te maken met een tijdelijke technische storing. Geen zorgen — ons team werkt al aan een oplossing.",
+    "description2": "Probeer het over een paar minuten opnieuw.",
+    "popularLinks": "🚀 Terwijl je wacht, kun je het volgende doen:",
+    "links": {
+      "esims": "Bekijk alle eSIM-bestemmingen",
+      "blog": "Bezoek onze blog",
+      "contact": "Neem contact met ons op",
+      "faqs": "Veelgestelde vragen",
+      "home": "Terug naar de homepage"
+    }
+  },
+
+  "ThankYouPage": {
+    "success": {
+      "title": "Danke!",
+      "text": "Deine eSIM wurde gekauft."
+    },
+    "failed": {
+      "title": "Deine Zahlung konnte nicht verarbeitet werden.",
+      "text": "Bitte versuche es erneut.",
+      "paymentFailed": "Der Zahlungsvorgang ist fehlgeschlagen."
+    }
+  }
+}

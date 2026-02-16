@@ -1,0 +1,1889 @@
+{
+  "HomePage": {
+    "metaData": {
+      "title": "Smart eSIM – eSIM de voyage instantanée pour 200+ pays | Données 4G/5G",
+      "description": "Profitez de données 4G/5G rapides et fiables dans plus de 200 pays avec Smart eSIM. Zéro frais d’itinérance, activation rapide et connectivité sécurisée pour chaque voyage.",
+      "keywords": "eSIM voyage France, acheter eSIM, eSIM internationale, forfait eSIM, eSIM données, eSIM, e-SIM, boutique eSIM, marketplace eSIM, voyageur, forfait data, connectivité"
+    },
+    "hero": {
+      "title": "Achetez la liberté de connexion en voyage avec <highlight>Smart</highlight> eSIM",
+      "subtitle": "Forfaits Internet eSIM <strong>4G/5G haut débit</strong> dans plus de 200 pays – Activation en quelques secondes !",
+      "downloadApp": "Télécharger l’application",
+      "imageAlt": "Illustration de la connectivité eSIM en voyage"
+    },
+    "esimFeatures": {
+      "title": "Achetez des eSIM prépayées en ligne pour vos voyages internationaux à des tarifs avantageux",
+      "features": {
+        "fair": {
+          "title": "Prix justes",
+          "description": "Des forfaits data pensés pour les voyageurs, sans surcoûts d’itinérance."
+        },
+        "roaming": {
+          "title": "Liberté totale à l’étranger",
+          "description": "Restez connecté dans plusieurs pays avec une seule eSIM."
+        },
+        "fast": {
+          "title": "Données rapides partout",
+          "description": "Connexion 4G/5G fiable dès votre arrivée."
+        },
+        "setup": {
+          "title": "Installation rapide",
+          "description": "Activation en quelques secondes. Voyagez sans contraintes."
+        }
+      }
+    },
+    "startingPrice": {
+      "title": "Trouvez votre prochaine destination parmi plus de 200 pays !",
+      "tabs": {
+        "local": "Local",
+        "regional": "Régional",
+        "global": "Global"
+      },
+      "allDestinations": "Voir toutes les destinations",
+      "startsAt": "À partir de",
+      "globalPackage": "Forfaits globaux",
+      "noOfCountries": "149 pays couverts"
+    },
+    "esimCompatible": {
+      "title": "VÉRIFIEZ SI VOTRE TÉLÉPHONE EST COMPATIBLE ESIM",
+      "description": "La plupart des smartphones récents sont déjà compatibles eSIM. Depuis l’iPhone XS et les modèles suivants, tous prennent en charge l’eSIM. Plusieurs marques Android proposent également des modèles eSIM sur leurs gammes récentes.",
+      "compatibleBtn": "Tous les téléphones compatibles eSIM",
+      "srOnlyText": "Certains téléphones compatibles avec la technologie eSIM"
+    },
+    "whyEsim": {
+      "title": "Pourquoi Smart eSIM est la meilleure eSIM pour les voyages internationaux ?",
+      "description": "La confiance est essentielle, et Smart eSIM place toujours l’utilisateur au centre.",
+      "showPlansBtn": "Voir les forfaits eSIM",
+      "cards": {
+        "1": {
+          "title": "Couverture mondiale",
+          "body": "Utilisez votre eSIM dans plus de 200 pays. Choisissez une eSIM locale, régionale ou globale."
+        },
+        "2": {
+          "title": "Connexion sécurisée",
+          "body": "Protection chiffrée respectant les normes de sécurité internationales."
+        },
+        "3": {
+          "title": "Activation instantanée",
+          "body": "Achetez, scannez et connectez-vous en quelques minutes, depuis chez vous ou à l’aéroport."
+        },
+        "4": {
+          "title": "Tarification transparente",
+          "body": "Aucun contrat. Aucun frais d’itinérance. Des prix clairs et équitables pour vos données de voyage."
+        }
+      }
+    },
+    "customerReviews": {
+      "title": "Les avis de nos clients qui font notre crédibilité",
+      "reviews": {
+        "1": "Un simple scan et j’étais connecté. C’était la partie la plus simple de mon voyage.",
+        "2": "Enfin une eSIM qui ne demande aucune compétence technique. Ça a fonctionné immédiatement.",
+        "3": "Pas de files d’attente pour une carte SIM à l’aéroport, aucun stress. Smart eSIM m’a fait gagner du temps et de l’argent.",
+        "4": "J’ai voyagé dans trois pays sans toucher à mes réglages. L’expérience de voyage la plus fluide que j’aie connue.",
+        "5": "eSIM téléchargée en quelques minutes et connexion partout. Mon voyage a été beaucoup plus léger."
+      }
+    },
+    "faqsData": {
+      "title": "Questions fréquentes",
+      "description": "Trouvez rapidement les réponses aux questions les plus courantes.",
+      "faqs": {
+        "1": {
+          "title": "Comment fonctionne une eSIM ?",
+          "body": "Une eSIM est une version numérique d’une carte SIM physique. Vous téléchargez directement un forfait mobile sur votre téléphone, sans rien insérer. Une fois activée, votre appareil se connecte aux réseaux locaux comme avec une SIM classique, mais sans changer de carte à chaque voyage."
+        },
+        "2": {
+          "title": "Puis-je utiliser Smart eSIM dans tous les pays où je voyage ?",
+          "body": "Oui. Smart eSIM couvre plus de 200 destinations. Que vous voyagiez en Europe, en Asie, au Moyen-Orient ou en Amérique, vous restez connecté instantanément. Choisissez simplement votre forfait, installez-le et activez les données mobiles."
+        },
+        "3": {
+          "title": "Comment installer ou activer Smart eSIM ?",
+          "body": "L’activation est très simple. Après l’achat, vous recevez un QR code ou un lien d’installation dans l’application. Ouvrez les réglages Données mobiles de votre téléphone, appuyez sur « Ajouter une eSIM », scannez le code et activez-la. Votre connexion fonctionne en quelques minutes, sans documents ni attente."
+        },
+        "4": {
+          "title": "Quels téléphones sont compatibles avec l’eSIM ?",
+          "body": "La plupart des smartphones récents prennent en charge l’eSIM, notamment les iPhone XS et modèles ultérieurs, les Samsung Galaxy récents, les Google Pixel et plusieurs téléphones Android récents. En cas de doute, consultez la liste des appareils compatibles dans le menu Plus."
+        },
+        "5": {
+          "title": "L’utilisation d’une eSIM est-elle sûre ?",
+          "body": "Oui. La technologie eSIM utilise des profils chiffrés qui protègent votre connexion contre les tentatives de détournement de SIM et les accès non autorisés. Vos données restent sécurisées tant que votre téléphone est protégé par un code ou une authentification renforcée."
+        },
+        "6": {
+          "title": "Puis-je utiliser Smart eSIM dans plusieurs pays lors d’un même voyage ?",
+          "body": "Oui. Si votre forfait inclut plusieurs pays, votre Smart eSIM se connecte automatiquement aux réseaux partenaires locaux lorsque vous changez de pays. Aucune réinstallation n’est nécessaire."
+        },
+        "7": {
+          "title": "Mon eSIM expire-t-elle si je ne l’utilise pas immédiatement ?",
+          "body": "La plupart des forfaits Smart eSIM disposent d’une période d’activation, généralement entre 30 et 90 jours. Vous pouvez acheter maintenant, installer plus tard, et la validité commence uniquement lors de la première connexion au réseau."
+        }
+      }
+    }
+  },
+  "EsimPage": {
+    "metaData": {
+      "title": "Acheter Smart eSIM pour voyager | Données mobiles mondiales instantanées",
+      "description": "Achetez votre Smart eSIM pour un pays, une région ou le monde entier. Activation en quelques minutes, zéro frais d’itinérance et connexion rapide et fiable partout.",
+      "keywords": "eSIM voyage France, acheter eSIM, eSIM internationale, eSIM régionale, eSIM locale, forfait eSIM, eSIM données, e-SIM, boutique eSIM, marketplace eSIM, voyageur, forfait data, eSIM pas chère, connectivité"
+    },
+    "hero": {
+      "heading": "Recherchez votre prochaine destination",
+      "description": "Vous visitez un pays ? Vous planifiez un voyage dans toute une région ? Vous réalisez enfin votre rêve de tour du monde ? Achetez une eSIM internationale et profitez d’une liberté totale de connexion."
+    },
+    "tabs": {
+      "local": "Local",
+      "regional": "Régional",
+      "global": "Global"
+    },
+    "exploreEsims": "Découvrez notre gamme d’eSIM data pour plus de 200 destinations",
+    "faqsData": {
+      "title": "Questions fréquentes",
+      "description": "Trouvez rapidement les réponses aux questions les plus courantes.",
+      "faqs": {
+        "1": {
+          "title": "Puis-je acheter une Smart eSIM avant mon voyage ?",
+          "body": "Oui. Vous pouvez acheter votre Smart eSIM à tout moment avant votre départ. Le forfait commence uniquement lorsque l’eSIM se connecte à un réseau local à destination. Acheter à l’avance permet d’éviter le stress à l’aéroport."
+        },
+        "2": {
+          "title": "Puis-je acheter et activer une Smart eSIM une fois à l’étranger ?",
+          "body": "Oui. Tant que vous disposez d’une connexion Wi-Fi, vous pouvez acheter un forfait, scanner le QR code et activer votre eSIM en quelques minutes. C’est idéal pour les voyages de dernière minute ou lorsque l’itinérance devient trop coûteuse."
+        },
+        "3": {
+          "title": "Quel est le meilleur endroit pour acheter une Smart eSIM pour voyager à l’international ?",
+          "body": "Vous pouvez l’acheter directement sur le site Smart eSIM ou via l’application mobile, disponible sur iOS et Android. Sélectionnez votre pays ou région, choisissez un forfait data et installez-le instantanément."
+        },
+        "4": {
+          "title": "Puis-je acheter une Smart eSIM pour quelqu’un d’autre ?",
+          "body": "Oui. Après l’achat, vous pouvez partager le QR code d’activation avec un proche. Il lui suffit de le scanner sur son appareil pour se connecter. C’est parfait pour offrir ou pour les voyages en groupe."
+        },
+        "5": {
+          "title": "Comment vérifier si mon téléphone est compatible eSIM ?",
+          "body": "La plupart des iPhone récents, Samsung, Google Pixel et autres modèles Android haut de gamme sont compatibles eSIM. Une liste complète de compatibilité est disponible sur notre site pour vérifier votre appareil avant l’achat."
+        },
+        "6": {
+          "title": "Est-il moins cher d’acheter une Smart eSIM avant ou après le voyage ?",
+          "body": "Acheter avant le départ est généralement plus économique. Cela évite les stands SIM à l’aéroport, les frais d’itinérance de dernière minute et les prix touristiques élevés. Vous arrivez également avec une connexion prête à l’emploi."
+        },
+        "7": {
+          "title": "Ma Smart eSIM fonctionnera-t-elle dans plusieurs pays ?",
+          "body": "Oui, si vous choisissez un forfait régional ou global. Votre Smart eSIM se connectera automatiquement au réseau local le plus performant lors de vos déplacements, sans réinstallation ni changement de paramètres."
+        }
+      }
+    }
+  },
+  "RegionalPage": {
+    "metaData": {
+      "title": "eSIM régionales : données abordables pour plus de 200 pays",
+      "description": "Profitez d’eSIM régionales avec des tarifs locaux dans plus de 200 destinations. Des forfaits prépayés fiables pour une connectivité fluide lors de vos voyages internationaux et régionaux.",
+      "keywords": "eSIM voyage France, eSIM régionale, acheter eSIM, eSIM internationale, forfait eSIM, eSIM données, e-SIM, boutique eSIM, marketplace eSIM, voyageur, forfait data, eSIM pas chère, connectivité"
+    },
+    "hero": {
+      "heading": "Recherchez votre prochaine destination",
+      "description": "Vous visitez un pays ? Vous planifiez un voyage dans toute une région ? Vous réalisez votre rêve de tour du monde ? Achetez une eSIM internationale et profitez d’une liberté totale de connexion."
+    },
+    "tabs": {
+      "local": "Local",
+      "regional": "Régional",
+      "global": "Global"
+    },
+    "discoverEsim": "Découvrez les options d’eSIM régionales dans différentes régions",
+    "startsAt": "À partir de",
+    "faqsData": {
+      "title": "Questions fréquentes",
+      "description": "Trouvez rapidement les réponses aux questions les plus courantes.",
+      "faqs": {
+        "1": {
+          "title": "Qu’est-ce qu’une eSIM régionale ?",
+          "body": "Une eSIM régionale est une seule eSIM qui couvre plusieurs pays au sein d’un même forfait data et d’un seul profil eSIM. Par exemple, vous pouvez voyager dans tous les pays de la région Europe avec une seule eSIM."
+        },
+        "2": {
+          "title": "Peut-on utiliser une eSIM dans plusieurs pays ?",
+          "body": "Oui, cela dépend du type de forfait eSIM choisi. Les eSIM locales fonctionnent dans un seul pays, les eSIM régionales couvrent jusqu’à 34 pays et les eSIM globales peuvent être utilisées dans environ 64 pays."
+        },
+        "3": {
+          "title": "Dans quelles régions Smart eSIM propose-t-elle ses services ?",
+          "body": "Smart eSIM propose des services dans plusieurs régions du monde, notamment en Afrique, en Asie, en Europe, en Amérique du Nord, en Amérique du Sud et en Océanie."
+        },
+        "4": {
+          "title": "Quel est le meilleur forfait eSIM régional pour l’Europe ?",
+          "body": "Smart eSIM propose plusieurs forfaits eSIM régionaux pour l’Europe, avec des durées de validité de 7 à 30 jours et des volumes de données allant de 1 Go à 20 Go par mois. Le forfait le plus populaire est de 10 Go pour 30 jours, à environ 12 €."
+        },
+        "5": {
+          "title": "Quel est le meilleur forfait eSIM régional pour l’Asie ?",
+          "body": "Smart eSIM propose différents forfaits eSIM régionaux pour l’Asie, avec des durées de 7 à 30 jours et des volumes de données de 1 Go à 20 Go par mois. Le forfait recommandé est de 10 Go pour 30 jours, à environ 32 €."
+        },
+        "6": {
+          "title": "Ces eSIM régionales sont-elles prépayées ou postpayées ?",
+          "body": "Les eSIM régionales Smart eSIM sont des forfaits prépayés. Vous payez à l’avance pour les données que vous souhaitez utiliser, sans contrat ni facturation ultérieure."
+        }
+      }
+    }
+  },
+  "RegionalSlugPage": {
+    "faqsData": {
+      "title": "Questions fréquentes",
+      "description": "Trouvez rapidement les réponses aux questions les plus courantes.",
+      "faqs": {
+        "1": {
+          "title": "Quel forfait eSIM choisir pour {region} ?",
+          "body": "Choisissez un forfait en fonction de vos besoins en données et de la durée de votre séjour. eSIMCard propose différents forfaits locaux, régionaux et globaux, avec des durées allant de 1 à 30 jours."
+        },
+        "2": {
+          "title": "Comment acheter une eSIM pour {region} ?",
+          "body": "Vous pouvez acheter une eSIM en ligne sur le site eSIMCard ou via l’application disponible sur iOS et Android. Il suffit de sélectionner le forfait souhaité et de suivre le processus de paiement."
+        },
+        "3": {
+          "title": "Comment activer une eSIM pour {region} ?",
+          "body": "Après l’achat, vous pouvez activer votre eSIM via l’application eSIMCard, disponible sur Android et iOS. L’activation consiste à scanner le QR code eSIM fourni après l’achat."
+        },
+        "4": {
+          "title": "Comment utiliser une eSIM dans {region} ?",
+          "body": "Assurez-vous que votre appareil est compatible eSIM. Installez l’eSIM à l’aide du QR code fourni et sélectionnez-la comme forfait cellulaire actif dans les réglages de votre téléphone."
+        },
+        "5": {
+          "title": "Quand mon forfait data commence-t-il ?",
+          "body": "Une fois arrivé à destination et dès que le premier octet de données est utilisé, votre forfait eSIM est considéré comme actif. À partir de ce moment, la consommation de données est décomptée de votre forfait."
+        },
+        "6": {
+          "title": "Puis-je recharger ou prolonger les données de mon eSIM ?",
+          "body": "Oui. Vous pouvez recharger ou prolonger votre forfait data via l’application eSIMCard, où vous pouvez gérer vos forfaits et acheter des données supplémentaires selon vos besoins."
+        },
+        "7": {
+          "title": "Puis-je obtenir un remboursement auprès d’eSIMCard ?",
+          "body": "Chez eSIMCard, des remboursements sont possibles en cas de problème de couverture, de souci technique ou de facturation incorrecte. Les demandes doivent être soumises dans un délai de 12 jours et, si elles sont approuvées, le montant est remboursé sous 1 à 3 jours ouvrés."
+        },
+        "8": {
+          "title": "Quelle est la politique d’utilisation raisonnable pour les forfaits eSIM à données illimitées ?",
+          "body": "Conformément à la politique d’utilisation raisonnable (FUP), dans de rares cas, la vitesse d’internet peut être réduite après l’utilisation de 1 Go de données par jour. Les vitesses normales sont rétablies le lendemain afin de garantir un service équitable pour tous les utilisateurs."
+        },
+        "9": {
+          "title": "Puis-je utiliser ma carte SIM physique et l’eSIM eSIMCard en même temps ?",
+          "body": "Oui. Si votre appareil prend en charge la double SIM, vous pouvez utiliser simultanément une carte SIM physique et une eSIM eSIMCard."
+        },
+        "10": {
+          "title": "Puis-je partager ma connexion ou utiliser un point d’accès personnel ?",
+          "body": "Oui. Vous pouvez activer le partage de connexion et utiliser un point d’accès personnel avec votre eSIM eSIMCard, ce qui vous permet de partager votre connexion internet avec d’autres appareils pendant vos déplacements."
+        }
+      }
+    }
+  },
+  "GlobalPage": {
+    "metaData": {
+      "title": "Obtenez une eSIM internationale pour voyageurs | Forfaits data prépayés",
+      "description": "Connectez-vous à l’international avec nos forfaits eSIM globaux. La solution idéale pour les voyageurs ayant besoin de données dans plusieurs pays, sans frais d’itinérance.",
+      "keywords": "eSIM voyage France, eSIM internationale, acheter eSIM, eSIM globale, forfait eSIM, eSIM données, e-SIM, boutique eSIM, marketplace eSIM, voyageur, forfait data, eSIM pas chère, connectivité"
+    },
+    "global": "Global",
+    "hero": {
+      "heading": "Recherchez votre prochaine destination",
+      "description": "Vous visitez un pays ? Vous planifiez un voyage dans toute une région ? Vous réalisez votre rêve de tour du monde ? Achetez une eSIM internationale et profitez d’une liberté totale de connexion."
+    },
+    "tabs": {
+      "local": "Local",
+      "regional": "Régional",
+      "global": "Global"
+    },
+    "faqsData": {
+      "title": "Questions fréquentes",
+      "description": "Trouvez rapidement les réponses aux questions les plus courantes.",
+      "faqs": {
+        "1": {
+          "title": "Quelle est la meilleure eSIM pour les voyages internationaux ?",
+          "body": "La meilleure eSIM pour voyager à l’international dépend de vos besoins : destination, consommation de données et budget. Il est conseillé de choisir un fournisseur offrant une large couverture et des forfaits flexibles et abordables. Smart eSIM est une excellente option pour les voyages internationaux."
+        },
+        "2": {
+          "title": "Où puis-je acheter des forfaits eSIM internationaux ?",
+          "body": "Vous pouvez acheter des forfaits eSIM internationaux en ligne via les sites web ou les applications des fournisseurs eSIM. Avec Smart eSIM, vous pouvez acheter et télécharger votre eSIM directement sur votre appareil, rapidement et sans complication."
+        },
+        "3": {
+          "title": "Combien coûte une eSIM internationale ?",
+          "body": "Le prix d’une eSIM internationale dépend du volume de données, de la couverture et de la durée. Les tarifs commencent à quelques euros pour une utilisation courte et augmentent selon l’étendue de la couverture. Les forfaits Smart eSIM débutent à environ 2,20 € par mois."
+        },
+        "4": {
+          "title": "L’eSIM fonctionne-t-elle à l’international comme l’itinérance ?",
+          "body": "Oui. Les eSIM se connectent aux réseaux locaux à l’étranger, ce qui permet d’utiliser internet et les services mobiles sans les frais élevés de l’itinérance traditionnelle."
+        },
+        "5": {
+          "title": "Quelle eSIM est la meilleure pour une utilisation mondiale ?",
+          "body": "La meilleure eSIM pour une utilisation mondiale est celle qui offre une large couverture internationale, vous permettant de voyager dans plusieurs pays sans changer de carte SIM. Les forfaits eSIM globaux de Smart eSIM sont conçus pour ce type de besoins."
+        },
+        "6": {
+          "title": "Comment fonctionne une eSIM globale ?",
+          "body": "Une eSIM globale vous permet de télécharger un profil SIM numérique et de vous connecter aux réseaux locaux dans les pays pris en charge. Aucune carte SIM physique n’est nécessaire : il suffit d’activer l’eSIM pour être connecté."
+        },
+        "7": {
+          "title": "Quelle est la différence entre une eSIM globale et une eSIM locale ?",
+          "body": "Les eSIM globales offrent une couverture dans plusieurs pays, idéales pour les voyages multi-destinations. Les eSIM locales fonctionnent dans un seul pays ou une région spécifique et sont souvent plus économiques pour les séjours prolongés."
+        }
+      }
+    }
+  },
+  "AboutUsPage": {
+    "metaData": {
+      "title": "À propos de Smart eSIM – Fournisseur eSIM de voyage mondial de confiance",
+      "description": "Smart eSIM permet aux voyageurs de rester connectés avec des données mobiles rapides et sécurisées dans plus de 200 pays. Sans frais d’itinérance, sans carte SIM. Une connectivité mondiale instantanée et abordable.",
+      "keywords": "eSIM voyage France, eSIM internationale, acheter eSIM, eSIM globale, forfait eSIM, eSIM données, e-SIM, boutique eSIM, marketplace eSIM, voyageur, forfait data, Smart eSIM"
+    },
+    "hero": {
+      "title": "À propos de Smart eSIM",
+      "description": "Rester connecté en voyage ne devrait jamais être coûteux, compliqué ou stressant."
+    },
+    "globalTravelSection": {
+      "title": "Qui sommes-nous en tant qu’entreprise eSIM de voyage mondiale ?",
+      "description": "Nous sommes une équipe de voyageurs, d’ingénieurs et de spécialistes des produits numériques. Après des années à subir des réseaux lents et des données hors de prix à l’étranger, nous avons décidé de créer une solution plus intelligente.",
+      "descriptionTwo": "Smart eSIM a été conçu avec l’idée d’offrir une connectivité aux voyageurs du monde entier grâce à :",
+      "features": {
+        "1": {
+          "body": "Des données mobiles internationales abordables, sans frais d’itinérance"
+        },
+        "2": {
+          "body": "Une activation eSIM instantanée via QR code ou application"
+        },
+        "3": {
+          "body": "Une couverture eSIM mondiale dans plus de 200 pays et régions"
+        },
+        "4": {
+          "body": "Une connectivité sécurisée et chiffrée qui protège votre identité numérique en voyage"
+        }
+      },
+      "descriptionThree": "Nous croyons au niveau de simplicité et de confort que chaque voyageur mérite lorsqu’il crée des souvenirs."
+    },
+    "missionSection": {
+      "title": "Notre mission",
+      "description": "Notre mission est de rendre la connectivité mondiale en voyage simple, sécurisée et accessible grâce à la technologie Smart eSIM. Nous fournissons des données internationales rapides sans frais d’itinérance, afin que les voyageurs restent connectés au-delà des frontières avec une couverture fiable et une activation instantanée."
+    },
+    "storySection": {
+      "title": "Notre histoire",
+      "description": "Smart eSIM est né pour résoudre un problème de voyage bien connu : arriver dans un nouveau pays sans internet, sans cartes et sans moyen de se connecter. Nous avons créé une solution eSIM fluide qui transforme chaque voyage en une expérience connectée. Aujourd’hui, Smart eSIM est utilisé par des voyageurs, des nomades digitaux, des étudiants et des entreprises à l’échelle mondiale."
+    },
+    "joinSection": {
+      "title": "Voyagez librement et connectez-vous instantanément",
+      "description": "Où que vous alliez, rester connecté ne devrait jamais vous ralentir. Smart eSIM vous offre des données mobiles rapides et sécurisées dès votre arrivée. Aucun frais d’itinérance, aucune file d’attente, aucune vérification et aucun changement de carte SIM. Scannez, activez et profitez de la meilleure solution eSIM dans plus de 200 destinations à travers le monde."
+    },
+    "faqsData": {
+      "title": "Questions fréquentes",
+      "description": "Trouvez rapidement les réponses aux questions les plus courantes.",
+      "faqs": {
+        "1": {
+          "title": "Qu’est-ce qu’une eSIM et comment fonctionne Smart eSIM ?",
+          "body": "Une eSIM est une carte SIM numérique intégrée à votre téléphone, qui permet de se connecter aux réseaux mobiles sans carte physique. Smart eSIM simplifie tout le processus : choisissez votre destination, achetez un forfait, scannez le QR code et votre appareil s’active instantanément. Des données de voyage rapides et sécurisées dès votre arrivée."
+        },
+        "2": {
+          "title": "Quels sont les inconvénients de l’eSIM et comment Smart eSIM les résout-il ?",
+          "body": "Certains voyageurs craignent des problèmes de compatibilité ou une perte de connexion lors du changement de réseau. Smart eSIM répond à ces préoccupations grâce à des guides de compatibilité clairs, une activation pas à pas et l’accès à des réseaux de premier plan dans plus de 200 pays. Une assistance rapide est également disponible si nécessaire. L’objectif est simple : rendre l’eSIM accessible à tous, même aux débutants."
+        },
+        "3": {
+          "title": "Une eSIM est-elle meilleure qu’une carte SIM physique pour voyager à l’international ?",
+          "body": "Pour la majorité des voyageurs, oui. Une Smart eSIM offre une activation instantanée, aucun frais d’itinérance et la liberté de se connecter partout. Vous conservez votre SIM principale pour les appels et utilisez Smart eSIM pour des données haut débit fiables à l’étranger. C’est plus rapide, plus sûr et bien plus pratique qu’une carte SIM classique."
+        },
+        "4": {
+          "title": "Smart eSIM fournit-elle un numéro local ou international ?",
+          "body": "Les forfaits de voyage Smart eSIM sont principalement conçus pour la connectivité data, et la plupart n’incluent pas de numéro local. Vous pouvez néanmoins utiliser WhatsApp, FaceTime, Messenger et les applications VoIP sans problème. Selon le pays ou la région, certains forfaits peuvent également inclure des options d’appels."
+        },
+        "5": {
+          "title": "Smart eSIM vaut-elle le coup pour voyager ?",
+          "body": "Absolument. Smart eSIM vous permet d’éviter les frais d’itinérance, de ne pas faire la queue pour une carte SIM à l’aéroport et de rester connecté dès votre arrivée. C’est une solution idéale pour les voyageurs fréquents, les nomades digitaux, les étudiants et les familles ayant besoin d’un internet stable et abordable dans plusieurs pays."
+        },
+        "6": {
+          "title": "Quels sont les risques liés à l’utilisation d’une eSIM et Smart eSIM est-elle sécurisée ?",
+          "body": "Smart eSIM repose sur une connectivité sécurisée et chiffrée qui protège vos données contre les attaques de type SIM swap et les accès non autorisés. Contrairement aux cartes SIM physiques, une eSIM ne peut pas être retirée ni clonée. Vos informations restent protégées et vous êtes connecté à des partenaires réseau fiables dans le monde entier."
+        }
+      }
+    }
+  },
+  "ContactUsPage": {
+    "metaData": {
+      "title": "Support Smart eSIM | Contactez-nous pour l’aide eSIM de voyage",
+      "description": "Besoin d’aide pour l’activation, les forfaits ou l’installation eSIM ? Contactez Smart eSIM pour une assistance rapide et conviviale. Chat en direct, e-mail et réponses rapides partout dans le monde.",
+      "keywords": "eSIM voyage France, contacter eSIM, support eSIM, assistance eSIM, acheter eSIM, eSIM internationale, forfait eSIM, eSIM données, connectivité"
+    },
+    "hero": {
+      "title": "Vous pouvez nous contacter à tout moment !",
+      "description": "Que vous prépariez votre prochain voyage ou que vous soyez sur le point d’embarquer, notre équipe d’assistance est disponible 24h/24 et 7j/7 pour une expérience Smart eSIM fluide."
+    },
+    "reachOut": {
+      "title": "Contactez-nous via",
+      "description": "Nous plaçons la satisfaction client au cœur de nos priorités et proposons les canaux suivants pour vous aider immédiatement :",
+      "features": {
+        "emailSupport": {
+          "title": "Assistance par e-mail",
+          "description": "Envoyez-nous votre demande à <email>support@smartesim.co</email> et nous vous répondrons sous un jour ouvré ou plus rapidement."
+        },
+        "liveChat": {
+          "title": "Chat en direct",
+          "description": "Discutez avec un expert en quelques minutes. Idéal pour les questions rapides, l’aide à l’activation ou pour en savoir plus pendant votre voyage. Appelez-nous au <email>+38346122270</email>"
+        }
+      }
+    },
+    "contactForm": {
+      "title": "Envoyez-nous un message",
+      "description": "Une question, besoin d’assistance technique ou d’aide pour choisir le forfait Smart eSIM idéal ?",
+      "nameLabel": "Nom complet",
+      "emailLabel": "E-mail",
+      "subjectLabel": "Objet",
+      "messageLabel": "Message",
+      "phoneLabel": "Numéro de téléphone",
+      "submitButton": "Envoyer",
+      "validationMessages": {
+        "name": {
+          "required": "Le nom complet est requis",
+          "minLength": "Le nom complet doit contenir au moins 2 caractères",
+          "maxLength": "Le nom complet ne doit pas dépasser 50 caractères"
+        },
+        "email": {
+          "required": "L’e-mail est requis",
+          "invalid": "Veuillez saisir une adresse e-mail valide"
+        },
+        "subject": {
+          "required": "Veuillez indiquer l’objet de votre message",
+          "maxLength": "L’objet ne doit pas dépasser 200 caractères"
+        },
+        "phone": {
+          "required": "Le numéro de téléphone est requis",
+          "maxLength": "Le numéro de téléphone est trop long"
+        },
+        "description": {
+          "required": "Le champ message ne peut pas être vide",
+          "maxLength": "Le message ne doit pas dépasser 600 caractères"
+        },
+        "recaptchaError": "Veuillez compléter le reCAPTCHA."
+      }
+    },
+    "faqsData": {
+      "title": "Questions fréquentes",
+      "description": "Trouvez rapidement les réponses aux questions les plus courantes.",
+      "faqs": {
+        "1": {
+          "title": "Comment contacter le service client Smart eSIM ?",
+          "body": "Vous pouvez joindre notre équipe à tout moment via le chat en direct ou par e-mail. Le chat en direct offre la réponse la plus rapide, et les demandes par e-mail sont traitées sous un jour ouvré."
+        },
+        "2": {
+          "title": "Comment résoudre les problèmes de réseau ou de connexion eSIM ?",
+          "body": "La plupart des problèmes se résolvent en activant l’itinérance des données, en redémarrant le téléphone ou en sélectionnant un autre réseau disponible. Si le problème persiste, contactez notre équipe d’assistance pour un dépannage personnalisé."
+        },
+        "3": {
+          "title": "Comment activer ma Smart eSIM ?",
+          "body": "Après l’achat de votre forfait, scannez le QR code ou utilisez l’option d’installation via l’application. Allez dans les réglages de votre appareil → Ajouter une eSIM → suivez les instructions. L’activation prend généralement moins de deux minutes."
+        },
+        "4": {
+          "title": "Pourquoi mon eSIM ne s’active-t-elle pas sur mon iPhone ?",
+          "body": "Assurez-vous que votre iPhone est débloqué opérateur, connecté au Wi-Fi et compatible eSIM. Si le QR code ne s’installe pas, redémarrez l’appareil et réessayez. Notre équipe peut vous aider si le problème persiste."
+        },
+        "5": {
+          "title": "Smart eSIM peut-elle me fournir un numéro de téléphone ?",
+          "body": "Certains forfaits Smart eSIM sont uniquement data, tandis que d’autres incluent un numéro de téléphone ou un numéro virtuel. Vérifiez les détails de votre forfait avant l’achat ou contactez notre équipe pour confirmation."
+        },
+        "6": {
+          "title": "Comment désactiver le renouvellement automatique de mon eSIM ?",
+          "body": "Vous pouvez désactiver le renouvellement automatique depuis votre compte Smart eSIM ou contacter notre équipe d’assistance pour vous aider. Une fois désactivé, votre forfait ne sera plus renouvelé."
+        }
+      }
+    }
+  },
+  "FAQsPage": {
+    "metaData": {
+      "title": "FAQ Smart eSIM : installation, activation, couverture et assistance",
+      "description": "Trouvez les réponses sur l’installation Smart eSIM, l’activation, les téléphones compatibles, la sécurité, l’utilisation des données, la couverture voyage et le dépannage pour rester connecté partout.",
+      "keywords": "eSIM voyage France, eSIM internationale, acheter eSIM, forfait eSIM, eSIM données, e-SIM, boutique eSIM, assistance eSIM, informations eSIM"
+    },
+    "hero": {
+      "title": "Questions fréquemment posées",
+      "description": "Trouvez rapidement les réponses aux questions courantes"
+    },
+    "faqsData": {
+      "title": "Voici quelques-unes des questions les plus fréquentes !",
+      "description": "Trouvez rapidement les réponses aux questions courantes.",
+      "faqs": {
+        "1": {
+          "title": "Qu’est-ce qu’une eSIM et comment fonctionne-t-elle ?",
+          "body": "Une eSIM est une carte SIM numérique intégrée à votre téléphone qui permet d’activer un service mobile sans carte physique. Elle télécharge un forfait directement sur votre appareil et se connecte instantanément aux réseaux locaux. Pour les voyageurs, elle évite de changer de SIM à l’aéroport ou en boutique."
+        },
+        "2": {
+          "title": "Quels sont les inconvénients de l’eSIM ?",
+          "body": "Le principal inconvénient de l’eSIM est la nécessité d’avoir un appareil compatible et de suivre correctement le processus d’installation. Elle ne peut pas être retirée physiquement et le changement de téléphone nécessite un transfert. Pour la majorité des voyageurs, ces limites restent minimes face à sa flexibilité."
+        },
+        "3": {
+          "title": "Les eSIM utilisent-elles votre numéro de téléphone ?",
+          "body": "Oui, une eSIM peut utiliser votre numéro si votre opérateur prend en charge le transfert. Les eSIM de voyage sont généralement data-only, ce qui signifie que WhatsApp, iMessage et les réseaux sociaux utilisent toujours votre numéro existant. Vous pouvez conserver votre SIM principale pour les appels."
+        },
+        "4": {
+          "title": "Est-ce une bonne idée d’utiliser une eSIM ?",
+          "body": "Oui. Une eSIM est un excellent choix grâce à son installation rapide, sa meilleure sécurité et sa simplicité en voyage. Elle permet d’éviter les frais d’itinérance, les files d’attente à l’aéroport et la perte de cartes SIM physiques. La plupart des voyageurs la trouvent plus pratique et économique."
+        },
+        "5": {
+          "title": "Comment contacter un fournisseur eSIM ?",
+          "body": "Vous pouvez contacter un fournisseur eSIM via son application, son centre d’aide ou son chat disponible 24h/24. La plupart proposent également une assistance par e-mail et des guides de dépannage intégrés. L’assistance est souvent plus rapide que chez les opérateurs traditionnels."
+        },
+        "6": {
+          "title": "Comment activer mon eSIM ?",
+          "body": "Vous activez une eSIM en scannant un QR code ou en appuyant sur un bouton d’installation dans l’application. Votre téléphone ajoute le profil eSIM dans les réglages Données mobiles et se connecte en quelques minutes, que l’activation se fasse avant le voyage ou à destination."
+        },
+        "7": {
+          "title": "Une eSIM fournit-elle un numéro de téléphone ?",
+          "body": "Une eSIM classique fournie par un opérateur peut inclure votre numéro de téléphone. Les eSIM de voyage sont généralement data-only et ne fournissent pas de nouveau numéro. Les applications comme WhatsApp, FaceTime ou Messenger continuent d’utiliser votre numéro habituel."
+        },
+        "8": {
+          "title": "Une eSIM vaut-elle le coup ?",
+          "body": "Oui, surtout si vous recherchez des données moins chères, une connectivité plus sûre et aucune surprise d’itinérance. Vous l’installez une fois, changez de pays facilement et évitez la manipulation des cartes SIM. Les voyageurs fréquents en tirent le plus d’avantages."
+        },
+        "9": {
+          "title": "Quels sont les risques liés à l’eSIM ?",
+          "body": "Le principal risque concerne une mauvaise installation, par exemple si le QR code est mal scanné ou supprimé trop tôt. Un autre risque est la perte d’accès si le téléphone est endommagé, car l’eSIM ne peut pas être retirée. Utiliser un fournisseur fiable réduit presque tous ces risques."
+        },
+        "10": {
+          "title": "Une eSIM consomme-t-elle plus de batterie ?",
+          "body": "Non. Une eSIM ne consomme pas plus de batterie qu’une SIM physique. L’autonomie dépend surtout de la qualité du réseau, des applications en arrière-plan et des services de localisation. La plupart des voyageurs constatent une autonomie similaire, voire meilleure."
+        },
+        "11": {
+          "title": "Les cartes Smart eSIM permettent-elles d’envoyer des messages ?",
+          "body": "Oui, vous pouvez envoyer des messages via WhatsApp, iMessage, Telegram et autres applications grâce au forfait data eSIM. Les SMS classiques nécessitent une eSIM opérateur avec numéro. Pour les voyages, les applications de messagerie remplacent largement les SMS traditionnels."
+        },
+        "12": {
+          "title": "Puis-je convertir ma carte SIM en eSIM ?",
+          "body": "Oui. De nombreux opérateurs permettent de convertir une SIM physique en eSIM via leur application ou leur espace client. Vous recevez un QR code ou un lien d’activation qui transfère votre numéro vers l’eSIM. L’opération prend généralement moins de deux minutes."
+        },
+        "13": {
+          "title": "Vaut-il mieux une eSIM ou une carte SIM physique ?",
+          "body": "L’eSIM est préférable pour les voyages, la flexibilité, la sécurité et le changement de réseau sans manipulation de carte. La SIM physique reste utile pour les appareils plus anciens ou si l’opérateur ne prend pas en charge l’eSIM. La plupart des téléphones récents fonctionnent mieux avec une eSIM."
+        },
+        "14": {
+          "title": "Une eSIM peut-elle poser des problèmes ?",
+          "body": "Les problèmes liés à l’eSIM sont rares et proviennent généralement d’une installation incorrecte ou d’un appareil non compatible. La plupart se résolvent en réinstallant le profil ou en mettant à jour les réglages du téléphone. Des fournisseurs fiables comme Smart eSIM proposent des solutions rapides."
+        },
+        "15": {
+          "title": "Les eSIM fournissent-elles un numéro local ?",
+          "body": "Seuls les forfaits opérateur incluent un numéro local pour les appels et SMS. Les eSIM de voyage fournissent uniquement des données, ce qui permet d’utiliser votre numéro existant via les applications. Pour un véritable numéro local, un forfait voix local est nécessaire."
+        },
+        "16": {
+          "title": "Puis-je obtenir un numéro américain avec une eSIM ?",
+          "body": "Oui, en achetant une eSIM opérateur américaine ou un service de numéro virtuel. Les eSIM de voyage pour les États-Unis offrent des données mais pas de numéro mobile. Des applications VoIP comme Google Voice peuvent fournir un numéro américain si besoin."
+        },
+        "17": {
+          "title": "Pourquoi ne devrais-je pas utiliser une eSIM ?",
+          "body": "Vous pouvez éviter l’eSIM uniquement si votre appareil n’est pas compatible ou si vous avez besoin de changer fréquemment de SIM physique. Certains utilisateurs préfèrent encore les cartes physiques. Pour la majorité des voyageurs, l’eSIM reste l’option la plus simple."
+        },
+        "18": {
+          "title": "Comment résoudre les problèmes de réseau eSIM ?",
+          "body": "Vous pouvez résoudre les problèmes eSIM en activant et désactivant le mode avion, en redémarrant le téléphone ou en réinitialisant les réglages réseau. Sélectionner manuellement le bon réseau peut aussi aider. L’application Smart eSIM propose également un guide de dépannage intégré."
+        },
+        "19": {
+          "title": "La suppression d’une eSIM annule-t-elle le service ?",
+          "body": "Supprimer une eSIM efface le profil de votre téléphone. De nombreux fournisseurs appliquent une politique de suppression unique, ce qui signifie qu’une fois supprimée, l’eSIM doit être rachetée. Si vous supprimez votre profil Smart eSIM, le service sera annulé et un nouvel achat sera nécessaire."
+        }
+      }
+    }
+  },
+  "EsimCompatiblePage": {
+    "metaData": {
+      "title": "Téléphones compatibles eSIM | Liste Android & iPhone (2025)",
+      "description": "Consultez la liste complète des téléphones Android et iPhone compatibles eSIM. Des modèles les plus récents aux plus anciens compatibles eSIM, avec la capacité maximale d’eSIM prise en charge.",
+      "keywords": "eSIM voyage France, téléphone eSIM, eSIM compatible, iPhone eSIM, Samsung eSIM, Huawei eSIM, Motorola eSIM, forfait eSIM, connectivité"
+    },
+    "hero": {
+      "heading": "Téléphones compatibles eSIM",
+      "searchPlaceholder": "Rechercher un téléphone compatible",
+      "description": "Les appareils compatibles eSIM sont des smartphones, tablettes, montres connectées et autres équipements prenant en charge la technologie SIM intégrée (eSIM). Contrairement aux cartes SIM physiques, l’eSIM est intégrée à l’appareil et s’active numériquement, sans carte. Cela facilite le changement d’opérateur, renforce la sécurité et permet d’utiliser plusieurs profils sur un seul appareil. Les appareils compatibles eSIM les plus courants incluent les modèles récents Apple, Samsung, Google, ainsi que certains ordinateurs portables et objets connectés.",
+      "compatibleDevices": "Appareils compatibles avec l’eSIM",
+      "noMatch": "Aucun appareil trouvé 🙂",
+      "compatibleDevicesDescription": "Saisissez le nom de votre appareil ou consultez notre <FooterLink>page des appareils compatibles</FooterLink>",
+      "searchDevice": "Rechercher votre appareil",
+      "chooseBrand": "Choisir une marque",
+      "congratsText": "Félicitations ! Votre téléphone est compatible",
+      "wantToBuy": "Souhaitez-vous acheter une eSIM pour",
+      "yesBuy": "Oui, acheter une eSIM"
+    },
+    "iPhones": {
+      "heading": "Voici la liste des iPhone compatibles eSIM",
+      "description": "Les iPhone XR et modèles ultérieurs intègrent l’eSIM. L’iPhone XR a été le premier à entrer dans l’univers de l’eSIM, suivi des XS et XS Max. Ensuite, la série iPhone 11 et l’iPhone SE 2 ont adopté l’eSIM en 2020."
+    },
+    "iPads": {
+      "heading": "iPad avec eSIM (modèles cellulaires)",
+      "description": "Vous vous demandez : « Mon iPad est-il compatible eSIM ? » Bonne nouvelle : de nombreux modèles récents le sont. De l’iPad Pro à l’iPad Air, en passant par l’iPad mini, il existe probablement un iPad compatible eSIM qui correspond à votre usage."
+    },
+    "Samsung": {
+      "heading": "Téléphones Samsung compatibles eSIM",
+      "description": "Rien de mieux quand tout est intégré et prêt à l’emploi. C’est l’avantage de l’eSIM sur ces téléphones Samsung : en quelques gestes, vous êtes prêt à vous connecter. Alors, quel téléphone Samsung prend en charge l’eSIM ?",
+      "descriptionTwo": "Voici la liste complète des téléphones Samsung compatibles eSIM"
+    },
+    "GooglePixel": {
+      "heading": "Téléphones Google Pixel",
+      "description": "Si vous avez un Google Pixel, vous êtes peut-être déjà prêt pour l’eSIM. Simple et pratique. Alors, votre Google Pixel est-il compatible eSIM ?",
+      "descriptionTwo": "Les Pixel 3a provenant de certains pays d’Asie du Sud-Est ne prennent pas en charge l’eSIM."
+    },
+    "Huawei": {
+      "heading": "Téléphones Huawei compatibles eSIM",
+      "description": "Tous les modèles Huawei ne prennent pas en charge l’eSIM, mais certains sont compatibles. Consultez la liste des téléphones Huawei compatibles eSIM pour vérifier si votre appareil est pris en charge.",
+      "noSupport": "ne prend pas en charge l’eSIM"
+    },
+    "Oppo": {
+      "heading": "Téléphones Oppo compatibles eSIM",
+      "description": "Votre téléphone Oppo prend-il en charge l’eSIM ? Consultez la liste des téléphones Oppo compatibles eSIM pour voir quels modèles vous gardent connecté facilement."
+    },
+    "Sony": {
+      "heading": "Téléphones Sony avec eSIM",
+      "description": "Vous avez du mal à trouver un téléphone Sony compatible eSIM ? Tous les modèles ne le sont pas. Consultez la liste des téléphones Sony compatibles eSIM pour vérifier votre appareil."
+    },
+    "Xiaomi": {
+      "heading": "Téléphones Xiaomi compatibles eSIM",
+      "description": "Consultez la liste des téléphones Xiaomi compatibles eSIM pour savoir quels modèles prennent en charge l’eSIM et profiter d’une connectivité numérique sans carte SIM physique."
+    },
+    "Motorola": {
+      "heading": "Téléphones Motorola compatibles eSIM",
+      "description": "Consultez la liste des téléphones Motorola compatibles eSIM pour savoir quels modèles prennent en charge l’eSIM et rester connecté où que vous alliez."
+    },
+    "Honor": {
+      "heading": "Téléphones Honor compatibles eSIM",
+      "description": "Vous cherchez des téléphones compatibles eSIM sans passer par des modèles haut de gamme coûteux ? Honor a lancé certains modèles eSIM plus accessibles. Consultez la liste des téléphones Honor compatibles eSIM."
+    },
+    "OtherAndroid": {
+      "heading": "Autres téléphones Android compatibles eSIM",
+      "description": "Quels autres téléphones Android prennent en charge l’eSIM ? Des tablettes Surface Pro aux Sharp Aquos, en passant par Gemini PDA, Rakuten et Honor Magic, de plus en plus d’appareils proposent la compatibilité eSIM."
+    },
+    "supportedSection": {
+      "heading": "Nombre d’eSIM prises en charge par les smartphones et objets connectés",
+      "description": "Le nombre d’eSIM prises en charge varie selon le fabricant et le modèle. La plupart des smartphones récents, notamment les modèles haut de gamme d’Apple, Samsung et Google, prennent en charge au moins une eSIM. Certains modèles plus récents peuvent en gérer davantage, ce qui permet d’avoir plusieurs forfaits ou numéros sur un même appareil.",
+      "descriptionTwo": "Le nombre exact d’eSIM prises en charge figure généralement dans les spécifications de l’appareil. Pour vous simplifier la vie, nous avons listé le nombre d’eSIM prises en charge par chaque appareil."
+    },
+    "tableHeadings": {
+      "manufacturer": "Fabricant",
+      "phoneModel": "Modèle de téléphone",
+      "numberOfEsims": "Nombre d’eSIM"
+    },
+    "faqsData": {
+      "title": "Questions fréquentes",
+      "description": "Trouvez rapidement les réponses aux questions les plus courantes.",
+      "faqs": {
+        "1": {
+          "title": "Puis-je rendre mon appareil compatible eSIM ?",
+          "body": "Malheureusement, vous ne pouvez pas rendre un téléphone compatible eSIM par magie. La compatibilité eSIM dépend du matériel et du logiciel de l’appareil : s’il n’a pas été conçu pour l’eSIM, ce n’est pas possible."
+        },
+        "2": {
+          "title": "Comment savoir si mon téléphone est compatible eSIM ?",
+          "body": "Pour vérifier la compatibilité eSIM, consultez les réglages ou les caractéristiques de votre appareil. Sur iPhone, allez dans Réglages → Général → Informations et recherchez les détails eSIM. Vous pouvez aussi rechercher votre modèle en ligne — simple et rapide."
+        },
+        "3": {
+          "title": "L’iPhone 12 est-il compatible eSIM ?",
+          "body": "Oui. La gamme iPhone 12 prend en charge la nanoSIM physique et l’eSIM. Vous pouvez donc utiliser deux lignes, par exemple une pour le travail et une pour le personnel, ou pour voyager."
+        },
+        "4": {
+          "title": "L’eSIM est-elle meilleure qu’une SIM physique ?",
+          "body": "« Meilleure » est un grand mot, disons plutôt que l’eSIM est plus moderne : sans carte physique, elle permet de changer plus vite d’opérateur ou de forfait. En voyage, c’est très pratique pour activer des forfaits data locaux sans changer de SIM. Comme pour une SIM classique, tout dépend de la compatibilité de votre appareil."
+        }
+      }
+    }
+  },
+  "SharedUI": {
+    "appInstall": {
+      "download": "Plus de 50 000 téléchargements",
+      "title": "Téléchargez l’application maintenant",
+      "description": "Pour utiliser les numéros virtuels et les appels internationaux. Achetez, installez et gérez vos eSIM facilement."
+    },
+    "emailReceive": {
+      "title": "Vous recevrez votre profil eSIM par e-mail ou via l’application",
+      "description": "Dès la fin de votre achat, nous vous enverrons les instructions pour installer et activer votre eSIM Canada. Préparez-vous à profiter de données abordables pendant vos voyages.",
+      "shareWith": "Nous partagerons avec vous :",
+      "installation": "Instructions d’installation par QR code et installation manuelle"
+    },
+    "esimSteps": {
+      "title": "Comment activer votre Smart eSIM en moins d’une minute ?",
+      "titleWithCountry": "Comment fonctionne l’eSIM {country} ?",
+      "description": "Une configuration simple en 3 étapes pour activer votre eSIM data avant le décollage ou à l’aéroport, avant même que vos bagages n’arrivent.",
+      "steps": {
+        "step1": {
+          "heading": "Choisissez un forfait",
+          "description": "Sélectionnez votre destination et un pack de données adapté à la durée et à l’usage de votre voyage."
+        },
+        "step2": {
+          "heading": "Scanner et installer",
+          "description": "Votre QR code arrive instantanément. Un scan suffit pour charger votre profil eSIM sur votre téléphone."
+        },
+        "step3": {
+          "heading": "Connectez-vous et voyagez sereinement",
+          "description": "Profitez de données mobiles haut débit et stables pour la navigation, les trajets, les réservations, les appels pro et le streaming."
+        }
+      }
+    },
+    "searchPackagesList": {
+      "placeholder": "Quelle est votre prochaine aventure ?",
+      "searchPlaceholder": "Saisissez votre destination",
+      "searchDestination": "Rechercher votre destination",
+      "dataOnly": "Données uniquement",
+      "noMatch": "Aucun résultat — découvrez nos destinations populaires !",
+      "topDestinations": "Destinations populaires"
+    },
+    "checkEsim": "Vérifier l’appareil eSIM",
+    "filter": "Filtrer",
+    "addToCart": "Ajouter au panier",
+    "buyNow": "Acheter maintenant",
+    "details": "Détails",
+    "days": "Jours",
+    "selectData": "Sélectionner les données",
+    "selectDays": "Sélectionner les jours",
+    "resetFilter": "Réinitialiser le filtre",
+    "orLine": "Ou continuer avec",
+    "unlimited": "Illimité",
+    "data": "Données",
+    "globalPlaceholder": "Rechercher un pays ou un réseau",
+    "unlimitedSms": "SMS illimités",
+    "yes": "Oui",
+    "no": "Non",
+    "highSpeedThenUnlimited": "{unthrottle_data}/jour de données haut débit, puis données illimitées à ${throttle_speed}. La limite se réinitialise toutes les 24 heures à partir de la première utilisation.",
+    "features": {
+      "data": "Données",
+      "validity": "Validité",
+      "speed": "Limite de vitesse",
+      "tethering": "Partage de connexion / Hotspot"
+    },
+    "widerCoverage": {
+      "title": "Besoin d’une couverture plus large ?",
+      "description": "Découvrez nos forfaits eSIM à partir du prix indiqué pour une connectivité fluide."
+    },
+    "supportedCountries": "Pays et réseaux pris en charge",
+    "noSearchMatch": "Aucun résultat correspondant",
+    "countryHeadings": {
+      "title": {
+        "dataVoice": "eSIM de voyage",
+        "dataOnly": "Voyage prépayé"
+      },
+      "headingDescription": {
+        "dataVoice": "Pour {country} avec données et appels",
+        "dataOnly": "eSIM pour {country}"
+      },
+      "paragraph": {
+        "dataVoice": "Obtenez les meilleurs forfaits eSIM avec voix illimitée pour voyager en {country}. Profitez d’un numéro britannique avec eSIM pour les appels et les SMS entrants. Restez connecté partout.",
+        "dataOnly": "Obtenez la meilleure eSIM pour voyager en {country} avec Smart eSIM. Profitez d’une connectivité fluide et de forfaits data illimités à prix abordables. Restez connecté où que vous alliez."
+      }
+    },
+    "pagesMetaComponent": {
+      "feature": {
+        "title": "Fonctionnalités",
+        "subheading": "Fonctionnalités clés de l’eSIM {country}"
+      },
+      "description": {
+        "title": "Description",
+        "subheading": "À propos de l’eSIM {country} de Smart eSIM"
+      },
+      "technicalSpecs": {
+        "title": "Spécifications techniques",
+        "subheading": "Spécifications de notre SIM virtuelle"
+      }
+    },
+    "navLinks": {
+      "buyEsim": "Acheter une eSIM",
+      "aboutUs": "À propos",
+      "contactInfo": "Contact",
+      "more": "Plus",
+      "esimCompatible": "Téléphones compatibles eSIM",
+      "faqs": "FAQ",
+      "blog": "Blog",
+      "login": "Connexion",
+      "wallet": "Portefeuille",
+      "account": "Compte",
+      "home": "Accueil",
+      "esim": "eSIM",
+      "myEsim": "Mon eSIM",
+      "logout": "Déconnexion"
+    },
+    "footerLinks": {
+      "contactInfo": "Contact",
+      "popularDestinations": "Destinations populaires",
+      "links": "Liens",
+      "support": "Assistance",
+      "privacyPolicy": "Politique de confidentialité",
+      "terms": "Conditions d’utilisation",
+      "refundPolicy": "Politique de remboursement",
+      "esimCompatible": "Téléphones compatibles eSIM",
+      "faqs": "FAQ",
+      "blog": "Blog",
+      "home": "Accueil",
+      "aboutUs": "À propos",
+      "buyEsim": "Acheter une eSIM",
+      "allRights": "Tous droits réservés"
+    }
+  },
+  "TermsPage": {
+    "metaData": {
+      "title": "Conditions Smart eSIM : services eSIM mondiaux sécurisés, remboursements et confidentialité",
+      "description": "Consultez les conditions Smart eSIM pour des services eSIM mondiaux sécurisés. Comprenez nos politiques de remboursement, la compatibilité des appareils et la protection de la vie privée pour un voyage sans souci.",
+      "keywords": "eSIM voyage France, acheter eSIM, eSIM internationale, eSIM régionale, forfait eSIM, eSIM données, e-SIM, boutique eSIM, connectivité"
+    },
+    "terms": {
+      "heading": "Conditions générales",
+      "pageTitle": "Conditions générales",
+      "data": [
+        {
+          "title": "1. Validité des conditions générales",
+          "content": [
+            {
+              "type": "text",
+              "text": "Les présentes Conditions générales s’appliquent à l’ensemble des services fournis par notre société dans le cadre de la revente d’eSIM prépayées. Elles sont juridiquement contraignantes et applicables dès l’utilisation de nos services."
+            },
+            {
+              "type": "text",
+              "text": "Toute dérogation à ces conditions ne sera acceptée que si elle fait l’objet d’un accord écrit explicite."
+            }
+          ]
+        },
+        {
+          "title": "1.2. Description des services",
+          "content": [
+            {
+              "type": "text",
+              "text": "Nos services incluent la fourniture et la gestion d’eSIM (cartes SIM électroniques) pour appareils mobiles, permettant l’accès aux réseaux cellulaires sans carte SIM physique."
+            },
+            {
+              "type": "text",
+              "text": "Les forfaits illimités incluent 1 Go de données 5G non bridées toutes les 24 heures à compter de la première utilisation. Une fois ce volume consommé, les données restent disponibles à vitesse réduite jusqu’à la fin de la période de 24 heures."
+            }
+          ],
+          "subTitles": [
+            {
+              "title": "1.2.1. Revente d’eSIM",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Nous proposons des eSIM prépayées à l’achat, utilisables dans différents pays et régions. Ces eSIM offrent aux clients un moyen pratique et flexible d’accéder aux services de données mobiles."
+                }
+              ]
+            },
+            {
+              "title": "1.2.2. Inscription à l’utilisation de nos services",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Pour utiliser nos services, les clients doivent s’inscrire et fournir certaines informations personnelles telles que le nom, l’adresse et l’e-mail. Cette étape est nécessaire pour activer et gérer les services eSIM."
+                }
+              ]
+            },
+            {
+              "title": "1.2.3. Nos engagements",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Nous nous efforçons de fournir un service de haute qualité. Toutefois, nous ne garantissons pas un service ininterrompu ou exempt d’erreurs."
+                }
+              ]
+            },
+            {
+              "title": "1.2.4. Engagements du client",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Les clients doivent utiliser nos services de manière responsable. Tout usage abusif, illégal ou frauduleux est interdit et peut entraîner la suspension des services."
+                }
+              ]
+            },
+            {
+              "title": "1.2.5. Compatibilité des appareils",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Il appartient aux clients de s’assurer que leurs appareils sont compatibles avec la technologie eSIM. La compatibilité dépend de l’opérateur et du pays d’origine de l’appareil."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "2. Inscription et activation",
+          "content": [],
+          "subTitles": [
+            {
+              "title": "2.1. Conditions d’inscription",
+              "content": [
+                {
+                  "type": "bold",
+                  "text": "Informations personnelles : les clients doivent fournir des informations exactes, notamment le nom, l’adresse de facturation et l’e-mail."
+                },
+                {
+                  "type": "bold",
+                  "text": "Création de compte : les clients créent un compte pour gérer leurs achats et l’utilisation des eSIM."
+                },
+                {
+                  "type": "bold",
+                  "text": "Acceptation des conditions : les clients doivent accepter les Conditions générales lors de l’inscription."
+                },
+                {
+                  "type": "bold",
+                  "text": "Vérification de la compatibilité : les clients sont responsables de vérifier la compatibilité de leur appareil avant l’achat."
+                }
+              ]
+            },
+            {
+              "title": "2.2. Processus d’achat et d’activation",
+              "content": [
+                {
+                  "type": "bold",
+                  "text": "Sélection de l’eSIM : les clients peuvent choisir parmi plusieurs forfaits eSIM."
+                },
+                {
+                  "type": "bold",
+                  "text": "Paiement : les paiements sont acceptés par carte bancaire, Google Pay, Apple Pay et Alipay en USD."
+                },
+                {
+                  "type": "bold",
+                  "text": "Livraison de l’eSIM : les eSIM sont livrées électroniquement par e-mail et via le compte utilisateur."
+                },
+                {
+                  "type": "bold",
+                  "text": "Activation : l’activation nécessite le scan d’un QR code et le suivi des instructions fournies."
+                },
+                {
+                  "type": "bold",
+                  "text": "Assistance : notre équipe d’assistance aide en cas de problème d’activation."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "3. Paiement et conditions financières",
+          "content": [],
+          "subTitles": [
+            {
+              "title": "3.1. Frais et paiements",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Les paiements peuvent être effectués par carte bancaire, PayPal, Google Pay, Apple Pay et Alipay."
+                },
+                {
+                  "type": "text",
+                  "text": "Toutes les transactions sont traitées en dollars américains (USD) et sécurisées via des prestataires de paiement tels que Stripe."
+                }
+              ]
+            },
+            {
+              "title": "3.2. Remboursements et annulations",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Les eSIM ne sont pas remboursables. Aucun remboursement n’est accordé en cas d’appareil incompatible ou verrouillé."
+                },
+                {
+                  "type": "text",
+                  "text": "Les forfaits illimités peuvent subir une réduction de vitesse après l’utilisation maximale des données."
+                },
+                {
+                  "type": "text",
+                  "text": "Les abonnements mensuels doivent être renouvelés pour conserver le numéro."
+                },
+                {
+                  "type": "text",
+                  "text": "Les numéros virtuels ne prennent pas en charge les codes OTP WhatsApp et ne sont pas remboursables."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "4. Aspects juridiques et conformité",
+          "content": [],
+          "subTitles": [
+            {
+              "title": "4.1. Droit applicable et conformité légale",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Les présentes conditions sont régies par le droit de la juridiction dans laquelle le fournisseur de services est enregistré."
+                }
+              ]
+            },
+            {
+              "title": "4.2. Responsabilité et garanties",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Les services sont fournis « en l’état », sans aucune garantie. Le fournisseur ne saurait être tenu responsable des dommages indirects ou consécutifs."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "5. Contact et informations légales",
+          "content": [
+            {
+              "type": "text",
+              "text": "Pour toute assistance, veuillez contacter notre équipe de support par e-mail."
+            },
+            {
+              "type": "link",
+              "text": "Assistance e-mail : support@smartesim.co",
+              "linkText": "support@smartesim.co"
+            },
+            {
+              "type": "text",
+              "text": "Assistance WhatsApp : +38346122270",
+              "linkText": "+38346122270"
+            }
+          ],
+          "subTitles": [
+            {
+              "title": "5.3. Droits de propriété intellectuelle",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "L’ensemble des droits de propriété intellectuelle relatifs au service appartient au fournisseur de services."
+                }
+              ]
+            },
+            {
+              "title": "5.4. Politique de confidentialité",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Les données personnelles sont traitées conformément à notre politique de confidentialité."
+                }
+              ]
+            },
+            {
+              "title": "5.5. Cession",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Les utilisateurs ne peuvent céder leurs droits sans autorisation écrite préalable."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "6. Dispositions complémentaires",
+          "content": [],
+          "subTitles": [
+            {
+              "title": "6.1. Fourniture des services",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Les services sont activés immédiatement ou à une date programmée après l’achat."
+                },
+                {
+                  "type": "text",
+                  "text": "L’accès aux services est disponible via le compte utilisateur dans la section « Mes eSIM »."
+                }
+              ]
+            },
+            {
+              "title": "6.2. Dispositions diverses",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Nous nous réservons le droit de modifier les présentes conditions à tout moment."
+                },
+                {
+                  "type": "text",
+                  "text": "Si une disposition est jugée invalide, les autres dispositions restent pleinement en vigueur."
+                },
+                {
+                  "type": "text",
+                  "text": "Le fait de ne pas exercer un droit ne constitue pas une renonciation à ce droit."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "RefundPolicyPage": {
+    "metaData": {
+      "title": "Politique de remboursement Smart eSIM : règles claires et conditions d’éligibilité",
+      "description": "Découvrez la politique de remboursement Smart eSIM, incluant l’éligibilité, les problèmes techniques et la compatibilité des appareils pour une expérience eSIM fluide. Demandez un remboursement en toute simplicité.",
+      "keywords": "eSIM voyage France, acheter eSIM, eSIM internationale, eSIM régionale, forfait eSIM, eSIM données, e-SIM, boutique eSIM, connectivité"
+    },
+    "refundPolicy": {
+      "title": "Politique de remboursement",
+      "description": "Chez eSIM, nous nous engageons à offrir à nos clients une expérience fluide et satisfaisante. Notre politique de remboursement vise à apporter de la clarté dans les rares situations où une demande de remboursement est nécessaire. Vous trouverez ci-dessous les informations détaillées concernant nos procédures et conditions de remboursement.",
+      "data": [
+        {
+          "title": "Éligibilité et conditions de remboursement",
+          "content": [
+            {
+              "type": "bold",
+              "text": "Problèmes de couverture : si l’eSIM ne peut pas être installée en raison de problèmes de couverture, vous pouvez demander un remboursement ou un échange."
+            },
+            {
+              "type": "bold",
+              "text": "Problèmes techniques : lorsque des problèmes techniques proviennent de l’eSIM et ne peuvent pas être résolus rapidement, un remboursement est possible uniquement si aucune donnée n’a été consommée."
+            },
+            {
+              "type": "bold",
+              "text": "Validité du forfait data : aucun remboursement n’est accordé une fois l’eSIM installée et utilisée."
+            },
+            {
+              "type": "bold",
+              "text": "Achats accidentels : aucun remboursement n’est accordé une fois l’eSIM installée et utilisée."
+            },
+            {
+              "type": "bold",
+              "text": "Frais incorrects : toute contestation doit être signalée dans un délai de 12 jours après réception, avec des détails expliquant pourquoi le montant est incorrect."
+            },
+            {
+              "type": "bold",
+              "text": "Activités frauduleuses : eSIM se réserve le droit de refuser un remboursement en cas de soupçon d’abus, de violation des conditions ou d’activité frauduleuse."
+            },
+            {
+              "type": "bold",
+              "text": "Compatibilité du téléphone : il est essentiel de vérifier la compatibilité eSIM de votre téléphone avant l’achat. Aucun remboursement n’est accordé en cas d’incompatibilité."
+            },
+            {
+              "type": "bold",
+              "text": "Achat unique : l’eSIM est un achat unique et non remboursable."
+            },
+            {
+              "type": "bold",
+              "text": "Numéros virtuels : les numéros virtuels ne fonctionnent pas avec WhatsApp et autres services de réseaux sociaux, et aucun remboursement n’est accordé si les codes OTP ne sont pas reçus."
+            }
+          ]
+        },
+        {
+          "title": "Procédure de demande de remboursement",
+          "content": [
+            {
+              "type": "bold",
+              "text": "Délai : les demandes de remboursement doivent être effectuées dans les 30 jours suivant l’achat."
+            },
+            {
+              "type": "bold",
+              "text": "Coopération : une coopération rapide et complète lors du dépannage est requise pour que la demande soit prise en compte."
+            },
+            {
+              "type": "bold",
+              "text": "Notification : envoyez votre demande de remboursement par e-mail à support@smartesim.co en fournissant les détails et les raisons correspondantes."
+            }
+          ]
+        },
+        {
+          "title": "Exceptions et situations spécifiques",
+          "content": [
+            {
+              "type": "bold",
+              "text": "Achats non autorisés : soumis à enquête et approbation."
+            },
+            {
+              "type": "bold",
+              "text": "Modification : aucune modification ou personnalisation n’est autorisée après l’achat."
+            },
+            {
+              "type": "bold",
+              "text": "Services Ultimate Mobile : une suspension du service peut intervenir sans préavis et n’ouvre pas droit à un remboursement."
+            },
+            {
+              "type": "bold",
+              "text": "Remarque : eSIM se réserve le droit d’annuler des achats en cas de suspicion de fraude ou d’utilisation abusive."
+            }
+          ]
+        },
+        {
+          "title": "Conditions supplémentaires",
+          "content": [
+            {
+              "type": "bold",
+              "text": "Politique d’utilisation équitable : s’applique à tous les forfaits et offres."
+            },
+            {
+              "type": "bold",
+              "text": "Responsabilité : eSIM ne peut être tenue responsable de l’indisponibilité du service ou des problèmes liés au réseau."
+            },
+            {
+              "type": "bold",
+              "text": "Garantie : aucune garantie n’est fournie concernant la disponibilité constante ou ininterrompue du réseau."
+            }
+          ]
+        },
+        {
+          "title": "Contact et assistance",
+          "content": [
+            {
+              "type": "text",
+              "text": "Pour toute question ou assistance, veuillez contacter notre équipe de support à l’adresse "
+            },
+            {
+              "type": "link",
+              "text": "support@smartesim.co",
+              "linkText": "support@smartesim.co"
+            },
+            {
+              "type": "text",
+              "text": "Nous sommes là pour vous accompagner et vous offrir une expérience simple et sans souci."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "PrivacyPolicyPage": {
+    "metaData": {
+      "title": "Politique de confidentialité Smart eSIM : protection de vos données personnelles et sécurité",
+      "description": "Découvrez comment Smart eSIM collecte, utilise et protège vos données. Informez-vous sur vos droits à la confidentialité, l’utilisation des cookies et les mesures de sécurité pour une expérience en ligne sûre.",
+      "keywords": "eSIM voyage France, acheter eSIM, eSIM internationale, eSIM régionale, forfait eSIM, eSIM données, e-SIM, boutique eSIM, connectivité"
+    },
+    "privacyPolicy": {
+      "title": "Politique de confidentialité",
+      "data": [
+        {
+          "title": "1. Qui sommes-nous",
+          "content": [
+            {
+              "type": "text",
+              "text": "L’adresse de notre site web est :"
+            },
+            {
+              "type": "link",
+              "text": " https://smartesim.co/",
+              "linkText": "https://smartesim.co/"
+            }
+          ]
+        },
+        {
+          "title": "2. Commentaires",
+          "content": [
+            {
+              "type": "text",
+              "text": "Lorsque les visiteurs laissent des commentaires sur le site, nous collectons les données indiquées dans le formulaire de commentaire, ainsi que l’adresse IP du visiteur et la chaîne de l’agent utilisateur du navigateur afin d’aider à la détection des spams."
+            },
+            {
+              "type": "text",
+              "text": "Après l’approbation de votre commentaire, votre photo de profil est visible publiquement dans le contexte de votre commentaire."
+            }
+          ]
+        },
+        {
+          "title": "3. Médias",
+          "content": [
+            {
+              "type": "text",
+              "text": "Si vous téléversez des images sur le site, vous devriez éviter de téléverser des images contenant des données de localisation intégrées (EXIF GPS)."
+            },
+            {
+              "type": "text",
+              "text": "Les visiteurs du site peuvent télécharger et extraire toutes les données de localisation présentes dans les images du site."
+            }
+          ]
+        },
+        {
+          "title": "4. Cookies",
+          "content": [
+            {
+              "type": "text",
+              "text": "Si vous laissez un commentaire sur notre site, vous pouvez choisir d’enregistrer votre nom, votre adresse e-mail et votre site web dans des cookies. Ceux-ci sont destinés à votre confort afin que vous n’ayez pas à saisir de nouveau ces informations lors d’un prochain commentaire."
+            },
+            {
+              "type": "text",
+              "text": "Ces cookies ont une durée de vie d’un an."
+            },
+            {
+              "type": "text",
+              "text": "Si vous visitez notre page de connexion, un cookie temporaire sera créé afin de déterminer si votre navigateur accepte les cookies. Ce cookie ne contient aucune donnée personnelle et est supprimé lorsque vous fermez votre navigateur."
+            },
+            {
+              "type": "text",
+              "text": "Lorsque vous vous connectez, nous mettons en place des cookies pour enregistrer vos informations de connexion et vos préférences d’affichage. Les cookies de connexion durent deux jours et les cookies d’options d’écran durent un an."
+            },
+            {
+              "type": "text",
+              "text": "Si vous sélectionnez « Se souvenir de moi », votre connexion sera maintenue pendant deux semaines. Si vous vous déconnectez, les cookies de connexion seront supprimés."
+            },
+            {
+              "type": "text",
+              "text": "Si vous modifiez ou publiez un article, un cookie supplémentaire sera enregistré dans votre navigateur. Ce cookie ne contient aucune donnée personnelle et expire après un jour."
+            }
+          ]
+        },
+        {
+          "title": "5. Contenu intégré depuis d’autres sites",
+          "content": [
+            {
+              "type": "text",
+              "text": "Les articles de ce site peuvent inclure du contenu intégré tel que des vidéos, des images ou des articles."
+            },
+            {
+              "type": "text",
+              "text": "Le contenu intégré depuis d’autres sites se comporte de la même manière que si le visiteur se rendait sur ces sites externes."
+            },
+            {
+              "type": "text",
+              "text": "Ces sites web peuvent collecter des données vous concernant, utiliser des cookies, intégrer des outils de suivi tiers et surveiller vos interactions avec le contenu intégré."
+            }
+          ]
+        },
+        {
+          "title": "6. Avec qui nous partageons vos données",
+          "content": [
+            {
+              "type": "text",
+              "text": "Si vous demandez une réinitialisation de mot de passe, votre adresse IP sera incluse dans l’e-mail de réinitialisation."
+            }
+          ]
+        },
+        {
+          "title": "7. Durée de conservation de vos données",
+          "content": [
+            {
+              "type": "text",
+              "text": "Si vous laissez un commentaire, celui-ci et ses métadonnées sont conservés indéfiniment afin de reconnaître et d’approuver automatiquement les commentaires de suivi."
+            },
+            {
+              "type": "text",
+              "text": "Pour les utilisateurs qui s’inscrivent sur notre site, nous stockons les informations personnelles fournies dans leur profil utilisateur."
+            },
+            {
+              "type": "text",
+              "text": "Tous les utilisateurs peuvent consulter, modifier ou supprimer leurs informations personnelles à tout moment, à l’exception du nom d’utilisateur. Les administrateurs du site peuvent également consulter et modifier ces informations."
+            }
+          ]
+        },
+        {
+          "title": "8. Vos droits concernant vos données",
+          "content": [
+            {
+              "type": "text",
+              "text": "Si vous avez un compte sur ce site ou si vous avez laissé des commentaires, vous pouvez demander à recevoir un fichier exporté des données personnelles que nous détenons à votre sujet."
+            },
+            {
+              "type": "text",
+              "text": "Vous pouvez également demander la suppression de toute donnée personnelle vous concernant, à l’exception des données que nous sommes tenus de conserver à des fins administratives, légales ou de sécurité."
+            }
+          ]
+        },
+        {
+          "title": "9. Où vos données sont envoyées",
+          "content": [
+            {
+              "type": "text",
+              "text": "Les commentaires des visiteurs peuvent être vérifiés à l’aide d’un service automatisé de détection des spams."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "LoginPage": {
+    "metaData": {
+      "title": "Smart eSIM : acheter les meilleurs forfaits eSIM pour vos voyages internationaux",
+      "description": "Achetez des eSIM locales, régionales et mondiales pour vos voyages internationaux. Profitez d’une couverture rapide et fiable à des prix adaptés aux voyageurs avec Smart eSIM.",
+      "keywords": "eSIM voyage France, acheter eSIM, eSIM internationale, eSIM régionale, forfait eSIM, eSIM données, e-SIM, boutique eSIM, connectivité"
+    },
+    "authImage": {
+      "rating": "Noté 4,9 étoiles par plus de 14 000 clients"
+    },
+    "tabLinks": {
+      "login": "Connexion",
+      "register": "Inscription"
+    },
+    "form": {
+      "signIn": "Se connecter",
+      "emailLabel": "E-mail",
+      "passwordLabel": "Mot de passe",
+      "forgotPassword": "Mot de passe oublié ?",
+      "login": "Connexion",
+      "enterName": "Entrez votre nom",
+      "enterEmail": "Entrez votre e-mail",
+      "enterPassword": "Entrez votre mot de passe",
+      "confirmPassword": "Confirmez votre mot de passe",
+      "loginSuccess": "Connexion réussie !",
+      "validationMessages": {
+        "email": {
+          "invalid": "Veuillez saisir une adresse e-mail valide."
+        },
+        "password": {
+          "min": "Le mot de passe est requis.",
+          "max": "Le mot de passe doit contenir moins de 100 caractères."
+        }
+      }
+    }
+  },
+  "RegisterPage": {
+    "authImage": {
+      "rating": "Noté 4,9 étoiles par plus de 14 000 clients"
+    },
+    "tabLinks": {
+      "login": "Connexion",
+      "register": "Inscription"
+    },
+    "form": {
+      "signUp": "Inscrivez-vous maintenant",
+      "nameLabel": "Nom",
+      "emailLabel": "E-mail",
+      "passwordLabel": "Mot de passe",
+      "confirmPassword": "Confirmer le mot de passe",
+      "otpLabel": "Saisissez le code OTP reçu par e-mail",
+      "resendOtp": "Renvoyer le code OTP",
+      "forgotPassword": "Mot de passe oublié ?",
+      "register": "S’inscrire",
+      "enterName": "Entrez votre nom",
+      "enterEmail": "Entrez votre e-mail",
+      "enterPassword": "Entrez votre mot de passe",
+      "confirmYourPassword": "Confirmez votre mot de passe",
+      "validationMessages": {
+        "name": {
+          "min": "Le nom doit contenir au moins 4 caractères.",
+          "max": "Le nom doit contenir moins de 100 caractères."
+        },
+        "email": {
+          "invalid": "Veuillez saisir une adresse e-mail valide."
+        },
+        "password": {
+          "min": "Le mot de passe doit contenir au moins 8 caractères.",
+          "max": "Le mot de passe doit contenir moins de 100 caractères."
+        },
+        "confirmPassword": {
+          "min": "La confirmation du mot de passe doit contenir au moins 8 caractères.",
+          "max": "La confirmation du mot de passe doit contenir moins de 100 caractères."
+        },
+        "otp": {
+          "min": "Le code OTP doit contenir au moins 4 caractères.",
+          "max": "Le code OTP doit contenir au maximum 4 caractères."
+        },
+        "refine": {
+          "message": "Les mots de passe ne correspondent pas."
+        }
+      },
+      "registerSuccess": "Votre compte a été créé avec succès. Veuillez vous connecter avec votre nouveau compte.",
+      "otpSendSuccess": "Le code OTP a été envoyé à votre adresse e-mail. Veuillez le vérifier."
+    }
+  },
+  "ResetPasswordPage": {
+    "resetPassword": "Réinitialiser le mot de passe",
+    "emailLabel": "Adresse e-mail",
+    "passwordLabel": "Mot de passe",
+    "confirmPassword": "Confirmer le mot de passe",
+    "enterOtp": "Entrez le code OTP que vous avez reçu par e-mail",
+    "resendOtp": "Renvoyer le code OTP",
+    "submit": "Valider",
+    "emailReceive": "Nous vous enverrons un code OTP pour réinitialiser votre mot de passe",
+    "validationMessages": {
+      "email": {
+        "invalid": "Veuillez saisir une adresse e-mail valide."
+      },
+      "password": {
+        "min": "Le mot de passe doit contenir au moins 8 caractères.",
+        "max": "Le mot de passe doit contenir moins de 100 caractères."
+      },
+      "confirmPassword": {
+        "min": "La confirmation du mot de passe doit contenir au moins 8 caractères.",
+        "max": "La confirmation du mot de passe doit contenir moins de 100 caractères."
+      },
+      "otp": {
+        "min": "Le code OTP doit contenir au moins 4 caractères.",
+        "max": "Le code OTP doit contenir au maximum 6 caractères."
+      },
+      "refine": {
+        "message": "Les mots de passe ne correspondent pas."
+      }
+    }
+  },
+  "BlogPage": {
+    "metaData": {
+      "title": "Blog eSIM : actualités, conseils et analyses sur la technologie eSIM",
+      "description": "Restez informé grâce au blog Smart eSIM avec les dernières actualités, guides pratiques, conseils de dépannage et informations voyage.",
+      "keywords": "eSIM, acheter eSIM, eSIM régionale, eSIM locale, acheter eSIM régionale, acheter eSIM locale, acheter eSIM locale, acheter eSIM régionale, eSIM data, e-SIM, forfait eSIM, boutique eSIM, marketplace eSIM, voyageur, forfait data, acheter e-SIM, data pas chère, connectivité, blogs eSIM, blog eSIM, infos eSIM"
+    },
+    "hero": {
+      "download": "50 000+ téléchargements",
+      "title": "Blogs Smart eSIM",
+      "description": "Connectez-vous au monde grâce aux services eSIM les plus fiables.",
+      "noBlogs": "Aucun blog trouvé 🙂",
+      "allBlogs": "Tous les blogs",
+      "searchPlaceholder": "Rechercher un blog"
+    },
+    "paginationBtn": {
+      "previous": "Précédent",
+      "next": "Suivant"
+    }
+  },
+  "refillPage": {
+    "validationMessages": {
+      "stripeMissing": "URL de paiement Stripe manquante",
+      "stripeRedirect": "Redirection vers Stripe...",
+      "refreshedFailed": "Échec de l’actualisation du portefeuille",
+      "paymentFailed": "Le paiement a échoué. Veuillez réessayer.",
+      "refreshedSuccess": "Rechargement du portefeuille réussi"
+    },
+    "metaData": {
+      "title": "Smart eSIM – Recharger le portefeuille",
+      "description": "Rechargez votre portefeuille Smart eSIM par carte bancaire ou Apple Pay",
+      "keywords": "eSIM voyage France, acheter eSIM, eSIM internationale, eSIM régionale, forfait eSIM, eSIM données, e-SIM, boutique eSIM, connectivité, Smart eSIM, recharger, acheter forfait, acheter package"
+    },
+    "title": "Recharger votre portefeuille",
+    "refillForm": {
+      "placeholder": "Saisissez le montant à recharger",
+      "paybtn": "Payer",
+      "validationMessages": {
+        "amount": {
+          "typeError": "Le montant doit être un nombre",
+          "min": "Le montant minimum est de 1",
+          "max": "Le montant maximum est de 300"
+        }
+      }
+    },
+    "currentBalance": "Solde actuel",
+    "errorMessage": "Une erreur s’est produite lors de la récupération de l’utilisateur !",
+    "orderHistoryTable": {
+      "sucessMessage": "Rechargement du portefeuille effectué avec succès",
+      "errorMessage": "Le paiement a échoué. Veuillez réessayer.",
+      "title": "Historique des transactions",
+      "refreshing": "Actualisation...",
+      "refresh": "Actualiser",
+      "id": "ID",
+      "amount": "Montant",
+      "description": "Description",
+      "time": "Heure",
+      "nodata": "Aucune donnée disponible"
+    }
+  },
+  "mySimPage": {
+    "metaData": {
+      "title": "Smart eSIM : acheter les meilleurs forfaits eSIM pour vos voyages internationaux",
+      "description": "Achetez des eSIM locales, régionales et mondiales pour vos voyages internationaux. Profitez d’une couverture rapide et fiable à des prix adaptés aux voyageurs avec Smart eSIM.",
+      "keywords": "eSIM voyage France, acheter eSIM, eSIM internationale, eSIM régionale, forfait eSIM, eSIM données, e-SIM, boutique eSIM, connectivité"
+    },
+    "title": "Détails des eSIM",
+    "mySimTab": "Mes eSIM",
+    "pendingSimTab": "eSIM en attente",
+    "mysim": "Mes eSIM",
+    "noSimFound": "Aucune eSIM trouvée",
+    "noPendingSimFound": "Aucune eSIM en attente",
+    "failedToGetSims": "Impossible de récupérer les eSIM"
+  },
+  "simDetailPage": {
+    "title": "Détails de l’eSIM",
+    "description": "Accédez aux services eSIM les plus fiables au monde",
+    "esimInstallation": "Installation de l’eSIM",
+    "devices": "Appareils",
+    "direct": "Direct",
+    "qrCode": "Code QR",
+    "manual": "Manuel",
+    "clickHere": "Cliquez ici pour installer",
+    "notWorking": "Si l’eSIM ne fonctionne pas, veuillez vérifier",
+    "apn": "APN",
+    "dataRoaming": "Itinérance des données",
+    "on": "Activé",
+    "smdpAddress": "Adresse SM-DP+",
+    "inprocess": "En cours",
+    "activationCode": "Code d’activation",
+    "descriptionTwo": "Copiez ce code et saisissez les informations manuellement pour installer votre eSIM. Assurez-vous d’avoir une connexion Internet stable avant l’installation.",
+    "manualEntry": "Saisie manuelle",
+    "dataUsage": "Utilisation des données",
+    "outOf": "sur",
+    "unlimitedData": "Données illimitées",
+    "remainingData": "Données restantes",
+    "address": "Adresse",
+    "number": "Numéro",
+    "purchaseData": "Date d’achat",
+    "coverage": "Couverture",
+    "status": "Statut",
+    "activationInProcess": "L’activation du forfait est en cours",
+    "coverageModal": {
+      "coverage": "Voir la couverture",
+      "supportedCountries": "Pays et réseaux pris en charge",
+      "searchCountryNetwork": "Rechercher un pays ou un réseau"
+    },
+    "simDetail": {
+      "simId": "ID SIM",
+      "iccid": "ICCID",
+      "status": "Statut",
+      "purchaseDateEt": "Date d’achat (ET)",
+      "activatedBundle": "Forfait activé",
+      "seeDetails": "Voir les détails",
+      "activationInProcess": "L’activation du forfait est en cours..."
+    },
+    "iosInstallationInstruction": {
+      "direct": {
+        "step1": {
+          "key1": "Étape 1/2 :",
+          "key2": "1. Appuyez sur « Installer l’eSIM ».",
+          "key3": "2. Appuyez sur « Autoriser » dans la fenêtre de confirmation.",
+          "key4": "3. Suivez les instructions à l’écran pour terminer le téléchargement et l’installation de l’eSIM.",
+          "key5": "4. Choisissez un libellé pour votre nouvelle eSIM.",
+          "key6": "5. Sélectionnez « Principal » comme ligne par défaut, puis appuyez sur « Continuer ».",
+          "key7": "6. Choisissez la ligne principale pour iMessage et FaceTime avec votre identifiant Apple, puis appuyez sur « Continuer ».",
+          "key8": "7. Sélectionnez votre nouvelle eSIM pour les données mobiles, puis appuyez sur « Continuer »."
+        },
+        "step2": {
+          "key1": "Étape 2/2 (optionnelle) :",
+          "key2": "1. Allez dans « Données cellulaires/mobiles », sélectionnez l’eSIM récemment téléchargée et activez « Activer cette ligne ».",
+          "key3": "2. Appuyez sur « Sélection du réseau », désactivez « Automatique » et sélectionnez manuellement le réseau pris en charge si nécessaire.",
+          "key4": "3. Activez l’option « Itinérance des données » pour votre eSIM."
+        }
+      },
+      "qr": {
+        "step1": {
+          "key1": "Étape 1/2 :",
+          "key2": "1. Allez dans Réglages.",
+          "key3": "2. Appuyez sur « Données cellulaires » ou « Mobile ».",
+          "key4": "3. Appuyez sur « Ajouter un forfait cellulaire » ou « Ajouter un forfait de données mobiles ».",
+          "key5": "4. Scannez le code QR de l’eSIM à l’aide d’un autre appareil ou du code imprimé.",
+          "key6": "5. Choisissez ou personnalisez un libellé pour l’eSIM.",
+          "key7": "6. Sur l’écran Ligne par défaut, sélectionnez l’eSIM uniquement pour les données cellulaires.",
+          "key8": "7. Votre nouvelle eSIM apparaîtra dans « Données cellulaires » ou « Forfaits mobiles »."
+        },
+        "step2": {
+          "key1": "Étape 2/2 (optionnelle) :",
+          "key2": "1. Sélectionnez votre eSIM dans « Forfaits cellulaires ».",
+          "key3": "2. Vérifiez que « Activer cette ligne » est activé.",
+          "key4": "3. Allez dans « Sélection du réseau » et choisissez le réseau pris en charge.",
+          "key5": "4. Accédez à « Réseau de données cellulaires » et mettez à jour le champ « APN ». Laissez les autres champs vides.",
+          "key6": "5. Activez « Itinérance des données ».",
+          "key7": "6. Besoin d’aide ? Discutez avec nous."
+        }
+      },
+      "manual": {
+        "step1": {
+          "key1": "Étape 1/2 :",
+          "key2": "1. Allez dans Réglages > Données cellulaires/mobiles > Ajouter un forfait.",
+          "key3": "2. Appuyez sur « Saisir les informations manuellement ».",
+          "key4": "3. Saisissez l’adresse SM-DP+ et le code d’activation.",
+          "key5": "4. Appuyez sur « Ajouter un forfait cellulaire ».",
+          "key6": "5. Attribuez un nom à l’eSIM.",
+          "key7": "6. Choisissez la ligne par défaut pour les appels et messages.",
+          "key8": "7. Sélectionnez la ligne préférée pour iMessage, FaceTime et l’identifiant Apple.",
+          "key9": "8. Définissez l’eSIM comme ligne par défaut pour les données cellulaires et désactivez « Autoriser le changement de données cellulaires ».",
+          "key10": "9. Votre eSIM est installée avec succès, veuillez faire défiler vers le bas."
+        },
+        "step2": {
+          "key1": "Étape 2/2 (optionnelle) :",
+          "key2": "1. Sélectionnez votre eSIM dans « Forfaits cellulaires ».",
+          "key3": "2. Vérifiez que « Activer cette ligne » est activé.",
+          "key4": "3. Accédez à « Sélection du réseau » et choisissez le réseau pris en charge.",
+          "key5": "4. Accédez à « Réseau de données cellulaires » et mettez à jour le champ « APN ». Laissez les autres champs vides.",
+          "key6": "5. Activez « Itinérance des données ».",
+          "key7": "6. Besoin d’aide ? Discutez avec nous."
+        }
+      }
+    },
+    "androidInstallationInstruction": {
+      "qr": {
+        "step1": {
+          "key1": "Étape 1 :",
+          "key2": "1. Allez dans « Paramètres », appuyez sur « Réseau et Internet », puis sur « (+) » à côté de la section SIM.",
+          "key3": "2. Appuyez sur « Télécharger une SIM à la place ? », puis sur « Suivant ».",
+          "key4": "3. Appuyez sur « Utiliser un autre réseau » si nécessaire.",
+          "key5": "4. Scannez le code QR, puis appuyez sur « Télécharger ».",
+          "key6": "5. Appuyez sur « Paramètres » lorsque l’écran « Téléchargement terminé » apparaît."
+        },
+        "step2": {
+          "key1": "Étape 2/2 (optionnelle) :",
+          "key2": "1. Allez dans « SIM », puis sélectionnez l’eSIM récemment téléchargée.",
+          "key3": "2. Activez « Utiliser la SIM », puis appuyez sur « Oui ».",
+          "key4": "3. Activez « Données mobiles ».",
+          "key5": "4. Activez « Itinérance », puis appuyez sur « OK ».",
+          "key6": "5. Désactivez « Sélection automatique du réseau » et choisissez manuellement le réseau pris en charge.",
+          "key7": "6. Appuyez sur « Noms des points d’accès », puis sur « (+) ».",
+          "key8": "7. Saisissez l’APN fourni dans l’application eSIM.",
+          "key9": "8. Appuyez sur les trois points, sélectionnez « Enregistrer », puis choisissez l’APN enregistré."
+        }
+      },
+      "manual": {
+        "step1": {
+          "key1": "Étape 01/02 :",
+          "key2": "1. Allez dans « Paramètres », appuyez sur « Réseau et Internet », puis sur « (+) » à côté de la SIM.",
+          "key3": "2. Appuyez sur « Télécharger une SIM à la place ? », puis sur « Suivant ».",
+          "key4": "3. Appuyez sur « Utiliser un autre réseau » si nécessaire.",
+          "key5": "4. Appuyez sur « Besoin d’aide ? », puis sur « Saisir manuellement ».",
+          "key6": "5. Saisissez le code fourni dans l’application eSIM, appuyez sur « Continuer », puis sur « Télécharger ».",
+          "key7": "6. Appuyez sur « Paramètres » lorsque le téléchargement est terminé."
+        },
+        "step2": {
+          "key1": "Étape 2/2 (optionnelle) :",
+          "key2": "1. Sélectionnez l’eSIM dans « SIM ».",
+          "key3": "2. Activez « Utiliser la SIM », puis appuyez sur « Oui ».",
+          "key4": "3. Activez « Données mobiles ».",
+          "key5": "4. Activez « Itinérance », puis appuyez sur « OK ».",
+          "key6": "5. Désactivez la sélection automatique du réseau et choisissez le réseau pris en charge.",
+          "key7": "6. Accédez aux « Noms des points d’accès » et appuyez sur « (+) ».",
+          "key8": "7. Saisissez l’APN fourni dans l’application eSIM.",
+          "key9": "8. Enregistrez et sélectionnez l’APN créé."
+        }
+      }
+    },
+    "activatedPackages": {
+      "title": "Forfaits activés",
+      "package": "Forfait",
+      "activated": "Activé",
+      "expiry": "Expiration"
+    },
+    "completedPackages": {
+      "pastPackages": "Forfaits passés",
+      "package": "Forfait",
+      "activated": "Activé",
+      "expiry": "Expiration"
+    },
+    "assignedPackages": {
+      "notActivated": "Forfaits non activés",
+      "package": "Forfait",
+      "quantity": "Quantité"
+    },
+    "revokedPackages": {
+      "revoked": "Forfaits révoqués",
+      "package": "Forfait",
+      "revokedAt": "Révoqué le"
+    },
+    "qrCodeMessages": {
+      "notFound": "Code QR introuvable.",
+      "failedCanvas": "Impossible d’accéder au contexte du canvas.",
+      "FailedLoad": "Échec du chargement du code QR.",
+      "notSupported": "Non pris en charge",
+      "shareTitle": "Code QR",
+      "shareText": "Voici le code QR.",
+      "fallbackDownload": "Le partage n’est pas pris en charge. Le code QR a été téléchargé."
+    }
+  },
+  "cartPage": {
+    "purchasePackagesMessages": {
+      "redirectingToStripe": "Redirection vers Stripe...",
+      "orderProcessed": "Votre commande a été traitée avec succès !",
+      "alreadyRegistered": "Votre adresse e-mail est déjà enregistrée. Veuillez vous connecter."
+    },
+    "emptyCart": "Votre panier est vide",
+    "reviewCart": "Vérifier votre panier",
+    "checkout": "Paiement",
+    "continueShopping": "Continuer vos achats",
+    "exploreText": "Vous n’avez encore ajouté aucun forfait eSIM. Commencez à explorer nos offres pour rester connecté !",
+    "browseText": "Parcourir nos forfaits eSIM",
+    "unlimitedDataFor": "Données illimitées pour",
+    "esimDataFor": "Données eSIM pour",
+    "Duration": "Durée",
+    "Data": "Données",
+    "Unlimited": "Illimité",
+    "checkoutProcessBar": {
+      "shoppingCart": "Panier",
+      "checkout": "Détails du paiement",
+      "orderComplete": "Commande terminée",
+      "two": "2",
+      "three": "3"
+    },
+    "currentBalance": "Solde actuel",
+    "payAsGuest": {
+      "loginSuccess": "Connexion réussie !",
+      "signLogin": "S’inscrire / Se connecter",
+      "loginAsGuest": "Se connecter en tant qu’invité",
+      "loginAsUser": "Se connecter en tant qu’utilisateur",
+      "description": "Obtenez 15 % de cashback sur votre première commande en vous inscrivant.",
+      "descriptionTwo": "Votre eSIM sera envoyée par e-mail. Nous vous garantissons de ne vous envoyer que des messages importants concernant la qualité du service.",
+      "fullName": "Nom complet",
+      "email": "E-mail",
+      "password": "Mot de passe",
+      "hidePassword": "Masquer le mot de passe",
+      "showPassword": "Afficher le mot de passe",
+      "forgetPassword": "Mot de passe oublié ?",
+      "login": "Connexion",
+      "continueAsGuest": "Continuer en tant qu’invité",
+      "clickToContinueAsGuest": "En cliquant sur « Continuer en tant qu’invité », vous acceptez nos",
+      "termsOfUse": "Conditions d’utilisation",
+      "privacyPolicy": "Politique de confidentialité",
+      "and": "et",
+      "stripeText": " et vous serez redirigé vers Stripe pour un paiement sécurisé.",
+      "validationMessages": {
+        "name": {
+          "minLength": "Le nom doit contenir au moins 2 caractères."
+        },
+        "email": {
+          "invalid": "Veuillez saisir une adresse e-mail valide."
+        },
+        "password": {
+          "required": "Le mot de passe est requis.",
+          "maxLength": "Le mot de passe doit contenir moins de 100 caractères."
+        }
+      }
+    },
+    "checkoutDetails": {
+      "orderSummary": "Récapitulatif de la commande",
+      "pricing": "Tarification",
+      "payFromWallet": "Payer depuis le portefeuille",
+      "toPayOnCheckout": "À payer lors du paiement",
+      "gurantedText": "Paiement garanti, sûr et sécurisé",
+      "checkout": "Paiement",
+      "summary": "Résumé",
+      "subTotal": "Sous-total",
+      "total": "Total",
+      "cartSummary": "Récapitulatif de la commande",
+      "discountCode": "Vous avez un code promo ?",
+      "promoCode": "Code promo",
+      "apply": "Appliquer"
+    },
+    "cartItemList": {
+      "product": "Produit",
+      "price": "Prix",
+      "quantity": "Quantité"
+    },
+    "checkoutBtn": {
+      "purchaseNow": "Acheter maintenant",
+      "secureCheckout": "Accéder au paiement sécurisé"
+    },
+    "checkoutTermsConditionMessage": {
+      "byClicking": "En cliquant sur",
+      "purchaseNow": "Acheter maintenant",
+      "secureCheckout": "Accéder au paiement sécurisé",
+      "youAgree": "vous acceptez nos",
+      "termsOfUse": "Conditions d’utilisation",
+      "and": "et",
+      "privacyPolicy": "Politique de confidentialité",
+      "redirectedStripe": " et vous serez redirigé vers Stripe pour un paiement sécurisé."
+    },
+    "errorMessage": "Une erreur est survenue lors de la récupération de l’utilisateur !",
+    "orderHistoryTable": {
+      "sucessMessage": "Rechargement du portefeuille effectué avec succès",
+      "errorMessage": "Le paiement a échoué. Veuillez réessayer.",
+      "title": "Historique des transactions",
+      "refreshing": "Actualisation...",
+      "refresh": "Actualiser",
+      "id": "ID",
+      "amount": "Montant",
+      "description": "Description",
+      "time": "Heure",
+      "nodata": "Aucune donnée disponible"
+    },
+    "applyPromoCode": {
+      "validationMessages": {
+        "promo_code": {
+          "required": "Veuillez saisir un code promo",
+          "minLength": "Le code promo doit contenir au moins 3 caractères",
+          "maxLength": "Le code promo doit contenir au maximum 30 caractères",
+          "pattern": "Le code promo peut uniquement contenir des lettres, chiffres, tirets et underscores",
+          "alreadyApplied": "Un code promo est déjà appliqué"
+        }
+      }
+    },
+    "addToCartMessages": {
+      "noSelectedPackage": "Veuillez d’abord sélectionner un forfait.",
+      "cartFull": "Vous pouvez ajouter jusqu’à 5 forfaits eSIM maximum dans votre panier."
+    }
+  },
+  "NotFoundPage": {
+    "title": "Oups ! Page introuvable",
+    "description": "Il semble que la page que vous recherchez n’existe plus — ou peut-être n’a-t-elle jamais existé. Mais ne vous inquiétez pas, nous sommes là pour vous garder connecté. Revenons sur la bonne voie !",
+    "popularLinks": "Pages populaires que vous recherchez peut-être :",
+    "links": {
+      "esims": "Explorer toutes les destinations eSIM",
+      "blog": "Visiter notre blog",
+      "contact": "Nous contacter",
+      "faqs": "FAQ",
+      "home": "Retour à la page d’accueil"
+    }
+  },
+  "ErrorPage": {
+    "title": "Une erreur s’est produite",
+    "description": "Nous rencontrons actuellement des problèmes techniques temporaires de notre côté. Mais ne vous inquiétez pas — notre équipe travaille déjà à les résoudre.",
+    "description2": "Veuillez réessayer dans quelques minutes.",
+    "popularLinks": "🚀 En attendant, voici ce que vous pouvez faire :",
+    "links": {
+      "esims": "Explorer toutes les destinations eSIM",
+      "blog": "Visiter notre blog",
+      "contact": "Nous contacter",
+      "faqs": "FAQ",
+      "home": "Retour à la page d’accueil"
+    }
+  },
+  "ThankYouPage": {
+    "success": {
+      "title": "Merci !",
+      "text": "Votre eSIM a été achetée avec succès"
+    },
+    "failed": {
+      "title": "Votre paiement n’a pas pu être traité.",
+      "text": "Veuillez réessayer",
+      "paymentFailed": "Le processus de paiement a échoué."
+    }
+  }
+}

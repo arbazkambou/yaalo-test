@@ -1,0 +1,370 @@
+@import "@workspace/ui/globals.css";
+
+:root {
+  /* Light mode colors in HSL format */
+  --background: hsla(0, 0%, 100%, 1);
+  --foreground: hsla(0, 0%, 0%, 1);
+  --foreground-light: hsla(0, 0%, 19%, 1);
+  --card: hsla(0, 0%, 100%, 1);
+  --grey: hsla(0, 0%, 75.6%, 1);
+  --card-foreground: hsla(0, 0%, 3.9%, 1);
+  --popover: hsla(0, 0%, 100%, 1);
+  --popover-foreground: hsla(0, 0%, 3.9%, 1);
+  --primary: hsla(214, 79%, 34%, 1);
+  --secondary-green: hsla(134, 48%, 49%, 1);
+  --primary-gradient: hsla(45, 100%, 51%, 1);
+  --primary-accent: hsl(40, 98%, 54%);
+  --primary-light: hsla(214, 79%, 34%, 0.1);
+  --primary-lightest: hsla(214, 79%, 34%, 0.1);
+  --primary-foreground: hsla(0, 0%, 100%, 1);
+  --secondary: hsla(0, 0%, 96%, 1);
+  --secondary-foreground: hsla(0, 0%, 0%, 1);
+  --muted: hsla(0, 0%, 96%, 1);
+  --muted-foreground: hsla(0, 0%, 41%, 1);
+  --accent: hsla(0, 0%, 96.1%, 1);
+  --accent-foreground: hsla(0, 0%, 9%, 1);
+  --destructive: hsla(349, 100%, 42%, 1);
+  --destructive-foreground: hsla(0, 0%, 100%, 1);
+  --border: hsla(0, 0%, 89.8%, 1);
+  --input: hsla(0, 0%, 89.8%, 1);
+  --ring: hsla(0, 0%, 3.9%, 1);
+  --chart-1: hsla(12, 76%, 61%, 1);
+  --chart-2: hsla(45, 100%, 51%, 1);
+  --chart-3: hsla(197, 37%, 24%, 1);
+  --chart-4: hsla(43, 74%, 66%, 1);
+  --chart-5: hsla(27, 87%, 67%, 1);
+  --radius: 0.75rem;
+  --info: hsla(45, 100%, 51%, 1);
+  --primary-dark: hsla(45, 100%, 51%, 1);
+  --bottom-nav-background: hsla(0, 0%, 100%, 1);
+  --sidebar: oklch(0.985 0 0);
+  --sidebar-foreground: oklch(0.145 0 0);
+  --sidebar-primary: oklch(0.205 0 0);
+  --sidebar-primary-foreground: oklch(0.985 0 0);
+  --sidebar-accent: oklch(0.97 0 0);
+  --sidebar-accent-foreground: oklch(0.205 0 0);
+  --sidebar-border: oklch(0.922 0 0);
+  --sidebar-ring: oklch(0.708 0 0);
+}
+
+.dark {
+  /* Dark mode colors in HSL format */
+  --background: hsla(20, 14.3%, 4.1%, 1);
+  --foreground: hsla(0, 0%, 95%, 1);
+  --card: hsla(24, 9.8%, 10%, 1);
+  --card-foreground: hsla(0, 0%, 95%, 1);
+  --popover: hsla(0, 0%, 9%, 1);
+  --popover-foreground: hsla(0, 0%, 95%, 1);
+  --primary: rgb(5, 176, 255);
+  --primary-foreground: hsla(45, 80%, 10%, 1);
+  --secondary: hsla(240, 3.7%, 15.9%, 1);
+  --secondary-foreground: hsla(0, 0%, 98%, 1);
+  --muted: hsla(0, 0%, 15%, 1);
+  --muted-foreground: hsla(240, 5%, 64.9%, 1);
+  --accent: hsla(12, 6.5%, 15.1%, 1);
+  --accent-foreground: hsla(0, 0%, 98%, 1);
+  --destructive: hsla(0, 62.8%, 30.6%, 1);
+  --destructive-foreground: hsla(0, 85.7%, 97.3%, 1);
+  --border: hsla(240, 3.7%, 15.9%, 1);
+  --input: hsla(240, 3.7%, 15.9%, 1);
+  --ring: hsla(45, 100%, 51%, 1);
+  --chart-1: hsla(220, 70%, 50%, 1);
+  --chart-2: hsla(45, 100%, 51%, 1);
+  --chart-3: hsla(30, 80%, 55%, 1);
+  --chart-4: hsla(280, 65%, 60%, 1);
+  --chart-5: hsla(340, 75%, 55%, 1);
+  --sidebar: oklch(0.205 0 0);
+  --sidebar-foreground: oklch(0.985 0 0);
+  --sidebar-primary: oklch(0.488 0.243 264.376);
+  --sidebar-primary-foreground: oklch(0.985 0 0);
+  --sidebar-accent: oklch(0.269 0 0);
+  --sidebar-accent-foreground: oklch(0.985 0 0);
+  --sidebar-border: oklch(0.269 0 0);
+  --sidebar-ring: oklch(0.439 0 0);
+}
+
+@theme inline {
+  /* optional: --font-sans, --font-serif, --font-mono if they are applied in the layout.tsx */
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-green: var(--secondary-green);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+
+  /* Colors */
+  --color-foreground-light: var(--foreground-light);
+  --color-primary-light: var(--primary-light);
+  --color-primary-lightest: var(--primary-lightest);
+  --color-primary-gradient: var(--primary-gradient);
+  --color-primary-accent: var(--primary-accent);
+  --color-grey: var(--grey);
+  --color-bottom-nav: var(--bottom-nav-background);
+  --color-info: var(--info);
+
+  /* Backgrounds - Gradients */
+  --primary-gradient: linear-gradient(90deg, #ffd300 0%, #b8a300 100%);
+  --image-overlay: linear-gradient(
+    101deg,
+    rgba(0, 0, 0, 0.5) 0.87%,
+    rgba(0, 0, 0, 0) 100%
+  );
+  --image-overlay-light: linear-gradient(
+    324deg,
+    rgba(0, 0, 0, 0.5) 20.61%,
+    rgba(0, 0, 0, 0) 78.89%
+  );
+  --country-image-overlay: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0) 71.48%,
+    #000 100%
+  );
+
+  /* Shadows */
+  --shadow-custom: 0px 5px 35px 0px rgba(30, 34, 40, 0.05);
+  --shadow-my-card: 0px 5px 35px 0px rgba(30, 34, 40, 0.07);
+  --shadow-bottom-nav:
+    0 8px 32px rgba(0, 0, 0, 0.08), 0 0 0 1px rgba(255, 255, 255, 0.05);
+
+  /* Typography - Font Sizes */
+  --text-2xl: 1.375rem;
+  --leading-2xl: 1.75rem;
+
+  --text-3xl: 1.75rem;
+  --leading-3xl: 1;
+
+  --text-4xl: 2.375rem;
+  --leading-4xl: 1;
+
+  --text-5xl: 2.98625rem;
+  --leading-5xl: 1;
+
+  --text-6xl: 3.58125rem;
+  --leading-6xl: 1;
+
+  --text-h1-base: 1.375rem;
+  --leading-h1-base: 1;
+
+  --text-h1-base2: 1.975rem;
+  --leading-h1-base2: 1;
+
+  --text-h1-md: 2.3125rem;
+  --leading-h1-md: 1;
+
+  --text-h1-xl: 3.5625rem;
+  --leading-h1-xl: 1;
+
+  --text-h2-base: 1.375rem;
+  --leading-h2-base: 1;
+
+  --text-h2-md: 2rem;
+  --leading-h2-md: 1;
+
+  --text-h2-xl: 2.9375rem;
+  --leading-h2-xl: 1;
+
+  --text-body-base: 1rem;
+  --leading-body-base: 1.5rem;
+
+  --text-body-sm: 0.875rem;
+  --leading-body-sm: 1.5;
+
+  --text-body-md: 1.125rem;
+  --leading-body-md: 1.6;
+
+  --text-body-lg: 1.375rem;
+  --leading-body-lg: 1.6;
+
+  /* Font Family */
+  --font-sans: var(--font-sans), sans-serif;
+  --font-montserrat: var(--font-montserrat), sans-serif;
+  --font-poppins: var(--font-poppins), sans-serif;
+
+  /* Font Weights */
+  --font-weight-300: 300;
+  --font-weight-400: 400;
+  --font-weight-500: 500;
+  --font-weight-600: 600;
+  --font-weight-700: 700;
+
+  /* Border Radius */
+  --radius: 0.75rem;
+  --radius-sm: 0.75rem;
+  --radius-md: 0.95rem;
+  --radius-lg: 1rem;
+  --radius-pill: calc(infinity * 1px);
+
+  /* Animations */
+  --animate-accordion-down: accordion-down 0.2s ease-out;
+  --animate-accordion-up: accordion-up 0.2s ease-out;
+
+  /* Breakpoints */
+  --breakpoint-xs: 400px;
+  --breakpoint-xxl: 1400px;
+}
+
+@keyframes accordion-down {
+  from {
+    height: 0;
+  }
+  to {
+    height: var(--radix-accordion-content-height);
+  }
+}
+
+@keyframes accordion-up {
+  from {
+    height: var(--radix-accordion-content-height);
+  }
+  to {
+    height: 0;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+@layer utilities {
+  /* Scrollbar styling from v3 CSS */
+  .bar::-webkit-scrollbar {
+    width: 12px;
+    height: 12px;
+  }
+
+  .bar::-webkit-scrollbar-track {
+    border-radius: 100vh;
+    background: hsl(var(--muted));
+  }
+
+  .bar::-webkit-scrollbar-thumb {
+    background: hsl(var(--primary));
+    border-radius: 100vh;
+  }
+
+  .barMini::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  .barMini::-webkit-scrollbar-track {
+    border-radius: 100vh;
+    background: hsl(var(--muted));
+  }
+
+  .barMini::-webkit-scrollbar-thumb {
+    background: var(--grey);
+    border-radius: 100vh;
+  }
+
+  /* Glass morphism utilities */
+  .glass-nav {
+    background: rgba(255, 255, 255, 0.25);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    box-shadow:
+      0 8px 32px rgba(0, 0, 0, 0.08),
+      0 0 0 1px rgba(255, 255, 255, 0.05);
+  }
+
+  .glass-button {
+    background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+  }
+
+  .glass-button-active {
+    background: rgba(255, 211, 0, 0.1);
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
+    border: 1px solid rgba(255, 211, 0, 0.2);
+  }
+
+  .blogDetail {
+    @apply text-base;
+  }
+
+  .blogDetail h1 {
+    @apply mb-[1.5rem] text-[1.875rem] font-500 leading-[1] text-foreground xl:text-[2.5rem];
+  }
+
+  .blogDetail h2 {
+    @apply my-[1.3rem] text-[1.625rem] font-500 leading-[1.5rem] text-foreground xl:text-[2rem];
+  }
+
+  .blogDetail h3 {
+    @apply my-[1rem] text-[1.5rem] font-500 leading-[1.5rem] text-foreground xl:text-[1.75rem];
+  }
+
+  .blogDetail h4 {
+    @apply my-[0.8rem] text-[1.3rem] font-500 leading-[1.4rem] text-foreground xl:text-[1.5rem];
+  }
+
+  .blogDetail img {
+    @apply my-[1.5rem] rounded-[1.5rem];
+  }
+
+  .blogDetail span {
+    @apply leading-[2rem] text-foreground;
+  }
+
+  .blogDetail ul {
+    @apply mb-[0.8rem] list-disc ps-[1.25rem] marker:text-[13px] marker:text-foreground;
+  }
+
+  .blogDetail ol {
+    @apply mb-[1rem] list-decimal ps-[1.25rem] marker:text-[13px] marker:text-foreground;
+  }
+
+  .blogDetail a {
+    @apply text-primary underline underline-offset-4;
+  }
+
+  .blogDetail p {
+    @apply mb-[0.5rem];
+  }
+
+  .blogDetail iframe {
+    @apply aspect-video w-full;
+  }
+
+  .blogDetail strong {
+    @apply font-600 text-foreground;
+  }
+}

@@ -1,0 +1,2545 @@
+{
+  "HomePage": {
+    "metaData": {
+      "title": "Acquista la migliore eSIM Yaalo prepagata per viaggiare",
+      "description": "Ottieni la migliore eSIM Yaalo per viaggi internazionali su iPhone, iPad e Android. Piani convenienti, attivazione immediata e connessione istantanea.",
+      "keywords": "eSIM, compra eSIM, eSIM internazionale, eSIM locale, piano dati eSIM, eSIM viaggio, eSIM Italia, eSIM prepagata"
+    },
+    "hero": {
+      "title": "<brand>Yaalo <product>eSIM</product></brand> Viaggia nel mondo, non nelle tariffe",
+      "subtitle": " I tuoi viaggi diventano più semplici. Con l’acquisto di Yaalo eSIM atterri, ti connetti e ottieni dati 5G istantanei in oltre 200 destinazioni a tariffe locali.",
+      "tagTitle": "Libertà digitale con attivazione in 3 passaggi",
+      "downloadApp": "Scarica l’app ora"
+    },
+    "esimFeatures": {
+      "features": {
+        "Local": {
+          "title": "Tariffe locali",
+          "description": "Piani dati pensati per lo stile di viaggio, non per costi di roaming."
+        },
+        "Plug": {
+          "title": "Attiva e vai online",
+          "description": "Dati che viaggiano con te, con la semplicità plug-and-play"
+        },
+        "Buy": {
+          "title": "Acquista online",
+          "description": "Da Parigi a Praga fino a Porto, senza cambiare SIM."
+        },
+        "Support": {
+          "title": "Assistenza sempre attiva",
+          "description": "Hai bisogno di aiuto alle 2 di notte? Noi ci siamo."
+        }
+      }
+    },
+    "startingPrice": {
+      "title": "Scegli la tua avventura",
+      "subtitle": "Trova le eSIM Yaalo create per il tuo itinerario",
+      "tabs": {
+        "local": "Locale",
+        "regional": "Regionale",
+        "global": "Globale"
+      },
+      "allDestinations": "Cerca la tua destinazione",
+      "startsAt": "A partire da 4,09 €",
+      "globalPackage": "Pacchetti globali",
+      "noOfCountries": "149 Paesi supportati",
+      "startsPrice": "A partire da"
+    },
+    "esimCompatible": {
+      "title": "Il tuo telefono supporta eSIM?",
+      "description": "Verifica in pochi secondi! Inserisci marca e modello per controllare la compatibilità. Oggi la maggior parte dei dispositivi di fascia alta supporta eSIM.",
+      "compatibleBtn": "Tutti i telefoni compatibili con eSIM",
+      "checkCompatibility": "Verifica la compatibilità eSIM qui:"
+    },
+    "whyEsim": {
+      "title": "Perché i viaggiatori scelgono Yaalo?",
+      "description": " Perché offre zero costi di roaming e una eSIM da viaggio internazionale per oltre 200 destinazioni: Yaalo è la scelta migliore.",
+      "cards": {
+        "1": {
+          "title": "Viaggia leggero, resta connesso",
+          "body": "Nessun modulo lungo e nessuna verifica documentale. Solo libertà digitale con attivazione in 3 passaggi. Ti basta un’email per ricevere il QR code."
+        },
+        "2": {
+          "title": "Il tuo passaporto dati",
+          "body": "Copertura immediata in oltre 200 Paesi con piani eSIM Locali, Regionali e Globali. Connettiti in pochi secondi dal divano di casa o appena atterrato in aeroporto."
+        },
+        "3": {
+          "title": "Conveniente e senza confini",
+          "body": "Niente spese impreviste. Paghi solo ciò che usi, con tariffe locali, prezzi chiari e totale trasparenza. Viaggia nel mondo in totale tranquillità."
+        },
+        "4": {
+          "title": "Tethering e hotspot",
+          "body": "Nessuna limitazione o rallentamento dei dati. Collega il laptop o condividi hotspot con altri dispositivi senza stress. Con Yaalo la connessione resta stabile."
+        },
+        "5": {
+          "title": "Eco-friendly e tecnologia pulita",
+          "body": "Prendersi cura del pianeta conta. Yaalo elimina la plastica delle SIM fisiche per un’esperienza digitale più sostenibile e senza sprechi."
+        },
+        "6": {
+          "title": "L’app Yaalo (iOS e Android)",
+          "body": "Monitora il consumo, ricarica ovunque e cambia piano in tempo reale. Tecnologia di viaggio semplice con la dashboard Yaalo, disponibile su Apple e Google Play Store."
+        }
+      },
+      "showPlansBtn": " Mostrami i piani eSIM"
+    },
+    "faqsData": {
+      "title": "Hai qualche dubbio? Le FAQ ti aiutano!",
+      "description": "Risposte rapide alle domande più comuni.",
+      "faqs": {
+        "1": {
+          "title": "La eSIM è utile per viaggiare?",
+          "body": "Sì! Yaalo eSIM è pensata per i viaggiatori. Con oltre 200 destinazioni (Locali, Regionali e Globali), niente costi di roaming e nessuna SIM fisica. Solo connessione continua."
+        },
+        "2": {
+          "title": "Qual è la migliore eSIM per viaggiare?",
+          "body": "Ogni viaggiatore ha esigenze diverse. Yaalo offre piani dati eSIM fissi e illimitati, oltre a opzioni Dati+Voce+SMS. Scegli il piano più adatto alle tue necessità."
+        },
+        "3": {
+          "title": "Posso installare la eSIM prima di partire?",
+          "body": "Certo. Puoi installare la tua Yaalo eSIM prima della partenza. Il piano si attiva quando atterri e utilizzi il primo byte di dati."
+        },
+        "4": {
+          "title": "Posso usare la eSIM in qualsiasi Paese?",
+          "body": "Molto probabilmente sì. Supportiamo oltre 200 località con piani Locali, Regionali e Globali. Controlla sempre l’elenco Paesi prima dell’acquisto."
+        },
+        "5": {
+          "title": "Quali dispositivi sono compatibili con eSIM?",
+          "body": "I dispositivi moderni Apple, Samsung, Google e altri supportano eSIM. Se il tuo telefono è recente, è molto probabile che sia compatibile con Yaalo eSIM."
+        },
+        "6": {
+          "title": "Come so se la mia eSIM è attiva?",
+          "body": "Se dopo l’atterraggio visualizzi la rete Yaalo e i dati funzionano, la tua eSIM è attiva. Puoi anche controllare l’utilizzo dall’app."
+        },
+        "7": {
+          "title": "Cosa succede se Yaalo eSIM non funziona in un Paese?",
+          "body": "Se la connessione dati non funziona, contatta il nostro supporto. Ti aiuteremo a risolvere o ti offriremo un rimborso se necessario."
+        },
+        "8": {
+          "title": "Posso ricaricare o estendere un piano?",
+          "body": "Sì. Puoi estendere i dati o la validità direttamente dall’app Yaalo. Le ricariche si attivano subito."
+        },
+        "9": {
+          "title": "La mia Yaalo eSIM è sicura?",
+          "body": "Assolutamente sì. Utilizziamo crittografia standard di settore e download sicuri dei profili per proteggere dati e identità."
+        }
+      }
+    },
+    "Reviews": {
+      "title": "Le voci dei viaggiatori: Yaalo per sempre!",
+      "noReviews": "Nessuna recensione disponibile al momento.",
+      "reviews": {
+        "1": "Installazione in 30 secondi a Heathrow, senza documenti o costi extra. Il miglior trucco da viaggio.",
+        "2": "Ho usato Yaalo eSIM da Roma a Berlino senza mai perdere segnale. Ricarica veloce dall’app.",
+        "3": "Molto più economica del roaming. Ho contattato l’assistenza e hanno risposto in meno di un minuto.",
+        "4": "Scaricata durante il volo per New York. All’atterraggio ricevevo già messaggi WhatsApp.",
+        "5": "Ho viaggiato in tre Paesi senza toccare le impostazioni. Esperienza di viaggio super fluida.",
+        "6": "eSIM scaricata in pochi minuti e connessione ovunque. Il viaggio è stato molto più leggero."
+      }
+    }
+  },
+  "SlugPage": {
+    "getCardsData": {
+      "title": "Quali vantaggi offre Yaalo per la eSIM da viaggio in <br></br> {countryName}?",
+
+      "cards": {
+        "1": {
+          "title": "Connessione immediata",
+          "body": "Salta le code per le SIM e la burocrazia. Con Yaalo eSIM puoi connetterti in {countryName} in pochi minuti. Scansiona il QR code, attiva il piano e inizia a navigare. Zero attività fisica!"
+        },
+        "2": {
+          "title": "Ricevuta subito via email",
+          "body": "Nessuna attesa, nessun ritardo di spedizione. Dopo l’acquisto, il QR code della tua eSIM arriva immediatamente via email, così puoi configurarla ancora prima di arrivare in {countryName}. Yaalo punta alla perfezione per residenti e viaggiatori."
+        },
+        "3": {
+          "title": "Pensata per viaggiatori e residenti",
+          "body": "Che tu stia esplorando {countryName} per pochi giorni o restando più a lungo per lavoro, Yaalo eSIM ti mantiene online con dati ad alta velocità, senza roaming né costi improvvisi. È pratica, conveniente e adatta all’uso quotidiano."
+        },
+        "4": {
+          "title": "Mantieni attivo il tuo numero principale",
+          "body": "Resta raggiungibile sulla tua SIM principale mentre utilizzi Yaalo eSIM per i dati in ${countryName}. I dispositivi compatibili con eSIM e Dual SIM ti permettono di gestire chiamate personali e dati locali senza perdere nulla di importante."
+        },
+        "5": {
+          "title": "Piani flessibili su misura",
+          "body": "Dai pacchetti dati a breve termine alle soluzioni per soggiorni lunghi, Yaalo offre piani flessibili per ogni viaggiatore. Prezzi trasparenti, nessun costo nascosto. Solo i dati che ti servono, quando ti servono."
+        },
+        "6": {
+          "title": "Assistenza esperta, sempre",
+          "body": "Se hai bisogno di aiuto, il team di supporto Yaalo è disponibile 24/7. Ricevi assistenza rapida via chat, email o WhatsApp da esperti reali che tengono alla tua esperienza."
+        }
+      }
+    },
+    "faqsData": {
+      "title": "Domande frequenti{countryName, select, undefined {} other { sulla eSIM per {countryName}}}",
+      "description": "Trova risposte rapide alle domande più comuni.",
+      "faqs": {
+        "1": {
+          "title": "Quale piano dati eSIM scegliere per {countryName}?",
+          "body": "Dipende dalla durata del soggiorno e dal tuo utilizzo dei dati. Yaalo offre piani eSIM flessibili per {countryName}, dai pacchetti a breve termine per viaggiatori alle opzioni con validità più lunga per lavoratori da remoto o nomadi digitali. Puoi confrontare le dimensioni dei piani nella pagina del Paese prima del checkout per scegliere quello più adatto al tuo viaggio."
+        },
+        "2": {
+          "title": "Come acquistare una eSIM in {countryName}?",
+          "body": "È semplice e totalmente online. Visita la pagina eSIM Yaalo per {countryName}, scegli il piano e completa il pagamento. Riceverai subito via email un QR code da scansionare per installare la tua eSIM in pochi minuti. Niente documenti, niente spedizioni, nessuna attesa."
+        },
+        "3": {
+          "title": "Come attivo la mia Yaalo eSIM?",
+          "body": "Dopo l’acquisto riceverai un’email con il QR code e la guida all’installazione. Apri le impostazioni del telefono, scansiona il QR e segui le istruzioni. Una volta installata, la eSIM si attiva automaticamente quando ti connetti a una rete locale in {countryName}."
+        },
+        "4": {
+          "title": "Come utilizzo la mia Yaalo eSIM mentre sono in {countryName}?",
+          "body": "Dopo l’attivazione, puoi usare Yaalo eSIM come un normale piano mobile. Naviga sul web, usa le mappe, effettua chiamate internet o guarda contenuti in streaming. Si connette automaticamente al miglior operatore locale disponibile per un’esperienza veloce e stabile."
+        },
+        "5": {
+          "title": "Quando inizia a scalare il mio piano dati?",
+          "body": "Il piano parte solo quando la tua eSIM si connette a una rete mobile in {countryName}. Puoi quindi acquistare e installare la eSIM in anticipo senza perdere giorni di validità, ideale per chi ama organizzarsi prima del viaggio."
+        },
+        "6": {
+          "title": "Posso ricaricare o estendere il mio piano Yaalo eSIM?",
+          "body": "Sì! Se hai bisogno di più dati o di più tempo, accedi alla dashboard dell’app Yaalo o utilizza il link presente nell’email di conferma per aggiungere dati extra. Le ricariche sono immediate e non richiedono reinstallazione."
+        },
+        "7": {
+          "title": "Posso richiedere un rimborso se non utilizzo la mia Yaalo eSIM?",
+          "body": "Se la tua eSIM non è stata attivata o scaricata, puoi richiedere un rimborso secondo la politica di utilizzo corretto di Yaalo. Una volta attivata o scansionata, il piano non è rimborsabile poiché le risorse di connettività vengono allocate immediatamente. Il nostro supporto può comunque aiutarti a risolvere eventuali problemi di configurazione."
+        },
+        "8": {
+          "title": "Qual è la politica di utilizzo corretto di Yaalo per i piani dati illimitati?",
+          "body": "I piani dati illimitati sono pensati per un uso personale e corretto. Per garantire velocità stabili a tutti, un utilizzo molto elevato o non tipico può comportare un’ottimizzazione ragionevole della velocità oltre una certa soglia, come avviene con qualsiasi operatore locale."
+        },
+        "9": {
+          "title": "Posso usare insieme la SIM fisica e la Yaalo eSIM?",
+          "body": "Sì, la maggior parte degli smartphone moderni supporta la funzione Dual SIM. Puoi mantenere attiva la tua SIM principale per chiamate o messaggi e utilizzare Yaalo eSIM per dati locali veloci in {countryName}."
+        },
+        "10": {
+          "title": "Posso condividere i dati della mia Yaalo eSIM tramite hotspot o tethering?",
+          "body": "Sulla maggior parte dei dispositivi supportati, sì. Puoi attivare l’hotspot del telefono per condividere i dati con laptop, tablet o compagni di viaggio."
+        }
+      }
+    }
+  },
+  "GlobalPage": {
+    "metaData": {
+      "title": "Ottieni eSIM internazionale per viaggiatori | Piani dati prepagati",
+      "description": "Connettiti a livello internazionale con i pacchetti dati Global eSIM. Ideali per viaggiatori che necessitano di connessione in più Paesi senza costi di roaming.",
+      "keywords": "eSIM internazionale, compra eSIM globale, piani eSIM globali, eSIM viaggio, eSIM dati, eSIM prepagata, connettività globale"
+    },
+    "global": "Globale",
+    "hero": {
+      "heading": "Viaggia nel mondo con la eSIM internazionale globale di Yaalo",
+      "description": "La migliore eSIM per viaggiatori, per dire addio a ogni complicazione nel tuo prossimo giro del mondo"
+    },
+    "tabs": {
+      "local": "Locale",
+      "regional": "Regionale",
+      "global": "Globale"
+    },
+    "globalFeatureData": {
+      "title": "Vantaggi e funzionalità della eSIM globale Yaalo",
+
+      "cards": {
+        "1": {
+          "title": "Connessioni sicure di cui puoi fidarti",
+          "body": "Resta connesso ovunque senza compromettere i tuoi dati. La eSIM globale Yaalo utilizza crittografia avanzata e partnership con reti affidabili per offrirti una connettività privata e sicura in tutto il mondo."
+        },
+        "2": {
+          "title": "Configurazione rapida e semplice",
+          "body": "Basta cambiare SIM continuamente. Con le eSIM da viaggio Yaalo sei online in pochi minuti. La tua eSIM globale si attiva prima ancora del secondo sorso di caffè. Valorizza tempo, comodità e affidabilità."
+        },
+        "3": {
+          "title": "Internet ultraveloce in tutto il mondo",
+          "body": "Goditi una connessione fluida durante i tuoi viaggi globali. Yaalo collabora con operatori di alto livello in oltre 200 Paesi per offrire dati ad alta velocità e roaming stabile. Streaming, navigazione e contatti senza interruzioni."
+        },
+        "4": {
+          "title": "Piani dati flessibili per ogni viaggiatore",
+          "body": "Nomade digitale, viaggiatore business o backpacker: Yaalo offre piani dati eSIM flessibili per ogni stile di viaggio. Scegli pacchetti giornalieri, settimanali o mensili. Scarica l’app Yaalo per avere il pieno controllo."
+        },
+        "5": {
+          "title": "Attivazione immediata",
+          "body": "Le eSIM Yaalo per viaggi internazionali si attivano all’istante. Acquista, scansiona il QR code e vai online. Perfette per viaggi spontanei, scali e avventure dell’ultimo minuto."
+        },
+        "6": {
+          "title": "Protezione della privacy",
+          "body": "Proteggi le tue informazioni personali mentre viaggi all’estero. La eSIM globale Yaalo non richiede registrazioni fisiche con operatori locali, riducendo il rischio di frodi SIM o esposizione dell’identità. I tuoi dati restano sempre sicuri e privati."
+        }
+      }
+    },
+    "faqsData": {
+      "title": "Domande frequenti",
+      "description": "Trova risposte rapide alle domande più comuni.",
+      "faqs": {
+        "1": {
+          "title": "Cos’è una eSIM globale?",
+          "body": "È una singola eSIM che ti permette di restare connesso in tutto il mondo senza cambiare SIM o acquistare nuove eSIM. Con un piano eSIM globale Yaalo puoi collegarti agli operatori locali di ogni Paese in cui arrivi. Disattiva la modalità aereo all’atterraggio e la connessione è immediata."
+        },
+        "2": {
+          "title": "Quale piano eSIM dovrei scegliere per il mio viaggio?",
+          "body": "Scegli il piano in base al tuo utilizzo. Per un uso leggero (mappe, email) opta per 1–3 GB a breve termine; per streaming, videochiamate o lavoro da remoto scegli 10–20+ GB o una validità più lunga. Se hai dubbi, parti con un piano intermedio e ricarica facilmente dall’app Yaalo."
+        },
+        "3": {
+          "title": "La eSIM globale Yaalo è migliore delle SIM locali?",
+          "body": "Sì. La eSIM globale Yaalo evita il cambio di SIM e la ricerca di negozi locali. Funziona in oltre 200 Paesi, si attiva subito e non prevede costi di roaming. Puoi mantenere attivo il tuo numero principale e usare Yaalo per i dati: è più veloce, semplice e affidabile per viaggi brevi o multi-Paese."
+        },
+        "4": {
+          "title": "Come attivo la mia eSIM Yaalo?",
+          "body": "Dopo l’acquisto riceverai un QR code e una guida passo-passo via app ed email. Apri Impostazioni > Cellulare > Aggiungi piano cellulare e scansiona il QR (iPhone/Android). L’attivazione richiede pochi secondi; se supportato, l’app offre anche l’installazione automatica."
+        },
+        "5": {
+          "title": "Quando inizia il mio piano dati e quanto dura?",
+          "body": "Il piano inizia al momento dell’attivazione, quando il profilo eSIM diventa attivo sul telefono, non al momento dell’acquisto. La validità dipende dal piano scelto (ad esempio 7, 15 o 30 giorni). Nell’app Yaalo trovi date e orari di inizio/fine esatti."
+        },
+        "6": {
+          "title": "Quanto costa una eSIM globale Yaalo?",
+          "body": "In base allo stile di utilizzo, Yaalo offre piani eSIM globali a partire da 4,39 €. Sono disponibili piani fissi, illimitati e dati+voce+SMS. Verifica sempre i dettagli del piano prima dell’acquisto."
+        },
+        "7": {
+          "title": "Posso usare insieme la SIM fisica e la eSIM globale Yaalo?",
+          "body": "Sì. Se il tuo dispositivo supporta il Dual SIM (SIM fisica + eSIM), puoi mantenere attivo il tuo numero principale e usare Yaalo per i dati. Controlla le impostazioni Dual SIM del telefono per abilitare entrambe le linee."
+        },
+        "8": {
+          "title": "Posso usare hotspot personale o tethering con Yaalo eSIM?",
+          "body": "Sì, è consentito condividere la connessione tramite hotspot personale o tethering. Se utilizzi più dispositivi o consumi molti dati, scegliere il piano eSIM globale più adatto è particolarmente vantaggioso."
+        },
+        "9": {
+          "title": "La mia eSIM funzionerà spostandomi tra Paesi vicini?",
+          "body": "Yaalo offre piani locali, regionali e globali. Un piano eSIM globale ti consente di viaggiare tra più Paesi con un unico piano. Seleziona il piano globale più adatto al tuo utilizzo e goditi una connettività continua ovunque tu atterri."
+        }
+      }
+    }
+  },
+  "EsimPage": {
+    "metaData": {
+      "title": "Acquista eSIM locale per oltre 200 Paesi | Dati 5G illimitati",
+      "description": "Ottieni la eSIM Yaalo con copertura globale 5G in oltre 200 destinazioni. Viaggia senza costi di roaming: connettività veloce, flessibile e conveniente in tutto il mondo.",
+      "keywords": "eSIM, compra eSIM, eSIM locale, eSIM regionale, piani eSIM, eSIM viaggio, eSIM dati, eSIM prepagata, connettività globale"
+    },
+    "hero": {
+      "heading": "Viaggia nel mondo con Yaalo – Connettività globale senza interruzioni!",
+      "description": "Acquistare una eSIM online non è mai stato così semplice"
+    },
+    "tabs": {
+      "local": "Locale",
+      "regional": "Regionale",
+      "global": "Globale"
+    },
+    "esimPageFeatureData": {
+      "title": "Perché i viaggiatori scelgono Yaalo?",
+      "description": " Per zero costi di roaming e una eSIM da viaggio internazionale valida in oltre 200 destinazioni: Yaalo è la scelta migliore.",
+      "cards": {
+        "1": {
+          "title": "Basata su fiducia e sicurezza",
+          "body": "Ogni eSIM Yaalo è crittografata end-to-end. I tuoi dati sono completamente protetti senza rischi. Solo connettività sicura e privata per navigare, guardare contenuti e condividere liberamente."
+        },
+        "2": {
+          "title": "Prezzi trasparenti",
+          "body": "Dimentica costi di roaming elevati o spese nascoste. Yaalo offre piani eSIM prepagati con tariffe chiare. Scegli tra pacchetti dati fissi o piani illimitati e paga solo ciò che utilizzi."
+        },
+        "3": {
+          "title": "Configurazione immediata, zero sforzi",
+          "body": "Acquista, scansiona e vai online in pochi minuti, senza cercare sportelli in aeroporto, verificare documenti o pagare per la plastica. Solo connettività a portata di mano."
+        },
+        "4": {
+          "title": "Una sola eSIM per tutto il viaggio",
+          "body": "Più Paesi, un’intera regione o un giro del mondo completo. La eSIM Yaalo per viaggi locali, regionali e globali è la soluzione unica. Internet 4G/5G ad alta velocità senza mai cambiare SIM."
+        },
+        "5": {
+          "title": "Pensata per i viaggiatori moderni",
+          "body": "Ogni viaggiatore è diverso, così come i piani eSIM Yaalo. Per nomadi digitali, professionisti, studenti, lavoratori e aziende, Yaalo ha un piano eSIM per tutti."
+        },
+        "6": {
+          "title": "Assistenza umana sempre attiva",
+          "body": "Il nostro team di supporto non dorme mai. Giorno e notte, parli con persone reali che parlano la tua lingua e risolvono i problemi rapidamente, non con bot."
+        }
+      }
+    },
+    "whyYaalo": {
+      "cards": {
+        "1": {
+          "title": "Perché scegliere Yaalo eSIM per la connettività?",
+          "paras": {
+            "1": "La risposta è comodità, con un approccio migliore alla connettività. In viaggio gestisci già molte cose e acquistare una SIM fisica complica tutto.",
+            "2": "Con Yaalo eSIM ti liberi da ogni pensiero. Acquisti online, scansioni il QR code e sei pronto in pochi minuti, con il miglior segnale 4G o 5G ovunque atterri.",
+            "3": "Essendo 100% digitale, niente sorprese in bolletta, nessuna SIM persa e nessuna complicazione extra. Solo internet immediato, prezzi chiari e la libertà di muoverti come vuoi."
+          }
+        },
+        "2": {
+          "title": "Come si posiziona Yaalo come fornitore eSIM?",
+          "paras": {
+            "1": "Il miglior rapporto qualità-prezzo è fondamentale, e Yaalo lo garantisce. Una scansione veloce e sei online in oltre 200 destinazioni, pagando tariffe locali invece di costi turistici. Niente trappole di roaming, nessuna verifica con passaporto o rischi inutili. Solo dati veloci e affidabili, con hotspot consentito.",
+            "2": "La gamma di piani eSIM include opzioni dati fissi e illimitati a livello globale, oltre a eSIM dati + voce + SMS in Paesi selezionati. Tutto prepagato, trasparente e attivo in pochi minuti. Yaalo segue rigorosamente una politica pay-as-you-go apprezzata dalla comunità dei viaggiatori internazionali."
+          }
+        },
+        "3": {
+          "title": "Perché scegliere Yaalo eSIM?",
+          "paras": {
+            "1": "La risposta è semplice: perché Yaalo mantiene le promesse. Yaalo si prende cura di ogni globetrotter, nomade digitale, studente, lavoratore o professionista. Le seguenti caratteristiche ti convinceranno:"
+          }
+        }
+      }
+    },
+    "exploreEsims": "Esplora i dati eSIM Yaalo per oltre 200 destinazioni",
+    "anyCountry": "qualsiasi Paese",
+    "EmailReceive": {
+      "title": "La tua eSIM Yaalo arriva subito, senza complicazioni!",
+      "description": "Una volta completato l’ordine, la tua eSIM Yaalo arriva direttamente nella tua email o all’interno dell’app Yaalo. Apri, scansiona e sei online: tutto qui. In pochi minuti sarai connesso in {countryName} con dati veloci e affidabili per condividere, navigare e guardare contenuti ovunque ti porti il viaggio."
+    },
+    "faqsData": {
+      "title": "Domande frequenti",
+      "description": "Trova risposte rapide alle domande più comuni.",
+      "faqs": {
+        "1": {
+          "title": " Posso installare la mia eSIM Yaalo prima di viaggiare?",
+          "body": "Assolutamente sì. Puoi scaricare e installare la tua eSIM Yaalo mentre sei ancora a casa e connesso al Wi-Fi. Il piano si attiva solo quando atterri e inizi a usare i dati, quindi nessuna fretta o preoccupazione in aeroporto."
+        },
+        "2": {
+          "title": "Cos’è esattamente una eSIM e come funziona?",
+          "body": "Una eSIM (SIM integrata) è un chip digitale incorporato nel tuo smartphone, tablet o laptop. Invece di inserire una SIM fisica, acquisti il piano eSIM online, scansiona il QR code e ti connetti subito. Con Yaalo niente negozi e niente sostituzioni: basta scansionare e partire."
+        },
+        "3": {
+          "title": "Avrò costi di roaming o spese nascoste con una eSIM Yaalo?",
+          "body": "Mai. Ogni piano eSIM internazionale Yaalo è prepagato con prezzi chiari fin dall’inizio. Scegli destinazione e pacchetto dati e paghi solo quello. Nessun contratto, nessun roaming, nessuna sorpresa. Solo connettività trasparente ovunque viaggi."
+        },
+        "4": {
+          "title": "Posso effettuare chiamate o inviare SMS con la mia eSIM Yaalo?",
+          "body": "Sì, in base al piano scelto. Alcune destinazioni offrono piani solo dati, altre includono dati + voce + SMS. Con i piani solo dati puoi comunque chiamare o messaggiare tramite WhatsApp, FaceTime o qualsiasi app VOIP utilizzando la connessione Yaalo."
+        }
+      }
+    }
+  },
+  "RegionalPage": {
+    "metaData": {
+      "title": "eSIM regionali: Dati convenienti per oltre 200 Paesi",
+      "description": "Ottieni eSIM regionali con tariffe locali per oltre 200 destinazioni. Piani prepagati affidabili per una connettività fluida durante viaggi internazionali e locali.",
+      "keywords": "eSIM, compra eSIM, eSIM regionale, eSIM locale, piani eSIM, eSIM viaggio, dati eSIM, eSIM prepagata, connettività"
+    },
+    "hero": {
+      "heading": "eSIM regionale di Yaalo – Una connessione per ogni confine",
+      "description": "Yaalo mantiene il tuo mondo connesso, ovunque ti porti la mappa.",
+      "descriptionTwo": "Vantaggi e funzionalità della eSIM regionale Yaalo"
+    },
+    "tabs": {
+      "local": "Locale",
+      "regional": "Regionale",
+      "global": "Globale"
+    },
+    "discoverEsim": "Scopri i migliori piani eSIM regionali nei continenti!",
+    "anyCountry": "qualsiasi Paese",
+    "startsAt": "A partire da",
+    "regionalPageFeaturesData": {
+      "title": "Resta connesso oltre i confini",
+      "description": "Nessun problema di slot SIM e nessun avviso di perdita di connessione. Con la eSIM regionale Yaalo ottieni copertura continua in più Paesi della stessa regione, dalle città europee alle isole asiatiche. I tuoi dati viaggiano con te, ovunque tu vada.",
+      "cards": {
+        "1": {
+          "title": "Resta connesso oltre i confini",
+          "body": "Nessun problema di slot SIM e nessun avviso di perdita di connessione. Con la eSIM regionale Yaalo ottieni copertura continua in più Paesi della stessa regione, dalle città europee alle isole asiatiche. I tuoi dati viaggiano con te, ovunque tu vada."
+        },
+        "2": {
+          "title": "Pronta per il viaggio, conveniente",
+          "body": "Resta online senza svuotare il portafoglio. Yaalo offre piani eSIM regionali con costi chiari e corretti. Niente incubi di roaming o extra nascosti. Paghi solo ciò che ti serve e navighi veloce ovunque."
+        },
+        "3": {
+          "title": "Internet 4G e 5G ad alta velocità",
+          "body": "Streaming, lavoro e condivisione in tempo reale. La eSIM regionale Yaalo ti collega alle migliori reti locali per velocità 4G e 5G affidabili. Visita più Paesi nella stessa regione senza perdita di dati o Wi-Fi non sicuri."
+        },
+        "4": {
+          "title": "Una eSIM per tutta la regione",
+          "body": "Viaggi in più Paesi della regione europea? Nessun problema. Con la eSIM regionale Europa di Yaalo, goditi una connettività continua in tutti i 50 Paesi con una sola eSIM. Con Yaalo, le possibilità sono infinite."
+        },
+        "5": {
+          "title": "Piani flessibili per ogni viaggio",
+          "body": "Fuga breve o tour di un mese? Yaalo ti permette di scegliere dati e durata in base al tuo stile di viaggio. I piani vanno da 1GB a 100GB fino a illimitati e durano da 3 a 30 giorni, con opzioni solo dati o dati+voce+SMS."
+        },
+        "6": {
+          "title": "Configurazione in pochi minuti",
+          "body": "Code e verifiche documentali sono un ricordo del passato. Basta toccare, scansionare e sei online. Attiva subito la tua eSIM regionale Yaalo dal sito o dall’app Yaalo (disponibile su iOS e Android) e connettiti prima ancora di disfare la valigia."
+        }
+      }
+    },
+    "Reviews": {
+      "title": "Scopri cosa dicono i nostri clienti",
+      "noReviews": "Nessuna recensione disponibile al momento.",
+      "reviews": {
+        "1": "Mi considero una persona difficile da soddisfare, ma Yaalo ha fatto un ottimo lavoro. Viaggio spesso in Nord America per lavoro e ora almeno il problema della connessione è risolto. Consigliato.",
+        "2": "Uso Yaalo da alcuni mesi e adoro il loro supporto clienti, tanto da scrivere questa recensione. Ho avuto un problema aggiungendo un nuovo piano dati alla mia eSIM e il team è stato davvero collaborativo e risolutivo.",
+        "3": "Mi sposto spesso tra Australia e Figi. La connettività è sempre stata un problema per me. Cambiare SIM e piani dati richiede tempo e denaro. Yaalo mi ha fatto risparmiare molto. Continuerò a usarla.",
+        "4": "Ho viaggiato in tutta la regione africana con la eSIM regionale Africa di Yaalo e non ha perso il segnale nemmeno per un secondo. Con circa 34 $, è durata tutto il mese, perfetta per il mio lavoro quotidiano. Se cerchi una buona connessione a prezzi accessibili, consiglio Yaalo.",
+        "5": "In Asia facevo fatica a trovare una eSIM affidabile, ma con Yaalo non è stato così. L’ho provata durante il mio viaggio in Giappone ed è stata un’esperienza senza pensieri. Di solito non scrivo recensioni, ma Yaalo lo meritava.",
+        "6": "Vivere in Europa significa lottare per trovare piani eSIM convenienti. Avere 20GB di dati a sole 21£ per un mese è stato un regalo. Inoltre l’app è intuitiva e facile da usare. Fantastico."
+      }
+    },
+    "whyChooseCardsData": {
+      "title": "Perché scegliere la eSIM Yaalo per viaggi regionali?",
+      "description": "Viaggiatori smart e aziende in tutto il mondo si fidano di Yaalo per un motivo semplice: funziona. Attivazione immediata, niente incubi di roaming, solo connettività veloce, flessibile e conveniente ovunque ti porti il viaggio.",
+      "description2": "Ecco perché Yaalo si distingue:",
+      "cards": {
+        "1": {
+          "title": "Piani flessibili e convenienti",
+          "body": "Yaalo offre piani eSIM regionali prepagati a partire da soli 2,51 $. Hai la libertà di scegliere quantità di dati e durata. Resta online per un weekend, un mese o un’intera stagione."
+        },
+        "2": {
+          "title": "Esperienza app senza interruzioni",
+          "body": "Un’unica app, più regioni, zero complicazioni. L’app Yaalo ti permette di attivare subito la tua eSIM regionale, controllare il consumo in tempo reale e ricaricare i dati con pochi tocchi."
+        },
+        "3": {
+          "title": "Vantaggi di viaggio esclusivi",
+          "body": "Yaalo crede che una buona connettività debba offrire anche piacevoli sorprese. Approfitta di dati bonus, minuti di chiamata gratuiti e offerte regionali speciali disponibili in oltre 200 destinazioni."
+        }
+      }
+    },
+    "faqsData": {
+      "title": "Domande frequenti",
+      "description": "Trova risposte rapide alle domande più comuni.",
+      "faqs": {
+        "1": {
+          "title": "Cos’è una eSIM regionale?",
+          "body": "Una eSIM regionale ti permette di restare connesso in più Paesi della stessa regione con un solo piano dati. Invece di acquistare SIM separate, Yaalo ti offre una eSIM digitale che funziona senza interruzioni in regioni come Europa, Asia o Americhe."
+        },
+        "2": {
+          "title": "Si può usare una eSIM in Paesi diversi?",
+          "body": "Sì. È proprio questo il vantaggio delle eSIM regionali Yaalo. Puoi attraversare i confini senza perdere la connessione dati o cambiare piano. Ideale per viaggi di lavoro, itinerari backpacking o vacanze multi-Paese."
+        },
+        "3": {
+          "title": "Quali regioni copre Yaalo?",
+          "body": "Yaalo offre copertura eSIM regionale nelle principali aree globali, tra cui Europa, Asia, Medio Oriente (GCC), Africa, Nord America, Sud America, Caraibi e Oceania. Ogni regione include reti dati ottimizzate per prestazioni 4G e 5G fluide."
+        },
+        "4": {
+          "title": "Qual è il miglior piano eSIM regionale Europa?",
+          "body": "I piani eSIM regionali Europa di Yaalo sono pensati per soggiorni brevi e viaggi lunghi. Puoi scegliere da 1GB a 100GB o illimitato, con validità flessibile da 1 a 30 giorni. Tutti i piani includono attivazione immediata, 5G ad alta velocità e zero costi di roaming."
+        },
+        "5": {
+          "title": "Qual è il miglior piano eSIM regionale Asia?",
+          "body": "Per chi esplora più Paesi asiatici, Yaalo offre piani eSIM regionali Asia progettati per convenienza e velocità. Goditi copertura affidabile in destinazioni come Giappone, Thailandia, Singapore e Corea del Sud, con installazione immediata e pieno supporto LTE/5G."
+        },
+        "6": {
+          "title": "Le eSIM regionali Yaalo sono prepagate o postpagate?",
+          "body": "Tutte le eSIM regionali Yaalo sono prepagate, per darti il pieno controllo del budget. Paghi una sola volta, ottieni accesso immediato e non devi mai preoccuparti di costi di roaming o spese nascoste."
+        }
+      }
+    }
+  },
+  "EsimCompatiblePage": {
+    "metaData": {
+      "title": "Elenco dispositivi compatibili con eSIM (2026) | Android e iPhone",
+      "description": "Scopri l’elenco completo dei dispositivi compatibili con eSIM, sia Android che iPhone: dai modelli più recenti a quelli meno nuovi.",
+      "keywords": "eSIM, compra eSIM, eSIM regionale, eSIM locale, compra eSIM regionale, compra eSIM locale, acquista eSIM locale, acquista eSIM regionale, dati eSIM, e-SIM, piano eSIM, eSIM store, eSIM marketplace, viaggiatore, piano dati, compra e-SIM, dati economici, connettività, telefono eSIM, compatibile eSIM, iPhone, Samsung, Huawei, Motorola"
+    },
+    "hero": {
+      "heading": "Dispositivi compatibili con Yaalo eSIM",
+      "searchPlaceholder": "Cerca telefoni compatibili",
+      "description": " Poiché molti utenti iPhone (dall’iPhone 11) conoscono l’importanza della compatibilità eSIM, tante persone non ne sono ancora consapevoli. Per questo abbiamo semplificato tutto il lavoro di ricerca: Yaalo eSIM funziona con ogni dispositivo che indica il supporto eSIM nelle specifiche.",
+      "descriptionTwo": "Tutte le info sui dispositivi supportati da eSIM, in un solo posto!",
+      "descriptionThree": " Se il tuo dispositivo è nell’elenco qui sotto, sei pronto: scansiona, installa e parti!",
+      "compatibleDevices": "Dispositivi compatibili con eSIM",
+      "noMatch": "Nessun dispositivo trovato 🙂",
+      "compatibleDevicesDescription": "Qui puoi inserire il nome del tuo dispositivo, oppure visita la nostra <FooterLink>Pagina dei dispositivi supportati</FooterLink>",
+      "searchDevice": "Cerca il tuo dispositivo",
+      "chooseBrand": "Scegli una marca",
+      "congratsText": "Congratulazioni! Il tuo telefono è compatibile",
+      "wantToBuy": " Vuoi acquistare una eSIM per",
+      "yesBuy": "Sì, acquista eSIM"
+    },
+    "numberOfeSimSupportedSmartPhones": "Numero di eSIM supportate da smartphone e wearable",
+    "iPhones": {
+      "heading": "iPhone che supportano eSIM",
+      "description": " Apple è tra i principali sostenitori della eSIM. Che tu abbia l’ultimo iPhone o un vecchio XR, quando si parla di viaggiatori, Yaalo è l’opzione giusta.",
+      "descriptionTwo": "Vuoi acquistare una Yaalo eSIM per gli USA? Ricorda: dall’uscita di iPhone 14, negli Stati Uniti ogni iPhone è solo eSIM, senza altri slot."
+    },
+    "iPads": {
+      "heading": "iPad con eSIM (modelli Cellular)",
+      "description": "Gli iPad cellular di Apple rendono il lavoro in viaggio più semplice e sono perfetti per nomadi digitali e frequent flyer. Con Yaalo eSIM, il tuo iPad si collega alle reti locali 2G, 3G, 4G o 5G in oltre 200 destinazioni con pochi tocchi.",
+      "descriptionTwo": " Tutti i modelli iPad con “Wi-Fi + Cellular” e “eSIM” o “Apple SIM” nelle specifiche sono compatibili. La configurazione richiede pochi minuti: scansiona il QR code di Yaalo in Impostazioni → Cellulare → Aggiungi eSIM."
+    },
+    "Samsung": {
+      "heading": "Telefoni Samsung che supportano eSIM",
+      "description": "Samsung è una delle scelte principali nel mondo e offre flessibilità ai viaggiatori con Dual SIM, fotocamere potenti e ora la piena libertà eSIM. Yaalo funziona perfettamente con la linea Galaxy, sia sui flagship più recenti che sui pieghevoli.",
+      "descriptionTwo": " Potrebbero esserci restrizioni o varianti regionali che si comportano in modo diverso. Controlla sempre una volta le specifiche del dispositivo."
+    },
+    "GooglePixel": {
+      "heading": "Telefoni Google Pixel che supportano eSIM",
+      "description": "Quando Google è entrata nel settore mobile, era destinata a lasciare il segno. Google ha spinto il movimento eSIM: il lancio della serie Pixel è stato un punto di svolta e Yaalo la supporta pienamente.",
+      "descriptionTwo": " Pixel 3a di alcuni Paesi del Sud-Est asiatico non supporta eSIM."
+    },
+    "Huawei": {
+      "heading": "Telefoni Huawei che supportano eSIM",
+      "description": "Huawei ha conquistato una grande fetta del mercato delle telecomunicazioni. L’hardware di livello mondiale ora include diversi dispositivi compatibili con eSIM. Yaalo sa che molti amano l’esperienza Huawei e offre supporto completo.",
+      "descriptionTwo": " Una volta installata, solo dati senza interruzioni, con la migliore eSIM Yaalo per telefoni Huawei."
+    },
+    "Oppo": {
+      "heading": "Smartphone Oppo che supportano eSIM",
+      "description": "I flagship Oppo, eleganti e potenti, portano la eSIM ai viaggiatori. Gli utenti vogliono design e prestazioni, e Oppo conferma che oggi possono avere anche la eSIM. Yaalo accoglie questo aggiornamento tecnologico di Oppo.",
+      "descriptionTwo": " La migliore eSIM da viaggio Yaalo per Oppo: facile da configurare, conveniente e pronta per il mondo. Così ti concentri sui ricordi, non sul segnale."
+    },
+    "Sony": {
+      "heading": "Telefoni Sony con eSIM",
+      "description": "Con una quota di mercato più piccola ma costante, gli smartphone Sony si distinguono per schermi cinematografici e audio deciso. Con un budget ragionevole, Sony Mobile ha introdotto dispositivi compatibili con eSIM che funzionano perfettamente con Yaalo eSIM.",
+      "descriptionTwo": " Yaalo è la migliore eSIM per telefoni Sony. Con piani dati eSIM Locali, Regionali e Globali (fissi o illimitati), puoi anche scegliere piani eSIM Dati+Voce+SMS."
+    },
+    "Xiaomi": {
+      "heading": "Telefoni Xiaomi con eSIM",
+      "description": "Xiaomi è nota per spingere l’innovazione, e per questo ha introdotto dispositivi compatibili con eSIM. Con la migliore eSIM Yaalo per telefoni Xiaomi, i viaggiatori ottengono dati globali istantanei, veloci e convenienti.",
+      "descriptionTwo": "I viaggiatori amano quanto sia semplice acquistare una eSIM online. Yaalo lo rende ancora più pratico con una connettività pulita e affidabile ovunque tu vada."
+    },
+    "Motorola": {
+      "heading": "Telefoni Motorola con eSIM",
+      "description": "Il primo produttore di telefoni, Motorola, unisce durata e design intelligente. Con la eSIM, questi dispositivi sono diventati un’opzione per molti. Yaalo capisce le esigenze delle persone e offre pieno supporto agli utenti Motorola.",
+      "descriptionTwo": " Con la migliore eSIM da viaggio Yaalo per Motorola, ottieni piani dati prepagati flessibili con velocità solide 2G/3G/4G/5G."
+    },
+    "Honor": {
+      "heading": "Telefoni HONOR che supportano eSIM",
+      "description": "HONOR è entrata nell’era eSIM con la stessa eleganza per cui è conosciuta. Foto, gaming ad alta risoluzione o batteria per i viaggi: ora anche con eSIM. Yaalo + HONOR, una scelta ottima per chi ha budget contenuti.",
+      "descriptionTwo": "Con la migliore eSIM per telefoni HONOR, i viaggiatori possono spostarsi da un Paese all’altro con dati 5G veloci. Yaalo eSIM fa in modo che restino connessi senza interruzioni."
+    },
+    "Lenovo": {
+      "heading": "Laptop Lenovo che supportano eSIM",
+      "description": "Le linee ThinkPad e Yoga di Lenovo sono pensate per professionisti sempre in movimento, e la eSIM rende questa mobilità ancora più intelligente. Inoltre, Yaalo eSIM non limita tethering e hotspot: puoi attivare la eSIM direttamente sul laptop.",
+      "descriptionTwo": "Yaalo è la migliore eSIM per gli utenti Lenovo ThinkPad: prepagata, veloce e sicura. Resta online per lavoro o intrattenimento ovunque tu atterri."
+    },
+    "Microsoft": {
+      "heading": "Dispositivi Microsoft Surface con eSIM",
+      "description": "I laptop della serie Surface di Microsoft sono veri gioielli tech che hanno rivoluzionato la vita di nomadi digitali e viaggiatori. Attiva Yaalo eSIM sul tuo laptop per reti 5G o LTE in oltre 200 destinazioni.",
+      "descriptionTwo": "Yaalo è la migliore eSIM per gli utenti Microsoft Surface: prepagata, veloce e sicura. Resta online per lavoro o intrattenimento ovunque tu atterri."
+    },
+    "Dell": {
+      "heading": "Laptop Dell con eSIM",
+      "description": "Dell, gigante del settore laptop e sempre attenta alle novità, ora offre supporto eSIM. Attiva Yaalo eSIM sui tuoi laptop Dell e viaggia da professionista, sempre connesso..",
+      "descriptionTwo": "Con la eSIM internazionale Yaalo per Dell Latitude, resti connesso a livello globale. Non perdere mai una riunione o quella serie Netflix mentre viaggi."
+    },
+    "Hp": {
+      "heading": "Laptop HP che supportano eSIM",
+      "description": "I laptop HP con connettività cellulare integrata sono pensati per chi odia restare disconnesso. Yaalo eSIM non sottovaluta mai gli aggiornamenti tecnologici di nessun produttore.",
+      "descriptionTwo": "I viaggiatori dicono che Yaalo è la migliore eSIM per HP EliteBook, con affidabilità di alto livello"
+    },
+    "OtherLaptops": {
+      "heading": "Altri laptop e tablet con eSIM",
+      "description": "Oltre ai grandi nomi, alcune aziende comprendono l’importanza delle nuove tendenze digitali per gli utenti. Yaalo accoglie chi offre supporto eSIM per il bene delle persone, soprattutto dei viaggiatori.",
+      "descriptionTwo": "I viaggiatori dicono che Yaalo è la migliore eSIM per vari brand di laptop, con affidabilità di alto livello."
+    },
+    "Watches": {
+      "heading": "Smartwatch che funzionano con eSIM",
+      "description": "C’è qualcosa di liberatorio nel lasciare il telefono e restare comunque connessi. Gli smartwatch con eSIM lo rendono possibile. Con Yaalo, la tua SIM digitale viaggia anche sul tuo polso.",
+      "descriptionTwo": "Yaalo è la migliore eSIM per smartwatch. Resta connesso in movimento con piani dati flessibili adatti al tuo stile di vita."
+    },
+    "OtherAndroid": {
+      "heading": "Altri telefoni Android che supportano eSIM",
+      "description": "Quali altri telefoni Android supportano eSIM? Dai tablet Surface Pro agli Sharp Aquos, dal Gemini PDA a Rakuten e Honor Magic: sempre più dispositivi offrono compatibilità eSIM Android per una connettività senza interruzioni."
+    },
+    "supportedSection": {
+      "heading": "Numero di eSIM supportate da smartphone e wearable",
+      "description": "Il numero di eSIM supportate dagli smartphone varia in base al produttore e al modello specifico. La maggior parte degli smartphone moderni, soprattutto i flagship dei grandi brand come Apple, Samsung e Google, supporta in genere almeno una eSIM. Tuttavia, alcuni modelli, specialmente i più recenti, possono supportarne di più, permettendo più piani o numeri sullo stesso dispositivo.",
+      "descriptionTwo": "Il numero esatto di eSIM supportate si trova di solito nelle specifiche del dispositivo. Per comodità, abbiamo elencato il numero di eSIM supportate per ciascun modello."
+    },
+    "tableHeadings": {
+      "manufacturer": "Produttore",
+      "phoneModel": " Modello di telefono",
+      "numberOfEsims": "N. di eSIM"
+    },
+    "faqsData": {
+      "title": "Domande frequenti",
+      "description": "Trova risposte rapide alle domande più comuni.",
+      "faqs": {
+        "1": {
+          "title": "Posso rendere il mio dispositivo compatibile con eSIM?",
+          "body": "Purtroppo non puoi semplicemente agitare una bacchetta magica per rendere il telefono compatibile con eSIM. È un po’ come chiedere di trasformare un tostapane in una macchina del caffè: sono costruiti in modo diverso. La compatibilità eSIM dipende dall’hardware e dal software del dispositivo, quindi se non è stato progettato per eSIM, non c’è modo di abilitarla."
+        },
+        "2": {
+          "title": "Come faccio a sapere se il mio telefono è compatibile con eSIM?",
+          "body": "Vuoi controllare se il tuo telefono è compatibile con eSIM? Dai un’occhiata alle impostazioni o alle specifiche del dispositivo. Su iPhone vai su Impostazioni → Generali → Info e cerca i dettagli eSIM. Oppure cerca online il modello del tuo telefono per verificare se supporta eSIM: rapido e semplice."
+        },
+        "3": {
+          "title": "iPhone 12 supporta eSIM?",
+          "body": "Sì, la serie iPhone 12 supporta sia nanoSIM fisiche che eSIM. Così puoi usare una linea per lavoro e un’altra per uso personale, o per viaggiare all’estero."
+        },
+        "4": {
+          "title": "La eSIM è migliore della SIM fisica?",
+          "body": "“Migliore” è una parola forte: diciamo che le eSIM sono più moderne, senza bisogno della scheda fisica, e rendono più veloce cambiare operatore o piano. Inoltre sono l’amica ideale dei viaggiatori, perché ti permettono di attivare piani dati locali senza sostituire la SIM. Ma ricorda: come per le SIM fisiche, serve che il tuo dispositivo supporti eSIM."
+        }
+      }
+    },
+    "SupportedPhoneSection": {
+      "heading": "Numero di eSIM supportate da smartphone e wearable",
+      "description": "Il numero di eSIM supportate dagli smartphone varia in base al produttore e al modello specifico. La maggior parte degli smartphone moderni, soprattutto i flagship dei grandi brand come Apple, Samsung e Google, supporta in genere almeno una eSIM. Tuttavia, alcuni modelli, specialmente i più recenti, possono supportarne di più, permettendo più piani o numeri sullo stesso dispositivo.",
+      "descriptionTwo": "Il numero esatto di eSIM supportate si trova di solito nelle specifiche del dispositivo. Per comodità, abbiamo elencato il numero di eSIM supportate per ciascun modello."
+    },
+    "stepUpInstructions": {
+      "title": "Scansiona e vai (configurazione automatica)",
+
+      "Step1": "Controlla la compatibilità",
+      "Step2": "Contatta il tuo operatore per ottenere un QR code.",
+      "Step3": "Scansiona il QR code.",
+      "Step4": "Quando appare la notifica Piano cellulare rilevato, toccala",
+      "Step5": "Tocca Continua, in fondo allo schermo.",
+      "Step6": "Tocca Aggiungi piano cellulare. Se ti viene chiesto un codice di conferma per attivare la eSIM, inserisci il numero fornito dal tuo operatore."
+    },
+    "manualInstructions": {
+      "title": "Inserisci manualmente (se ti piace avere il controllo)",
+
+      "Step1": "Vai su Impostazioni → Rete mobile → Aggiungi eSIM.",
+      "Step2": "Scegli Inserisci dettagli manualmente.",
+      "Step3": "Copia le informazioni dalla tua email Yaalo con l’indirizzo SM-DP+ e il codice di attivazione.",
+      "Step4": "Quando appare la notifica Piano cellulare rilevato, toccala",
+      "Step5": "Salva, riavvia il telefono e sei online.",
+      "Step6": "💡La configurazione manuale è ideale se la fotocamera non scansiona o se sei già in viaggio."
+    }
+  },
+  "AboutUsPage": {
+    "metaData": {
+      "title": "Chi è Yaalo eSIM – Il tuo provider eSIM affidabile nel mondo",
+      "description": "Yaalo eSIM offre eSIM affidabili e a basso costo per i viaggi internazionali. Piani eSIM convenienti in oltre 200 Paesi con copertura globale veloce e stabile.",
+      "keywords": "eSIM, compra eSIM, eSIM regionale, eSIM locale, compra eSIM regionale, compra eSIM locale, acquista eSIM locale, acquista eSIM regionale, dati eSIM, e-SIM, piano eSIM, eSIM store, eSIM marketplace, viaggiatore, piano dati, compra e-SIM, dati economici, connettività, esim, yaalo chi siamo"
+    },
+    "hero": {
+      "title": "Chi siamo – Yaalo eSIM per la connettività globale",
+      "description": "Ridefiniamo la connettività di viaggio con eSIM per il mondo moderno"
+    },
+    "ourStorySetion": {
+      "title": "La nostra storia, la nostra scintilla",
+      "description": "La frustrazione di restare senza connessione appena si atterra in un nuovo Paese è all’origine di Yaalo. Analizzando e riducendo tutti questi problemi, Yaalo nasce come una soluzione di connettività continua, pensata per durare."
+    },
+    "imageSection": {
+      "newyork": "New York",
+      "brazil": "Brasile",
+      "dubai": "Dubai"
+    },
+    "timelineSection": {
+      "title": "Creato per la semplicità, alimentato dalla libertà",
+      "years": {
+        "2021": "Nel 2021 Yaalo ha lanciato la sua prima eSIM da viaggio",
+        "2022": "Nel 2022 ci siamo espansi tra i continenti con piani dati regionali convenienti",
+        "2025": "Oggi Yaalo rende le connessioni globali semplici come sbloccare il telefono"
+      },
+      "description": "Yaalo nasce da un’idea semplice: restare connessi non dovrebbe mai essere un problema. Con l’evoluzione della tecnologia eSIM, Yaalo si è concentrata nel rendere la connettività globale più affidabile e facile da usare oltre i confini. Grazie a un’unica rete eSIM globale, Yaalo garantisce accesso a Internet stabile e connessioni fluide dei dispositivi in oltre 200 destinazioni. Oggi Yaalo supporta l’uso quotidiano del mobile, i viaggi internazionali e applicazioni IoT con una soluzione di connettività affidabile e scalabile."
+    },
+    "featuresSection": {
+      "title": "Sempre con te, ovunque atterri",
+      "description": "Dalla partenza al rientro a casa, Yaalo ti supporta in ogni fase. E in caso di bisogno, hai accesso a un’assistenza esperta 24/7, disponibile in più fusi orari. Yaalo si distingue perché",
+      "cards": {
+        "1": {
+          "tittle": "Buona per te, gentile con il pianeta",
+          "description": "Crediamo in un modo di viaggiare più intelligente che non pesi sull’ambiente. Eliminando le SIM in plastica e gli imballaggi, Yaalo riduce l’impronta di carbonio. La prova che la tecnologia moderna può essere anche responsabile."
+        },
+        "2": {
+          "tittle": "Semplice per design",
+          "description": "Dimentica negozi e registrazioni complicate. Con Yaalo, acquistare e attivare una eSIM richiede meno tempo che ordinare un caffè. L’app Yaalo (iOS, Android) rende i nostri servizi ancora più comodi."
+        },
+        "3": {
+          "tittle": "Connessi da un capo all’altro",
+          "description": "I viaggiatori possono trovarsi ovunque, ma la connettività è essenziale in ogni luogo. Yaalo garantisce copertura ad alta velocità 2G/3G/4G/5G in oltre 200 destinazioni. Scegli tra piani Locali, Regionali o Globali."
+        }
+      }
+    }
+  },
+  "LoginPage": {
+    "metaData": {
+      "title": "Accedi al tuo account – Gestisci profilo ed eSIM | Yaalo",
+      "description": "Accedi in modo sicuro al tuo account Yaalo. Gestisci la dashboard personale, monitora gli ordini, visualizza la cronologia acquisti e aggiorna le preferenze.",
+      "keywords": "eSIM, compra eSIM, eSIM regionale, eSIM locale, compra eSIM regionale, compra eSIM locale, acquista eSIM locale, acquista eSIM regionale, dati eSIM, e-SIM, piano eSIM, eSIM store, eSIM marketplace, viaggiatore, piano dati, compra e-SIM, dati economici, connettività"
+    },
+    "tabLinks": {
+      "login": "Accedi",
+      "register": "Registrati"
+    },
+    "form": {
+      "signIn": "Accedi",
+      "emailLabel": "Email",
+      "passwordLabel": "Password",
+      "forgotPassword": "Password dimenticata?",
+      "login": "Accedi",
+      "enterName": "Inserisci il tuo nome",
+      "enterEmail": "Inserisci la tua email",
+      "enterPassword": "Inserisci la tua password",
+      "confirmPassword": "Conferma la tua password",
+      "loginSuccess": "Accesso effettuato con successo!",
+      "validationMessages": {
+        "email": {
+          "invalid": "Inserisci un indirizzo email valido."
+        },
+        "password": {
+          "min": "La password è obbligatoria.",
+          "max": "La password deve contenere meno di 100 caratteri."
+        }
+      }
+    }
+  },
+  "RegisterPage": {
+    "metaData": {
+      "title": "Crea un nuovo account – Registrati per i vantaggi | Yaalo",
+      "description": "Unisciti alla community Yaalo. Crea un account gratuito per un checkout più veloce, il tracciamento ordini in tempo reale e offerte esclusive riservate ai membri.",
+      "keywords": "eSIM, compra eSIM, eSIM regionale, eSIM locale, compra eSIM regionale, compra eSIM locale, acquista eSIM locale, acquista eSIM regionale, dati eSIM, e-SIM, piano eSIM, eSIM store, eSIM marketplace, viaggiatore, piano dati, compra e-SIM, dati economici, connettività"
+    },
+    "tabLinks": {
+      "login": "Accedi",
+      "register": "Registrati"
+    },
+    "form": {
+      "affiliate": "Unisciti al nostro Programma di Affiliazione",
+      "signUp": "Registrati ora",
+      "nameLabel": "Nome",
+      "emailLabel": "Email",
+      "passwordLabel": "Password",
+      "confirmPassword": "Conferma password",
+      "otpLabel": "Inserisci l’OTP che hai ricevuto via email",
+      "resendOtp": "Invia di nuovo l’OTP",
+      "forgotPassword": "Password dimenticata?",
+      "register": "Registrati",
+      "enterName": "Inserisci il tuo nome",
+      "enterEmail": "Inserisci la tua email",
+      "enterPassword": "Inserisci la tua password",
+      "confirmYourPassword": "Conferma la tua password",
+      "validationMessages": {
+        "name": {
+          "min": "Il nome deve contenere almeno 4 caratteri.",
+          "max": "Il nome deve contenere meno di 100 caratteri."
+        },
+        "email": {
+          "invalid": "Inserisci un indirizzo email valido."
+        },
+        "password": {
+          "min": "La password deve contenere almeno 8 caratteri.",
+          "max": "La password deve contenere meno di 100 caratteri."
+        },
+        "confirmPassword": {
+          "min": "La conferma password deve contenere almeno 8 caratteri.",
+          "max": "La conferma password deve contenere meno di 100 caratteri."
+        },
+        "otp": {
+          "min": "L’OTP deve contenere almeno 4 caratteri.",
+          "max": "L’OTP deve contenere al massimo 4 caratteri."
+        },
+        "refine": {
+          "message": "Le password non corrispondono."
+        }
+      },
+      "registerSuccess": "Il tuo account è stato creato con successo. Accedi con il tuo nuovo account.",
+      "otpSendSuccess": "L’OTP è stato inviato alla tua email. Verificalo."
+    },
+    "AffiliateRedirectDialog": "Reindirizzamento al Portale Affiliati"
+  },
+  "refillPage": {
+    "metaData": {
+      "title": "Yaalo eSIM – Ricarica portafoglio",
+      "description": "Ricarica il tuo portafoglio Yaalo eSIM con carta o Apple Pay",
+      "keywords": "eSIM, compra eSIM, eSIM regionale, eSIM locale, compra eSIM regionale, compra eSIM locale, acquista eSIM locale, acquista eSIM regionale, dati eSIM, e-SIM, piano eSIM, eSIM store, eSIM marketplace, viaggiatore, piano dati, compra e-SIM, dati economici, connettività, Smart eSIM, ricarica, acquista bundle, acquista pacchetto"
+    },
+    "validationMessages": {
+      "stripeMissing": "URL di checkout Stripe mancante",
+      "stripeRedirect": "Reindirizzamento a Stripe...",
+      "refreshedFailed": "Aggiornamento del portafoglio non riuscito",
+      "paymentFailed": "Pagamento non riuscito. Riprova.",
+      "refreshedSuccess": "Ricarica del portafoglio completata con successo"
+    },
+    "title": " Ricarica il tuo portafoglio",
+    "refillForm": {
+      "placeholder": "Inserisci l’importo da ricaricare",
+      "paybtn": "Paga",
+      "validationMessages": {
+        "amount": {
+          "typeError": "L’importo deve essere un numero",
+          "min": "L’importo minimo è 1",
+          "max": "L’importo massimo è 300"
+        }
+      }
+    },
+    "currentBalance": "Saldo attuale",
+    "errorMessage": "Si è verificato un errore durante il recupero dell’utente!",
+    "orderHistoryTable": {
+      "sucessMessage": "Ricarica del portafoglio riuscita",
+      "errorMessage": "Pagamento non riuscito. Riprova.",
+      "title": "Storico transazioni",
+      "refreshing": "Aggiornamento...",
+      "refresh": "Aggiorna",
+      "id": "ID",
+      "amount": "Importo",
+      "description": "Descrizione",
+      "time": "Data e ora",
+      "nodata": "Nessun dato disponibile"
+    }
+  },
+  "mySimPage": {
+    "metaData": {
+      "title": "Acquista servizi eSIM Yaalo online – Per oltre 200 destinazioni",
+      "description": "Acquistare una eSIM Yaalo online è semplicissimo. Dati 4G/5G in oltre 200 destinazioni nel mondo. Addio al roaming per sempre. Disponibile per viaggiatori iPhone e Android. Scarica l’app!",
+      "keywords": "eSIM, compra eSIM, eSIM regionale, eSIM locale, compra eSIM regionale, compra eSIM locale, acquista eSIM locale, acquista eSIM regionale, dati eSIM, e-SIM, piano eSIM, eSIM store, eSIM marketplace, viaggiatore, piano dati, compra e-SIM, dati economici, connettività"
+    },
+    "title": "Dettagli SIM",
+    "mySimTab": "Le mie eSIM",
+    "pendingSimTab": "eSIM in sospeso",
+    "mysim": "Le mie SIM",
+    "noSimFound": "Nessuna eSIM trovata",
+    "noPendingSimFound": "Nessuna eSIM in sospeso",
+    "failedToGetSims": "Impossibile recuperare le eSIM"
+  },
+  "simDetailPage": {
+    "metaData": {
+      "title": "Acquista servizi eSIM Yaalo online – Per oltre 200 destinazioni",
+      "description": "Acquistare una eSIM Yaalo online è semplicissimo. Dati 4G/5G in oltre 200 destinazioni nel mondo. Addio al roaming per sempre. Disponibile per viaggiatori iPhone e Android. Scarica l’app",
+      "keywords": "eSIM, compra eSIM, eSIM regionale, eSIM locale, compra eSIM regionale, compra eSIM locale, acquista eSIM locale, acquista eSIM regionale, dati eSIM, e-SIM, piano eSIM, eSIM store, eSIM marketplace, viaggiatore, piano dati, compra e-SIM, dati economici, connettività"
+    },
+    "title": " Dettagli eSIM",
+    "description": "Raggiungi il mondo con i servizi eSIM più affidabili",
+    "esimInstallation": "Installazione eSIM",
+    "devices": "Dispositivi",
+    "direct": "Diretta",
+    "qrCode": "QR Code",
+    "manual": "Manuale",
+    "clickHere": "Clicca qui per installare",
+    "notWorking": "Nel caso la eSIM non funzioni, verifica",
+    "apn": "APN",
+    "dataRoaming": "Roaming dati",
+    "on": "Attivo",
+    "smdpAddress": "Indirizzo SMDP+",
+    "inprocess": "In corso",
+    "activationCode": "Codice di attivazione",
+    "descriptionTwo": "Copia questo codice e inserisci i dati manualmente per installare la tua eSIM. Assicurati di avere una connessione Internet stabile prima dell’installazione",
+    "manualEntry": "Inserimento manuale",
+    "dataUsage": "Utilizzo dati",
+    "outOf": "su",
+    "unlimitedData": "Dati illimitati",
+    "remainingData": "Dati rimanenti",
+    "address": "Indirizzo",
+    "number": "numero",
+    "purchaseData": "Data di acquisto",
+    "coverage": "Copertura",
+    "status": "Stato",
+    "activationInProcess": "L’attivazione del pacchetto è in corso",
+    "coverageModal": {
+      "coverage": "Visualizza copertura",
+      "supportedCountries": "Paesi e reti supportati",
+      "searchCountryNetwork": "Cerca Paese o rete"
+    },
+    "simDetail": {
+      "simId": "ID SIM",
+      "iccid": "ICCID",
+      "status": "Stato",
+      "purchaseDateEt": "Data di acquisto (ET)",
+      "activatedBundle": "Pacchetto attivato",
+      "seeDetails": "Vedi dettagli",
+      "activationInProcess": "L’attivazione del pacchetto è in corso..."
+    },
+    "iosInstallationInstruction": {
+      "direct": {
+        "step1": {
+          "key1": "Passaggio 1/2:",
+          "key2": "1. Tocca “Installa eSIM”.",
+          "key3": "2. Tocca “Consenti” nella finestra di conferma visualizzata.",
+          "key4": "3. Segui le istruzioni sullo schermo per completare il download e l’installazione della eSIM.",
+          "key5": "4. Scegli un’etichetta per il nuovo piano eSIM.",
+          "key6": "5. Scegli “Primaria” come linea predefinita, poi tocca “Continua”.",
+          "key7": "6. Scegli la linea “Primaria” da usare con iMessage e FaceTime per il tuo ID Apple, poi tocca “Continua”.",
+          "key8": "7. Scegli il nuovo piano eSIM per i dati cellulari/mobili, poi tocca “Continua”."
+        },
+        "step2": {
+          "key1": "Passaggio 2/2 (opzionale):",
+          "key2": "1. Vai su “Cellulare/Dati mobili”, seleziona la eSIM appena scaricata e abilita “Attiva questa linea”. Poi seleziona il nuovo piano eSIM per i dati cellulari.",
+          "key3": "2. Tocca “Selezione rete”, disattiva “Automatico” e seleziona manualmente la rete supportata se la eSIM si è collegata a una rete errata.",
+          "key4": "3. Attiva l’opzione “Roaming dati” per il nuovo piano eSIM."
+        }
+      },
+      "qr": {
+        "step1": {
+          "key1": "Passaggio 1/2:",
+          "key2": "1. Sul dispositivo, vai su Impostazioni.",
+          "key3": "2. Tocca “Cellulare” o “Mobile”.",
+          "key4": "3. Tocca “Aggiungi piano cellulare” o “Aggiungi piano dati mobili”.",
+          "key5": "4. Usa il QR code stampato o visualizzato su un altro dispositivo per scansionare il QR code della eSIM.",
+          "key6": "5. Scegli o personalizza un’etichetta per la tua eSIM.",
+          "key7": "6. Nella pagina Linea predefinita, seleziona la eSIM solo per i dati cellulari.",
+          "key8": "7. Vedrai la nuova eSIM sotto “Dati cellulari” o “Piani dati mobili”."
+        },
+        "step2": {
+          "key1": "Passaggio 2/2 (opzionale):",
+          "key2": "1. Seleziona la tua eSIM sotto “Piani cellulari”.",
+          "key3": "2. Assicurati che “Attiva questa linea” sia abilitato.",
+          "key4": "3. Vai su “Selezione rete” e seleziona la rete supportata.",
+          "key5": "4. Vai su “Rete dati cellulare” e aggiorna il campo “APN” sotto “DATI CELLULARI”. Gli altri campi devono restare vuoti.",
+          "key6": "5. Attiva “Roaming dati”.",
+          "key7": "6. Hai bisogno di aiuto? Chatta con noi."
+        }
+      },
+      "manual": {
+        "step1": {
+          "key1": "Passaggio 1/2:",
+          "key2": "1. Vai su Impostazioni > Cellulare/Mobile > Aggiungi piano cellulare/mobile.",
+          "key3": "2. Tocca “Inserisci dettagli manualmente”.",
+          "key4": "3. Inserisci l’indirizzo SM-DP+ e il codice di attivazione.",
+          "key5": "4. Tocca “Aggiungi piano cellulare”.",
+          "key6": "5. Assegna un’etichetta alla eSIM.",
+          "key7": "6. Scegli la linea predefinita per chiamate o messaggi.",
+          "key8": "7. Scegli la linea da usare con iMessage, FaceTime e ID Apple.",
+          "key9": "8. Seleziona la eSIM come linea predefinita per i dati cellulari e non attivare “Consenti cambio dati cellulari” per evitare costi sull’altra linea.",
+          "key10": "9. La tua eSIM è stata installata correttamente, scorri verso il basso."
+        },
+        "step2": {
+          "key1": "Passaggio 2/2 (opzionale):",
+          "key2": "1. Seleziona la tua eSIM sotto “Piani cellulari”.",
+          "key3": "2. Assicurati che “Attiva questa linea” sia abilitato.",
+          "key4": "3. Vai su “Selezione rete” e seleziona la rete supportata.",
+          "key5": "4. Vai su “Rete dati cellulare” e aggiorna il campo “APN” sotto “DATI CELLULARI”. Gli altri campi devono restare vuoti.",
+          "key6": "5. Attiva “Roaming dati”.",
+          "key7": "6. Hai bisogno di aiuto? Chatta con noi."
+        }
+      }
+    },
+    "androidInstallationInstruction": {
+      "qr": {
+        "step1": {
+          "key1": "Passaggio 1:",
+          "key2": "1. Vai su “Impostazioni”, tocca “Rete e Internet”, poi tocca “(+)” accanto alla sezione SIM. Se non disponibile, tocca “SIM”.",
+          "key3": "2. Tocca “Scaricare invece una SIM?”, poi “Avanti”.",
+          "key4": "3. Tocca “Usa una rete diversa” se devi confermare la rete.",
+          "key5": "4. Scansiona il QR code e tocca “Scarica”.",
+          "key6": "5. Tocca “Impostazioni” quando appare la schermata “Download completato”."
+        },
+        "step2": {
+          "key1": "Passaggio 2/2 (opzionale):",
+          "key2": "1. Vai su “SIM” e seleziona la eSIM appena scaricata.",
+          "key3": "2. Abilita “Usa SIM” e tocca “Sì”.",
+          "key4": "3. Abilita “Dati mobili”.",
+          "key5": "4. Abilita “Roaming” e tocca “OK”.",
+          "key6": "5. Tocca “Seleziona rete automaticamente” e scegli manualmente la rete supportata se necessario.",
+          "key7": "6. Tocca “Nomi punti di accesso”, poi “(+)”.",
+          "key8": "7. Inserisci l’APN disponibile nell’app eSIM copiandolo nei campi Nome e APN.",
+          "key9": "8. Tocca i tre puntini in alto a destra, tocca “Salva” e seleziona l’APN salvato."
+        }
+      },
+      "manual": {
+        "step1": {
+          "key1": "Passaggio 01/02:",
+          "key2": "1. Vai su “Impostazioni”, tocca “Rete e Internet”, poi tocca “(+)” accanto alla sezione SIM. Se non disponibile, tocca “SIM”.",
+          "key3": "2. Tocca “Scaricare invece una SIM?”, poi “Avanti”.",
+          "key4": "3. Tocca “Usa una rete diversa” se devi confermare la rete.",
+          "key5": "4. Tocca “Hai bisogno di aiuto?”, poi “Inserisci manualmente”.",
+          "key6": "5. Inserisci il codice disponibile nell’app eSIM copiandolo, tocca “Continua”, poi “Scarica”.",
+          "key7": "6. Tocca “Impostazioni” quando appare la schermata “Download completato”."
+        },
+        "step2": {
+          "key1": "Passaggio 2/2 (opzionale):",
+          "key2": "1. Vai su “SIM” e seleziona la eSIM appena scaricata.",
+          "key3": "2. Abilita “Usa SIM” e tocca “Sì”.",
+          "key4": "3. Abilita “Dati mobili”.",
+          "key5": "4. Abilita “Roaming” e tocca “OK”.",
+          "key6": "5. Tocca “Seleziona rete automaticamente” e scegli manualmente la rete supportata se necessario.",
+          "key7": "6. Tocca “Nomi punti di accesso”, poi “(+)”.",
+          "key8": "7. Inserisci l’APN disponibile nell’app eSIM copiandolo nei campi Nome e APN.",
+          "key9": "8. Tocca i tre puntini in alto a destra, tocca “Salva” e seleziona l’APN salvato."
+        }
+      }
+    },
+    "activatedPackages": {
+      "title": "Pacchetti attivati",
+      "package": "Pacchetto",
+      "activated": "Attivato",
+      "expiry": "Scadenza"
+    },
+    "completedPackages": {
+      "pastPackages": "Pacchetti precedenti",
+      "package": "Pacchetto",
+      "activated": "Attivato",
+      "expiry": "Scadenza"
+    },
+    "assignedPackages": {
+      "notActivated": "Pacchetti non attivati",
+      "package": "Pacchetto",
+      "quantity": "Quantità"
+    },
+    "revokedPackages": {
+      "revoked": "Pacchetti revocati",
+      "package": "Pacchetto",
+      "revokedAt": "Revocato il"
+    },
+    "qrCodeMessages": {
+      "notFound": "Impossibile trovare il QR code.",
+      "failedCanvas": "Impossibile ottenere il contesto canvas.",
+      "FailedLoad": "Caricamento del QR code non riuscito.",
+      "notSupported": "Non supportato",
+      "shareTitle": "QR Code",
+      "shareText": "Ecco il QR code.",
+      "fallbackDownload": "Condivisione non supportata. Il QR code è stato scaricato.",
+      "activationInProcess": "L’attivazione del pacchetto è in corso..."
+    },
+    "pendingPackages": {
+      "package": "Pacchetto",
+      "status": "Stato",
+      "createdAt": "Creato il"
+    }
+  },
+  "ResetPasswordPage": {
+    "metaData": {
+      "title": "Reimposta password – Recupera l’accesso all’account | Yaalo",
+      "description": "Hai dimenticato le credenziali? Avvia una procedura sicura di reimpostazione della password per il tuo account Yaalo. Verifica la tua identità e ripristina subito l’accesso al profilo.",
+      "keywords": "eSIM, compra eSIM, eSIM regionale, eSIM locale, compra eSIM regionale, compra eSIM locale, acquista eSIM locale, acquista eSIM regionale, dati eSIM, e-SIM, piano eSIM, eSIM store, eSIM marketplace, viaggiatore, piano dati, compra e-SIM, dati economici, connettività"
+    },
+    "resetPassword": "Reimposta password",
+    "emailLabel": "Email",
+    "passwordLabel": "Password",
+    "enterEmail": "Inserisci la tua email",
+    "enterPassword": "Inserisci la tua password",
+    "confirmPassword": "Conferma password",
+    "enterconfirmPassword": "Conferma la tua password",
+    "enterOtp": "Inserisci l’OTP che hai ricevuto via email",
+    "resendOtp": "Invia di nuovo l’OTP",
+    "submit": "Invia",
+    "emailReceive": " Ti invieremo un OTP per reimpostare la password",
+    "validationMessages": {
+      "email": {
+        "invalid": "Inserisci un indirizzo email valido."
+      },
+      "password": {
+        "min": "La password deve contenere almeno 8 caratteri.",
+        "max": "La password deve contenere meno di 100 caratteri."
+      },
+      "confirmPassword": {
+        "min": "La conferma password deve contenere almeno 8 caratteri.",
+        "max": "La conferma password deve contenere meno di 100 caratteri."
+      },
+      "otp": {
+        "min": "L’OTP deve contenere almeno 4 caratteri.",
+        "max": "L’OTP deve contenere al massimo 6 caratteri."
+      },
+      "refine": {
+        "message": "Le password non corrispondono."
+      }
+    }
+  },
+  "FAQsPage": {
+    "metaData": {
+      "title": "FAQ Yaalo eSIM – Risposte alle tue domande sulla eSIM da viaggio",
+      "description": "Guida di supporto Yaalo eSIM. Trova le risposte alle domande più comuni sulle eSIM Yaalo: attivazione, compatibilità, copertura e risoluzione dei problemi.",
+      "keywords": "eSIM, compra eSIM, eSIM regionale, eSIM locale, compra eSIM regionale, compra eSIM locale, acquista eSIM, piano eSIM, eSIM store, eSIM marketplace, viaggiatore, piano dati, dati economici, connettività, blog eSIM, info eSIM"
+    },
+    "hero": {
+      "title": "Domande frequenti",
+      "description": "Trova risposte rapide alle domande più comuni"
+    },
+    "faqsData": {
+      "sections": {
+        "aboutYaalo": {
+          "heading": "Scopri di più su Yaalo",
+          "faqs": {
+            "1": {
+              "title": "Cos’è Yaalo?",
+              "body": "Yaalo è un provider di eSIM da viaggio pensato per chi vuole restare connesso senza i problemi del roaming o delle SIM fisiche. Rendiamo i dati mobili semplici. Con Yaalo puoi viaggiare in oltre 200 destinazioni restando connesso senza costi di roaming."
+            },
+            "2": {
+              "title": "Cosa offre Yaalo ai viaggiatori?",
+              "body": "Yaalo offre un’ampia gamma di piani eSIM solo dati (fissi e illimitati) e piani dati + voce + SMS. Dopo l’acquisto, appena arrivi a destinazione ti connetti automaticamente alla rete locale. L’installazione richiede pochi minuti e puoi gestire e ricaricare tutto dall’app Yaalo."
+            },
+            "3": {
+              "title": "Perché scegliere Yaalo rispetto ad altri provider eSIM?",
+              "body": "Perché Yaalo è trasparente e orientata alle persone. I nostri piani prepagati hanno prezzi chiari, dati ad alta velocità e supporto umano reale disponibile 24/7. Con copertura in continua espansione e attivazione immediata, Yaalo è diventata un nome affidabile per viaggiatori e anche per utenti locali attenti a comodità, sicurezza e risparmio."
+            }
+          }
+        },
+        "plansAndWorkings": {
+          "heading": "Piani e funzionamento",
+          "faqs": {
+            "1": {
+              "title": "Quanto costano i piani eSIM Yaalo?",
+              "body": "Yaalo mantiene tutto semplice con una politica pay-as-you-go chiara e trasparente. Puoi scegliere il piano più adatto alle tue esigenze di dati. Tutti i piani sono prepagati, quindi niente costi improvvisi o addebiti indesiderati. Avrai connettività pura, senza limitazioni su hotspot o tethering."
+            },
+            "2": {
+              "title": "Cos’è un profilo eSIM?",
+              "body": "Un profilo eSIM è la tua identità SIM digitale. Ad esempio, se acquisti una eSIM per gli Stati Uniti, le informazioni del piano vengono salvate come profilo. Una volta attivato, funziona come una SIM tradizionale, ma con tariffe locali invece di costosi addebiti di roaming."
+            },
+            "3": {
+              "title": "Come posso acquistare o attivare una eSIM Yaalo?",
+              "body": "Acquistare e attivare una eSIM Yaalo richiede meno di un minuto. Scegli la destinazione, seleziona il piano dati e riceverai subito un QR code via email. Scansiona il codice dalle impostazioni del dispositivo per installarla. Preferisci l’installazione manuale? Puoi farlo anche così. Tutti i passaggi sono spiegati nei blog Yaalo."
+            },
+            "4": {
+              "title": "Come vengono consegnate le eSIM Yaalo dopo l’acquisto?",
+              "body": "Dopo aver scelto il piano e completato il pagamento, riceverai un’email con il QR code per l’installazione automatica e l’indirizzo SM-DP+ per l’installazione manuale. Segui i passaggi e sarai connesso in pochi minuti."
+            },
+            "5": {
+              "title": "Quali tipi di piani eSIM Yaalo sono disponibili?",
+              "body": "Pensati per globetrotter, professionisti, lavoratori da remoto e nomadi digitali, Yaalo offre piani eSIM Locali, Regionali e Globali. Sono disponibili piani solo dati (fissi e illimitati) e, in alcune destinazioni, piani dati + voce + SMS. Puoi gestire e ricaricare facilmente le tue eSIM dal sito o dall’app Yaalo."
+            },
+            "6": {
+              "title": "Posso riutilizzare la mia eSIM Yaalo per viaggi futuri?",
+              "body": "Ogni eSIM Yaalo è collegata a uno specifico piano e a una destinazione, quindi non può essere riutilizzata per un altro viaggio. Tuttavia, puoi acquistare una nuova eSIM per la prossima destinazione in pochi secondi tramite l’app o il sito Yaalo."
+            }
+          }
+        },
+        "aboutESim": {
+          "heading": "Scopri di più sulle eSIM",
+          "faqs": {
+            "1": {
+              "title": "In cosa si differenzia una eSIM da una SIM fisica?",
+              "body": "Una eSIM memorizza le informazioni del piano mobile senza bisogno di una scheda fisica. Funziona come una SIM tradizionale, ma consente di aggiungere o cambiare piani direttamente dalle impostazioni del dispositivo, senza sostituire hardware."
+            },
+            "2": {
+              "title": "Come posso acquistare e attivare una eSIM Yaalo?",
+              "body": "Acquista un piano su Yaalo e riceverai subito un QR code (o codici manuali) via email. Sul telefono vai su Impostazioni → Cellulare/Mobile → Aggiungi eSIM, poi scansiona il QR o inserisci i dati manualmente. L’installazione richiede pochi secondi."
+            },
+            "3": {
+              "title": "Posso installare la mia eSIM Yaalo prima di partire?",
+              "body": "Sì, ed è consigliato. Installare la eSIM mentre sei connesso al Wi-Fi di casa assicura che il profilo sia scaricato correttamente e ti garantisce connessione immediata appena atterri."
+            },
+            "4": {
+              "title": "Quanti profili eSIM può memorizzare il mio telefono? Posso usarne più di uno?",
+              "body": "Dipende dalle specifiche del dispositivo. Molti telefoni possono memorizzare più profili, ma in genere solo uno è attivo alla volta per i dati. Molti dispositivi supportano il Dual SIM (una SIM fisica e una eSIM attive insieme)."
+            },
+            "5": {
+              "title": "La eSIM consuma più batteria rispetto a una SIM fisica?",
+              "body": "No. La eSIM in sé non influisce in modo significativo sulla batteria. Un maggiore consumo può dipendere dall’uso di due linee attive o da una rete con segnale debole, non dalla tecnologia eSIM."
+            },
+            "6": {
+              "title": "La eSIM Yaalo offre il 5G?",
+              "body": "Se il tuo dispositivo e la rete locale supportano il 5G, la tua eSIM Yaalo funzionerà in 5G come una SIM fisica. La disponibilità del 5G dipende dal modello del telefono e dalla copertura nel Paese visitato."
+            },
+            "7": {
+              "title": "Cosa succede se il QR code non si scansiona o la eSIM non si installa?",
+              "body": "Assicurati di avere una connessione Wi-Fi stabile e riavvia il telefono. Se il QR code non funziona, utilizza i dati di attivazione manuale (indirizzo SM-DP+ e codice). In caso di difficoltà, il supporto Yaalo è disponibile 24/7."
+            },
+            "8": {
+              "title": "Posso cambiare operatore o piano sullo stesso dispositivo?",
+              "body": "Sì. Una delle grandi vantaggi della eSIM è la flessibilità. Puoi rimuovere profili vecchi e aggiungerne di nuovi direttamente dalle impostazioni. In viaggio puoi mantenere la SIM principale per le chiamate e usare una eSIM Yaalo per i dati."
+            },
+            "9": {
+              "title": "I piani Yaalo includono numero di telefono, voce e SMS?",
+              "body": "La maggior parte dei piani Yaalo è orientata ai dati. In alcune destinazioni sono disponibili piani dati + voce + SMS. Se un piano include un numero di telefono, sarà indicato chiaramente nei dettagli."
+            },
+            "10": {
+              "title": "Quanto durano i piani eSIM Yaalo e posso ricaricare?",
+              "body": "La validità dipende dal piano scelto (ad esempio 1 giorno, 7 giorni, 30 giorni). Tutti i piani Yaalo sono prepagati e molti possono essere estesi. Puoi ricaricare facilmente dall’app o dal sito Yaalo quando ti serve più traffico."
+            },
+            "11": {
+              "title": "Le eSIM Yaalo sono sicure? E la privacy?",
+              "body": "Sì. I profili eSIM vengono consegnati tramite canali crittografati e sono archiviati nel chip sicuro del dispositivo. Non avendo una scheda fisica, si riducono i rischi di smarrimento o clonazione. Yaalo segue le migliori pratiche di privacy e non condivide i dati personali senza consenso."
+            }
+          }
+        }
+      }
+    }
+  },
+  "BlogPage": {
+    "metaData": {
+      "title": "Blog Yaalo eSIM: consigli eSIM, compatibilità, iPhone e Android",
+      "description": "Scopri cos’è una eSIM e come funziona. Come acquistare una eSIM per viaggi internazionali. Consigli e risoluzione problemi per eSIM su iPhone e Android, compatibilità.",
+      "keywords": "eSIM, compra eSIM, eSIM regionale, eSIM locale, compra eSIM regionale, compra eSIM locale, acquista eSIM locale, acquista eSIM regionale, dati eSIM, e-SIM, piano eSIM, eSIM store, eSIM marketplace, viaggiatore, piano dati, compra e-SIM, dati economici, connettività, blog eSIM, blog, info eSIM"
+    },
+    "hero": {
+      "title": "Blog Yaalo eSIM",
+      "noBlogs": "Nessun blog trovato 🙂",
+      "allBlogs": "Tutti i blog",
+      "searchPlaceholder": "Cerca nel blog"
+    },
+    "paginationBtn": {
+      "previous": "Precedente",
+      "next": "Successivo",
+      "page": "Pagina",
+      "of": "di"
+    },
+    "blogDetail": {
+      "blog": "Blog",
+      "share": "Condividi",
+      "interestedInPlans": " Piani eSIM che potrebbero interessarti",
+      "startsAt": "A partire da",
+      "relatedBlogs": "Blog correlati"
+    }
+  },
+  "cartPage": {
+    "metaData": {
+      "title": "Il tuo carrello – Rivedi articoli e checkout sicuro | Yaalo",
+      "description": "Rivedi gli articoli selezionati nel carrello Yaalo. Completa l’acquisto con il nostro processo di checkout sicuro, gestisci le quantità e visualizza le opzioni disponibili.",
+      "keywords": "eSIM, compra eSIM, eSIM regionale, eSIM locale, compra eSIM regionale, compra eSIM locale, acquista eSIM locale, acquista eSIM regionale, dati eSIM, e-SIM, piano eSIM, eSIM store, eSIM marketplace, viaggiatore, piano dati, compra e-SIM, dati economici, connettività"
+    },
+    "purchasePackagesMessages": {
+      "redirectingToStripe": "Reindirizzamento a Stripe...",
+      "orderProcessed": "Il tuo ordine è stato elaborato!",
+      "alreadyRegistered": "Il tuo indirizzo email è già registrato. Effettua il login."
+    },
+    "emptyCart": "Il tuo carrello è vuoto",
+    "reviewCart": "Rivedi il tuo carrello",
+    "subTotal": "Subtotale",
+    "checkout": "Checkout",
+    "continueShopping": "Continua lo shopping",
+    "exploreText": " Non hai ancora aggiunto pacchetti eSIM. Inizia a esplorare i nostri piani per restare connesso!",
+    "browseText": " Scopri i nostri pacchetti eSIM",
+    "unlimitedDataFor": "Dati illimitati per",
+    "esimDataFor": "Dati eSIM per",
+    "Duration": "Durata",
+    "Data": "Dati",
+    "Unlimited": "Illimitato",
+    "checkoutProcessBar": {
+      "shoppingCart": "Carrello",
+      "checkout": "Dettagli checkout",
+      "orderComplete": "Ordine completato",
+      "two": "2",
+      "three": "3"
+    },
+    "currentBalance": "Saldo attuale",
+    "payAsGuest": {
+      "loginSuccess": "Accesso effettuato con successo!",
+      "signLogin": "Registrati / Accedi",
+      "loginAsGuest": "Accedi come ospite",
+      "loginAsUser": "Accedi come utente",
+      "description": "Ottieni il 15% di cashback sul tuo primo ordine registrandoti.",
+      "descriptionTwo": " La tua eSIM verrà inviata via email. Promettiamo di inviarti solo comunicazioni importanti sulla qualità del servizio.",
+      "fullName": "Nome completo",
+      "email": "Email",
+      "password": "Password",
+      "hidePassword": "Nascondi password",
+      "showPassword": "Mostra password",
+      "forgetPassword": "Password dimenticata?",
+      "login": "Accedi",
+      "continueAsGuest": "Continua come ospite",
+      "clickToContinueAsGuest": "Facendo clic su “Continua come ospite” accetti i nostri",
+      "termsOfUse": "Termini di utilizzo",
+      "privacyPolicy": "Informativa sulla privacy",
+      "and": "e",
+      "stripeText": " e verrai reindirizzato a Stripe per un pagamento sicuro.",
+      "validationMessages": {
+        "name": {
+          "minLength": "Il nome deve contenere almeno 2 caratteri."
+        },
+        "email": {
+          "invalid": "Inserisci un indirizzo email valido."
+        },
+        "password": {
+          "required": "La password è obbligatoria.",
+          "maxLength": "La password deve contenere meno di 100 caratteri."
+        }
+      }
+    },
+    "checkoutDetails": {
+      "orderSummary": "Riepilogo ordine",
+      "pricing": "Prezzi",
+      "payFromWallet": "Paga dal portafoglio",
+      "toPayOnCheckout": "Da pagare al checkout",
+      "gurantedText": "Checkout sicuro e garantito",
+      "checkout": "Checkout",
+      "summary": "Riepilogo",
+      "subTotal": "Subtotale",
+      "total": "Totale",
+      "cartSummary": "Riepilogo ordine",
+      "discountCode": "Hai un codice sconto?",
+      "promoCode": "Codice promo",
+      "apply": "Applica"
+    },
+    "cartItemList": {
+      "product": "Prodotto",
+      "price": "Prezzo",
+      "quantity": "Quantità"
+    },
+    "checkoutBtn": {
+      "purchaseNow": "Acquista ora",
+      "secureCheckout": "Vai al checkout sicuro"
+    },
+    "checkoutTermsConditionMessage": {
+      "byClicking": "Facendo clic su",
+      "purchaseNow": "Acquista ora",
+      "secureCheckout": "Vai al checkout sicuro",
+      "youAgree": "accetti i nostri",
+      "termsOfUse": "Termini di utilizzo",
+      "and": "e",
+      "privacyPolicy": "Informativa sulla privacy",
+      "redirectedStripe": " e verrai reindirizzato a Stripe per un pagamento sicuro."
+    },
+    "errorMessage": "Si è verificato un errore durante il recupero dell’utente!",
+    "orderHistoryTable": {
+      "sucessMessage": "Ricarica del portafoglio riuscita",
+      "errorMessage": "Pagamento non riuscito. Riprova.",
+      "title": "Storico transazioni",
+      "refreshing": "Aggiornamento...",
+      "refresh": "Aggiorna",
+      "id": "ID",
+      "amount": "Importo",
+      "description": "Descrizione",
+      "time": "Data e ora",
+      "nodata": "Nessun dato disponibile"
+    },
+    "applyPromoCode": {
+      "validationMessages": {
+        "promo_code": {
+          "required": "Inserisci un codice promozionale",
+          "minLength": "Il codice promo deve contenere almeno 3 caratteri",
+          "maxLength": "Il codice promo deve contenere al massimo 30 caratteri",
+          "pattern": "Il codice promo può contenere solo lettere, numeri, trattini e underscore",
+          "alreadyApplied": "Un codice sconto è già stato applicato"
+        }
+      }
+    },
+    "addToCartMessages": {
+      "noSelectedPackage": "Seleziona prima un pacchetto.",
+      "cartFull": "Puoi aggiungere al carrello un massimo di 5 pacchetti eSIM."
+    }
+  },
+  "NotFoundPage": {
+    "title": "Ops! Pagina non trovata",
+    "description": " Sembra che la pagina che stai cercando non esista più — o forse non è mai esistita. Ma niente paura, siamo qui per tenerti sempre connesso. Torniamo subito sulla strada giusta!",
+    "popularLinks": "Pagine popolari che potresti cercare:",
+    "links": {
+      "esims": "Esplora tutte le destinazioni eSIM",
+      "blog": "Visita il nostro blog",
+      "contact": "Contattaci",
+      "faqs": "FAQ",
+      "home": "Torna alla homepage"
+    }
+  },
+  "ErrorPage": {
+    "title": "Qualcosa è andato storto",
+    "description": "Stiamo riscontrando problemi tecnici temporanei da parte nostra. Ma non preoccuparti — stiamo già lavorando per risolverli.",
+    "description2": "Riprova tra qualche minuto.",
+    "popularLinks": "🚀 Nel frattempo, ecco cosa puoi fare:",
+    "links": {
+      "esims": "Esplora tutte le destinazioni eSIM",
+      "blog": "Visita il nostro blog",
+      "contact": "Contattaci",
+      "faqs": "FAQ",
+      "home": "Torna alla homepage"
+    },
+    "leaveEmpty": "Non andartene a mani vuote",
+    "ComparingEsimText": "Sappiamo che stai confrontando diversi provider eSIM — e siamo sicuri di ciò che offriamo:",
+    "stillCurious": "Sei ancora curioso?",
+    "instantActivation": "eSIM con attivazione immediata",
+    "reliableGlobal": "Copertura globale affidabile",
+    "affordAbleData": "Pacchetti dati convenienti",
+    "fullSupport": "Supporto live 24/7",
+    "contactSupport": "Contatta l’assistenza",
+    "getBackQuickly": " — ti risponderemo rapidamente."
+  },
+  "ThankYouPage": {
+    "metaData": {
+      "title": "Grazie",
+      "description": "Un grande ambiente di lavoro unisce colleghi eccezionali e sfide stimolanti",
+      "keywords": "eSIM, compra eSIM, eSIM regionale, eSIM locale, compra eSIM regionale, compra eSIM locale, acquista eSIM locale, acquista eSIM regionale, dati eSIM, e-SIM, piano eSIM, eSIM store, eSIM marketplace, viaggiatore, piano dati, compra e-SIM, dati economici, connettività"
+    },
+    "success": {
+      "title": " Grazie!",
+      "text": " La tua eSIM è stata acquistata con successo"
+    },
+    "failed": {
+      "title": "Il pagamento non è stato elaborato.",
+      "text": " Per favore riprova",
+      "paymentFailed": "Il processo di pagamento non è riuscito."
+    }
+  },
+  "SharedUI": {
+    "esimSteps": {
+      "title": "Come funziona la eSIM Yaalo?<br></br>(Spoiler: è incredibilmente semplice)",
+      "description": "Gli utenti spesso pensano che i processi tecnici siano complessi.<br></br>Ma attivare una eSIM Yaalo è come 1, 2, 3… e sei connesso!",
+      "steps": {
+        "step1": {
+          "heading": "Acquista un piano dati",
+          "description": "Cerca la tua destinazione ed esplora i piani eSIM disponibili, pensati per le tue esigenze."
+        },
+        "step2": {
+          "heading": "Installa la eSIM",
+          "description": "Installa rapidamente la tua eSIM tramite un semplice QR code. Nessuna SIM fisica e nessuna visita in negozio."
+        },
+        "step3": {
+          "heading": "Attiva il tuo piano",
+          "description": "Decidi tu quando far partire il piano. Massima flessibilità senza sprecare dati inutilizzati."
+        }
+      }
+    },
+    "appInstall": {
+      "download": "Oltre 50.000 download",
+      "title": "Scarica subito l’app",
+      "description": "Per usare il Numero Virtuale e le funzioni di chiamata internazionale. Acquista, configura e gestisci facilmente le tue eSIM."
+    },
+    "checkout": "Checkout",
+    "selectPlan": "Seleziona i migliori piani eSIM per",
+    "checkEsim": "Verifica dispositivo eSIM",
+    "filter": "Filtra",
+    "addToCart": "Aggiungi al carrello",
+    "buyNow": "Acquista ora",
+    "details": "Dettagli",
+    "days": "Giorni",
+    "selectData": "Seleziona dati",
+    "selectDays": "Seleziona giorni",
+    "resetFilter": "Reimposta filtri",
+    "orLine": "Oppure continua con",
+    "unlimited": "Illimitato",
+    "data": "Dati",
+    "day": "giorno",
+    "globalPlaceholder": "Cerca Paese o rete",
+    "unlimitedSms": "SMS illimitati",
+    "yes": "Sì",
+    "no": "No",
+    "highSpeedThenUnlimited": "{unthrottle_data}/giorno di dati ad alta velocità, poi dati illimitati a ${throttle_speed}. Il limite dati si reimposta ogni 24 ore dal primo utilizzo.",
+    "comingSoon": "In arrivo...",
+    "features": {
+      "data": "Dati",
+      "validity": "Validità",
+      "speed": "Limite di velocità",
+      "tethering": "Tethering/Hotspot",
+      "sms": " SMS"
+    },
+    "widerCoverage": {
+      "title": "Cerchi una copertura più ampia?",
+      "description": "Scopri i nostri piani eSIM a partire dal prezzo indicato per una connettività senza interruzioni.",
+      "errorMessage": "Caricamento dei Paesi non riuscito:"
+    },
+    "supportedCountries": "Paesi e reti supportati",
+    "noSearchMatch": "Nessun risultato per la tua ricerca",
+    "countryHeadings": {
+      "title": {
+        "dataVoice": "eSIM da viaggio",
+        "dataOnly": "Prepagata da viaggio"
+      },
+      "headingDescription": {
+        "dataVoice": "Per {country} con dati e chiamate",
+        "dataOnly": "eSIM per {country}"
+      },
+      "paragraph": {
+        "dataVoice": "Ottieni i migliori piani dati eSIM con chiamate illimitate per i viaggi in {country}. Goditi un numero UK con eSIM per chiamate e SMS in entrata. Resta connesso ovunque.",
+        "dataOnly": "Ottieni la migliore eSIM per i viaggi in {country} con Smart eSIM. Connettività fluida e piani dati illimitati convenienti. Resta connesso ovunque tu vada."
+      }
+    },
+    "pagesMetaComponent": {
+      "feature": {
+        "title": "Caratteristiche",
+        "subheading": "Caratteristiche principali della eSIM {country}"
+      },
+      "description": {
+        "title": "Descrizione",
+        "subheading": "Informazioni sulla eSIM Yaalo per {country}"
+      },
+      "technicalSpecs": {
+        "title": "Specifiche tecniche",
+        "subheading": "Specifiche della nostra SIM virtuale"
+      }
+    },
+    "navLinks": {
+      "buyEsim": "Acquista eSIM",
+      "aboutUs": "Chi siamo",
+      "contactInfo": "Contatti",
+      "more": "Altro",
+      "esimCompatible": "Telefoni compatibili eSIM",
+      "faqs": "FAQ",
+      "blog": "Blog",
+      "login": "Accedi",
+      "wallet": "Portafoglio",
+      "account": "Account",
+      "home": "Home",
+      "esim": "eSIM",
+      "myEsim": "La mia eSIM",
+      "logout": "Esci",
+      "affiliatePartner": "Partner affiliato",
+      "myesim": "Le mie eSIM"
+    },
+    "footerLinks": {
+      "contactInfo": "Contatti",
+      "popularDestinations": "Destinazioni popolari",
+      "followus": " Seguici",
+      "links": "Link",
+      "support": "Supporto",
+      "privacyPolicy": "Informativa sulla privacy",
+      "terms": "Termini di servizio ",
+      "refundPolicy": "Politica di rimborso",
+      "esimCompatible": "Telefoni compatibili eSIM",
+      "faqs": "FAQ",
+      "blog": "Blog",
+      "home": "Home",
+      "aboutUs": "Chi siamo",
+      "buyEsim": "Acquista eSIM",
+      "affiliatePartner": "Partner affiliato",
+      "allRights": "Tutti i diritti riservati",
+      "popularDestinationsLinks": {
+        "us": "Stati Uniti",
+        "uk": "Regno Unito",
+        "canada": "Canada",
+        "germany": "Germania",
+        "france": "Francia",
+        "italy": "Italia",
+        "spain": "Spagna",
+        "turkey": "Turchia",
+        "indonesia": "Indonesia",
+        "japan": "Giappone"
+      },
+      "supportLinks": {
+        "general": "Generale",
+        "support": "Supporto",
+        "business": "Business",
+        "yaaloAddress": "Orlando, FL"
+      }
+    },
+    "searchPackagesList": {
+      "search": "Cerca",
+      "allDestinations": "Tutte le destinazioni",
+      "searchPlaceholder": "Dove volerai la prossima volta?",
+      "noMatch": "Nessuna corrispondenza — scopri le nostre destinazioni più popolari!",
+      "popularDestinations": "Destinazioni popolari"
+    }
+  },
+  "ContactUsPage": {
+    "metadata": {
+      "title": "Contatta il supporto Yaalo eSIM – Siamo qui per aiutarti sempre",
+      "description": "Hai domande sulla tua eSIM? Contatta Yaalo eSIM per assistenza rapida su attivazione e piani di viaggio, disponibile 24/7. Scrivici oggi stesso!",
+      "keywords": "eSIM, compra eSIM, eSIM regionale, eSIM locale, compra eSIM regionale, compra eSIM locale, acquista eSIM locale, acquista eSIM regionale, dati eSIM, e-SIM, piano eSIM, eSIM store, eSIM marketplace, viaggiatore, piano dati, compra e-SIM, dati economici, connettività, contatto esim, info esim"
+    },
+    "hero": {
+      "title": "Contatta il nostro team",
+      "description": "eSIM – Connettività veloce e conveniente"
+    },
+    "contactCard": {
+      "whatsapp": {
+        "title": "WhatsApp",
+        "description": "Supporto online 24/7"
+      },
+      "livechat": {
+        "title": "Supporto online 24/7",
+        "body": "Inizia ad acquistare con Yaalo, che può offrirti tutto ciò di cui hai bisogno",
+        "description": "Supporto online 24/7"
+      }
+    },
+    "business": "Per le aziende",
+    "contactUsForm": {
+      "description": "Saremo lieti di ascoltarti e di aiutarti a risolvere qualsiasi problema o domanda tu possa avere.",
+      "nameLabel": "Nome completo",
+      "emailLabel": "Email",
+      "subjectLabel": "Oggetto",
+      "messageLabel": "Messaggio",
+      "phoneLabel": "Numero di telefono",
+      "submitButton": "Invia",
+      "validationMessages": {
+        "name": {
+          "required": "Il nome completo è obbligatorio",
+          "minLength": "Il nome completo deve contenere almeno 2 caratteri",
+          "maxLength": "Il nome completo non deve superare i 50 caratteri"
+        },
+        "email": {
+          "required": "L’email è obbligatoria",
+          "invalid": "Inserisci un indirizzo email valido"
+        },
+        "subject": {
+          "required": "Inserisci un oggetto per il tuo messaggio",
+          "maxLength": "L’oggetto deve contenere meno di 200 caratteri"
+        },
+        "phone": {
+          "required": "Il numero di telefono è obbligatorio",
+          "maxLength": "Il numero di telefono è troppo lungo"
+        },
+        "description": {
+          "required": "Il campo messaggio non può essere vuoto",
+          "maxLength": "Il messaggio non deve superare i 600 caratteri"
+        },
+        "recaptchaError": "Completa il reCAPTCHA."
+      }
+    },
+    "faqsData": {
+      "title": "Domande frequenti",
+      "description": "Trova risposte rapide alle domande più comuni.",
+      "faqs": {
+        "1": {
+          "title": "Offrite rimborsi o garanzie soddisfatti o rimborsati?",
+          "body": "Sì, assolutamente. Se la nostra eSIM non soddisfa le tue aspettative, rendiamo i rimborsi semplici. Consulta la nostra <refundPolicy>politica di rimborso</refundPolicy> e acquista in tutta tranquillità. Soddisfazione garantita al 100%."
+        },
+        "2": {
+          "title": "Come posso contattare il vostro supporto clienti?",
+          "body": "Puoi contattarci in qualsiasi momento tramite chat dal vivo o via email all’indirizzo <support>support@yaalo.com.</support>"
+        },
+        "3": {
+          "title": "Tenete in considerazione i suggerimenti dei clienti?",
+          "body": "Certamente. Apprezziamo molto le opinioni dei nostri clienti. Inviaci le tue idee via email e il nostro team le esaminerà con attenzione per migliorare costantemente."
+        },
+        "4": {
+          "title": "Come contattare Yaalo per esigenze aziendali?",
+          "body": "Contatta il nostro team enterprise all’indirizzo <sales>sales@yaalo.com.</sales> per scoprire come la eSIM può trasformare la connettività della tua organizzazione."
+        }
+      }
+    }
+  },
+  "PrivacyPolicyPage": {
+    "metaData": {
+      "title": "Informativa sulla privacy Yaalo: protezione dei tuoi dati personali e sicurezza",
+      "description": "Scopri come Yaalo raccoglie, utilizza e protegge i tuoi dati. Informazioni su diritti alla privacy, cookie e misure di sicurezza per un’esperienza online sicura.",
+      "keywords": "eSIM, compra eSIM, eSIM regionale, eSIM locale, compra eSIM regionale, compra eSIM locale, acquista eSIM locale, acquista eSIM regionale, dati eSIM, e-SIM, piano eSIM, eSIM store, eSIM marketplace, viaggiatore, piano dati, compra e-SIM, dati economici, connettività"
+    },
+    "privacyPolicy": {
+      "title": "Informativa sulla privacy",
+      "data": [
+        {
+          "title": "1. Introduzione e termini generali",
+          "content": [
+            {
+              "type": "text",
+              "text": "Benvenuto su Yaalo.com. Comprendiamo l’importanza della tua privacy e ci impegniamo a proteggere i tuoi dati personali. Questa Informativa sulla privacy rappresenta il nostro impegno a trattare le tue informazioni con cura, trasparenza e rispetto."
+            },
+            {
+              "type": "text",
+              "text": "Su Yaalo.com forniamo soluzioni innovative di SIM digitale per permetterti di rimanere connesso a livello globale senza il fastidio delle SIM fisiche. Il nostro impegno va oltre l’offerta di servizi eccellenti: siamo altrettanto dedicati alla tutela delle tue informazioni personali."
+            },
+            {
+              "type": "text",
+              "text": "La presente Informativa sulla privacy descrive come raccogliamo, utilizziamo, archiviamo e proteggiamo i dati personali che condividi quando utilizzi il nostro sito web e i nostri servizi. Si applica a tutti i dati raccolti tramite le interazioni con il sito, il servizio clienti e i nostri prodotti e servizi."
+            },
+            {
+              "type": "text",
+              "text": "Ti invitiamo a leggere attentamente questa informativa per comprendere le nostre pratiche in materia di dati. Accedendo o utilizzando i nostri servizi, dichiari di aver letto, compreso e accettato i termini della presente Informativa sulla privacy. Se non sei d’accordo con le nostre pratiche, ti invitiamo a non utilizzare il sito o i servizi."
+            },
+            {
+              "type": "text",
+              "text": "Tieni presente che questa informativa può essere aggiornata periodicamente per riflettere cambiamenti nelle nostre pratiche o nei requisiti legali. In caso di modifiche rilevanti, ti informeremo e pubblicheremo sempre la versione più aggiornata sul nostro sito."
+            },
+            {
+              "type": "text",
+              "text": "La tua fiducia è importante per noi e ci impegniamo a garantire la privacy e la sicurezza dei tuoi dati personali. Per qualsiasi domanda o dubbio sulla nostra Informativa sulla privacy o sulle nostre pratiche, puoi contattarci in qualsiasi momento."
+            }
+          ]
+        },
+        {
+          "title": "2. Quali informazioni raccogliamo?",
+          "content": [
+            {
+              "type": "text",
+              "text": "Su Yaalo.com manteniamo la fiducia dei nostri visitatori e clienti. In questa sezione vogliamo essere trasparenti sui tipi di informazioni che raccogliamo quando interagisci con il nostro sito e i nostri servizi. Raccogliamo solo le informazioni necessarie a offrirti un’esperienza di qualità, nel rispetto della tua privacy."
+            }
+          ],
+          "subTitles": [
+            {
+              "title": "Informazioni personali identificabili (PII):",
+              "content": [
+                {
+                  "type": "bold",
+                  "text": "Informazioni dell’account: Quando crei un account su Yaalo.com, raccogliamo dati di base come nome, indirizzo email e numero di contatto. Queste informazioni sono essenziali per configurare l’account e comunicare con te."
+                },
+                {
+                  "type": "bold",
+                  "text": "Dettagli di acquisto: Se acquisti una eSIM o altri servizi, raccogliamo informazioni relative alla transazione, inclusi i dettagli di pagamento, l’indirizzo di fatturazione e i servizi acquistati."
+                },
+                {
+                  "type": "bold",
+                  "text": "Registri di comunicazione: Se contatti il nostro supporto clienti, potremmo registrare la comunicazione, comprese eventuali informazioni personali aggiuntive fornite, per risolvere problemi o richieste."
+                }
+              ]
+            },
+            {
+              "title": "Dati personali sensibili:",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Comprendiamo l’importanza di una maggiore tutela per i dati sensibili. Non raccogliamo intenzionalmente informazioni sensibili come origine razziale o etnica, opinioni politiche, convinzioni religiose, dati sanitari o orientamento sessuale. Qualora tali informazioni fossero necessarie, verranno raccolte solo con il tuo consenso esplicito e utilizzate esclusivamente per lo scopo dichiarato."
+                }
+              ]
+            },
+            {
+              "title": "Informazioni non personali:",
+              "content": [
+                {
+                  "type": "bold",
+                  "text": "Dati di utilizzo: includono informazioni su come utilizzi il sito, come le pagine visitate, il tempo trascorso e i link cliccati. Ci aiutano a comprendere il comportamento degli utenti e a migliorare il sito."
+                },
+                {
+                  "type": "bold",
+                  "text": "Informazioni tecniche: raccogliamo dati come indirizzo IP, tipo di browser e sistema operativo per garantire la compatibilità del sito e migliorare l’esperienza utente."
+                }
+              ]
+            },
+            {
+              "title": "Cookie, pixel e archiviazione locale:",
+              "content": [
+                {
+                  "type": "bold",
+                  "text": "Cookie: piccoli file di dati salvati sul tuo dispositivo che ci aiutano a ricordare le preferenze e migliorare l’esperienza utente."
+                },
+                {
+                  "type": "bold",
+                  "text": "Pixel: piccole immagini utilizzate per monitorare l’efficacia delle campagne pubblicitarie e analizzare le interazioni degli utenti."
+                },
+                {
+                  "type": "bold",
+                  "text": "Archiviazione locale: tecnologie che consentono di memorizzare informazioni localmente sul dispositivo per migliori prestazioni."
+                },
+                {
+                  "type": "text",
+                  "text": "Ci impegniamo a utilizzare queste informazioni in modo responsabile e sicuro per fornire, mantenere e migliorare i nostri servizi, elaborare transazioni e comunicare con te."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "3. Cookie che utilizziamo",
+          "content": [
+            {
+              "type": "text",
+              "text": "Su Yaalo.com utilizziamo i cookie per migliorare la tua esperienza sul sito. I cookie sono piccoli file di testo salvati sul tuo dispositivo che ci aiutano a comprendere l’utilizzo del sito e a personalizzare i contenuti."
+            },
+            {
+              "type": "bold",
+              "text": "Cookie essenziali: necessari per il corretto funzionamento del sito e per consentire l’accesso alle aree protette."
+            },
+            {
+              "type": "bold",
+              "text": "Cookie di prestazione: raccolgono informazioni anonime sull’utilizzo del sito per migliorarne il funzionamento."
+            },
+            {
+              "type": "bold",
+              "text": "Cookie di funzionalità: permettono di ricordare le tue preferenze, come lingua o area geografica."
+            },
+            {
+              "type": "bold",
+              "text": "Cookie pubblicitari: utilizzati per rendere la pubblicità più pertinente ai tuoi interessi."
+            },
+            {
+              "type": "bold",
+              "text": "Cookie analitici: aiutano a compilare report statistici anonimi sul traffico del sito."
+            },
+            {
+              "type": "bold",
+              "text": "Gestione dei cookie: puoi accettare o rifiutare i cookie modificando le impostazioni del browser, ma alcune funzionalità del sito potrebbero non essere disponibili."
+            },
+            {
+              "type": "bold",
+              "text": "Nota: i cookie migliorano l’esperienza utente e non vengono utilizzati per accedere a informazioni personali o violare la privacy."
+            }
+          ]
+        },
+        {
+          "title": "4. Come utilizziamo le informazioni raccolte",
+          "content": [
+            {
+              "type": "text",
+              "text": "Utilizziamo i tuoi dati personali in modo responsabile per migliorare i servizi, gestire l’account, fornire assistenza clienti e garantire la sicurezza delle operazioni."
+            },
+            {
+              "type": "bold",
+              "text": "Gestione dell’account: utilizziamo i tuoi dati per comunicare con te e assisterti quando necessario."
+            },
+            {
+              "type": "bold",
+              "text": "Aggiornamenti e avvisi: inviamo comunicazioni importanti su sicurezza, supporto e aggiornamenti tecnici."
+            },
+            {
+              "type": "bold",
+              "text": "Marketing (solo con consenso): potremmo inviarti offerte o novità se hai espresso il consenso."
+            },
+            {
+              "type": "bold",
+              "text": "Elaborazione dei pagamenti: i dati vengono utilizzati per gestire pagamenti sicuri."
+            },
+            {
+              "type": "bold",
+              "text": "Nessuna vendita dei dati: non vendiamo i tuoi dati personali."
+            }
+          ]
+        },
+        {
+          "title": "5. Divulgazione",
+          "content": [
+            {
+              "type": "text",
+              "text": "Potremmo condividere le informazioni con fornitori di servizi fidati o per obblighi legali, sempre nel rispetto della normativa vigente."
+            }
+          ]
+        },
+        {
+          "title": "6. Informativa sui minori",
+          "content": [
+            {
+              "type": "text",
+              "text": "I nostri servizi non sono destinati a minori di 13 anni e non raccogliamo consapevolmente dati di bambini."
+            }
+          ]
+        },
+        {
+          "title": "7. Utilizzo internazionale",
+          "content": [
+            {
+              "type": "text",
+              "text": "I nostri servizi sono disponibili a livello globale e i dati possono essere trattati in diversi paesi, sempre con misure di sicurezza adeguate."
+            }
+          ]
+        },
+        {
+          "title": "8. Come aggiornare o modificare le informazioni",
+          "content": [
+            {
+              "type": "text",
+              "text": "Puoi aggiornare i tuoi dati accedendo all’account o contattando il nostro supporto clienti per assistenza."
+            }
+          ]
+        },
+        {
+          "title": "9. Sicurezza e crittografia",
+          "content": [
+            {
+              "type": "text",
+              "text": "Proteggiamo i tuoi dati con misure di sicurezza avanzate, inclusa la crittografia SSL e sistemi di monitoraggio continuo."
+            }
+          ]
+        },
+        {
+          "title": "10. Modifiche a questa informativa",
+          "content": [
+            {
+              "type": "text",
+              "text": "Potremmo aggiornare periodicamente questa Informativa sulla privacy. L’uso continuato dei servizi implica l’accettazione delle modifiche."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "RefundPolicyPage": {
+    "metaData": {
+      "title": "Politica di rimborso Yaalo: linee guida chiare su rimborsi e idoneità",
+      "description": "Politica di rimborso Yaalo: criteri di idoneità, problemi tecnici e compatibilità del dispositivo per un’esperienza eSIM senza intoppi. Richiedi un rimborso con facilità.",
+      "keywords": "eSIM, compra eSIM, eSIM regionale, eSIM locale, compra eSIM regionale, compra eSIM locale, acquista eSIM locale, acquista eSIM regionale, dati eSIM, e-SIM, piano eSIM, eSIM store, eSIM marketplace, viaggiatore, piano dati, compra e-SIM, dati economici, connettività"
+    },
+    "refundPolicy": {
+      "title": "Politica di rimborso",
+      "description": "In Yaalo ci impegniamo a garantire ai nostri clienti un’esperienza fluida e piacevole. La nostra politica di rimborso è pensata per offrire chiarezza nei rari casi in cui sia necessario richiedere un rimborso. Di seguito trovi informazioni dettagliate su procedure e condizioni di rimborso.",
+      "data": [
+        {
+          "title": "Idoneità al rimborso e condizioni",
+          "content": [
+            {
+              "type": "bold",
+              "text": "Problemi di copertura: Se la eSIM non può essere installata a causa di problemi di copertura, puoi richiedere un rimborso o una modifica."
+            },
+            {
+              "type": "bold",
+              "text": "Problemi tecnici: Se i problemi tecnici dipendono da Yaalo e non possono essere risolti in tempi rapidi, il rimborso è possibile solo se non è stato consumato alcun dato."
+            },
+            {
+              "type": "bold",
+              "text": "Validità del pacchetto dati: Non sono previsti rimborsi per i dati residui dopo la scadenza del periodo di validità del pacchetto."
+            },
+            {
+              "type": "bold",
+              "text": "Acquisti accidentali: Non sono previsti rimborsi una volta che la eSIM è stata installata e utilizzata."
+            },
+            {
+              "type": "bold",
+              "text": "Addebiti errati: Eventuali contestazioni devono essere comunicate entro 12 giorni dal ricevimento, includendo i dettagli del motivo per cui l’importo è errato."
+            },
+            {
+              "type": "bold",
+              "text": "Attività fraudolente: Yaalo si riserva il diritto di rifiutare rimborsi in caso di sospetto abuso, violazione dei termini o attività fraudolente."
+            },
+            {
+              "type": "bold",
+              "text": "Compatibilità del telefono: È fondamentale verificare che il tuo telefono sia compatibile con eSIM prima dell’acquisto. Non sono previsti rimborsi per problemi di incompatibilità."
+            },
+            {
+              "type": "bold",
+              "text": "Acquisto una tantum: La eSIM è un acquisto una tantum e non è rimborsabile"
+            },
+            {
+              "type": "bold",
+              "text": "Numeri virtuali: I numeri virtuali non funzionano su WhatsApp e altri servizi di social media; il cliente non ha diritto a rimborso se non riceve i codici OTP per tali servizi."
+            }
+          ]
+        },
+        {
+          "title": "Procedura per richiedere un rimborso",
+          "content": [
+            {
+              "type": "bold",
+              "text": "Tempistiche: Le richieste di rimborso devono essere presentate entro 30 giorni dall’acquisto."
+            },
+            {
+              "type": "bold",
+              "text": "Collaborazione: Per valutare il rimborso è necessaria una collaborazione tempestiva nella fase di troubleshooting."
+            },
+            {
+              "type": "bold",
+              "text": "Notifica: Invia un’email a support@yaalo.com con la richiesta di rimborso, includendo dettagli pertinenti e motivazioni."
+            }
+          ]
+        },
+        {
+          "title": "Eccezioni e scenari specifici",
+          "content": [
+            {
+              "type": "bold",
+              "text": "Acquisti non autorizzati: Soggetti a indagine e approvazione."
+            },
+            {
+              "type": "bold",
+              "text": "Modifiche: Non sono consentite modifiche o personalizzazioni dopo l’acquisto."
+            },
+            {
+              "type": "bold",
+              "text": "Ultimate Mobile Services: Il servizio può essere sospeso senza preavviso e non è soggetto a rimborso."
+            },
+            {
+              "type": "bold",
+              "text": "Nota: Gli acquisti eSIM non sono idonei al rimborso dopo 60 giorni dalla data di acquisto, indipendentemente dal fatto che la eSIM sia stata installata o meno."
+            }
+          ]
+        },
+        {
+          "title": "Termini aggiuntivi",
+          "content": [
+            {
+              "type": "bold",
+              "text": "Politica di utilizzo corretto: Si applica a tutti i bundle/piani."
+            },
+            {
+              "type": "bold",
+              "text": "Responsabilità: Yaalo non è responsabile per indisponibilità del servizio o problemi di rete."
+            },
+            {
+              "type": "bold",
+              "text": "Garanzia: Nessuna garanzia di disponibilità di rete costante."
+            }
+          ]
+        },
+        {
+          "title": "Contatti e supporto",
+          "content": [
+            {
+              "type": "text",
+              "text": "Per qualsiasi domanda o assistenza, contatta il nostro team di supporto all’indirizzo support@yaalo.com. Siamo qui per aiutarti a vivere un’esperienza fluida e senza stress."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "TermsOfServicePage": {
+    "metaData": {
+      "title": "Termini Yaalo: servizi eSIM globali sicuri, rimborso e privacy",
+      "description": "Leggi i termini Yaalo per servizi eSIM globali e sicuri. Comprendi politiche di rimborso, compatibilità dispositivi e privacy per un’esperienza di viaggio senza intoppi.",
+      "keywords": "eSIM, compra eSIM, eSIM regionale, eSIM locale, compra eSIM regionale, compra eSIM locale, acquista eSIM locale, acquista eSIM regionale, dati eSIM, e-SIM, piano eSIM, eSIM store, eSIM marketplace, viaggiatore, piano dati, compra e-SIM, dati economici, connettività"
+    },
+    "Terms": {
+      "title": "Termini di servizio",
+      "data": [
+        {
+          "title": "1. Validità dei termini e condizioni generali",
+          "content": [
+            {
+              "type": "text",
+              "text": "I presenti Termini e Condizioni si applicano a tutti i servizi forniti dalla nostra azienda in relazione alla rivendita di eSIM prepagate. Questi termini sono vincolanti ed esecutivi dal momento in cui utilizzi i nostri servizi. Possiamo accettare variazioni a tali termini solo se espressamente concordate per iscritto."
+            }
+          ],
+          "subTitles": [
+            {
+              "title": "1.2. Descrizione dei servizi",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "I nostri piani Unlimited includono una quota giornaliera di dati ad alta velocità (1GB, 2–3GB o 5GB a seconda del piano) e dati illimitati a velocità ridotte successivamente. I dati ad alta velocità si reimpostano ogni 24 ore dal primo utilizzo."
+                },
+                {
+                  "type": "bold",
+                  "text": "Nota bene: i limiti dati e le politiche di velocità possono variare in base al Paese. In alcune località non sono previste limitazioni di velocità. Prima dell’acquisto, ti consigliamo vivamente di consultare i dettagli completi del piano per capire cosa è incluso."
+                }
+              ]
+            },
+            {
+              "title": "1.2.1. Rivendita di eSIM",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Offriamo eSIM prepagate acquistabili e utilizzabili in diverse regioni e Paesi. Queste eSIM sono progettate per offrire ai clienti un modo comodo e flessibile per accedere ai servizi dati mobili."
+                }
+              ]
+            },
+            {
+              "title": "1.2.2. Registrazione per l’utilizzo dei nostri servizi",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Per utilizzare i nostri servizi, i clienti devono registrarsi e fornire le informazioni personali necessarie come nome, indirizzo ed email. La registrazione è essenziale per attivare e gestire i servizi eSIM."
+                }
+              ]
+            },
+            {
+              "title": "1.2.3. I nostri impegni",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ci impegniamo a offrire un servizio di alta qualità ai nostri clienti. Tuttavia, non garantiamo un servizio ininterrotto o privo di errori. Il nostro impegno consiste nell’adottare sforzi ragionevoli per assicurare affidabilità e performance."
+                }
+              ]
+            },
+            {
+              "title": "1.2.4. Impegni del cliente",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "I clienti devono utilizzare i nostri servizi in modo responsabile. Sono severamente vietate azioni abusive, illegali o fraudolente, o che compromettano la rete. La violazione di questi termini può comportare la sospensione del servizio, durante la quale il cliente rimane responsabile di eventuali addebiti."
+                }
+              ]
+            },
+            {
+              "title": "1.2.5. Compatibilità del dispositivo",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "I clienti sono responsabili di verificare che i propri dispositivi siano compatibili con la tecnologia eSIM. La compatibilità può variare in base all’operatore del dispositivo e al Paese di origine. Il cliente è tenuto a controllare la compatibilità tramite l’elenco fornito al momento dell’acquisto."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "2. Registrazione e attivazione",
+          "content": [],
+          "subTitles": [
+            {
+              "title": "2.1. Requisiti di registrazione",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Per accedere e utilizzare i nostri servizi eSIM, i clienti devono completare una procedura di registrazione. Il processo è semplice e pensato per garantire un’esperienza fluida e sicura. Di seguito i requisiti principali:"
+                },
+                {
+                  "type": "bold",
+                  "text": "Dati personali: i clienti devono fornire informazioni accurate e aggiornate, inclusi nome, cognome, indirizzo di fatturazione e un indirizzo email valido. Questi dati sono necessari per creare l’account e comunicare con te."
+                },
+                {
+                  "type": "bold",
+                  "text": "Creazione dell’account: dopo aver fornito le informazioni necessarie, verrà creato un account sulla nostra piattaforma per gestire acquisti, monitorare l’utilizzo e accedere al supporto."
+                },
+                {
+                  "type": "bold",
+                  "text": "Accettazione dei termini: durante la registrazione, i clienti devono leggere e accettare i Termini e Condizioni Generali. L’accettazione costituisce un accordo vincolante."
+                },
+                {
+                  "type": "bold",
+                  "text": "Verifica compatibilità dispositivo: i clienti sono responsabili di verificare la compatibilità eSIM. L’elenco dei dispositivi compatibili è disponibile sul nostro sito. Proseguendo con la registrazione, il cliente dichiara che il dispositivo è compatibile."
+                }
+              ]
+            },
+            {
+              "title": "2.2. Processo di acquisto e attivazione",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Dopo la registrazione, i clienti possono procedere con l’acquisto e l’attivazione della eSIM:"
+                },
+                {
+                  "type": "bold",
+                  "text": "Selezione eSIM: puoi consultare diverse opzioni eSIM sulla piattaforma, ciascuna pensata per esigenze e destinazioni differenti."
+                },
+                {
+                  "type": "bold",
+                  "text": "Pagamento: dopo aver selezionato la eSIM, puoi procedere al pagamento. Accettiamo diversi metodi, inclusi carte di credito/debito, Google Pay, Apple Pay e Alipay. Le transazioni sono elaborate in modo sicuro; la valuta di pagamento è il Dollaro USA ($)."
+                },
+                {
+                  "type": "bold",
+                  "text": "Consegna eSIM: dopo l’acquisto, la eSIM viene consegnata in formato digitale. Riceverai un’email con istruzioni dettagliate per installazione e attivazione. La eSIM è disponibile anche nella sezione 'My eSIMs' del tuo account."
+                },
+                {
+                  "type": "bold",
+                  "text": "Attivazione: l’attivazione della eSIM è responsabilità del cliente. In genere basta scansionare un QR code e seguire pochi passaggi. Una volta attiva, la eSIM sarà pronta all’uso secondo il piano scelto."
+                },
+                {
+                  "type": "bold",
+                  "text": "Supporto: in caso di difficoltà durante registrazione o attivazione, puoi contattare il nostro team di supporto. Siamo disponibili per garantire un’esperienza senza stress."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "3. Pagamenti e termini finanziari",
+          "content": [],
+          "subTitles": [
+            {
+              "title": "3.1. Addebiti e pagamento",
+              "content": [
+                {
+                  "type": "bold",
+                  "text": "Condizioni di pagamento: i servizi possono essere acquistati tramite diversi metodi, inclusi carte di credito/debito, PayPal, Google Pay, Apple Pay e Alipay."
+                },
+                {
+                  "type": "bold",
+                  "text": "Valuta: tutte le transazioni vengono elaborate in Dollari USA (USD)."
+                },
+                {
+                  "type": "bold",
+                  "text": "Sicurezza: le transazioni sono protette e gestite tramite fornitori di pagamento consolidati come Stripe."
+                },
+                {
+                  "type": "bold",
+                  "text": "Inclusione degli addebiti: i prezzi includono tutte le tasse e commissioni applicabili, salvo diversa indicazione."
+                }
+              ]
+            },
+            {
+              "title": "3.2. Rimborsi e cancellazioni",
+              "content": [
+                {
+                  "type": "bold",
+                  "text": "Regola generale: le eSIM sono acquisti una tantum e non sono rimborsabili. Il cliente non ha diritto a rimborso se il dispositivo non è sbloccato o non è compatibile con eSIM."
+                },
+                {
+                  "type": "bold",
+                  "text": "Bundle Unlimited: i bundle Unlimited sono soggetti a limitazione di velocità e possono ridurre la velocità dopo il consumo di una certa quantità di dati alla massima velocità."
+                },
+                {
+                  "type": "bold",
+                  "text": "Abbonamenti mensili: alcune eSIM includono abbonamenti rinnovabili che devono essere rinnovati prima della scadenza per continuare a usare il numero ed evitare interruzioni del servizio."
+                },
+                {
+                  "type": "bold",
+                  "text": "Uso fraudolento: Yaalo si riserva il diritto di annullare l’acquisto in caso di sospetto frode o utilizzo spam."
+                },
+                {
+                  "type": "bold",
+                  "text": "Numeri virtuali: i numeri virtuali non funzionano su WhatsApp e servizi simili; il cliente non ha diritto a rimborso se non riceve i codici OTP per tali servizi."
+                },
+                {
+                  "type": "bold",
+                  "text": "Nota: gli acquisti eSIM non sono idonei al rimborso dopo 60 giorni dalla data di acquisto, indipendentemente dal fatto che la eSIM sia stata installata o meno."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "4. Aspetti legali e conformità",
+          "content": [],
+          "subTitles": [
+            {
+              "title": "4.1. Legge applicabile e conformità legale",
+              "content": [
+                {
+                  "type": "bold",
+                  "text": "Giurisdizione: i servizi sono regolati e interpretati in conformità alle leggi della giurisdizione in cui ha sede il fornitore del servizio. Qualsiasi azione legale o procedimento relativo o derivante da questi termini e condizioni sarà soggetto esclusivamente alla giurisdizione dei tribunali di tale area."
+                }
+              ]
+            },
+            {
+              "title": "4.2. Responsabilità e garanzia",
+              "content": [
+                {
+                  "type": "bold",
+                  "text": "Disponibilità del servizio: pur impegnandosi a garantire un servizio disponibile e continuo, il fornitore non garantisce l’assenza di interruzioni. Il fornitore non è responsabile di interruzioni o indisponibilità."
+                },
+                {
+                  "type": "bold",
+                  "text": "Esclusione di garanzia: i servizi sono forniti “così come sono”, senza garanzie di alcun tipo, espresse o implicite, incluse (a titolo esemplificativo) garanzie di commerciabilità, idoneità per uno scopo specifico o non violazione."
+                },
+                {
+                  "type": "bold",
+                  "text": "Abbonamenti mensili: alcune eSIM includono abbonamenti rinnovabili che devono essere rinnovati prima della scadenza per continuare a usare il numero ed evitare interruzioni del servizio."
+                },
+                {
+                  "type": "bold",
+                  "text": "Limitazione di responsabilità: il fornitore non sarà responsabile di danni indiretti, incidentali, speciali, consequenziali o punitivi, inclusi (a titolo esemplificativo) perdita di profitti, dati o altri beni immateriali."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "5. Informazioni di contatto",
+          "content": [
+            {
+              "type": "text",
+              "text": "Per ulteriori informazioni o assistenza sui nostri servizi, puoi contattarci tramite i seguenti canali:"
+            },
+            {
+              "type": "bold",
+              "text": "Supporto email: support@yaalo.com"
+            },
+            {
+              "type": "bold",
+              "text": "Assistenza chat dal vivo: disponibile nell’angolo in basso a destra del nostro sito."
+            },
+            {
+              "type": "bold",
+              "text": "Supporto WhatsApp:  {{whatsappNumber}}, disponibile 24/7"
+            },
+            {
+              "type": "bold",
+              "text": "Richieste business: sales@yaalo.com"
+            },
+            {
+              "type": "bold",
+              "text": "Corrispondenza postale: Yaalo, 250 S Ronald Reagan Blvd, Str 106, Orlando, FL"
+            }
+          ],
+          "subTitles": [
+            {
+              "title": "5.2. Responsabilità e garanzia",
+              "content": [
+                {
+                  "type": "bold",
+                  "text": "Disponibilità del servizio: pur impegnandosi a garantire un servizio disponibile e continuo, il fornitore non garantisce l’assenza di interruzioni. Il fornitore non è responsabile di interruzioni o indisponibilità."
+                },
+                {
+                  "type": "bold",
+                  "text": "Esclusione di garanzia: i servizi sono forniti “così come sono”, senza garanzie di alcun tipo, espresse o implicite, incluse (a titolo esemplificativo) garanzie di commerciabilità, idoneità per uno scopo specifico o non violazione."
+                },
+                {
+                  "type": "bold",
+                  "text": "Limitazione di responsabilità: il fornitore non sarà responsabile di danni indiretti, incidentali, speciali, consequenziali o punitivi, inclusi (a titolo esemplificativo) perdita di profitti, dati o altri beni immateriali"
+                }
+              ]
+            },
+            {
+              "title": "5.3. Diritti di proprietà intellettuale",
+              "content": [
+                {
+                  "type": "bold",
+                  "text": "Titolarità: tutti i diritti di proprietà intellettuale relativi ai servizi, inclusi software, documentazione e contenuti forniti, sono di proprietà del fornitore del servizio o dei suoi licenzianti."
+                },
+                {
+                  "type": "bold",
+                  "text": "Uso del servizio: agli utenti viene concessa una licenza limitata, non esclusiva e non trasferibile per accedere e utilizzare i servizi per scopi personali e non commerciali come previsto dai presenti termini."
+                }
+              ]
+            },
+            {
+              "title": "5.4. Informativa sulla privacy",
+              "content": [
+                {
+                  "type": "bold",
+                  "text": "Protezione dei dati: il fornitore del servizio si impegna a proteggere la privacy e la sicurezza dei dati degli utenti. Le informazioni personali raccolte vengono utilizzate in conformità con l’Informativa sulla privacy dell’azienda."
+                },
+                {
+                  "type": "bold",
+                  "text": "Consenso all’uso dei dati: utilizzando il servizio, gli utenti acconsentono alla raccolta, all’uso e alla condivisione dei dati come descritto nell’Informativa sulla privacy."
+                }
+              ]
+            },
+            {
+              "title": "5.5. Cessione",
+              "content": [
+                {
+                  "type": "bold",
+                  "text": "Non trasferibile: gli utenti non possono trasferire o cedere diritti o obblighi ai sensi di questi termini senza previo consenso scritto del fornitore del servizio."
+                },
+                {
+                  "type": "bold",
+                  "text": "Diritti del fornitore: il fornitore può cedere i propri diritti e obblighi a un’affiliata o nell’ambito di una fusione, acquisizione, riorganizzazione aziendale o vendita di tutti o parte sostanziale degli asset."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "6. Disposizioni aggiuntive",
+          "content": [],
+          "subTitles": [
+            {
+              "title": "6.1. Erogazione dei servizi",
+              "content": [
+                {
+                  "type": "bold",
+                  "text": "Attivazione del servizio: dopo l’acquisto riuscito, il servizio (ad es. eSIM) verrà attivato immediatamente o a un orario programmato in base alla scelta del cliente. Il cliente riceverà istruzioni dettagliate via email per installazione e attivazione."
+                },
+                {
+                  "type": "bold",
+                  "text": "Accessibilità: il servizio è accessibile tramite l’account del cliente sul nostro sito o tramite l’app mobile. Il cliente può visualizzare e gestire i dettagli del servizio nella sezione dedicata (ad es. scheda 'My eSIMs')."
+                },
+                {
+                  "type": "bold",
+                  "text": "Compatibilità: il cliente è responsabile di verificare la compatibilità del dispositivo con la tecnologia eSIM. Un elenco di dispositivi compatibili è disponibile sul sito. Proseguendo con l’acquisto, il cliente dichiara e accetta la responsabilità della verifica."
+                },
+                {
+                  "type": "bold",
+                  "text": "Limitazioni del servizio: pur impegnandoci a offrire un servizio continuo, non possiamo garantire che sia sempre disponibile, tempestivo, sicuro o privo di errori. La qualità del servizio può dipendere da vari fattori, inclusi posizione del cliente, dispositivo e congestione di rete."
+                }
+              ]
+            },
+            {
+              "title": "6.2. Disposizioni varie",
+              "content": [
+                {
+                  "type": "bold",
+                  "text": "Modifiche ai termini: ci riserviamo il diritto di modificare questi termini e condizioni in qualsiasi momento. Le modifiche saranno efficaci immediatamente dopo la pubblicazione sul nostro sito. L’uso continuato dei servizi costituisce accettazione dei nuovi termini."
+                },
+                {
+                  "type": "bold",
+                  "text": "Legge applicabile: i presenti termini sono regolati e interpretati in conformità alle leggi della giurisdizione in cui la nostra azienda è registrata, senza dare effetto alla risoluzione delle controversie: eventuali controversie derivanti o relative a questi termini saranno risolte tramite arbitrato, secondo le regole dell’associazione arbitrale della giurisdizione."
+                },
+                {
+                  "type": "bold",
+                  "text": "Proprietà intellettuale: tutti i diritti di proprietà intellettuale relativi al servizio, inclusi marchi, marchi di servizio, brevetti, copyright e segreti commerciali, sono di nostra proprietà o dei nostri licenzianti. L’uso del servizio non conferisce al cliente alcun diritto sulla nostra proprietà intellettuale."
+                },
+                {
+                  "type": "bold",
+                  "text": "Contributi degli utenti: qualsiasi contenuto o dato caricato dagli utenti durante l’utilizzo del servizio rimane di proprietà dell’utente. Tuttavia, caricando contenuti, l’utente concede una licenza mondiale, royalty-free, per usare, riprodurre, modificare e mostrare tali contenuti in relazione al servizio."
+                },
+                {
+                  "type": "bold",
+                  "text": "Privacy: ci impegniamo a proteggere la privacy degli utenti. La nostra Informativa sulla privacy, disponibile sul sito, descrive le pratiche di raccolta, utilizzo e divulgazione dei dati personali."
+                },
+                {
+                  "type": "bold",
+                  "text": "Cessione: i clienti non possono cedere diritti o obblighi ai sensi di questi termini senza il nostro previo consenso scritto."
+                },
+                {
+                  "type": "bold",
+                  "text": "Accordo integrale: questi termini costituiscono l’intero accordo tra cliente e azienda in merito al servizio e sostituiscono tutte le comunicazioni e proposte precedenti o contemporanee, elettroniche, orali o scritte."
+                },
+                {
+                  "type": "bold",
+                  "text": "Clausola di separabilità: se una parte di questi termini è ritenuta invalida o inapplicabile, tale parte sarà modificata per riflettere l’intento delle parti o eliminata nella misura minima necessaria, e il resto dei termini rimarrà pienamente valido ed efficace."
+                },
+                {
+                  "type": "bold",
+                  "text": "Nessuna rinuncia: la mancata applicazione di un diritto o di una disposizione non costituisce rinuncia a tale diritto o disposizione."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Per maggiori informazioni sui Termini di servizio",
+          "content": [
+            {
+              "type": "bold",
+              "text": "Supporto email: per richieste o esigenze di assistenza, scrivici a support@yaalo.com. Il nostro team si impegna a rispondere in modo rapido e utile."
+            },
+            {
+              "type": "bold",
+              "text": "Assistenza chat dal vivo: se preferisci supporto in tempo reale, fai clic sull’icona della chat nell’angolo in basso a destra del sito. Il supporto chat è disponibile per rispondere subito alle tue domande."
+            },
+            {
+              "type": "bold",
+              "text": "Richieste business: per domande o proposte commerciali, invia un’email a sales@yaalo.com. Saremo felici di valutare collaborazioni e opportunità."
+            },
+            {
+              "type": "bold",
+              "text": "Supporto telefonico: se desideri parlare direttamente con un operatore, chiama {{whatsappNumber}}. Nota: le linee telefoniche sono operative dalle 9.00 alle 17.00 (Ora dell’Europa Centrale)."
+            },
+            {
+              "type": "bold",
+              "text": "Corrispondenza postale: se devi inviarci documenti fisici o comunicare per posta, il nostro indirizzo è:"
+            },
+            {
+              "type": "bolder",
+              "text": "``` Yaalo 250 S Ronald Reagan Blvd Str 106 Orlando, FL ```"
+            },
+            {
+              "type": "link",
+              "text": "Il team Yaalo è dedicato a rendere la tua esperienza con i nostri servizi semplice e soddisfacente. Che si tratti di una domanda veloce o di una richiesta dettagliata, siamo qui per offrirti il supporto di cui hai bisogno.",
+              "linkText": "Yaalo",
+              "linkTo": "/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "AffiliatePartnerPage": {
+    "metaData": {
+      "title": "Unisciti al Programma Affiliati Yaalo eSIM | Guadagna fino al 20%",
+      "description": "Unisciti al programma affiliati Yaalo eSIM e guadagna fino al 20% di commissione promuovendo piani dati eSIM da viaggio. Tracking in tempo reale, pagamenti mensili e setup facile.",
+      "keywords": " guadagnare, partner affiliato, partner eSIM, diventare partner, affiliato"
+    },
+    "hero": {
+      "title": "Unisciti al Programma Affiliati Yaalo eSIM",
+      "trophy": "Uno dei migliori programmi affiliati eSIM per creator di viaggi",
+      "description": "Benvenuto in un modo trasparente per guadagnare. Iscriviti, promuovi e guadagna commissioni ogni volta che qualcuno acquista un piano dati eSIM globale tramite il tuo link.",
+      "button": "Unisciti al Programma Affiliati Yaalo"
+    },
+    "imageCarousel": {
+      "title": "Perché collaborare con Yaalo eSIM?",
+      "descripton": "Scegliere il programma affiliati giusto significa, alla fine, guadagni reali. Con i servizi Yaalo attivi in tutto il mondo, collaborando con noi ottieni:",
+      "1": {
+        "title": "Commissioni competitive",
+        "description": "Guadagni fino al 20% di commissione su ogni acquisto eSIM completato tramite il tuo link affiliato. Nessun tetto massimo e nessun requisito di pubblico minimo."
+      },
+      "2": {
+        "title": "Tracking in tempo reale",
+        "description": "Monitora clic, conversioni e commissioni in tempo reale tramite una dashboard affiliati pulita e semplice. Sai sempre come stanno performando i tuoi link."
+      },
+      "3": {
+        "title": "Pagamenti mensili",
+        "description": "Ti paghiamo puntualmente ogni mese. Puoi scegliere metodi affidabili come PayPal, bonifico bancario o altre opzioni di pagamento sicure."
+      },
+      "4": {
+        "title": "Supporto dedicato",
+        "description": "Se ti serve aiuto per creare link, scegliere banner o capire le statistiche, il nostro team è qui per te. Non sei lasciato da solo."
+      },
+      "5": {
+        "title": "Strumenti promozionali semplici",
+        "description": "Strumenti promozionali semplici"
+      }
+    },
+    "features": {
+      "button": "Unisciti al Programma Affiliati Yaalo",
+      "title": "Chi può diventare partner affiliato Yaalo?",
+      "description": "Il Programma Affiliati Yaalo eSIM funziona bene per tanti tipi di partner:",
+      "ending": "Non devi essere un grande brand. Se il tuo pubblico ama viaggi, tecnologia, praticità o risparmio, Yaalo eSIM è perfetta.",
+      "cards": {
+        "1": {
+          "title": "Travel blogger e guide di destinazione",
+          "description": "Consiglia le eSIM come alternativa più innovativa al roaming o alle SIM locali."
+        },
+        "2": {
+          "title": "YouTuber e content creator",
+          "description": "Aggiungi valore a video di viaggio, guide valigia e tutorial pratici."
+        },
+        "3": {
+          "title": "Siti tech e comparatori",
+          "description": "Inserisci Yaalo tra i migliori provider di eSIM internazionali."
+        },
+        "4": {
+          "title": "Digital nomad e community di lavoro da remoto",
+          "description": "Condividi uno strumento pratico che il tuo pubblico usa davvero."
+        }
+      }
+    },
+    "affiliateWorkingSteps": {
+      "title": "Come funziona il Programma Affiliati?",
+      "description": "Yaalo punta sulla semplicità, perché sappiamo che il tuo tempo conta.",
+      "cards": {
+        "1": {
+          "title": "Candidati",
+          "description": "Compila il modulo di iscrizione veloce. Lo valutiamo e ti approviamo rapidamente."
+        },
+        "2": {
+          "title": "Ottieni il tuo link",
+          "description": "Dopo l’approvazione, riceverai un link affiliato unico e l’accesso alla tua dashboard."
+        },
+        "3": {
+          "title": "Guadagna",
+          "description": "Per ogni persona che acquista tramite il tuo link, guadagni fino al 20% di commissione. Traccia tutto dalla dashboard."
+        },
+        "4": {
+          "title": "Condividi",
+          "description": "Usa il link sul tuo blog, nelle descrizioni YouTube, sui social o nelle newsletter email."
+        }
+      }
+    },
+    "speacialFeatures": {
+      "title": "Cosa rende Yaalo eSIM speciale",
+      "recommend": "e facile da consigliare",
+      "description": "Le persone cercano termini come “piani dati eSIM da viaggio”, “migliore eSIM per turisti” o “dati mobili internazionali”. Con Yaalo eSIM puoi dire con sicurezza:",
+      "ending": "Non devi essere un grande brand. Se il tuo pubblico ama viaggi, tecnologia, praticità o risparmio, Yaalo eSIM è perfetta.",
+      "cards": {
+        "text1": "Niente cambio SIM quando viaggiano",
+        "text2": "Connessi in 200+ Paesi",
+        "text3": "Piani attivi subito dopo l’acquisto",
+        "text4": "Opzioni dati locali flessibili in un’unica app globale"
+      }
+    },
+    "affiliateForm": {
+      "title": "Pronto a iniziare e guadagnare con Yaalo?",
+      "description": "Compila il modulo e il nostro team ti contatterà entro 24 ore. Ti chiediamo di salvare le informazioni inserite per dopo, perché verranno usate come credenziali di accesso."
+    },
+    "faqsData": {
+      "title": "Domande frequenti",
+      "description": "Trova risposte rapide alle domande più comuni.",
+      "faqs": {
+        "1": {
+          "title": "Come posso iscrivermi al programma affiliati Yaalo eSIM?",
+          "body": "Candidati tramite il modulo affiliati inserendo il tuo sito o profilo social. Dopo l’approvazione, riceverai il link affiliato e l’accesso alla dashboard."
+        },
+        "2": {
+          "title": "Il programma affiliati Yaalo eSIM è gratuito?",
+          "body": "Sì. L’iscrizione al Programma Affiliati Yaalo è completamente gratuita. Non ci sono costi di registrazione o di mantenimento."
+        },
+        "3": {
+          "title": "Quanto posso guadagnare come affiliato Yaalo?",
+          "body": "Gli affiliati guadagnano fino al 20% di commissione per vendita, senza limiti di guadagno."
+        },
+        "4": {
+          "title": "Quando vengono pagate le commissioni affiliate?",
+          "body": "I pagamenti delle commissioni affiliate vengono elaborati mensilmente tramite il metodo di pagamento selezionato."
+        },
+        "5": {
+          "title": "Mi serve un sito web per diventare affiliato?",
+          "body": "No. Puoi promuovere Yaalo eSIM tramite social media, YouTube, newsletter email o qualsiasi piattaforma in cui il tuo pubblico si fidi dei tuoi consigli."
+        }
+      }
+    },
+    "sharingBanner": {
+      "title": "Condividere è prendersi cura con Yaalo eSIM!",
+      "body1": "Collaborare con Yaalo eSIM non significa solo guadagnare. Significa condividere qualcosa di utile: un modo per restare connessi all’estero senza stress o costi di roaming elevati. Quando il tuo pubblico vince, vinci anche tu.",
+      "body2": "Se il tuo pubblico viaggia, lavora da remoto o apprezza una connettività mobile semplice, Yaalo eSIM è qualcosa che puoi consigliare con fiducia.",
+      "button": "Candidati ora",
+      "ending": "e inizia a guadagnare con Yaalo eSIM."
+    }
+  }
+}

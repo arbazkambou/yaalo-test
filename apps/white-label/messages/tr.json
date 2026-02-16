@@ -1,0 +1,2414 @@
+{
+  "HomePage": {
+    "metaData": {
+      "title": "Uluslararası Seyahat için En İyi Ön Ödemeli Yaalo eSIM’i Satın Al",
+      "description": "iPhone, iPad ve Android için uluslararası seyahatlerde en iyi Yaalo eSIM. Uygun fiyatlı planlar, anında aktivasyon. eSIM satın al, aktive et ve hemen bağlan.",
+      "keywords": "Türkiye eSIM, seyahat eSIM, uluslararası eSIM, ön ödemeli eSIM, eSIM satın al, yerel eSIM, bölgesel eSIM, eSIM planı, eSIM mağazası, uygun fiyatlı internet"
+    },
+    "hero": {
+      "title": "<brand>Yaalo <product>eSIM</product></brand> ile Dünyayı Gez, Ücretleri Değil",
+      "subtitle": "Seyahatlerin artık çok daha kolay. Yaalo eSIM satın aldığında iner inmez bağlanır, 200+ destinasyonda yerel fiyatlarla anında 5G veri kullanırsın.",
+      "tagTitle": "3 Adımda Aktivasyon ile Dijital Özgürlük",
+      "downloadApp": "Uygulamayı Şimdi İndir"
+    },
+    "esimFeatures": {
+      "features": {
+        "Local": {
+          "title": "Yerel Fiyatlar",
+          "description": "Dolaşım ücretlerine değil, gezginlerin ihtiyaçlarına odaklanan veri planları."
+        },
+        "Plug": {
+          "title": "Tak ve Bağlan",
+          "description": "Seninle seyahat eden veri ve kur-çalıştır kolaylığı"
+        },
+        "Buy": {
+          "title": "Online Satın Al",
+          "description": "Paris’ten Prag’a, Porto’dan devam et—SIM değiştirmeden."
+        },
+        "Support": {
+          "title": "Uyumayan Destek",
+          "description": "Gece 02.00’de yardıma mı ihtiyacın var? Biz buradayız."
+        }
+      }
+    },
+    "startingPrice": {
+      "title": "Rotanı Seç",
+      "subtitle": "Yolculuğuna uygun Yaalo eSIM’leri bul",
+      "tabs": {
+        "local": "Yerel",
+        "regional": "Bölgesel",
+        "global": "Global"
+      },
+      "allDestinations": "Destinasyonunu Ara",
+      "startsAt": "₺140’dan başlayan fiyatlarla",
+      "globalPackage": "Global Paketler",
+      "noOfCountries": "149 Ülke Destekleniyor",
+      "startsPrice": "Başlangıç fiyatı"
+    },
+    "esimCompatible": {
+      "title": "Telefonun eSIM Uyumlu mu?",
+      "description": "Saniyeler içinde kontrol et! Marka ve modelini yaz, uyumlu olup olmadığını gör. Günümüzde birçok üst seviye cihaz eSIM desteklidir.",
+      "compatibleBtn": "Tüm eSIM uyumlu telefonlar",
+      "checkCompatibility": "eSIM Uyumluluğunu Buradan Kontrol Et:"
+    },
+    "whyEsim": {
+      "title": "Gezginler Neden Yaalo’ya Geçiyor?",
+      "description": "Sıfır dolaşım ücreti ve 200+ destinasyon için uluslararası seyahat eSIM’i sayesinde Yaalo en iyi tercihtir.",
+      "cards": {
+        "1": {
+          "title": "Hafif Seyahat, Kesintisiz Bağlantı",
+          "body": "Uzun formlar ve belge doğrulaması yok. 3 adımda aktivasyonla tam dijital özgürlük. QR kodu almak için sadece bir e-posta yeterli."
+        },
+        "2": {
+          "title": "Veri Pasaportun",
+          "body": "Yerel, Bölgesel ve Global eSIM planlarıyla 200+ ülkede anında kapsama. Evde koltukta otururken ya da havalimanına iner inmez saniyeler içinde online ol."
+        },
+        "3": {
+          "title": "Bütçe Dostu, Sınır Tanımaz",
+          "body": "Sürpriz ücretler yok, cüzdanda delik yok. Yerel fiyatlar, adil ücretlendirme ve tam şeffaflık. Dünyayı gönül rahatlığıyla gez."
+        },
+        "4": {
+          "title": "Paylaşım & Hotspot",
+          "body": "Kısıtlama ya da hız düşürme yok. Dizüstü bilgisayarına bağlan veya diğer cihazlara hotspot aç. Yaalo bağlantıyı kesintisiz tutar."
+        },
+        "5": {
+          "title": "Çevre Dostu & Temiz Teknoloji",
+          "body": "Gezegenimizi önemsiyoruz. Fiziksel SIM kartlardan kaynaklanan plastik atıklara son. Stressiz satın alma ve kullanım."
+        },
+        "6": {
+          "title": "Yaalo Uygulaması (iOS & Android)",
+          "body": "Kullanımı takip et, istediğin yerde yükleme yap, planları anında değiştir. Yaalo uygulamasıyla seyahat teknolojisi çok kolay. App Store ve Google Play’de!"
+        }
+      },
+      "showPlansBtn": "eSIM Planlarını Göster"
+    },
+    "faqsData": {
+      "title": "Aklında Soru mu Var? Bu SSS’ler Yardımcı Olur!",
+      "description": "En sık sorulan sorulara hızlı yanıtlar.",
+      "faqs": {
+        "1": {
+          "title": "eSIM seyahat için iyi mi?",
+          "body": "Evet! Yaalo eSIM gezginler için tasarlandı. 200+ destinasyon (Yerel, Bölgesel ve Global) ile dolaşım ücretlerine veda et, plastik SIM derdi olmadan kesintisiz bağlantının keyfini çıkar."
+        },
+        "2": {
+          "title": "Seyahat için en iyi eSIM hangisi?",
+          "body": "Herkesin seyahat ve veri kullanımı farklıdır. Yaalo; sabit, sınırsız ve Data+Voice+SMS seçenekleri sunar. İhtiyacına en uygun planı kolayca seçebilirsin."
+        },
+        "3": {
+          "title": "Seyahatten önce eSIM yüklenebilir mi?",
+          "body": "Kesinlikle. Yaalo eSIM’ini yola çıkmadan önce yükleyebilirsin. Planın, ilk veri kullanımını yaptığında otomatik olarak başlar."
+        },
+        "4": {
+          "title": "eSIM’i her ülkede kullanabilir miyim?",
+          "body": "Büyük olasılıkla evet. Yerel, Bölgesel ve Global eSIM planlarımızla 200+ lokasyonu destekliyoruz. Satın almadan önce planındaki ülke listesini kontrol et."
+        },
+        "5": {
+          "title": "Hangi cihazlar eSIM uyumlu?",
+          "body": "Apple, Samsung, Google ve diğer birçok markanın modern cihazları eSIM destekler. Telefonun nispeten yeniyse Yaalo eSIM uyumludur. Buradan da kontrol edebilirsin."
+        },
+        "6": {
+          "title": "eSIM’imin aktif olduğunu nasıl anlarım?",
+          "body": "İndiğinde telefonunda Yaalo ağ adını görüyorsan ve veri çalışıyorsa eSIM’in aktiftir. Uygulama içinde kullanım bilgilerini de görebilirsin."
+        },
+        "7": {
+          "title": "Yaalo eSIM bir ülkede çalışmazsa ne olur?",
+          "body": "Bağlantı kurulmazsa destek ekibimize ulaş. Sorunu birlikte çözeriz ya da gerekirse iade sunarız."
+        },
+        "8": {
+          "title": "Planımı uzatabilir veya yükleme yapabilir miyim?",
+          "body": "Evet! Yaalo uygulaması içinden veri veya süre uzatması yapabilirsin. Yüklemeler anında aktif olur."
+        },
+        "9": {
+          "title": "Yaalo eSIM güvenli mi?",
+          "body": "Kesinlikle. Verilerini ve kimliğini korumak için endüstri standartlarında şifreleme ve güvenli profil indirme yöntemleri kullanıyoruz."
+        }
+      }
+    },
+    "Reviews": {
+      "title": "Gezginlerin Yorumları – Yaalo’yu Sürekli Kullanıyorlar!",
+      "noReviews": "Henüz yorum yok.",
+      "reviews": {
+        "1": "Kurulum Heathrow’da 30 saniye sürdü, evrak yok, ekstra ücret yok. En iyi seyahat hilesi.",
+        "2": "Roma’dan Berlin’e Yaalo eSIM kullandım. Tek bir kez bile sinyal kaybetmedim. Uygulamadan hızlı yükleme.",
+        "3": "Dolaşımdan çok daha ucuz. Desteğe ulaştım, bir dakikadan kısa sürede yanıt aldım.",
+        "4": "New York uçuşum sırasında indirdim. Uçak modunu kapatınca WhatsApp mesajlarım gelmeye başladı.",
+        "5": "Üç ülkede ayarlarla oynamadan dolaştım. En sorunsuz seyahat deneyimi.",
+        "6": "eSIM’i dakikalar içinde indirdim ve her yerde bağlı kaldım. Tüm yolculuk çok daha hafif hissettirdi."
+      }
+    }
+  },
+  "SlugPage": {
+    "getCardsData": {
+      "title": "{countryName} seyahat eSIM’i için <br></br> Yaalo hangi avantajları sunar?",
+
+      "cards": {
+        "1": {
+          "title": "Anında Bağlan",
+          "body": "SIM kart kuyruklarını ve evrak işlerini unut. Yaalo eSIM ile {countryName}’de dakikalar içinde bağlantı kurabilirsin. QR kodunu tara, planını etkinleştir ve internete gir. Fiziksel işlem yok!"
+        },
+        "2": {
+          "title": "Anında E-Posta ile Teslim",
+          "body": "Bekleme yok, kargo gecikmesi yok. Planı satın aldığın anda eSIM QR kodun e-posta ile gelir; {countryName}’e varmadan bile kurulumu yapabilirsin. Yaalo, yereller ve gezginler için kusursuz deneyime odaklanır."
+        },
+        "3": {
+          "title": "Gezginler ve Yereller İçin Tasarlandı",
+          "body": "{countryName}’i kısa bir gezi için keşfediyor ya da iş için daha uzun süre kalıyorsan, Yaalo eSIM dolaşım veya sürpriz ücretler olmadan yüksek hızlı veriyle seni online tutar. Seyahat dostu, uygun fiyatlı ve günlük kullanıma uygundur."
+        },
+        "4": {
+          "title": "Ana Numaran Aktif Kalsın",
+          "body": "Ana SIM’ini aktif tutarken ${countryName}’de veri için Yaalo eSIM’i kullan. Çift SIM destekli eSIM uyumlu cihazlar, kişisel aramalar ile yerel veri arasında kolayca geçiş yapmanı sağlar."
+        },
+        "5": {
+          "title": "İhtiyacına Uyan Esnek Planlar",
+          "body": "Kısa süreli veri paketlerinden uzun konaklama seçeneklerine kadar Yaalo her gezgin için esnek planlar sunar. Şeffaf fiyatlandırma, gizli ücret yok. Sadece ihtiyacın olan veri, ihtiyacın olduğunda."
+        },
+        "6": {
+          "title": "Uzman Destek, Her Zaman",
+          "body": "Ne zaman yardıma ihtiyacın olursa, Yaalo’nun 7/24 destek ekibi bir mesaj kadar yakın. Sohbet, e-posta veya WhatsApp üzerinden deneyimini önemseyen gerçek uzmanlardan hızlı destek al."
+        }
+      }
+    },
+    "faqsData": {
+      "title": "Sıkça sorulan sorular{countryName, select, undefined {} other {{countryName} eSIM hakkında}}",
+      "description": "Yaygın sorulara hızlı yanıtlar.",
+      "faqs": {
+        "1": {
+          "title": "{countryName} için hangi eSIM veri planını seçmeliyim?",
+          "body": "Kalış sürene ve veri kullanım alışkanlığına bağlıdır. Yaalo, {countryName} için gezginlere yönelik kısa süreli paketlerden uzaktan çalışanlar veya dijital göçebeler için daha uzun süreli seçeneklere kadar esnek eSIM planları sunar. Ödeme öncesinde ülke sayfasında planları karşılaştırarak seyahatin için en uygunu seçebilirsin."
+        },
+        "2": {
+          "title": "{countryName}’de eSIM nasıl satın alınır?",
+          "body": "Satın alma süreci basit ve %100 online. Yaalo’nun {countryName} eSIM sayfasını ziyaret et, planını seç ve ödemeyi tamamla. Dakikalar içinde e-posta ile QR kodu alır ve eSIM’ini kurabilirsin. Kimlik yok, kargo yok, bekleme yok."
+        },
+        "3": {
+          "title": "Yaalo eSIM’imi nasıl aktive ederim?",
+          "body": "Satın alma sonrası eSIM QR kodu ve kurulum rehberi e-posta ile gelir. Telefon ayarlarını aç, QR kodu tara ve yönergeleri takip et. Kurulum tamamlandığında, {countryName}’de yerel ağa bağlanır bağlanmaz planın otomatik olarak aktif olur."
+        },
+        "4": {
+          "title": "{countryName}’deyken Yaalo eSIM’i nasıl kullanırım?",
+          "body": "Aktivasyondan sonra Yaalo eSIM’i normal bir mobil plan gibi kullanabilirsin. İnternette gez, haritaları kullan, internet aramaları yap veya favori uygulamalarında yayın izle. En iyi deneyim için mevcut en iyi yerel operatöre otomatik bağlanır."
+        },
+        "5": {
+          "title": "Veri planım ne zaman başlar?",
+          "body": "Planın, eSIM’in {countryName}’de bir mobil ağa bağlandığı anda başlar. Böylece erken satın alıp kurulum yapabilir, geçerlilik süresini boşa harcamazsın. Seyahatten önce hazırlık yapmayı sevenler için idealdir."
+        },
+        "6": {
+          "title": "Yaalo eSIM planımı yükleyebilir veya uzatabilir miyim?",
+          "body": "Evet! Daha fazla veri ya da süreye ihtiyacın olursa Yaalo uygulama panelinden giriş yaparak veya onay e-postasındaki bağlantıyı kullanarak ekleme yapabilirsin. Yüklemeler anında aktif olur; yeniden kurulum gerekmez."
+        },
+        "7": {
+          "title": "Yaalo eSIM’i kullanmazsam iade talep edebilir miyim?",
+          "body": "eSIM’in aktive edilmemiş veya indirilmemişse, Yaalo’nun adil kullanım politikası kapsamında iade talep edebilirsin. Aktivasyon veya tarama yapıldıktan sonra, kaynaklar anında tahsis edildiği için planlar iade edilemez. Kurulumla ilgili yaşadığın sorunlarda destek ekibimiz yardımcı olur."
+        },
+        "8": {
+          "title": "Sınırsız veri planları için Yaalo’nun adil kullanım politikası nedir?",
+          "body": "Sınırsız planlar kişisel ve adil kullanım için tasarlanmıştır. Herkes için istikrarlı hızlar sağlamak amacıyla, çok yüksek veya alışılmadık kullanım belirli bir eşikten sonra makul hız optimizasyonuna tabi olabilir; bu, yerel operatörlerin adil kullanım kurallarına benzer."
+        },
+        "9": {
+          "title": "Fiziksel SIM’im ile Yaalo eSIM’i birlikte kullanabilir miyim?",
+          "body": "Evet, çoğu modern akıllı telefon Çift SIM’i destekler. Ana SIM’ini aramalar veya mesajlar için aktif tutarken, {countryName}’de hızlı yerel veri için Yaalo eSIM’i kullanabilirsin."
+        },
+        "10": {
+          "title": "Yaalo eSIM verimi Hotspot veya Tethering ile paylaşabilir miyim?",
+          "body": "Desteklenen çoğu cihazda evet. Telefonunun hotspot özelliğini açarak veriyi dizüstü bilgisayarın, tabletin veya seyahat arkadaşlarınla paylaşabilirsin."
+        }
+      }
+    }
+  },
+  "GlobalPage": {
+    "metaData": {
+      "title": "Gezginler için Uluslararası eSIM | Ön Ödemeli Veri Planları",
+      "description": "Global eSIM veri paketlerimizle dünyaya bağlanın. Birden fazla ülkede dolaşım ücreti olmadan bağlantıya ihtiyaç duyan gezginler için ideal seçim.",
+      "keywords": "global eSIM, uluslararası eSIM, seyahat eSIM, eSIM satın al, uygun fiyatlı eSIM, veri eSIM, ön ödemeli eSIM, gezgin interneti, yurtdışı internet, eSIM planları"
+    },
+    "global": "Global",
+    "hero": {
+      "heading": "Yaalo Global Uluslararası eSIM ile Dünyayı Dolaş",
+      "description": "Bir sonraki dünya turunda tüm bağlantı dertlerini ortadan kaldıran gezginler için en iyi eSIM"
+    },
+    "tabs": {
+      "local": "Yerel",
+      "regional": "Bölgesel",
+      "global": "Global"
+    },
+    "globalFeatureData": {
+      "title": "Yaalo Global eSIM Avantajları ve Özellikleri",
+
+      "cards": {
+        "1": {
+          "title": "Güvenebileceğin Güvenli Bağlantılar",
+          "body": "Verilerinden ödün vermeden her yerde bağlantıda kal. Yaalo Global eSIM, gelişmiş şifreleme ve güvenilir ağ ortaklıkları sayesinde kıtalar arası özel ve güvenli bağlantı sunar."
+        },
+        "2": {
+          "title": "Hızlı ve Kolay Kurulum",
+          "body": "SIM kartlarla uğraşma devri bitti. Yaalo seyahat eSIM’leriyle dakikalar içinde kurulup online olursun. Global eSIM’in, kahvenin ikinci yudumunu almadan aktif olur. Zamana, kolaylığa ve güvenilirliğe değer ver."
+        },
+        "3": {
+          "title": "Dünya Genelinde Işık Hızında İnternet",
+          "body": "Global yolculuklarında kesintisiz internetin tadını çıkar. Yaalo, 200+ ülkede üst seviye operatörlerle iş birliği yaparak yüksek hızlı veri ve sorunsuz dolaşım performansı sunar. Yayın izle, yolunu bul, bağlantıda kal."
+        },
+        "4": {
+          "title": "Her Gezgin İçin Esnek Veri Planları",
+          "body": "Dijital göçebe, iş seyahati yapan ya da sırt çantalı gezgin ol; Yaalo seyahat tarzına uygun esnek eSIM veri planları sunar. Günlük, haftalık veya aylık global eSIM paketlerini seç. Tam kontrol için Yaalo Uygulamasını indir."
+        },
+        "5": {
+          "title": "Anında Aktivasyon",
+          "body": "Uluslararası seyahatler için Yaalo eSIM’ler anında aktif olur. Satın al, QR kodu tara ve online ol. Spontane geziler, aktarmalar ve son dakika maceraları için üretildi—çünkü seyahat beklemez."
+        },
+        "6": {
+          "title": "Gizlilik Koruması",
+          "body": "Yurt dışında seyahat ederken kişisel bilgilerini koru. Yaalo Global eSIM, yerel operatörlerle fiziksel kayıt gerektirmez; SIM dolandırıcılığı veya kimlik riskini azaltır. Verilerinin kontrolü sende—her zaman güvenli, her zaman özel."
+        }
+      }
+    },
+    "faqsData": {
+      "title": "Sıkça sorulan sorular",
+      "description": "En sık sorulan sorulara hızlı yanıtlar.",
+      "faqs": {
+        "1": {
+          "title": "Global eSIM nedir?",
+          "body": "SIM kart değiştirmeden veya yeni eSIM aramadan dünyanın her yerinde bağlantıda kalmanı sağlayan tek bir eSIM’dir. Yaalo global eSIM planı satın aldığında, indiğin her ülkede yerel operatörlere bağlanabilirsin. Uçak modunu kapatman yeterlidir; anında yerel ağ üzerinden bağlanırsın."
+        },
+        "2": {
+          "title": "Seyahatim için hangi eSIM planını seçmeliyim?",
+          "body": "Kullanım alışkanlığına uygun planı seç. Hafif kullanım için (harita, e-posta) 1–3 GB kısa süreli plan; yayın izleme, görüntülü görüşme veya uzaktan çalışma için 10–20+ GB ya da daha uzun süreli planlar uygundur. Emin değilsen orta seviye bir planla başlayıp sonradan yükleme yapabilirsin. Yaalo, uygulamadan hızlıca yenileme imkânı sunar."
+        },
+        "3": {
+          "title": "Yaalo Global eSIM yerel SIM kartlardan daha mı iyi?",
+          "body": "Evet! Yaalo Global eSIM, SIM değiştirme veya yerel mağaza arama derdini ortadan kaldırır. 200+ ülkede çalışır, anında aktif olur ve dolaşım ücretlerinden kaçınmanı sağlar. Ev numaranı aktif tutarken Yaalo’yu veri için kullanabilirsin. Kısa süreli veya çok ülkeli seyahatlerde yerel SIM’lerden daha hızlı, kolay ve güvenilirdir."
+        },
+        "4": {
+          "title": "Yaalo eSIM’imi nasıl aktive ederim?",
+          "body": "Satın alma sonrası uygulama ve e-posta üzerinden QR kodu ve adım adım aktivasyon rehberi alırsın. Telefonunda Ayarlar > Hücresel > Hücresel Plan Ekle > QR kodu tara (iPhone/Android). Aktivasyon genellikle saniyeler sürer; cihazın destekliyorsa uygulamada tek dokunuşla kurulum da bulunur."
+        },
+        "5": {
+          "title": "Veri planım ne zaman başlar ve geçerlilik süresi nedir?",
+          "body": "Planın, eSIM profilinin telefonunda aktif olduğu anda başlar; satın alma anında değil. Geçerlilik süresi seçtiğin plana bağlıdır (ör. 7, 15, 30 gün). Kesin başlangıç ve bitiş zamanlarını Yaalo uygulamasında görebilirsin."
+        },
+        "6": {
+          "title": "Yaalo Global eSIM’in fiyatı ne kadar?",
+          "body": "Kullanım alışkanlığına bağlı olarak Yaalo, $4.73’dan başlayan global eSIM planları sunar. Sabit, sınırsız ve data+voice+sms içeren birçok seçenek vardır. Satın almadan önce eSIM detaylarını mutlaka kontrol et."
+        },
+        "7": {
+          "title": "Fiziksel SIM’im ile Yaalo Global eSIM’i aynı anda kullanabilir miyim?",
+          "body": "Evet! Cihazın çift SIM (fiziksel + eSIM) destekliyorsa, ev numaranı aktif tutarken Yaalo’yu veri için kullanabilirsin. Her iki hattın da açık olduğundan emin olmak için telefon ayarlarını kontrol et."
+        },
+        "8": {
+          "title": "Yaalo eSIM ile Kişisel Hotspot / Tethering kullanabilir miyim?",
+          "body": "Evet, hotspot veya tethering ile bağlantı paylaşımına izin verilir. Birden fazla cihaz kullananlar veya yoğun veri tüketenler için doğru global eSIM planını seçmek avantaj sağlar."
+        },
+        "9": {
+          "title": "eSIM’im yakın ülkeler arasında dolaşımda çalışır mı?",
+          "body": "Yaalo yerel, bölgesel ve global planlar sunar. Global eSIM planı, tek bir planla birden fazla ülke arasında geçiş yapmanı sağlar. Kullanım tarzına uygun global eSIM planını seç ve indiğin her ülkede kesintisiz bağlantının keyfini çıkar."
+        }
+      }
+    }
+  },
+  "EsimPage": {
+    "metaData": {
+      "title": "200+ Ülke için Yerel eSIM Satın Al | 5G Sınırsız Veri",
+      "description": "200+ destinasyonda 5G kapsama alanı sunan Yaalo eSIM’i edinin. Ücret yok, özgürce dolaşın – hızlı, esnek ve uygun fiyatlı küresel bağlantı!",
+      "keywords": "eSIM, eSIM satın al, yerel eSIM, bölgesel eSIM, seyahat eSIM, uygun fiyatlı eSIM, veri eSIM, eSIM planları, yurtdışı internet, gezgin bağlantısı"
+    },
+    "hero": {
+      "heading": "Yaalo ile Dünyayı Dolaş – Kesintisiz Küresel Bağlantı!",
+      "description": "Online eSIM satın almak hiç bu kadar kolay olmamıştı"
+    },
+    "tabs": {
+      "local": "Yerel",
+      "regional": "Bölgesel",
+      "global": "Global"
+    },
+    "esimPageFeatureData": {
+      "title": "Gezginler Neden Yaalo’ya Geçiyor?",
+      "description": "Sıfır dolaşım ücreti ve 200+ destinasyon için uluslararası seyahat eSIM’i sayesinde Yaalo en iyi tercihtir.",
+      "cards": {
+        "1": {
+          "title": "Güven ve Güvenlik Üzerine Kurulu",
+          "body": "Her Yaalo eSIM uçtan uca şifrelenir. Verilerin tamamen güvendedir. Risk yok, sadece güvenli ve özel bağlantı—özgürce gezin, yayın izle ve paylaş."
+        },
+        "2": {
+          "title": "Şeffaf Fiyatlandırma",
+          "body": "Karmaşık ve yüksek dolaşım ücretlerini unut. Yaalo, net fiyatlı ön ödemeli eSIM planları sunar. Sabit paketlerden sınırsız planlara kadar, sadece kullandığın kadar öde."
+        },
+        "3": {
+          "title": "Anında Kurulum, Sıfır Çaba",
+          "body": "Satın al, QR kodu tara ve dakikalar içinde bağlan. Havalimanında gişe arama, belge doğrulama veya plastik SIM için ödeme derdi yok. Parmaklarının ucunda saf bağlantı."
+        },
+        "4": {
+          "title": "Tüm Yolculuk İçin Tek eSIM",
+          "body": "Birden fazla ülke, tüm bir bölge hatta dünya turu… Yerel, bölgesel ve global yolculuklar için Yaalo eSIM tek çözümündür. Tek bir SIM değişimi bile yapmadan yüksek hızlı 4G/5G interneti satın al."
+        },
+        "5": {
+          "title": "Modern Gezginler İçin Özel",
+          "body": "Gezginler farklıdır, Yaalo eSIM planları da öyle. Dijital göçebelerden iş insanlarına, öğrencilerden çalışanlara ve kurumsal kullanıcılara kadar herkes için bir eSIM planı var."
+        },
+        "6": {
+          "title": "Her Zaman Açık İnsan Destek",
+          "body": "Destek ekibimiz hiç uyumaz. Gece ya da gündüz, botlarla değil; dilini konuşan gerçek insanlarla hızlı çözüme ulaşırsın."
+        }
+      }
+    },
+    "whyYaalo": {
+      "cards": {
+        "1": {
+          "title": "Bağlantı İçin Neden Yaalo eSIM?",
+          "paras": {
+            "1": "Cevap net: Daha iyi bir bağlantı yaklaşımıyla gelen kolaylık. Seyahat ederken zaten birçok şeyi yönetiyorsun; fiziksel SIM satın almak işleri daha da zorlaştırır.",
+            "2": "Yaalo eSIM ile rahat edersin. Online satın alır, QR kodu tarar ve dakikalar içinde hazırsın—nereye inersen in, en iyi 4G veya 5G sinyaliyle.",
+            "3": "Ayrıca %100 dijital olduğu için dolaşım faturası şoku yok, kaybolan SIM yok, ekstra uğraş yok. Sadece anında internet, net fiyatlar ve istediğin gibi hareket etme özgürlüğü."
+          }
+        },
+        "2": {
+          "title": "Bir eSIM sağlayıcısı olarak Yaalo nerede duruyor?",
+          "paras": {
+            "1": "Fiyat-performans herkes için önemlidir ve Yaalo bunu sağlar. Tek bir tarama ile 200+ destinasyonda online olursun; turist fiyatları yerine yerel tarifeler ödersin. Dolaşım tuzakları, pasaport doğrulaması veya dolandırıcılık yok. Sadece hızlı, güvenilir veri ve hotspot paylaşım özgürlüğü.",
+            "2": "eSIM plan yelpazesi; dünya genelinde sabit ve sınırsız veri planlarını ya da seçili ülkelerde veri + ses + SMS eSIM’lerini içerir. Hepsi ön ödemeli, şeffaf ve dakikalar içinde aktif. Yaalo, uluslararası seyahat topluluklarında standartlarını koruyan kullandıkça öde politikasını titizlikle uygular."
+          }
+        },
+        "3": {
+          "title": "Neden Yaalo eSIM’i Seçmelisin?",
+          "paras": {
+            "1": "Cevap basit: Yaalo teslim etmeye odaklıdır. Yaalo; her gezgini, dijital göçebeyi, öğrenciyi, çalışanı veya iş insanını önemser. Aşağıdaki özellikler kararını netleştirecek:"
+          }
+        }
+      }
+    },
+    "exploreEsims": "200+ Destinasyon için Yaalo eSIM Veri Paketlerini Keşfet",
+    "anyCountry": "herhangi bir ülke",
+    "EmailReceive": {
+      "title": "Yaalo eSIM’in Zahmetsizce Anında Teslim Edilir!",
+      "description": "Siparişini tamamladığında Yaalo eSIM’in doğrudan gelen kutuna veya Yaalo Uygulaması içine düşer. Aç, tara ve online ol—hepsi bu. Dakikalar içinde {countryName} genelinde hızlı ve güvenilir veriyle bağlantı kurarsın; seyahatin seni nereye götürürse götürsün paylaşmaya, yön bulmaya ve yayın izlemeye devam edersin."
+    },
+    "faqsData": {
+      "title": "Sıkça sorulan sorular",
+      "description": "Yaygın sorulara hızlı yanıtlar.",
+      "faqs": {
+        "1": {
+          "title": " Yaalo eSIM’imi seyahatten önce kurabilir miyim?",
+          "body": "Kesinlikle. Yaalo seyahat eSIM’ini evdeyken, Wi-Fi bağlantısı varken indirip kurabilirsin. Plan, iniş yapıp veri kullanmaya başladığında aktif olur. Böylece havalimanında bağlantı kaybetme endişesi yaşamazsın."
+        },
+        "2": {
+          "title": "eSIM tam olarak nedir ve nasıl çalışır?",
+          "body": "eSIM (gömülü SIM), telefon, tablet veya dizüstüne entegre edilmiş dijital bir çiptir. Plastik SIM takmak yerine eSIM planını online satın alır, QR kodu tarar ve anında bağlanırsın. Yaalo ile mağaza ziyareti yok, kart değiştirme yok. Sadece dokun, tara ve devam et."
+        },
+        "3": {
+          "title": "Yaalo eSIM ile dolaşım ücreti veya gizli maliyet olur mu?",
+          "body": "Asla. Tüm Yaalo uluslararası eSIM planları ön ödemelidir ve fiyatlar baştan nettir. Destinasyonunu ve veri paketini seçersin, ödediğin tutar budur. Sözleşme yok, dolaşım ücreti yok, sürpriz yok. Nerede olursan ol şeffaf bağlantı!"
+        },
+        "4": {
+          "title": "Yaalo eSIM ile arama yapabilir veya SMS gönderebilir miyim?",
+          "body": "Evet! Seçtiğin plana bağlıdır. Bazı destinasyonlarda yalnızca veri planları, bazılarında ise veri + ses + SMS seçenekleri bulunur. Veri odaklı bir plandaysan bile Yaalo bağlantını kullanarak WhatsApp, FaceTime veya herhangi bir VOIP uygulamasıyla arama ve mesajlaşma yapabilirsin."
+        }
+      }
+    }
+  },
+  "RegionalPage": {
+    "metaData": {
+      "title": "Bölgesel eSIM’ler: 200+ Ülke için Uygun Fiyatlı Veri",
+      "description": "200+ destinasyon için yerel fiyatlarla bölgesel eSIM’ler edinin. Uluslararası ve yerel seyahatlerde kesintisiz bağlantı için güvenilir, ön ödemeli planlar.",
+      "keywords": "bölgesel eSIM, eSIM satın al, yerel eSIM, seyahat eSIM, veri eSIM, uygun fiyatlı eSIM, eSIM planları, eSIM mağazası, gezgin interneti, bağlantı"
+    },
+    "hero": {
+      "heading": "Yaalo Bölgesel eSIM – Her Sınır İçin Tek Bağlantı",
+      "description": "Haritan seni nereye götürürse götürsün, Yaalo dünyanı bağlı tutar.",
+      "descriptionTwo": "Yaalo Bölgesel eSIM’in Avantajları ve Özellikleri"
+    },
+    "tabs": {
+      "local": "Yerel",
+      "regional": "Bölgesel",
+      "global": "Global"
+    },
+    "discoverEsim": "Kıtalar Genelinde En İyi Bölgesel eSIM Planlarını Keşfet!",
+    "anyCountry": "herhangi bir ülke",
+    "startsAt": "Başlangıç fiyatı",
+    "regionalPageFeaturesData": {
+      "title": "Sınırlar Ötesinde Bağlı Kal",
+      "description": "SIM yuvası derdi yok, bağlantı kopması uyarıları yok. Yaalo Bölgesel eSIM ile Avrupa’nın şehirlerinden Asya’nın adalarına kadar aynı bölgede birden fazla ülkede kesintisiz kapsama elde edersin. Verin seninle birlikte hareket eder.",
+      "cards": {
+        "1": {
+          "title": "Sınırlar Ötesinde Bağlı Kal",
+          "body": "SIM yuvası derdi yok, bağlantı kopması uyarıları yok. Yaalo Bölgesel eSIM ile Avrupa’nın şehirlerinden Asya’nın adalarına kadar aynı bölgede birden fazla ülkede kesintisiz kapsama elde edersin. Verin seninle birlikte hareket eder."
+        },
+        "2": {
+          "title": "Seyahate Hazır, Bütçe Dostu",
+          "body": "Cüzdanını zorlamadan online kal. Yaalo, maliyetleri net ve adil tutan bölgesel eSIM planları sunar. Dolaşım kabusları ya da gizli ücretler yok. Sadece ihtiyacın kadar öde ve hareket halindeyken hızlı verinin keyfini çıkar."
+        },
+        "3": {
+          "title": "Yüksek Hızlı 4G & 5G İnternet",
+          "body": "Gerçek zamanlı yayın izle, çalış ve paylaş. Yaalo Bölgesel eSIM, güvenilir 4G ve 5G hızları için önde gelen yerel ağlara bağlanır. Aynı bölgede birden fazla ülkeyi gezerken veri kaybı yaşamaz, güvensiz Wi-Fi’a bağlanmazsın."
+        },
+        "4": {
+          "title": "Tüm Bölge İçin Tek eSIM",
+          "body": "Avrupa bölgesinde birden fazla ülkeye mi gidiyorsun? Sorun değil! Avrupa Bölgesel Yaalo eSIM ile tek bir eSIM üzerinden 50 ülkenin tamamında kesintisiz bağlantı elde et. Yaalo ile olasılıklar sınırsız!"
+        },
+        "5": {
+          "title": "Her Yolculuk İçin Esnek Planlar",
+          "body": "Kısa kaçamak mı, aylar süren tur mu? Yaalo, seyahat tarzına uygun veri ve süreyi seçmene izin verir. Planlar 1GB’dan 100GB’a ve Sınırsız seçeneklere kadar uzanır; 3–30 gün geçerlilikle yalnızca veri ya da Veri+Ses+SMS alternatifleri sunar."
+        },
+        "6": {
+          "title": "Kurulum Dakikalar Sürer",
+          "body": "Kuyruklar ve belge doğrulama artık geride kaldı. Dokun, tara ve bağlan. Yaalo Bölgesel eSIM’ini Yaalo web sitesi veya uygulaması (iOS ve Android) üzerinden anında aktive et; çantanı açmadan bile bağlantı kur."
+        }
+      }
+    },
+    "Reviews": {
+      "title": "Müşterilerimizin Yorumlarına Göz Atın",
+      "noReviews": "Henüz yorum yok.",
+      "reviews": {
+        "1": "Kendimi memnun etmesi en zor kişilerden biri olarak görürüm. Ama Yaalo harika bir iş çıkardı. İşim Kuzey Amerika genelinde seyahat etmemi gerektiriyor; en azından bağlantı derdim çözüldü. Tavsiye ederim.",
+        "2": "Son birkaç aydır Yaalo kullanıyorum. Müşteri destekleri o kadar iyiydi ki bu yorumu yazmak istedim. Yeni bir veri planı eklerken takıldım; destek ekibi çok ilgiliydi ve sorunu çözdü.",
+        "3": "Avustralya ile Fiji arasında yaşam değiştiriyorum. Bağlantı benim için hep sorundu. SIM ve plan değiştirmek zaman ve para alıyordu. Yaalo bunların çoğunu kurtardı. Kullanmaya devam edeceğim.",
+        "4": "Afrika Bölgesi’nin tamamını Yaalo’nun Afrika Bölgesel eSIM’i ile gezdim ve sinyal bir an bile düşmedi. Yaklaşık $34 karşılığında bir ay yetti ve günlük ofis işlerim için fazlasıyla yeterliydi. Uygun fiyatlı ve iyi bağlantı arayanlara Yaalo’yu öneririm.",
+        "5": "Asya’da güvenilir eSIM bağlantısı bulmakta zorlanıyordum. Japonya ziyaretimde Yaalo’yu denedim ve deneyimim sorunsuz oldu. Normalde yorum yazmam ama Yaalo buna değdi. Hizmetler için teşekkürler.",
+        "6": "Avrupa’da yaşamak uygun fiyatlı eSIM planı bulma mücadelesi demek. Bir ay için sadece 21£ karşılığında 20GB veri benim için büyük bir kazançtı. Ayrıca uygulamaları kullanıcı dostu ve kullanımı çok kolay. Bayıldım."
+      }
+    },
+    "whyChooseCardsData": {
+      "title": "Bölgesel Yolculuklar için Neden Yaalo eSIM?",
+      "description": "Dünyanın dört bir yanındaki akıllı gezginler ve işletmeler Yaalo’ya tek bir nedenle güvenir: çalışır. Anında aktivasyon, dolaşım kabusu yok; yolculuğun seni nereye götürürse götürsün hızlı, esnek ve uygun fiyatlı bağlantı.",
+      "description2": "Yaalo’yu öne çıkaran nedenler:",
+      "cards": {
+        "1": {
+          "title": "Esnek ve Bütçe Dostu Planlar",
+          "body": "Yaalo, $2.51’dan başlayan bölgesel ön ödemeli eSIM planları sunar. Veri miktarını ve süreyi özgürce seçersin. Bir hafta sonu, bir ay ya da tüm sezon boyunca online kal."
+        },
+        "2": {
+          "title": "Sorunsuz Uygulama Deneyimi",
+          "body": "Tek uygulama, birden fazla bölge, sıfır karmaşa. Yaalo Uygulaması ile bölgesel eSIM’ini anında aktive et, kullanımı gerçek zamanlı takip et ve birkaç dokunuşla veri yükle."
+        },
+        "3": {
+          "title": "Özel Seyahat Ayrıcalıkları",
+          "body": "Yaalo, iyi bağlantının güzel sürprizlerle gelmesi gerektiğine inanır. 200+ destinasyonda geçerli bonus veri, ücretsiz arama dakikaları ve özel bölgesel kampanyaların tadını çıkar."
+        }
+      }
+    },
+    "faqsData": {
+      "title": "Sıkça sorulan sorular",
+      "description": "Yaygın sorulara hızlı yanıtlar.",
+      "faqs": {
+        "1": {
+          "title": "Bölgesel eSIM nedir?",
+          "body": "Bölgesel eSIM, tek bir veri planıyla aynı bölgedeki birden fazla ülkede bağlantıda kalmanı sağlar. Ayrı SIM’ler almak yerine, Yaalo Avrupa, Asya veya Amerika gibi bölgelerde sorunsuz çalışan tek bir dijital eSIM sunar."
+        },
+        "2": {
+          "title": "eSIM’i farklı ülkelerde kullanabilir miyim?",
+          "body": "Evet! Yaalo Bölgesel eSIM’leri bu yüzden çok pratiktir. Sınırlar arasında seyahat ederken bağlantını kaybetmeden veya plan değiştirmeden kullanırsın. İş seyahatleri, sırt çantalı rotalar veya çok ülkeli tatiller için idealdir."
+        },
+        "3": {
+          "title": "Yaalo hangi bölgeleri kapsıyor?",
+          "body": "Yaalo; Avrupa, Asya, Orta Doğu (GCC), Orta Doğu, Afrika, Kuzey Amerika, Güney Amerika, Karayipler ve Okyanusya dahil olmak üzere başlıca küresel bölgelerde kapsama sunar. Her bölge, sorunsuz 4G ve 5G performansı için optimize edilmiş ağlarla gelir."
+        },
+        "4": {
+          "title": "En iyi Avrupa Bölgesel eSIM planı hangisi?",
+          "body": "Yaalo’nun Avrupa Bölgesel eSIM planları kısa konaklamalar ve uzun yolculuklar için özelleştirilmiştir. 1GB’dan 100GB’a veya Sınırsız seçeneklere kadar, 1–30 gün esnek geçerlilik sunar. Anında aktivasyon, yüksek hızlı 5G ve sıfır dolaşım ücretiyle Avrupa için en iyi seyahat eSIM seçeneklerinden biridir."
+        },
+        "5": {
+          "title": "En iyi Asya Bölgesel eSIM planı hangisi?",
+          "body": "Birden fazla Asya ülkesini gezenler için Yaalo, uygun fiyat ve hız odaklı Asya Bölgesel eSIM planları sunar. Japonya, Tayland, Singapur ve Güney Kore gibi popüler destinasyonlarda anında kurulum ve tam LTE/5G desteğiyle güvenilir kapsama elde edersin."
+        },
+        "6": {
+          "title": "Yaalo Bölgesel eSIM’ler ön ödemeli mi, faturalı mı?",
+          "body": "Tüm Yaalo Bölgesel eSIM’ler ön ödemelidir; bütçenin kontrolü tamamen sende olur. Tek sefer ödersin, anında erişim sağlarsın ve sürpriz dolaşım ücretleri veya gizli bedellerle karşılaşmazsın."
+        }
+      }
+    }
+  },
+  "EsimCompatiblePage": {
+    "metaData": {
+      "title": "eSIM Uyumlu Cihazlar Listesi (2026) | Android & iPhone",
+      "description": "Android ve iPhone fark etmeksizin eSIM destekleyen cihazların tam listesini keşfedin. En yeni modellerden daha eski modellere kadar.",
+      "keywords": "eSIM, eSIM satın al, bölgesel eSIM, yerel eSIM, bölgesel eSIM satın al, yerel eSIM satın al, veri eSIM, e-SIM, eSIM planı, eSIM mağazası, eSIM marketplace, gezgin, veri planı, uygun fiyatlı internet, esim telefon, esim uyumlu, iPhone, Samsung, Huawei, Motorola"
+    },
+    "hero": {
+      "heading": "Yaalo eSIM Uyumlu Cihazlar",
+      "searchPlaceholder": "Uyumlu telefonlarda ara",
+      "description": "iPhone 11’den beri birçok iPhone kullanıcısı eSIM uyumluluğunun önemini biliyor; ancak pek çok kişi hâlâ bu konudan haberdar değil. Merak etme—eSIM uyumlu cihazı bulma işinin zor kısmını senin için toparladık. Yaalo eSIM, teknik özelliklerinde eSIM desteği bulunan tüm cihazlarla çalışır.",
+      "descriptionTwo": "Tüm eSIM Destekli Cihaz Bilgisi Tek Yerde!",
+      "descriptionThree": "Cihazın aşağıdaki listede varsa, taramaya, kurmaya ve kullanmaya hazırsın!",
+      "compatibleDevices": "eSIM ile Uyumlu Cihazlar",
+      "noMatch": "Cihaz bulunamadı 🙂",
+      "compatibleDevicesDescription": "Buraya cihaz adını yazabilir veya <FooterLink>Desteklenen Cihazlar Sayfamızı</FooterLink> kontrol edebilirsin",
+      "searchDevice": "Cihazını ara",
+      "chooseBrand": "Bir marka seç",
+      "congratsText": "Tebrikler! Telefonun uyumlu",
+      "wantToBuy": " eSIM satın almak ister misin:",
+      "yesBuy": "Evet, eSIM satın al"
+    },
+    "numberOfeSimSupportedSmartPhones": "Akıllı Telefonlar ve Giyilebilir Cihazların Desteklediği eSIM Sayısı",
+    "iPhones": {
+      "heading": "eSIM Destekleyen iPhone’lar",
+      "description": "Apple, eSIM’in en güçlü destekçilerinden biridir. İster en yeni iPhone ister eski XR olsun—seyahat söz konusu olduğunda Yaalo doğru seçimdir.",
+      "descriptionTwo": "ABD için Yaalo eSIM mi satın alıyorsun? iPhone 14’ün çıkışından beri ABD’deki iPhone’lar yalnızca eSIM ile geliyor ve başka SIM yuvası bulunmuyor."
+    },
+    "iPads": {
+      "heading": "eSIM’li iPad’ler (Hücresel Modeller)",
+      "description": "Apple’ın hücresel iPad’leri seyahatte işi kolaylaştırır; dijital göçebeler ve sık uçanlar için idealdir. Yaalo eSIM ile iPad’in, 200+ destinasyonda tek tıkla yerel 2G, 3G, 4G veya 5G ağlarına bağlanır.",
+      "descriptionTwo": "Teknik özelliklerinde “Wi-Fi + Cellular” ve “eSIM” veya “Apple SIM” geçen tüm iPad modelleri uyumludur. Kurulum dakikalar sürer! Ayarlar → Hücresel → eSIM Ekle bölümünden Yaalo’nun QR kodunu tara."
+    },
+    "Samsung": {
+      "heading": "eSIM Destekleyen Samsung Telefonlar",
+      "description": "Samsung dünya genelinde en çok tercih edilen markalardan biridir; çift SIM esnekliği, güçlü kameralar ve artık tam eSIM özgürlüğü sunar. Yaalo, Samsung’un Galaxy serisinde—en yeni amiral gemilerinden katlanabilir modellere kadar—kusursuz çalışır.",
+      "descriptionTwo": "Bölgesel kısıtlamalar veya farklı varyantlar olabilir. Bu yüzden cihazının teknik özelliklerini mutlaka kontrol et."
+    },
+    "GooglePixel": {
+      "heading": "eSIM Destekleyen Google Pixel Telefonlar",
+      "description": "Google mobil cihaz dünyasına girdiğinde etkisi büyük oldu. eSIM hareketine de öncülük etti. Pixel serisinin çıkışı oyunu değiştirdi ve Yaalo bunu tamamen destekler.",
+      "descriptionTwo": "Güneydoğu Asya ülkelerinden Pixel 3a eSIM’i desteklemez."
+    },
+    "Huawei": {
+      "heading": "eSIM Destekleyen Huawei Telefonlar",
+      "description": "Huawei, telekomünikasyon dünyasında güçlü bir yer edindi ve üst düzey donanımıyla eSIM uyumlu birçok cihaz sunuyor. Yaalo, Huawei cihazlarını seven kullanıcılar için tam destek sağlar.",
+      "descriptionTwo": "Kurulumdan sonra kesintisiz veri—Yaalo’nun Huawei telefonlar için en iyi eSIM deneyimiyle."
+    },
+    "Oppo": {
+      "heading": "eSIM Destekleyen Oppo Telefonlar",
+      "description": "Oppo’nun şık amiral gemileri artık gezginlere eSIM gücünü getiriyor. Kullanıcılar tasarım ve performans istiyor; Oppo da buna eSIM’i ekliyor. Yaalo, Oppo’nun ileri teknoloji güncellemelerini memnuniyetle karşılar.",
+      "descriptionTwo": "Oppo için Yaalo’nun en iyi seyahat eSIM’i: Kurulumu kolay, bütçe dostu ve global kullanıma hazır. Böylece mobil sinyalle değil, anılarla ilgilenirsin."
+    },
+    "Sony": {
+      "heading": "eSIM’li Sony Telefonlar",
+      "description": "Pazar payı daha küçük olsa da istikrarlı olan Sony, sinematik ekranları ve güçlü sesiyle her zaman öne çıktı. Uygun bütçesiyle birlikte Sony Mobile, Yaalo eSIM ile mükemmel çalışan eSIM uyumlu cihazlar da sundu.",
+      "descriptionTwo": "Yaalo, Sony telefonlar için en iyi eSIM’dir. Yerel, Bölgesel ve Global veri planları (sabit veya sınırsız) yanında Data+Voice+SMS eSIM planlarını da seçebilirsin."
+    },
+    "Xiaomi": {
+      "heading": "eSIM’li Xiaomi Telefonlar",
+      "description": "Xiaomi inovasyonu zorlamasıyla bilinir; bu yüzden eSIM destekli cihazları da tanıttı. Xiaomi telefonlar için Yaalo’nun en iyi eSIM’iyle gezginler hızlı ve uygun fiyatlı anında global veri elde eder.",
+      "descriptionTwo": "Gezginler eSIM’i online satın almanın ne kadar kolay olduğunu seviyor. Yaalo, gittiğin her yerde temiz ve güvenilir bağlantıyla bunu daha da pratik hâle getirir."
+    },
+    "Motorola": {
+      "heading": "eSIM Destekleyen Motorola Telefonlar",
+      "description": "İlk mobil üreticilerden Motorola, dayanıklılığı ve akıllı tasarımı bir araya getirir. eSIM özelliğiyle bu cihazlar birçok kişi için daha da iyi bir seçenek oldu. Yaalo, Motorola kullanıcılarına tam hizmet sunar.",
+      "descriptionTwo": "Motorola için Yaalo’nun en iyi seyahat eSIM’iyle güçlü 2G/3G/4G/5G hızlarında esnek, ön ödemeli veri planlarına sahip olursun."
+    },
+    "Honor": {
+      "heading": "eSIM Destekleyen HONOR Telefonlar",
+      "description": "HONOR, şıklığıyla bilinen çizgisini koruyarak eSIM dönemine adım attı. Harika fotoğraf, yüksek çözünürlüklü oyun veya seyahatte pil dayanımı—artık eSIM ile geliyor. Yaalo+HONOR, bütçesi sınırlı kullanıcılar için iyi bir seçim.",
+      "descriptionTwo": "HONOR telefonlar için en iyi eSIM ile gezginler ülkeden ülkeye hızlı 5G veriyle dolaşabilir. Yaalo eSIM, kesintisiz bağlı kalmalarını sağlar."
+    },
+    "Lenovo": {
+      "heading": "eSIM Destekleyen Lenovo Dizüstü Bilgisayarlar",
+      "description": "Lenovo’nun ThinkPad ve Yoga serileri hızlı hareket eden profesyoneller için üretildi; eSIM bu mobiliteyi daha da akıllı hâle getirir. Üstelik Yaalo eSIM’in tethering ve hotspot paylaşımında kısıtlaması yoktur; eSIM’i doğrudan dizüstünde aktive edebilirsin.",
+      "descriptionTwo": "Yaalo, Lenovo ThinkPad kullanıcıları için en iyi eSIM’dir. Ön ödemeli, hızlı ve güvenli. İndiğin her yerde iş veya eğlence için online kal."
+    },
+    "Microsoft": {
+      "heading": "eSIM’li Microsoft Surface Cihazları",
+      "description": "Microsoft Surface serisi dizüstüler, dijital göçebe veya gezgin yaşamını değiştiren teknoloji harikalarıdır. 200+ destinasyonda 5G veya LTE ağları için Yaalo eSIM’i dizüstünde aktive et.",
+      "descriptionTwo": "Yaalo, Microsoft Surface kullanıcıları için en iyi eSIM’dir. Ön ödemeli, hızlı ve güvenli. İndiğin her yerde iş veya eğlence için online kal."
+    },
+    "Dell": {
+      "heading": "eSIM’li Dell Dizüstü Bilgisayarlar",
+      "description": "Dizüstü sektörünün devlerinden Dell, en yeni makineleri sunarken artık eSIM desteğiyle de geliyor. Dell dizüstünde Yaalo eSIM’i aktive et, profesyonel gibi seyahat et—daima bağlı kal..",
+      "descriptionTwo": "Dell Latitude için Yaalo’nun uluslararası eSIM’i ile global olarak bağlı kalabilirsin. Seyahat ederken toplantını veya o Netflix dizini asla kaçırma."
+    },
+    "Hp": {
+      "heading": "eSIM Destekleyen HP Dizüstü Bilgisayarlar",
+      "description": "Yerleşik hücresel bağlantıya sahip HP dizüstüler, bağlantısız kalmaktan hoşlanmayanlar için tasarlandı. Yaalo eSIM, hiçbir üreticinin teknoloji güncellemesini küçümsemez.",
+      "descriptionTwo": "Gezginler, Yaalo’nun HP EliteBook için üst düzey güvenilirlik sunan en iyi eSIM olduğunu söylüyor"
+    },
+    "OtherLaptops": {
+      "heading": "Diğer eSIM Destekli Dizüstüler ve Tabletler",
+      "description": "Büyük markaların dışında da bazı şirketler yeni dijital trendlerin kullanıcılar için önemini anlıyor. Yaalo, özellikle gezginler için eSIM desteği sunan tüm markaları memnuniyetle karşılar.",
+      "descriptionTwo": "Gezginler, Yaalo’nun çeşitli dizüstü markaları için üst düzey güvenilirlik sunan en iyi eSIM olduğunu söylüyor."
+    },
+    "Watches": {
+      "heading": "eSIM ile Çalışan Akıllı Saatler",
+      "description": "Telefonunu geride bırakıp yine de bağlı kalmak özgürleştiricidir. eSIM destekli akıllı saatler bunu mümkün kılar. Yaalo ile dijital SIM’in saatinle birlikte seyahat eder.",
+      "descriptionTwo": "Yaalo, akıllı saatler için en iyi eSIM’dir. Yaşam tarzına uygun esnek veri planlarıyla hareket halindeyken bağlı kal."
+    },
+    "OtherAndroid": {
+      "heading": "eSIM Destekleyen Diğer Android Telefonlar",
+      "description": "Hangi diğer Android telefonlar eSIM destekliyor? Surface Pro tabletlerden Sharp Aquos’a, Gemini PDA’dan Rakuten ve Honor Magic’e kadar pek çok cihaz, kesintisiz bağlantı için eSIM uyumlu Android seçenekleri sunuyor."
+    },
+    "supportedSection": {
+      "heading": "Akıllı Telefonlar ve Giyilebilir Cihazların Desteklediği eSIM Sayısı",
+      "description": "Akıllı telefonların desteklediği eSIM sayısı üreticiye ve cihazın modeline göre değişir. Apple, Samsung ve Google gibi büyük markaların amiral gemisi modelleri genellikle en az bir eSIM destekler. Ancak bazı modeller—özellikle daha yenileri—daha fazla eSIM destekleyebilir. Bu da kullanıcıların aynı cihazda ayrı hatlar veya numaralar kullanabilmesini sağlar.",
+      "descriptionTwo": "Desteklenen eSIM sayısı genellikle cihazın teknik özelliklerinde yer alır. Ancak kolaylık olması için her cihazın desteklediği eSIM sayısını listeledik."
+    },
+    "tableHeadings": {
+      "manufacturer": "Üretici",
+      "phoneModel": " Telefon Modeli",
+      "numberOfEsims": "eSIM Sayısı"
+    },
+    "faqsData": {
+      "title": "Sıkça sorulan sorular",
+      "description": "Yaygın sorulara hızlı yanıtlar.",
+      "faqs": {
+        "1": {
+          "title": "Cihazımı eSIM uyumlu hâle getirebilir miyim?",
+          "body": "Ne yazık ki telefonunu eSIM uyumlu yapmak için sihirli değnek sallayamazsın. Bu, tost makinesini kahve makinesine çevirebilir miyim demeye biraz benzer—farklı şekilde üretilmişlerdir. eSIM uyumluluğu cihazının donanımı ve yazılımıyla belirlenir; eğer eSIM düşünülerek tasarlanmadıysa maalesef mümkün değildir."
+        },
+        "2": {
+          "title": "Telefonumun eSIM uyumlu olup olmadığını nasıl anlarım?",
+          "body": "Telefonunun eSIM uyumlu olup olmadığını kontrol etmek için ayarlara veya teknik özelliklere göz atman yeterli. iPhone’larda Ayarlar → Genel → Hakkında bölümüne girip eSIM detaylarını kontrol edebilirsin. Ya da model adını internette aratarak eSIM desteği olup olmadığını hızlıca öğrenebilirsin."
+        },
+        "3": {
+          "title": "iPhone 12 eSIM destekliyor mu?",
+          "body": "Evet, iPhone 12 serisi hem fiziksel nanoSIM hem de eSIM’i destekler. Böylece birini iş, diğerini kişisel kullanım için ya da yurt dışı seyahatlerinde kullanabilirsin."
+        },
+        "4": {
+          "title": "eSIM fiziksel SIM’den daha mı iyi?",
+          "body": "“Daha iyi” güçlü bir ifade; şöyle diyelim: eSIM’ler fiziksel karta ihtiyaç duymadığı için daha pratik ve şıktır, operatör veya plan değiştirmeyi hızlandırır. Üstelik gezginlerin en iyi dostudur; SIM değiştirmeden yerel veri planlarına geçmeni sağlar. Ama unutma, tıpkı fiziksel SIM gibi eSIM’in çalışması için cihazının desteklemesi gerekir."
+        }
+      }
+    },
+    "SupportedPhoneSection": {
+      "heading": "Akıllı Telefonlar ve Giyilebilir Cihazların Desteklediği eSIM Sayısı",
+      "description": "Akıllı telefonların desteklediği eSIM sayısı üreticiye ve cihazın modeline göre değişir. Apple, Samsung ve Google gibi büyük markaların amiral gemisi modelleri genellikle en az bir eSIM destekler. Ancak bazı modeller—özellikle daha yenileri—daha fazla eSIM destekleyebilir. Bu da kullanıcıların aynı cihazda ayrı hatlar veya numaralar kullanabilmesini sağlar.",
+      "descriptionTwo": "Desteklenen eSIM sayısı genellikle cihazın teknik özelliklerinde yer alır. Ancak kolaylık olması için her cihazın desteklediği eSIM sayısını listeledik."
+    },
+    "stepUpInstructions": {
+      "title": "Tara & Kullan (Otomatik Kurulum)",
+      "Step1": "Uyumluluğu Kontrol Et",
+      "Step2": "QR kodu almak için operatörünle iletişime geç.",
+      "Step3": "QR kodunu tara.",
+      "Step4": "Hücresel Plan Algılandı bildirimi görünce dokun",
+      "Step5": "Ekranın altındaki Devam’a dokun.",
+      "Step6": "Hücresel Plan Ekle’ye dokun. eSIM’i etkinleştirmek için bir onay kodu girmen istenirse, operatörünün verdiği kodu gir."
+    },
+    "manualInstructions": {
+      "title": "Elle Gir (Kontrol Sende Olsun)",
+      "Step1": "Ayarlar → Mobil Ağ → eSIM Ekle bölümüne git.",
+      "Step2": "Ayrıntıları Elle Gir seçeneğini seç.",
+      "Step3": "Yaalo e-postandaki SM-DP+ adresi ve aktivasyon kodu bilgilerini kopyala.",
+      "Step4": "Hücresel Plan Algılandı bildirimi görünce dokun",
+      "Step5": "Kaydet, telefonunu yeniden başlat ve kullanmaya başla.",
+      "Step6": "💡Kameran tarayamıyorsa veya zaten seyahatteysen manuel kurulum harikadır."
+    }
+  },
+  "AboutUsPage": {
+    "metaData": {
+      "title": "Yaalo eSIM Hakkında – Dünya Genelinde Güvenilir eSIM Sağlayıcınız",
+      "description": "Yaalo eSIM, uluslararası seyahatler için güvenilir ve düşük maliyetli eSIM’ler sunar. 200+ ülkede uygun fiyatlı eSIM planları ve hızlı, güvenilir küresel kapsama.",
+      "keywords": "eSIM, eSIM satın al, bölgesel eSIM, yerel eSIM, seyahat eSIM, uygun fiyatlı eSIM, veri eSIM, eSIM planı, eSIM mağazası, yaalo hakkında"
+    },
+    "hero": {
+      "title": "Hakkımızda – Yaalo Global Bağlantı eSIM",
+      "description": "Modern Dünya İçin eSIM ile Seyahat Bağlantısını Yeniden Tanımlıyoruz"
+    },
+    "ourStorySetion": {
+      "title": "Hikâyemiz, Kıvılcımımız",
+      "description": "Yeni bir ülkeye inişte bağlantının olmaması herkes için sinir bozucu bir durumdur. Yaalo’nun doğuş nedeni de tam olarak budur. Tüm bu zorlukları analiz edip en aza indirerek, Yaalo’yu kalıcı ve güvenilir bir bağlantı çözümü olarak hayata geçirdik."
+    },
+    "imageSection": {
+      "newyork": "New York",
+      "brazil": "Brezilya",
+      "dubai": "Dubai"
+    },
+    "timelineSection": {
+      "title": "Basitlik İçin Tasarlandı, Özgürlükle Güçlendirildi",
+      "years": {
+        "2021": "2021’de Yaalo, ilk seyahat eSIM’ini piyasaya sürdü",
+        "2022": "2022’ye gelindiğinde uygun fiyatlı bölgesel veri planlarıyla kıtalar arası genişledik",
+        "2025": "Bugün Yaalo, küresel bağlantıyı telefon kilidini açmak kadar kolay hâle getiriyor."
+      },
+      "description": "Yaalo basit bir inançla kuruldu: Bağlantıda kalmak asla sorun olmamalı. eSIM teknolojisi geliştikçe, Yaalo sınırlar ötesinde daha güvenilir ve kullanımı kolay küresel bağlantılar sunmaya odaklandı. Tek bir küresel eSIM ağı üzerine inşa edilen altyapı sayesinde Yaalo, 200+ destinasyonda istikrarlı internet erişimi ve sorunsuz cihaz bağlantısı sağlar. Bugün Yaalo; günlük mobil kullanım, uluslararası seyahat ve IoT uygulamalarını destekleyen güvenilir ve ölçeklenebilir bir bağlantı çözümü sunar."
+    },
+    "featuresSection": {
+      "title": "Nereye İnersen İn, Yanındayız",
+      "description": "Yola çıkıştan eve dönüşe kadar Yaalo her adımda seni destekler. Herhangi bir sorun yaşarsan, farklı zaman dilimlerinde 7/24 uzman destek alırsın. Yaalo’yu öne çıkaran özellikler:",
+      "cards": {
+        "1": {
+          "tittle": "Senin İçin İyi, Gezegen İçin Nazik",
+          "description": "Dünyaya zarar vermeyen akıllı seyahate inanıyoruz. Plastik SIM kartları ve ambalaj atıklarını ortadan kaldırarak Yaalo, karbon ayak izini azaltır. Modern teknolojinin aynı zamanda duyarlı olabileceğinin kanıtıdır."
+        },
+        "2": {
+          "tittle": "Tasarım Gereği Basit",
+          "description": "Mağazaları ve uzun kayıt süreçlerini unut. Yaalo ile eSIM satın almak ve aktive etmek, bir kahve sipariş etmekten bile daha kısa sürer. Yaalo Uygulaması (iOS, Android), hizmetlerimizin daha da pratik hâlidir."
+        },
+        "3": {
+          "tittle": "Uçtan Uca Bağlantı",
+          "description": "Gezginler her yerde olabilir, ancak bağlantı her yerde gereklidir. Yaalo, 200+ destinasyonda yüksek hızlı 2G/3G/4G/5G kapsama sağlar. Yerel, Bölgesel veya Global planlar arasından seçim yap."
+        }
+      }
+    }
+  },
+  "LoginPage": {
+    "metaData": {
+      "title": "Hesaba Giriş Yap – Hesabına ve eSIM Profiline Eriş | Yaalo",
+      "description": "Yaalo hesabına güvenli şekilde giriş yap. Kişisel panelini yönet, mevcut siparişlerini takip et, satın alma geçmişini görüntüle ve tercihlerini güncelle.",
+      "keywords": "eSIM, eSIM satın al, bölgesel eSIM, yerel eSIM, seyahat eSIM, veri planı, eSIM mağazası, eSIM marketplace, gezgin, uygun fiyatlı internet, bağlantı"
+    },
+    "tabLinks": {
+      "login": "Giriş Yap",
+      "register": "Kayıt Ol"
+    },
+    "form": {
+      "signIn": "Giriş Yap",
+      "emailLabel": "E-posta",
+      "passwordLabel": "Şifre",
+      "forgotPassword": "Şifreni mi unuttun?",
+      "login": "Giriş",
+      "enterName": "Adını gir",
+      "enterEmail": "E-posta adresini gir",
+      "enterPassword": "Şifreni gir",
+      "confirmPassword": "Şifreni doğrula",
+      "loginSuccess": "Başarıyla giriş yapıldı!",
+      "validationMessages": {
+        "email": {
+          "invalid": "Lütfen geçerli bir e-posta adresi gir."
+        },
+        "password": {
+          "min": "Şifre gereklidir.",
+          "max": "Şifre 100 karakterden kısa olmalıdır."
+        }
+      }
+    }
+  },
+  "RegisterPage": {
+    "metaData": {
+      "title": "Yeni Hesap Oluştur – Avantajlar için Kayıt Ol | Yaalo",
+      "description": "Yaalo topluluğuna katıl. Daha hızlı ödeme, gerçek zamanlı sipariş takibi ve üyelere özel fırsatlar için ücretsiz hesap oluştur.",
+      "keywords": "eSIM, eSIM satın al, bölgesel eSIM, yerel eSIM, seyahat eSIM, veri planı, eSIM mağazası, eSIM marketplace, gezgin, uygun fiyatlı internet, bağlantı"
+    },
+    "tabLinks": {
+      "login": "Giriş Yap",
+      "register": "Kayıt Ol"
+    },
+    "form": {
+      "affiliate": "Affiliate Programımıza Katıl",
+      "signUp": "Şimdi kayıt ol",
+      "nameLabel": "Ad",
+      "emailLabel": "E-posta",
+      "passwordLabel": "Şifre",
+      "confirmPassword": "Şifreyi Onayla",
+      "otpLabel": "E-postana gelen OTP’yi gir",
+      "resendOtp": "OTP’yi yeniden gönder",
+      "forgotPassword": "Şifreni mi unuttun?",
+      "register": "Kayıt Ol",
+      "enterName": "Adını gir",
+      "enterEmail": "E-posta adresini gir",
+      "enterPassword": "Şifreni gir",
+      "confirmYourPassword": "Şifreni onayla",
+      "validationMessages": {
+        "name": {
+          "min": "Ad en az 4 karakter olmalıdır.",
+          "max": "Ad 100 karakterden kısa olmalıdır."
+        },
+        "email": {
+          "invalid": "Lütfen geçerli bir e-posta adresi gir."
+        },
+        "password": {
+          "min": "Şifre en az 8 karakter olmalıdır.",
+          "max": "Şifre 100 karakterden kısa olmalıdır."
+        },
+        "confirmPassword": {
+          "min": "Şifre Onayı en az 8 karakter olmalıdır.",
+          "max": "Şifre Onayı 100 karakterden kısa olmalıdır."
+        },
+        "otp": {
+          "min": "OTP en az 4 karakter olmalıdır.",
+          "max": "OTP en fazla 4 karakter olmalıdır."
+        },
+        "refine": {
+          "message": "Şifreler eşleşmiyor."
+        }
+      },
+      "registerSuccess": "Hesabın başarıyla oluşturuldu. Lütfen yeni hesabınla giriş yap.",
+      "otpSendSuccess": "OTP e-postana gönderildi. Lütfen doğrula."
+    },
+    "AffiliateRedirectDialog": "Affiliate Portalına yönlendiriliyorsun"
+  },
+  "refillPage": {
+    "metaData": {
+      "title": "Yaalo eSIM – Cüzdanı Yeniden Doldur",
+      "description": "Yaalo eSIM Cüzdanını Kart veya Apple Pay ile doldur",
+      "keywords": "eSIM, eSIM satın al, bölgesel eSIM, yerel eSIM, veri eSIM, eSIM planı, eSIM mağazası, gezgin interneti, uygun fiyatlı internet, akıllı eSIM, bakiye yükleme, paket satın al"
+    },
+    "validationMessages": {
+      "stripeMissing": "Stripe ödeme bağlantısı bulunamadı",
+      "stripeRedirect": "Stripe’a yönlendiriliyorsun...",
+      "refreshedFailed": "Cüzdan yenileme başarısız oldu",
+      "paymentFailed": "Ödeme başarısız oldu. Lütfen tekrar dene.",
+      "refreshedSuccess": "Cüzdan başarıyla dolduruldu"
+    },
+    "title": " Cüzdanını doldur",
+    "refillForm": {
+      "placeholder": "Yüklenecek tutarı gir",
+      "paybtn": "Öde",
+      "validationMessages": {
+        "amount": {
+          "typeError": "Tutar bir sayı olmalıdır",
+          "min": "Minimum tutar 1’dir",
+          "max": "Maksimum tutar 300’dür"
+        }
+      }
+    },
+    "currentBalance": "Mevcut Bakiye",
+    "errorMessage": "Kullanıcı bilgileri alınırken bir hata oluştu!",
+    "orderHistoryTable": {
+      "sucessMessage": "Cüzdan başarıyla dolduruldu",
+      "errorMessage": "Ödeme başarısız oldu. Lütfen tekrar dene.",
+      "title": "İşlem Geçmişi",
+      "refreshing": "Yenileniyor...",
+      "refresh": "Yenile",
+      "id": "ID",
+      "amount": "Tutar",
+      "description": "Açıklama",
+      "time": "Zaman",
+      "nodata": "Veri bulunamadı"
+    }
+  },
+  "mySimPage": {
+    "metaData": {
+      "title": "Yaalo eSIM Hizmetlerini Online Satın Al – 200+ Destinasyon",
+      "description": "Yaalo eSIM’i online satın almak çok kolay. Dünya genelinde 200+ destinasyonda 4G/5G veri. Dolaşıma sonsuza dek veda edin. iPhone ve Android gezginler için uygun. Uygulamayı indirin!",
+      "keywords": "eSIM, eSIM satın al, bölgesel eSIM, yerel eSIM, seyahat eSIM, veri planı, eSIM mağazası, eSIM marketplace, gezgin, uygun fiyatlı internet, bağlantı"
+    },
+    "title": "SIM Detayları",
+    "mySimTab": "eSIM’lerim",
+    "pendingSimTab": "Bekleyen eSIM’ler",
+    "mysim": "SIM’lerim",
+    "noSimFound": "eSIM bulunamadı",
+    "noPendingSimFound": "Bekleyen eSIM bulunamadı",
+    "failedToGetSims": "eSIM’ler alınamadı"
+  },
+  "simDetailPage": {
+    "metaData": {
+      "title": "Yaalo eSIM Hizmetlerini Online Satın Al – 200+ Destinasyon",
+      "description": "Yaalo eSIM’i online satın almak çok kolay. Dünya genelinde 200+ destinasyonda 4G/5G veri. Dolaşıma sonsuza dek veda edin. iPhone ve Android gezginler için uygun. Uygulamayı edinin",
+      "keywords": "eSIM, eSIM satın al, bölgesel eSIM, yerel eSIM, seyahat eSIM, veri eSIM, eSIM planı, eSIM mağazası, eSIM marketplace, gezgin, veri planı, uygun fiyatlı internet, bağlantı"
+    },
+    "title": " eSIM Detayları",
+    "description": "Dünyanın en güvenilir eSIM hizmetleriyle bağlantı kur",
+    "esimInstallation": "eSIM Kurulumu",
+    "devices": "Cihazlar",
+    "direct": "Doğrudan",
+    "qrCode": "QR Kod",
+    "manual": "Manuel",
+    "clickHere": "Yüklemek için buraya tıkla",
+    "notWorking": "eSIM çalışmıyorsa lütfen kontrol et",
+    "apn": "APN",
+    "dataRoaming": "Veri Dolaşımı",
+    "on": "Açık",
+    "smdpAddress": "SMDP+ Adresi",
+    "inprocess": "İşlemde",
+    "activationCode": "Aktivasyon Kodu",
+    "descriptionTwo": "Bu numarayı kopyalayarak eSIM’ini manuel olarak kur. Kurulumdan önce stabil bir internet bağlantın olduğundan emin ol",
+    "manualEntry": "Manuel Giriş",
+    "dataUsage": "Veri Kullanımı",
+    "outOf": " / ",
+    "unlimitedData": "Sınırsız Veri",
+    "remainingData": "Kalan Veri",
+    "address": "Adres",
+    "number": "numara",
+    "purchaseData": "Satın Alma Tarihi",
+    "coverage": "Kapsama",
+    "status": "Durum",
+    "activationInProcess": "Paket aktivasyonu devam ediyor",
+    "coverageModal": {
+      "coverage": "Kapsamayı Gör",
+      "supportedCountries": "Desteklenen Ülkeler ve Ağlar",
+      "searchCountryNetwork": "Ülke veya ağ ara"
+    },
+    "simDetail": {
+      "simId": "SIM ID",
+      "iccid": "ICCID",
+      "status": "Durum",
+      "purchaseDateEt": "Satın Alma Tarihi (ET)",
+      "activatedBundle": "Aktif Paket",
+      "seeDetails": "Detayları Gör",
+      "activationInProcess": "Paket aktivasyonu devam ediyor..."
+    },
+    "iosInstallationInstruction": {
+      "direct": {
+        "step1": {
+          "key1": "Adım 1/2:",
+          "key2": "1. 'ESIM Yükle'ye dokun.",
+          "key3": "2. Onay isteyen açılır pencerede 'İzin Ver'e dokun.",
+          "key4": "3. eSIM indirme ve kurulumunu tamamlamak için ekrandaki talimatları takip et.",
+          "key5": "4. Yeni eSIM planın için bir etiket seç.",
+          "key6": "5. Varsayılan hat olarak 'Birincil'i seç ve 'Devam'a dokun.",
+          "key7": "6. iMessage ve FaceTime için kullanmak istediğin 'Birincil' hattı seç ve 'Devam'a dokun.",
+          "key8": "7. Hücresel/mobil veri için yeni eSIM planını seç ve 'Devam'a dokun."
+        },
+        "step2": {
+          "key1": "Adım 2/2 (isteğe bağlı):",
+          "key2": "1. 'Hücresel/Mobil Veri'ye git, ardından cihazına indirilen eSIM’i seç. 'Bu Hattı Aç' anahtarını etkinleştir ve hücresel/mobil veri için yeni eSIM planını seç.",
+          "key3": "2. 'Ağ Seçimi'ne dokun, 'Otomatik' anahtarını kapat ve eSIM yanlış ağa bağlandıysa desteklenen ağı manuel olarak seç.",
+          "key4": "3. Yeni eSIM planın için 'Veri Dolaşımı'nı aç."
+        }
+      },
+      "qr": {
+        "step1": {
+          "key1": "Adım 1/2:",
+          "key2": "1. Cihazında Ayarlar’a git.",
+          "key3": "2. 'Hücresel' veya 'Mobil'e dokun.",
+          "key4": "3. 'Hücresel Plan Ekle' veya 'Mobil Veri Planı Ekle'ye dokun.",
+          "key5": "4. Yazdırılmış QR kodunu ya da QR kodunu gösteren başka bir cihazı kullanarak eSIM QR kodunu tara.",
+          "key6": "5. eSIM’in için bir etiket seç veya özelleştir.",
+          "key7": "6. Varsayılan Hat sayfasında, hücresel veri için yalnızca eSIM’i seç.",
+          "key8": "7. Yeni eSIM’ini 'Hücresel Veri' veya 'Mobil Veri Planları' altında görmelisin."
+        },
+        "step2": {
+          "key1": "Adım 2/2 (isteğe bağlı):",
+          "key2": "1. 'Hücresel Planlar' altında eSIM’ini seç.",
+          "key3": "2. 'Bu Hattı Aç'ın açık olduğundan emin ol.",
+          "key4": "3. 'Ağ Seçimi'ne git ve desteklenen ağı seç.",
+          "key5": "4. 'Hücresel Veri Ağı'na git ve 'HÜCRESEL VERİ' altındaki 'APN' alanını güncelle. Diğer alanlar boş bırakılmalıdır.",
+          "key6": "5. 'Veri Dolaşımı'nı aç.",
+          "key7": "6. Yardıma mı ihtiyacın var? Bizimle sohbet et."
+        }
+      },
+      "manual": {
+        "step1": {
+          "key1": "Adım 1/2:",
+          "key2": "1. Ayarlar > Hücresel/Mobil > Hücresel/Mobil Plan Ekle’ye git.",
+          "key3": "2. 'Ayrıntıları Manuel Gir'e dokun.",
+          "key4": "3. SM-DP+ Adresi ve Aktivasyon Kodunu gir.",
+          "key5": "4. 'Hücresel Plan Ekle'ye dokun.",
+          "key6": "5. eSIM’i etiketle.",
+          "key7": "6. Arama veya mesajlar için tercih ettiğin varsayılan hattı seç.",
+          "key8": "7. iMessage, FaceTime ve Apple ID ile kullanmak için tercih edilen hattı seç.",
+          "key9": "8. Hücresel Veri için eSIM planını varsayılan hat olarak seç ve diğer hattında ücret oluşmaması için 'Hücresel Veri Değişimine İzin Ver'i açma.",
+          "key10": "9. eSIM’in başarıyla yüklendi, lütfen aşağı kaydır."
+        },
+        "step2": {
+          "key1": "Adım 2/2 (isteğe bağlı):",
+          "key2": "1. 'Hücresel Planlar' altında eSIM’ini seç.",
+          "key3": "2. 'Bu Hattı Aç'ın açık olduğundan emin ol.",
+          "key4": "3. 'Ağ Seçimi'ne git ve desteklenen ağı seç.",
+          "key5": "4. 'Hücresel Veri Ağı'na git ve 'HÜCRESEL VERİ' altındaki 'APN' alanını güncelle. Diğer alanlar boş bırakılmalıdır.",
+          "key6": "5. 'Veri Dolaşımı'nı aç.",
+          "key7": "6. Yardıma mı ihtiyacın var? Bizimle sohbet et."
+        }
+      }
+    },
+    "androidInstallationInstruction": {
+      "qr": {
+        "step1": {
+          "key1": "Adım 1:",
+          "key2": "1. Ayarlar’a git, 'Ağ ve internet'e dokun, ardından SIM bölümünün yanındaki '(+)' simgesine dokun. Bu yoksa cihazında 'SIM’ler'e dokun.",
+          "key3": "2. 'Bunun yerine SIM indir?'e dokun, ardından 'İleri'ye dokun.",
+          "key4": "3. Ağı onaylaman gerekiyorsa 'Farklı bir ağ kullan'a dokun.",
+          "key5": "4. QR kodunu tara, ardından 'İndir'e dokun.",
+          "key6": "5. 'İndirme Tamamlandı' ekranını gördüğünde 'Ayarlar'a dokun."
+        },
+        "step2": {
+          "key1": "Adım 2/2 (isteğe bağlı):",
+          "key2": "1. 'SIM’ler'e git, ardından cihazına indirilen eSIM’i seç.",
+          "key3": "2. 'SIM Kullan' anahtarını etkinleştir ve 'Evet'e dokun.",
+          "key4": "3. 'Mobil veri' anahtarını etkinleştir.",
+          "key5": "4. 'Dolaşım' anahtarını etkinleştir ve 'Tamam'a dokun.",
+          "key6": "5. 'Ağı otomatik seç' anahtarını kapat, eSIM yanlış ağa bağlandıysa uygulamada mevcut desteklenen ağı manuel olarak seç.",
+          "key7": "6. 'Erişim Noktası Adları'na dokun, ardından '(+)' simgesine dokun.",
+          "key8": "7. eSIM uygulamasında bulunan APN’yi kopyalayarak Ad ve APN alanlarına gir.",
+          "key9": "8. Ekranın sağ üstündeki üç noktaya dokun, 'Kaydet'e dokun ve kaydettiğin APN’yi radyo düğmesine tıklayarak seç."
+        }
+      },
+      "manual": {
+        "step1": {
+          "key1": "Adım 01/02:",
+          "key2": "1. Ayarlar’a git, 'Ağ ve internet'e dokun, ardından SIM bölümünün yanındaki '(+)' simgesine dokun. Bu yoksa cihazında 'SIM’ler'e dokun.",
+          "key3": "2. 'Bunun yerine SIM indir?'e dokun, ardından 'İleri'ye dokun.",
+          "key4": "3. Ağı onaylaman gerekiyorsa 'Farklı bir ağ kullan'a dokun.",
+          "key5": "4. 'Yardıma mı ihtiyacın var?'a dokun, ardından 'Manuel gir'e dokun.",
+          "key6": "5. eSIM uygulamasında bulunan Kodu kopyalayarak gir, 'Devam'a dokun ve ardından 'İndir'e dokun.",
+          "key7": "6. 'İndirme Tamamlandı' ekranını gördüğünde 'Ayarlar'a dokun."
+        },
+        "step2": {
+          "key1": "Adım 2/2 (isteğe bağlı):",
+          "key2": "1. 'SIM’ler'e git, ardından cihazına indirilen eSIM’i seç.",
+          "key3": "2. 'SIM Kullan' anahtarını etkinleştir ve 'Evet'e dokun.",
+          "key4": "3. 'Mobil veri' anahtarını etkinleştir.",
+          "key5": "4. 'Dolaşım' anahtarını etkinleştir ve 'Tamam'a dokun.",
+          "key6": "5. 'Ağı otomatik seç' anahtarını kapat, eSIM yanlış ağa bağlandıysa uygulamada mevcut desteklenen ağı manuel olarak seç.",
+          "key7": "6. 'Erişim Noktası Adları'na dokun, ardından '(+)' simgesine dokun.",
+          "key8": "7. eSIM uygulamasında bulunan APN’yi kopyalayarak Ad ve APN alanlarına gir.",
+          "key9": "8. Ekranın sağ üstündeki üç noktaya dokun, 'Kaydet'e dokun ve kaydettiğin APN’yi radyo düğmesine tıklayarak seç."
+        }
+      }
+    },
+    "activatedPackages": {
+      "title": "Aktif Paketler",
+      "package": "Paket",
+      "activated": "Aktif",
+      "expiry": "Bitiş"
+    },
+    "completedPackages": {
+      "pastPackages": "Geçmiş Paketler",
+      "package": "Paket",
+      "activated": "Aktif",
+      "expiry": "Bitiş"
+    },
+    "assignedPackages": {
+      "notActivated": "Aktif Edilmemiş Paketler",
+      "package": "Paket",
+      "quantity": "Adet"
+    },
+    "revokedPackages": {
+      "revoked": "İptal Edilen Paketler",
+      "package": "Paket",
+      "revokedAt": "İptal Tarihi"
+    },
+    "qrCodeMessages": {
+      "notFound": "QR Kod bulunamadı.",
+      "failedCanvas": "Canvas bağlamı alınamadı.",
+      "FailedLoad": "QR kod yüklenemedi.",
+      "notSupported": "Desteklenmiyor",
+      "shareTitle": "QR Kod",
+      "shareText": "İşte QR kodu.",
+      "fallbackDownload": "Paylaşım desteklenmiyor. QR kod bunun yerine indirildi.",
+      "activationInProcess": "Paket aktivasyonu devam ediyor..."
+    },
+    "pendingPackages": {
+      "package": "Paket",
+      "status": "Durum",
+      "createdAt": "Oluşturulma Tarihi"
+    }
+  },
+  "ResetPasswordPage": {
+    "metaData": {
+      "title": "Şifreyi Sıfırla – Hesap Erişimini Kurtar | Yaalo",
+      "description": "Bilgilerini mi unuttun? Yaalo hesabın için güvenli bir şifre sıfırlama başlat. Kimliğini doğrula ve profiline erişimi hemen geri kazan.",
+      "keywords": "eSIM, eSIM satın al, bölgesel eSIM, yerel eSIM, seyahat eSIM, veri planı, eSIM mağazası, eSIM marketplace, gezgin, uygun fiyatlı internet, bağlantı"
+    },
+    "resetPassword": "Şifreyi Sıfırla",
+    "emailLabel": "E-posta",
+    "passwordLabel": "Şifre",
+    "enterEmail": "E-posta adresini gir",
+    "enterPassword": "Şifreni gir",
+    "confirmPassword": "Şifreyi Onayla",
+    "enterconfirmPassword": "Şifreni Onayla",
+    "enterOtp": "E-postana gelen OTP’yi gir",
+    "resendOtp": "OTP’yi yeniden gönder",
+    "submit": "Gönder",
+    "emailReceive": " Şifreni sıfırlamak için sana OTP göndereceğiz",
+    "validationMessages": {
+      "email": {
+        "invalid": "Lütfen geçerli bir e-posta adresi gir."
+      },
+      "password": {
+        "min": "Şifre en az 8 karakter olmalıdır.",
+        "max": "Şifre 100 karakterden kısa olmalıdır."
+      },
+      "confirmPassword": {
+        "min": "Şifre Onayı en az 8 karakter olmalıdır.",
+        "max": "Şifre Onayı 100 karakterden kısa olmalıdır."
+      },
+      "otp": {
+        "min": "OTP en az 4 karakter olmalıdır.",
+        "max": "OTP en fazla 6 karakter olmalıdır."
+      },
+      "refine": {
+        "message": "Şifreler eşleşmiyor."
+      }
+    }
+  },
+  "FAQsPage": {
+    "metaData": {
+      "title": "Yaalo eSIM SSS – Seyahat eSIM Soruların Yanıtlandı",
+      "description": "Yaalo eSIM yardım rehberi. Aktivasyon, uyumluluk, kapsama alanı ve sorun giderme hakkında en sık sorulan eSIM sorularının yanıtlarını bulun.",
+      "keywords": "eSIM, eSIM satın al, bölgesel eSIM, yerel eSIM, seyahat eSIM, veri eSIM, eSIM planı, eSIM mağazası, eSIM marketplace, gezgin, veri planı, uygun fiyatlı internet, esim blogları, bloglar, esim bilgisi"
+    },
+    "hero": {
+      "title": "Sıkça Sorulan Sorular",
+      "description": "Yaygın sorulara hızlı yanıtlar bulun"
+    },
+    "faqsData": {
+      "sections": {
+        "aboutYaalo": {
+          "heading": "Yaalo hakkında daha fazla bilgi ver",
+          "faqs": {
+            "1": {
+              "title": "Yaalo nedir?",
+              "body": "Yaalo, dolaşım ya da plastik SIM kart zahmeti olmadan bağlantıda kalmak isteyenler için geliştirilmiş bir seyahat eSIM sağlayıcısıdır. Mobil veriyi basitleştiriyoruz. Yaalo’da bağlantı ihtiyaçlarını önemsiyor ve seni 200+ destinasyonda dolaşım ücreti olmadan dünyayı gezmeye davet ediyoruz."
+            },
+            "2": {
+              "title": "Yaalo gezginlere ne sunar?",
+              "body": "Yaalo; yalnızca veri (Sabit & Sınırsız) ve veri + ses + SMS içeren geniş bir eSIM planı yelpazesi sunar. Planı satın aldıktan sonra destinasyona indiğinde otomatik olarak yerel operatör ağına bağlanırsın. Dakikalar içinde kurabilir, telefonundan yönetebilir ve Yaalo uygulaması üzerinden istediğin zaman yükleme yapabilirsin."
+            },
+            "3": {
+              "title": "Neden diğer eSIM sağlayıcıları yerine Yaalo’yu seçmeliyim?",
+              "body": "Çünkü Yaalo dürüst ve insan odaklıdır. Ön ödemeli planlarımız şeffaf fiyatlandırma, yüksek hızlı veri ve gerçekten 7/24 yanıt veren canlı destek sunar. Genişleyen kapsama alanı ve anında aktivasyonuyla Yaalo, kolaylık, güvenlik ve maliyet avantajına önem veren gezginler ve yerel kullanıcılar için güvenilir bir isim hâline gelmiştir."
+            }
+          }
+        },
+        "plansAndWorkings": {
+          "heading": "Planlar ve Çalışma Şekli",
+          "faqs": {
+            "1": {
+              "title": "Yaalo eSIM planları ne kadar?",
+              "body": "Yaalo işi basit tutar. Şeffaf ve kolay bir kullandıkça öde politikası vardır. Veri ihtiyacın ne olursa olsun, farklı planlar arasından seçim yapabilirsin. Tüm planlar ön ödemeli olduğu için hesabından ani kesintiler veya sürpriz ücretler olmaz. Hotspot paylaşımı ve tethering için kısıtlama olmadan saf bağlantı elde edersin. Detayları her eSIM planının altında bulabilirsin."
+            },
+            "2": {
+              "title": "eSIM profili nedir?",
+              "body": "eSIM profili, dijital SIM kimliğindir. Örneğin ABD için bir eSIM satın aldığında, plan bilgilerin bir profil olarak kaydedilir. eSIM aktive edildiğinde her şey normal bir SIM gibi çalışır. Uluslararası seyahat ederken kilometrelerce uzayan dolaşım ücretleri yerine yerel tarifelerle bağlantıda kalırsın."
+            },
+            "3": {
+              "title": "Yaalo eSIM’i nasıl satın alır veya aktive ederim?",
+              "body": "Yaalo eSIM’i satın almak ve aktive etmek bir dakikadan kısa sürer. Destinasyonunu seç, veri planını belirle ve QR kodunu anında e-posta ile al. Kurmak için cihaz ayarlarından QR kodu tara. Manuel kurulum mu tercih ediyorsun? Detayları elle de girebilirsin. Tüm adımlar Yaalo Bloglarında yer alır."
+            },
+            "4": {
+              "title": "Yaalo eSIM’ler satın alındıktan sonra nasıl teslim edilir?",
+              "body": "Uygun eSIM planını seçip ödeme yaptıktan sonra bilgilerini girersin ve bir e-posta alırsın. Bu e-postada otomatik kurulum için bir QR kodu ve manuel kurulum için SM-DP Adresi bulunur. Hangisini tercih edersen et, adımları uygula ve dakikalar içinde bağlantı kur."
+            },
+            "5": {
+              "title": "Hangi tür Yaalo eSIM planları mevcut?",
+              "body": "Gezginler, iş insanları, uzaktan çalışanlar ve dijital göçebeler düşünülerek Yerel, Bölgesel ve Global eSIM planları sunulur. Kısa süreli kullanıcılar için yalnızca veri (Sabit ve Sınırsız) planları; yoğun kullanım yapan ve arama veya SMS’i kaçırmak istemeyenler için ise seçili destinasyonlarda Veri + Ses + SMS planları vardır. Web sitesi veya Yaalo Uygulaması üzerinden eSIM profillerini ve planlarını kolayca yönetip yükleme yapabilirsin."
+            },
+            "6": {
+              "title": "Yaalo eSIM’imi gelecekteki seyahatlerimde tekrar kullanabilir miyim?",
+              "body": "Her Yaalo eSIM belirli bir plan ve destinasyonla ilişkilidir, bu nedenle başka bir seyahat için yeniden kullanılamaz. Ancak bir sonraki destinasyonun için Yaalo uygulaması veya web sitesi üzerinden saniyeler içinde yeni bir eSIM satın alabilirsin."
+            }
+          }
+        },
+        "aboutESim": {
+          "heading": "eSIM’ler hakkında daha fazla bilgi",
+          "faqs": {
+            "1": {
+              "title": "eSIM, fiziksel SIM’den nasıl farklıdır?",
+              "body": "eSIM, plastik bir kart olmadan veri planı yüklemeni sağlayan dijital bir kimliktir. İşlevsel olarak geleneksel SIM ile aynıdır; bir operatör ağına bağlanır. Ancak donanım değiştirmek yerine ayarlardan plan eklemeni veya değiştirmeni sağlar."
+            },
+            "2": {
+              "title": "Yaalo eSIM’i nasıl satın alır ve aktive ederim?",
+              "body": "Yaalo’dan bir plan satın al, QR kodunu (veya manuel kodları) hemen e-posta ile gönderelim. Telefonunda Ayarlar → Mobil/Hücresel → eSIM Ekle yolunu izleyerek QR kodu tara veya detayları gir. eSIM saniyeler içinde kurulur ve mobil veriyi etkinleştirdiğinde en iyi yerel ağa bağlanır. İstersen bunu manuel olarak da yapabilirsin."
+            },
+            "3": {
+              "title": "Yaalo eSIM’imi seyahatten önce kurabilir miyim?",
+              "body": "Evet! Hatta seyahatten önce kurmanı öneririz. Evde Wi-Fi üzerinden kurulum yapmak, profilin tamamen indirilmesini sağlar ve bazı destinasyonlarda belirli sağlayıcı siteleri veya uygulamaları engelleyen durumlarda sorun yaşamamanı sağlar. Bu basit adım, indiğin anda anında bağlantı sunar."
+            },
+            "4": {
+              "title": "Telefonum kaç eSIM profili saklayabilir? Aynı anda birden fazlasını kullanabilir miyim?",
+              "body": "Bu, cihazın teknik özelliklerine bağlıdır. Bazı telefonlar birçok profil saklayabilir; kesin sayı teknik özelliklerde yer alır. Genellikle veri için aynı anda yalnızca bir profil aktif olur, ancak birçok cihaz Çift SIM’i (bir fiziksel SIM + bir eSIM) aynı anda destekler."
+            },
+            "5": {
+              "title": "eSIM, fiziksel SIM’e göre daha fazla pil tüketir mi?",
+              "body": "Hayır. eSIM’in kendisi pil tüketimini anlamlı şekilde artırmaz. Daha fazla pil tüketimine neden olabilecek durumlar, iki hattın aynı anda aktif olması veya zayıf ağ sinyalidir. Bunlar teknoloji değil, kullanım koşullarıyla ilgilidir. Endüstri testleri farkın ihmal edilebilir olduğunu gösterir."
+            },
+            "6": {
+              "title": "Yaalo eSIM ile 5G kullanabilir miyim?",
+              "body": "Cihazın ve yerel ağ 5G’yi destekliyorsa, Yaalo eSIM fiziksel SIM gibi 5G’de çalışır. eSIM bir dağıtım yöntemidir; 5G kullanılabilirliği telefon modeline ve ziyaret ettiğin ülkedeki operatör kapsamasına bağlıdır."
+            },
+            "7": {
+              "title": "QR kodum taranmazsa veya eSIM kurulmazsa ne yapmalıyım?",
+              "body": "Önce stabil bir Wi-Fi bağlantısı ile dene ve telefonunu yeniden başlat. QR kod hâlâ taranmıyorsa, sağladığımız manuel aktivasyon bilgilerini (SM-DP+ adresi/aktivasyon kodu) kullan. Takılırsan, Yaalo’nun 7/24 destek ekibi adım adım yardımcı olur veya aktivasyon bağlantısını yeniden gönderir."
+            },
+            "8": {
+              "title": "Aynı cihazda operatör veya plan değiştirebilir miyim?",
+              "body": "Evet! eSIM’in en güçlü yanlarından biri budur. Eski profilleri kaldırıp farklı sağlayıcılardan yenilerini ayarlardan ekleyebilirsin. Seyahat için bu, ev SIM’ini aramalar için aktif tutup veri için yerel bir Yaalo eSIM ekleyebileceğin anlamına gelir."
+            },
+            "9": {
+              "title": "Yaalo planları telefon numarası, ses ve SMS içeriyor mu?",
+              "body": "Yaalo planlarının çoğu veri odaklıdır. Bazı destinasyonlarda veri + ses + SMS planları da bulunur. Bir plan telefon numarası içeriyorsa, plan detaylarında açıkça belirtilir. Yalnızca veri sunan eSIM’ler, özellikle belirtilmedikçe ayrı bir telefon numarası sağlamaz."
+            },
+            "10": {
+              "title": "Yaalo eSIM planları ne kadar süre geçerli ve yükleme yapabilir miyim?",
+              "body": "Plan geçerliliği seçtiğin ürüne göre değişir (ör. 1 gün, 7 gün, 30 gün). Tüm Yaalo planları ön ödemelidir ve birçoğu uzatılabilir. Daha fazla veriye ihtiyacın olduğunda Yaalo uygulaması veya web sitesi üzerinden yükleme yapabilirsin."
+            },
+            "11": {
+              "title": "Yaalo eSIM’ler güvenli mi? Gizlilik ne durumda?",
+              "body": "Evet. eSIM profilleri şifreli dağıtım kanallarıyla iletilir ve cihazın güvenli çipinde (eUICC) saklanır. Fiziksel bir kart olmadığı için SIM değişimi veya kopyalama gibi riskler azalır. Yaalo gizlilik en iyi uygulamalarını takip eder ve iznin olmadan kişisel verilerini paylaşmaz. Aynı destinasyona sık gidenler için profilleri kaydedip, seyahatten önce Yaalo uygulamasından yükleme yapmak da mümkündür."
+            }
+          }
+        }
+      }
+    }
+  },
+  "BlogPage": {
+    "metaData": {
+      "title": "Yaalo eSIM Blogu: eSIM İpuçları, Uyumluluk, iPhone ve Android",
+      "description": "eSIM nedir ve nasıl çalışır öğrenin. Uluslararası seyahat için eSIM nasıl satın alınır. iPhone ve Android için eSIM ipuçları ve sorun giderme, uyumluluk rehberi.",
+      "keywords": "eSIM, eSIM satın al, bölgesel eSIM, yerel eSIM, seyahat eSIM, veri eSIM, eSIM planı, eSIM mağazası, eSIM marketplace, gezgin, veri planı, uygun fiyatlı internet, bağlantı, esim blogları, bloglar, esim bilgisi"
+    },
+    "hero": {
+      "title": "Yaalo eSIM Blogları",
+      "noBlogs": "Blog bulunamadı 🙂",
+      "allBlogs": "Tüm Bloglar",
+      "searchPlaceholder": "Blog ara"
+    },
+    "paginationBtn": {
+      "previous": "Önceki",
+      "next": "Sonraki",
+      "page": "Sayfa",
+      "of": "/"
+    },
+    "blogDetail": {
+      "blog": "Blog",
+      "share": "Paylaş",
+      "interestedInPlans": " İlginizi çekebilecek eSIM planları",
+      "startsAt": "Başlangıç fiyatı",
+      "relatedBlogs": "İlgili Bloglar"
+    }
+  },
+  "cartPage": {
+    "metaData": {
+      "title": "Alışveriş Sepetin – Ürünleri İncele ve Güvenli Ödeme | Yaalo",
+      "description": "Yaalo alışveriş sepetindeki ürünleri gözden geçir. Güvenli ödeme adımlarıyla satın almanı tamamla, adetleri yönet ve ödeme seçeneklerini görüntüle.",
+      "keywords": "eSIM, eSIM satın al, bölgesel eSIM, yerel eSIM, seyahat eSIM, veri eSIM, eSIM planı, eSIM mağazası, eSIM marketplace, gezgin, veri planı, uygun fiyatlı internet, bağlantı"
+    },
+    "purchasePackagesMessages": {
+      "redirectingToStripe": "Stripe’a yönlendiriliyorsun...",
+      "orderProcessed": "Siparişin başarıyla işlendi!",
+      "alreadyRegistered": "Bu e-posta adresi zaten kayıtlı. Lütfen giriş yap."
+    },
+    "emptyCart": "Sepetin boş",
+    "reviewCart": "Sepetini İncele",
+    "subTotal": "Ara Toplam",
+    "checkout": "Ödeme",
+    "continueShopping": "Alışverişe Devam Et",
+    "exploreText": " Henüz herhangi bir eSIM paketi eklemedin. Bağlantıda kalmak için planlarımızı keşfet!",
+    "browseText": " eSIM Paketlerini İncele",
+    "unlimitedDataFor": "Sınırsız Veri:",
+    "esimDataFor": "eSIM Verisi:",
+    "Duration": "Süre",
+    "Data": "Veri",
+    "Unlimited": "Sınırsız",
+    "checkoutProcessBar": {
+      "shoppingCart": "Alışveriş Sepeti",
+      "checkout": "Ödeme Detayları",
+      "orderComplete": "Sipariş Tamamlandı",
+      "two": "2",
+      "three": "3"
+    },
+    "currentBalance": "Mevcut Bakiye",
+    "payAsGuest": {
+      "loginSuccess": "Başarıyla giriş yapıldı!",
+      "signLogin": "Kayıt Ol / Giriş Yap",
+      "loginAsGuest": "Misafir Olarak Giriş Yap",
+      "loginAsUser": "Kullanıcı Olarak Giriş Yap",
+      "description": "Kayıt olduğunda ilk siparişinde %15 Cashback kazan.",
+      "descriptionTwo": " eSIM’in e-posta adresine gönderilecektir. Yalnızca hizmet kalitesiyle ilgili önemli e-postalar göndereceğimize söz veriyoruz.",
+      "fullName": "Ad Soyad",
+      "email": "E-posta",
+      "password": "Şifre",
+      "hidePassword": "Şifreyi Gizle",
+      "showPassword": "Şifreyi Göster",
+      "forgetPassword": "Şifreni mi unuttun?",
+      "login": "Giriş",
+      "continueAsGuest": "Misafir Olarak Devam Et",
+      "clickToContinueAsGuest": "'Misafir Olarak Devam Et'e tıklayarak",
+      "termsOfUse": "Kullanım Şartlarını",
+      "privacyPolicy": "Gizlilik Politikasını",
+      "and": "ve",
+      "stripeText": " kabul etmiş olursun ve güvenli ödeme için Stripe’a yönlendirilirsin.",
+      "validationMessages": {
+        "name": {
+          "minLength": "Ad en az 2 karakter olmalıdır."
+        },
+        "email": {
+          "invalid": "Lütfen geçerli bir e-posta adresi gir."
+        },
+        "password": {
+          "required": "Şifre gereklidir.",
+          "maxLength": "Şifre 100 karakterden kısa olmalıdır."
+        }
+      }
+    },
+    "checkoutDetails": {
+      "orderSummary": "Sipariş Özeti",
+      "pricing": "Fiyatlandırma",
+      "payFromWallet": "Cüzdandan Öde",
+      "toPayOnCheckout": "Ödemede Ödenecek Tutar",
+      "gurantedText": "Garantili güvenli ödeme",
+      "checkout": "Ödeme",
+      "summary": "Özet",
+      "subTotal": "Ara Toplam",
+      "total": "Toplam",
+      "cartSummary": "Sipariş Özeti",
+      "discountCode": "İndirim kodun mu var?",
+      "promoCode": "Promosyon Kodu",
+      "apply": "Uygula"
+    },
+    "cartItemList": {
+      "product": "Ürün",
+      "price": "Fiyat",
+      "quantity": "Adet"
+    },
+    "checkoutBtn": {
+      "purchaseNow": "Şimdi Satın Al",
+      "secureCheckout": "Güvenli Ödemeye Git"
+    },
+    "checkoutTermsConditionMessage": {
+      "byClicking": "Tıklayarak",
+      "purchaseNow": "Şimdi Satın Al",
+      "secureCheckout": "Güvenli Ödemeye Git",
+      "youAgree": "butonuna,",
+      "termsOfUse": "Kullanım Şartlarını",
+      "and": "ve",
+      "privacyPolicy": "Gizlilik Politikasını",
+      "redirectedStripe": " kabul etmiş olursun ve güvenli ödeme için Stripe’a yönlendirilirsin."
+    },
+    "errorMessage": "Kullanıcı bilgileri alınırken bir hata oluştu!",
+    "orderHistoryTable": {
+      "sucessMessage": "Cüzdan başarıyla dolduruldu",
+      "errorMessage": "Ödeme başarısız oldu. Lütfen tekrar dene.",
+      "title": "İşlem Geçmişi",
+      "refreshing": "Yenileniyor...",
+      "refresh": "Yenile",
+      "id": "ID",
+      "amount": "Tutar",
+      "description": "Açıklama",
+      "time": "Zaman",
+      "nodata": "Veri bulunamadı"
+    },
+    "applyPromoCode": {
+      "validationMessages": {
+        "promo_code": {
+          "required": "Lütfen bir promosyon kodu gir",
+          "minLength": "Promosyon kodu en az 3 karakter olmalıdır",
+          "maxLength": "Promosyon kodu en fazla 30 karakter olabilir",
+          "pattern": "Promosyon kodu yalnızca harf, rakam, tire ve alt çizgi içerebilir",
+          "alreadyApplied": "Bir kupon kodu zaten uygulanmış"
+        }
+      }
+    },
+    "addToCartMessages": {
+      "noSelectedPackage": "Lütfen önce bir paket seç.",
+      "cartFull": "Sepetine en fazla 5 eSIM paketi ekleyebilirsin."
+    }
+  },
+  "NotFoundPage": {
+    "title": "Hay aksi! Sayfa Bulunamadı",
+    "description": " Aradığın sayfa artık mevcut olmayabilir — ya da belki hiç yoktu. Ama endişelenme, bağlantıda kalman için buradayız. Seni tekrar doğru yola yönlendirelim!",
+    "popularLinks": "Arıyor Olabileceğin Popüler Sayfalar:",
+    "links": {
+      "esims": "Tüm eSIM Destinasyonlarını Keşfet",
+      "blog": "Blogumuzu Ziyaret Et",
+      "contact": "Bizimle İletişime Geç",
+      "faqs": "SSS",
+      "home": "Ana Sayfaya Dön"
+    }
+  },
+  "ErrorPage": {
+    "title": "Bir Şeyler Ters Gitti",
+    "description": "Şu anda tarafımızda geçici teknik sorunlar yaşıyoruz. Ama endişelenme — çözmek için zaten yoğun şekilde çalışıyoruz.",
+    "description2": "Lütfen birkaç dakika sonra tekrar dene.",
+    "popularLinks": "🚀 Beklerken Şunları Yapabilirsin:",
+    "links": {
+      "esims": "Tüm eSIM Destinasyonlarını Keşfet",
+      "blog": "Blogumuzu Ziyaret Et",
+      "contact": "Bizimle İletişime Geç",
+      "faqs": "SSS",
+      "home": "Ana Sayfaya Dön"
+    },
+    "leaveEmpty": "Eli Boş Ayrılma",
+    "ComparingEsimText": "eSIM sağlayıcılarını karşılaştırdığını biliyoruz — ve sunduklarımızdan eminiz:",
+    "stillCurious": "Hâlâ merak mı ediyorsun?",
+    "instantActivation": "Anında Aktivasyonlu eSIM’ler",
+    "reliableGlobal": "Güvenilir Küresel Kapsama",
+    "affordAbleData": "Uygun Fiyatlı Veri Paketleri",
+    "fullSupport": "7/24 Canlı Destek",
+    "contactSupport": "Destekle İletişime Geç",
+    "getBackQuickly": " — sana hızlıca geri dönüş yapacağız."
+  },
+  "ThankYouPage": {
+    "metaData": {
+      "title": "Teşekkür Ederiz",
+      "description": "Harika bir çalışma ortamı, güçlü ekip arkadaşları ve zor problemleri bir araya getirir",
+      "keywords": "eSIM, eSIM satın al, bölgesel eSIM, yerel eSIM, seyahat eSIM, veri eSIM, eSIM planı, eSIM mağazası, eSIM marketplace, gezgin, veri planı, uygun fiyatlı internet, bağlantı"
+    },
+    "success": {
+      "title": " Teşekkürler!",
+      "text": " eSIM’in başarıyla satın alındı"
+    },
+    "failed": {
+      "title": "Ödemen işlenemedi.",
+      "text": " Lütfen tekrar dene",
+      "paymentFailed": "Ödeme işlemi başarısız oldu."
+    }
+  },
+  "SharedUI": {
+    "esimSteps": {
+      "title": "Yaalo eSIM Nasıl Çalışır?<br></br>(Spoiler: İnanılmaz Derecede Basit)",
+      "description": "Kullanıcılar teknik süreçlerin karmaşık olduğunu düşünür.<br></br>Oysa Yaalo eSIM’i aktive etmek 1, 2, 3 kadar kolay — ve bağlandın!",
+      "steps": {
+        "step1": {
+          "heading": "Bir veri planı satın al",
+          "description": "Destinasyonunu ara ve ihtiyaçlarına göre tasarlanmış eSIM planlarını keşfet."
+        },
+        "step2": {
+          "heading": "eSIM’i yükle",
+          "description": "Basit bir QR kod ile eSIM’ini saniyeler içinde yükle. Fiziksel SIM veya mağaza ziyareti gerekmez."
+        },
+        "step3": {
+          "heading": "Planını aktive et",
+          "description": "Planının ne zaman başlayacağını sen belirle. Kullanılmayan veriyi boşa harcamadan esnekliğin keyfini çıkar."
+        }
+      }
+    },
+    "appInstall": {
+      "download": "50.000+ İndirme",
+      "title": "Uygulamayı Şimdi İndir",
+      "description": "Sanal Numara ve Uluslararası Arama özelliklerini kullanmak için. eSIM’lerini kolayca satın al, kur ve yönet."
+    },
+    "checkout": "Ödeme",
+    "selectPlan": "Şunun için En İyi eSIM Planlarını Seç:",
+    "checkEsim": "eSIM Cihazını Kontrol Et",
+    "filter": "Filtrele",
+    "addToCart": "Sepete Ekle",
+    "buyNow": "Şimdi Satın Al",
+    "details": "Detaylar",
+    "days": "Gün",
+    "selectData": "Veri Seç",
+    "selectDays": "Gün Seç",
+    "resetFilter": "Filtreyi Sıfırla",
+    "orLine": "Veya şununla devam et:",
+    "unlimited": "Sınırsız",
+    "data": "Veri",
+    "day": "gün",
+    "globalPlaceholder": "Ülke veya ağ ara",
+    "unlimitedSms": "Sınırsız SMS",
+    "yes": "Evet",
+    "no": "Hayır",
+    "highSpeedThenUnlimited": "{unthrottle_data}/gün yüksek hızlı veri, ardından ${throttle_speed} hızında sınırsız veri. Veri limiti ilk kullanımdan itibaren her 24 saatte bir sıfırlanır.",
+    "comingSoon": "Çok Yakında...",
+    "features": {
+      "data": "Veri",
+      "validity": "Geçerlilik",
+      "speed": "Hız Limiti",
+      "tethering": "Tethering/Hotspot",
+      "sms": " SMS"
+    },
+    "widerCoverage": {
+      "title": "Daha geniş kapsama mı arıyorsun?",
+      "description": "Kesintisiz bağlantı için listelenen başlangıç fiyatlarından eSIM planlarımızı keşfet.",
+      "errorMessage": "Ülkeler yüklenemedi:"
+    },
+    "supportedCountries": "Desteklenen Ülkeler ve Ağlar",
+    "noSearchMatch": "Aramanla eşleşen sonuç yok",
+    "countryHeadings": {
+      "title": {
+        "dataVoice": "Seyahat eSIM’i",
+        "dataOnly": "Ön Ödemeli Seyahat"
+      },
+      "headingDescription": {
+        "dataVoice": "{country} için Veri ve Arama",
+        "dataOnly": "{country} için eSIM"
+      },
+      "paragraph": {
+        "dataVoice": "{country} seyahati için sınırsız arama içeren en iyi eSIM veri planlarını al. Aramalar ve gelen SMS’ler için eSIM ile bir UK numarasının keyfini çıkar. Her yerde bağlantıda kal.",
+        "dataOnly": "{country} seyahati için Smart eSIM’den en iyi eSIM’i al. Kesintisiz bağlantı ve uygun fiyatlı sınırsız veri planlarının tadını çıkar. Nereye gidersen git bağlantıda kal."
+      }
+    },
+    "pagesMetaComponent": {
+      "feature": {
+        "title": "Özellik",
+        "subheading": "{country} eSIM Temel Özellikleri"
+      },
+      "description": {
+        "title": "Açıklama",
+        "subheading": "Yaalo {country} eSIM Hakkında"
+      },
+      "technicalSpecs": {
+        "title": "Teknik Özellikler",
+        "subheading": "Sanal SIM Teknik Özelliklerimiz"
+      }
+    },
+    "navLinks": {
+      "buyEsim": "eSIM Satın Al",
+      "aboutUs": "Hakkımızda",
+      "contactInfo": "İletişim",
+      "more": "Daha Fazla",
+      "esimCompatible": "eSIM Uyumlu Telefonlar",
+      "faqs": "SSS",
+      "blog": "Blog",
+      "login": "Giriş Yap",
+      "wallet": "Cüzdan",
+      "account": "Hesap",
+      "home": "Ana Sayfa",
+      "esim": "eSIM",
+      "myEsim": "eSIM’lerim",
+      "logout": "Çıkış Yap",
+      "affiliatePartner": "Affiliate Partner",
+      "myesim": "eSIM’lerim"
+    },
+    "footerLinks": {
+      "contactInfo": "İletişim",
+      "popularDestinations": "Popüler Destinasyonlar",
+      "followus": " Bizi Takip Et",
+      "links": "Bağlantılar",
+      "support": "Destek",
+      "privacyPolicy": "Gizlilik Politikası",
+      "terms": "Hizmet Şartları ",
+      "refundPolicy": "İade Politikası",
+      "esimCompatible": "eSIM Uyumlu Telefonlar",
+      "faqs": "SSS",
+      "blog": "Blog",
+      "home": "Ana Sayfa",
+      "aboutUs": "Hakkımızda",
+      "buyEsim": "eSIM Satın Al",
+      "affiliatePartner": "Affiliate Partner",
+      "allRights": "Tüm Hakları Saklıdır",
+      "popularDestinationsLinks": {
+        "us": "Amerika Birleşik Devletleri",
+        "uk": "Birleşik Krallık",
+        "canada": "Kanada",
+        "germany": "Almanya",
+        "france": "Fransa",
+        "italy": "İtalya",
+        "spain": "İspanya",
+        "turkey": "Türkiye",
+        "indonesia": "Endonezya",
+        "japan": "Japonya"
+      },
+      "supportLinks": {
+        "general": "Genel",
+        "support": "Destek",
+        "business": "Kurumsal",
+        "yaaloAddress": "Orlando, FL"
+      }
+    },
+    "searchPackagesList": {
+      "search": "Ara",
+      "allDestinations": "Tüm Destinasyonlar",
+      "searchPlaceholder": "Bir sonraki uçuşun nereye?",
+      "noMatch": "Eşleşme bulunamadı — Popüler destinasyonlarımıza göz at!",
+      "popularDestinations": "Popüler Destinasyonlar"
+    }
+  },
+  "ContactUsPage": {
+    "metadata": {
+      "title": "Yaalo eSIM Destek ile İletişime Geçin – 7/24 Yanınızdayız",
+      "description": "eSIM’inizle ilgili sorularınız mı var? Aktivasyon ve seyahat planları için 7/24 hızlı destek almak üzere Yaalo eSIM ile iletişime geçin. Bugün bize ulaşın!",
+      "keywords": "eSIM, eSIM satın al, bölgesel eSIM, yerel eSIM, seyahat eSIM, veri eSIM, eSIM planı, eSIM mağazası, eSIM marketplace, gezgin, veri planı, uygun fiyatlı internet, bağlantı, esim iletişim, esim bilgi"
+    },
+    "hero": {
+      "title": "Ekibimizle İletişime Geçin",
+      "description": "eSIM – Hızlı ve Uygun Fiyatlı Bağlantı Çözümü"
+    },
+    "contactCard": {
+      "whatsapp": {
+        "title": "WhatsApp",
+        "description": "7/24 Online Destek"
+      },
+      "livechat": {
+        "title": "7/24 Online Destek",
+        "body": "Yaalo ile ihtiyacınız olan her şeyi sunan bir deneyime başlayın",
+        "description": "7/24 Online Destek"
+      }
+    },
+    "business": "Kurumsal",
+    "contactUsForm": {
+      "description": "Sizden haber almayı ve karşılaşabileceğiniz sorunları veya soruları çözmeye yardımcı olmayı dört gözle bekliyoruz.",
+      "nameLabel": "Ad Soyad",
+      "emailLabel": "E-posta",
+      "subjectLabel": "Konu",
+      "messageLabel": "Mesaj",
+      "phoneLabel": "Telefon Numarası",
+      "submitButton": "Gönder",
+      "validationMessages": {
+        "name": {
+          "required": "Ad Soyad gereklidir",
+          "minLength": "Ad Soyad en az 2 karakter olmalıdır",
+          "maxLength": "Ad Soyad 50 karakteri geçmemelidir"
+        },
+        "email": {
+          "required": "E-posta gereklidir",
+          "invalid": "Lütfen geçerli bir e-posta adresi gir"
+        },
+        "subject": {
+          "required": "Lütfen mesajınız için bir konu belirtin",
+          "maxLength": "Konu 200 karakterden kısa olmalıdır"
+        },
+        "phone": {
+          "required": "Telefon numarası gereklidir",
+          "maxLength": "Telefon numarası çok uzun"
+        },
+        "description": {
+          "required": "Mesaj alanı boş bırakılamaz",
+          "maxLength": "Mesaj 600 karakteri geçmemelidir"
+        },
+        "recaptchaError": "Lütfen reCAPTCHA’yı tamamlayın."
+      }
+    },
+    "faqsData": {
+      "title": "Sıkça sorulan sorular",
+      "description": "Yaygın sorulara hızlı yanıtlar bulun.",
+      "faqs": {
+        "1": {
+          "title": "İade veya para iade garantisi sunuyor musunuz?",
+          "body": "Evet! Kesinlikle sunuyoruz. eSIM’imiz sizi memnun etmezse, iade sürecini kolaylaştırıyoruz. Basit <refundPolicy>iade politikamıza</refundPolicy> göz atın ve güvenle satın alın. %100 memnuniyet garantisi."
+        },
+        "2": {
+          "title": "Müşteri destek ekibinize nasıl ulaşabilirim?",
+          "body": "Canlı sohbet üzerinden veya <support>support@yaalo.com.</support> adresine e-posta göndererek bize dilediğiniz zaman ulaşabilirsiniz."
+        },
+        "3": {
+          "title": "Müşteri önerilerini dikkate alıyor musunuz?",
+          "body": "Kesinlikle! Müşterilerimizin görüşlerine büyük önem veriyoruz. Fikirlerinizi e-posta ile bize iletin; liderlik ekibimiz her öneriyi dikkatle inceleyerek sürekli gelişim sağlar."
+        },
+        "4": {
+          "title": "Kurumsal amaçlarla Yaalo ile nasıl iletişime geçebilirim?",
+          "body": "eSIM’in kuruluşunuz için bağlantıyı nasıl dönüştürebileceğini görüşmek üzere kurumsal ekibimizle <sales>sales@yaalo.com.</sales> adresinden iletişime geçin."
+        }
+      }
+    }
+  },
+  "PrivacyPolicyPage": {
+    "metaData": {
+      "title": "Yaalo Gizlilik Politikası: Kişisel Verileriniz ve Güvenliğiniz",
+      "description": "Yaalo’nun verilerinizi nasıl topladığını, kullandığını ve koruduğunu öğrenin. Güvenli bir çevrimiçi deneyim için gizlilik haklarını, çerez kullanımını ve güvenlik önlemlerini keşfedin.",
+      "keywords": "eSIM, eSIM satın al, bölgesel eSIM, yerel eSIM, seyahat eSIM, veri eSIM, eSIM planı, eSIM mağazası, eSIM marketplace, gezgin, veri planı, uygun fiyatlı internet, bağlantı"
+    },
+    "privacyPolicy": {
+      "title": "Gizlilik Politikası",
+      "data": [
+        {
+          "title": "1. Giriş ve Genel Şartlar",
+          "content": [
+            {
+              "type": "text",
+              "text": "Yaalo.com’a hoş geldiniz. Gizliliğinizin önemini biliyor ve kişisel bilgilerinizi korumayı taahhüt ediyoruz. Bu Gizlilik Politikası, verilerinizi özenle, şeffaflıkla ve saygıyla ele alacağımıza dair sözümüzdür."
+            },
+            {
+              "type": "text",
+              "text": "Yaalo.com olarak, fiziksel SIM kart zahmeti olmadan sizi küresel olarak bağlı tutan yenilikçi dijital SIM çözümleri sunuyoruz. Taahhüdümüz yalnızca üstün hizmetler sunmakla sınırlı değildir; kişisel bilgilerinizin güvenliğini sağlamak da bizim için önceliklidir."
+            },
+            {
+              "type": "text",
+              "text": "Bu Gizlilik Politikası, web sitemizi ve hizmetlerimizi kullanırken paylaştığınız kişisel bilgileri nasıl topladığımızı, kullandığımızı, sakladığımızı ve koruduğumuzu açıklar. Web sitemiz, müşteri hizmetlerimiz ve ürünlerimizle olan tüm etkileşimlerinizde toplanan veriler için geçerlidir."
+            },
+            {
+              "type": "text",
+              "text": "Verilerinizle ilgili uygulamalarımızı anlamak için bu politikayı dikkatle okumanızı öneririz. Hizmetlerimize erişerek veya kullanarak bu Gizlilik Politikası’nı okuduğunuzu, anladığınızı ve kabul ettiğinizi beyan etmiş olursunuz."
+            },
+            {
+              "type": "text",
+              "text": "Bu politika zaman zaman uygulamalarımızdaki veya yasal gerekliliklerdeki değişiklikleri yansıtmak amacıyla güncellenebilir. Önemli değişiklikler olduğunda sizi bilgilendirir ve her zaman en güncel sürümü web sitemizde bulundururuz."
+            },
+            {
+              "type": "text",
+              "text": "Güveniniz bizim için değerlidir. Kişisel bilgilerinizin gizliliğini ve güvenliğini sağlamaya kararlıyız. Herhangi bir sorunuz varsa bizimle dilediğiniz zaman iletişime geçebilirsiniz."
+            }
+          ]
+        },
+        {
+          "title": "2. Hangi Bilgileri Topluyoruz?",
+          "content": [
+            {
+              "type": "text",
+              "text": "Yaalo.com’da ziyaretçilerimizin ve müşterilerimizin güvenini önemsiyoruz. Bu bölümde, web sitemiz ve hizmetlerimizle etkileşimde bulunduğunuzda hangi tür bilgileri topladığımızı şeffaf şekilde açıklıyoruz."
+            }
+          ],
+          "subTitles": [
+            {
+              "title": "Kişisel Olarak Tanımlanabilir Bilgiler (PII):",
+              "content": [
+                {
+                  "type": "bold",
+                  "text": "Hesap Bilgileri: Yaalo.com’da bir hesap oluşturduğunuzda adınız, e-posta adresiniz ve iletişim numaranız gibi temel bilgileri toplarız."
+                },
+                {
+                  "type": "bold",
+                  "text": "Satın Alma Bilgileri: Bir eSIM veya başka bir hizmet satın aldığınızda, ödeme detayları, fatura adresi ve satın aldığınız hizmetlerle ilgili bilgileri toplarız."
+                },
+                {
+                  "type": "bold",
+                  "text": "İletişim Kayıtları: Müşteri destek ekibimizle iletişime geçtiğinizde, sorunları çözmek amacıyla bu yazışmaları kaydedebiliriz."
+                }
+              ]
+            },
+            {
+              "title": "Hassas Kişisel Veriler:",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Irk, etnik köken, siyasi görüş, dini inanç, sağlık bilgileri gibi hassas verileri bilerek toplamayız. Böyle bir bilgi gerekiyorsa yalnızca açık rızanızla kullanılır."
+                }
+              ]
+            },
+            {
+              "title": "Kişisel Olmayan Bilgiler:",
+              "content": [
+                {
+                  "type": "bold",
+                  "text": "Kullanım Verileri: Ziyaret edilen sayfalar, geçirilen süre ve tıklanan bağlantılar gibi bilgiler."
+                },
+                {
+                  "type": "bold",
+                  "text": "Teknik Bilgiler: IP adresi, tarayıcı türü ve işletim sistemi gibi bilgiler."
+                }
+              ]
+            },
+            {
+              "title": "Çerezler, Pikseller ve Yerel Depolama:",
+              "content": [
+                {
+                  "type": "bold",
+                  "text": "Çerezler: Tercihlerinizi hatırlamamıza ve deneyiminizi iyileştirmemize yardımcı olur."
+                },
+                {
+                  "type": "bold",
+                  "text": "Pikseller: Reklam kampanyalarının etkinliğini ölçmek için kullanılır."
+                },
+                {
+                  "type": "bold",
+                  "text": "Yerel Depolama: Performansı artırmak için cihazınızda bilgi saklanabilir."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "3. Kullandığımız Çerezler",
+          "content": [
+            {
+              "type": "text",
+              "text": "Yaalo.com’da kullanıcı deneyimini geliştirmek için çerezler kullanıyoruz. Çerezler, siteyi nasıl kullandığınızı anlamamıza yardımcı olur."
+            },
+            {
+              "type": "bold",
+              "text": "Zorunlu Çerezler: Web sitesinin düzgün çalışması için gereklidir."
+            },
+            {
+              "type": "bold",
+              "text": "Performans Çerezleri: Sitenin nasıl kullanıldığını anonim olarak analiz eder."
+            },
+            {
+              "type": "bold",
+              "text": "Fonksiyonel Çerezler: Tercihlerinizi hatırlar."
+            },
+            {
+              "type": "bold",
+              "text": "Reklam ve Analitik Çerezler: İlgi alanlarınıza uygun içerik sunmamıza yardımcı olur."
+            }
+          ]
+        },
+        {
+          "title": "4. Toplanan Bilgileri Nasıl Kullanıyoruz?",
+          "content": [
+            {
+              "type": "bold",
+              "text": "Hesap Yönetimi, Ödeme İşlemleri, Hizmet İyileştirme, Destek Sağlama ve Yasal Yükümlülükler için kullanırız."
+            },
+            {
+              "type": "bold",
+              "text": "Kişisel verilerinizi asla satmayız."
+            }
+          ]
+        },
+        {
+          "title": "5. Açıklama ve Paylaşım",
+          "content": [
+            {
+              "type": "bold",
+              "text": "Verileriniz yalnızca hizmet sağlayıcılar ve yasal zorunluluklar kapsamında paylaşılır."
+            }
+          ]
+        },
+        {
+          "title": "6. Çocuklara Yönelik Politika",
+          "content": [
+            {
+              "type": "bold",
+              "text": "13 yaş altındaki çocuklardan bilerek veri toplamayız."
+            }
+          ]
+        },
+        {
+          "title": "7. Uluslararası Kullanım",
+          "content": [
+            {
+              "type": "bold",
+              "text": "Verileriniz farklı ülkelerde işlenebilir ancak her yerde aynı güvenlik önlemleri uygulanır."
+            }
+          ]
+        },
+        {
+          "title": "8. Bilgilerin Güncellenmesi",
+          "content": [
+            {
+              "type": "bold",
+              "text": "Hesabınıza giriş yaparak bilgilerinizi güncelleyebilir veya destek ekibimizle iletişime geçebilirsiniz."
+            }
+          ]
+        },
+        {
+          "title": "9. Güvenlik ve Şifreleme",
+          "content": [
+            {
+              "type": "bold",
+              "text": "SSL şifreleme, güvenli sunucular ve düzenli güvenlik denetimleri kullanıyoruz."
+            }
+          ]
+        },
+        {
+          "title": "10. Politikadaki Değişiklikler",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bu Gizlilik Politikası zaman zaman güncellenebilir. Önemli değişikliklerde sizi bilgilendiririz."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "RefundPolicyPage": {
+    "metaData": {
+      "title": "Yaalo İade Politikası: İade Koşulları ve Uygunluk Kuralları",
+      "description": "Yaalo iade politikası; uygunluk şartları, teknik sorunlar ve cihaz uyumluluğunu kapsar. Sorunsuz eSIM deneyimi için iade talebinizi kolayca oluşturun.",
+      "keywords": "eSIM, eSIM satın al, bölgesel eSIM, yerel eSIM, seyahat eSIM, veri eSIM, eSIM planı, eSIM mağazası, eSIM marketplace, gezgin, veri planı, uygun fiyatlı internet, bağlantı"
+    },
+    "refundPolicy": {
+      "title": "İade Politikası",
+      "description": "Yaalo’da müşterilerimize kesintisiz ve keyifli bir deneyim sunmayı hedefliyoruz. İade politikamız, nadiren ihtiyaç duyulabilecek iade taleplerinde netlik sağlamak için hazırlanmıştır. Aşağıda iade prosedürlerimizi ve koşullarımızı ayrıntılı olarak bulabilirsiniz.",
+      "data": [
+        {
+          "title": "İade Uygunluğu ve Koşullar",
+          "content": [
+            {
+              "type": "bold",
+              "text": "Kapsama Sorunları: eSIM kapsama sorunları nedeniyle kurulamazsa, iade veya değişim talep edebilirsiniz."
+            },
+            {
+              "type": "bold",
+              "text": "Teknik Sorunlar: Sorun Yaalo kaynaklıysa ve hızlıca çözülemiyorsa, yalnızca hiç veri kullanılmadıysa iade mümkündür."
+            },
+            {
+              "type": "bold",
+              "text": "Veri Paketi Geçerliliği: Veri paketinin geçerlilik süresi dolduktan sonra kalan veri için iade yapılmaz."
+            },
+            {
+              "type": "bold",
+              "text": "Yanlışlıkla Satın Alma: eSIM kurulduktan ve kullanıldıktan sonra iade sunulmaz."
+            },
+            {
+              "type": "bold",
+              "text": "Hatalı Ücretlendirme: Ücret itirazları, alındıktan sonraki 12 gün içinde, tutarın neden hatalı olduğuna dair detaylarla bildirilmelidir."
+            },
+            {
+              "type": "bold",
+              "text": "Şüpheli İşlemler: Kötüye kullanım, şart ihlali veya dolandırıcılık şüphesi durumlarında Yaalo iade yapmayı reddetme hakkını saklı tutar."
+            },
+            {
+              "type": "bold",
+              "text": "Telefon Uyumluluğu: Satın almadan önce telefonunuzun eSIM uyumlu olduğundan emin olun. Uyumsuzluk nedeniyle iade yapılmaz."
+            },
+            {
+              "type": "bold",
+              "text": "Tek Seferlik Satın Alma: eSIM tek seferlik bir satın alımdır ve iade edilemez."
+            },
+            {
+              "type": "bold",
+              "text": "Sanal Numaralar: Sanal Numaralar WhatsApp ve diğer sosyal medya hizmetlerinde çalışmaz; bu hizmetler için OTP kodu alamamanız durumunda iade hakkı doğmaz."
+            }
+          ]
+        },
+        {
+          "title": "İade Talep Süreci",
+          "content": [
+            {
+              "type": "bold",
+              "text": "Süre: İade talepleri satın alma tarihinden itibaren 30 gün içinde yapılmalıdır."
+            },
+            {
+              "type": "bold",
+              "text": "İş Birliği: İade değerlendirmesi için sorun giderme adımlarında zamanında iş birliği gereklidir."
+            },
+            {
+              "type": "bold",
+              "text": "Bildirim: İade talebiniz için gerekli detaylar ve gerekçelerle support@yaalo.com adresine e-posta gönderin."
+            }
+          ]
+        },
+        {
+          "title": "İstisnalar ve Özel Durumlar",
+          "content": [
+            {
+              "type": "bold",
+              "text": "Yetkisiz Satın Almalar: İnceleme ve onaya tabidir."
+            },
+            {
+              "type": "bold",
+              "text": "Değişiklik: Satın alma sonrası herhangi bir değişiklik veya özelleştirmeye izin verilmez."
+            },
+            {
+              "type": "bold",
+              "text": "Ultimate Mobile Services: Hizmet askıya alma bildirim yapılmadan gerçekleşebilir ve iade kapsamında değildir."
+            },
+            {
+              "type": "bold",
+              "text": "Not: eSIM satın alımları, eSIM kurulmuş olsun ya da olmasın, satın alma tarihinden 60 gün sonra iade için uygun değildir."
+            }
+          ]
+        },
+        {
+          "title": "Ek Şartlar",
+          "content": [
+            {
+              "type": "bold",
+              "text": "Adil Kullanım Politikası: Tüm paketler/planlar için geçerlidir."
+            },
+            {
+              "type": "bold",
+              "text": "Sorumluluk: Yaalo, hizmet erişilemezliği veya ağ sorunlarından sorumlu değildir."
+            },
+            {
+              "type": "bold",
+              "text": "Garanti: Sürekli ağ kullanılabilirliği konusunda garanti verilmez."
+            }
+          ]
+        },
+        {
+          "title": "İletişim ve Destek",
+          "content": [
+            {
+              "type": "text",
+              "text": "Herhangi bir soru veya destek ihtiyacınız için lütfen support@yaalo.com adresinden destek ekibimizle iletişime geçin. Sorunsuz ve zahmetsiz bir deneyim için buradayız."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "TermsOfServicePage": {
+    "metaData": {
+      "title": "Yaalo Şartları: Güvenli Küresel eSIM Hizmetleri, İade ve Gizlilik Politikaları",
+      "description": "Güvenli ve küresel eSIM hizmetleri için Yaalo’nun şartlarını okuyun. Sorunsuz bir seyahat deneyimi için iade politikalarını, cihaz uyumluluğunu ve gizliliği anlayın.",
+      "keywords": "eSIM, eSIM satın al, bölgesel eSIM, yerel eSIM, seyahat eSIM, veri eSIM, eSIM planı, eSIM mağazası, eSIM marketplace, gezgin, veri planı, uygun fiyatlı internet, bağlantı"
+    },
+    "Terms": {
+      "title": "Hizmet Şartları",
+      "data": [
+        {
+          "title": "1. Genel Şartlar ve Koşulların Geçerliliği",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bu Şartlar ve Koşullar, şirketimiz tarafından ön ödemeli eSIM’lerin yeniden satışıyla bağlantılı olarak sağlanan tüm hizmetler için geçerlidir. Hizmetlerimizin kullanımıyla birlikte bağlayıcı ve yürürlüktedir. Bu şartlarda değişiklikler yalnızca yazılı olarak açıkça kabul edilirse geçerli olur."
+            }
+          ],
+          "subTitles": [
+            {
+              "title": "1.2. Hizmetlerin Tanımı",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Sınırsız planlarımız, plan türüne bağlı olarak günlük yüksek hızlı veri kotası (1GB, 2–3GB veya 5GB) içerir; bu kotanın ardından hız düşürülmüş sınırsız veri sunulur. Yüksek hızlı veri, ilk kullanımdan itibaren her 24 saatte bir sıfırlanır."
+                },
+                {
+                  "type": "bold",
+                  "text": "Lütfen dikkat: Veri kotaları ve hız politikaları ülkeye göre değişebilir. Bazı konumlarda hız kısıtlaması olmayabilir. Satın almadan önce nelerin dahil olduğunu anlamak için plan detaylarını incelemenizi önemle tavsiye ederiz."
+                }
+              ]
+            },
+            {
+              "title": "1.2.1. eSIM Yeniden Satışı",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Çeşitli bölgelerde ve ülkelerde kullanılabilen ön ödemeli eSIM’leri satışa sunuyoruz. Bu eSIM’ler, müşterilere mobil veri hizmetlerine erişim için pratik ve esnek bir yol sağlar."
+                }
+              ]
+            },
+            {
+              "title": "1.2.2. Hizmetlerimizi Kullanmak İçin Kayıt",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Hizmetlerimizi kullanmak için müşterilerin kayıt olması ve ad, adres ve e-posta gibi gerekli kişisel bilgileri sağlaması gerekir. Bu kayıt süreci, eSIM hizmetlerinin etkinleştirilmesi ve yönetimi için gereklidir."
+                }
+              ]
+            },
+            {
+              "title": "1.2.3. Taahhütlerimiz",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Müşterilerimize yüksek kaliteli hizmet sunmak için çaba gösteririz. Ancak kesintisiz veya hatasız hizmet garantisi vermeyiz. Taahhüdümüz, hizmetlerimizin güvenilirliği ve performansı için makul çabayı göstermektir."
+                }
+              ]
+            },
+            {
+              "title": "1.2.4. Müşteri Yükümlülükleri",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Müşteriler hizmetlerimizi sorumlu bir şekilde kullanmalıdır. Kötüye kullanım, yasa dışı, dolandırıcılık veya ağı zedeleyen eylemler kesinlikle yasaktır. İhlaller, hizmetlerin askıya alınmasına yol açabilir; bu süre zarfında doğan ücretlerden müşteri sorumludur."
+                }
+              ]
+            },
+            {
+              "title": "1.2.5. Cihaz Uyumluluğu",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Müşteriler cihazlarının eSIM teknolojisiyle uyumlu olmasını sağlamaktan sorumludur. Uyumluluk, cihazın operatörüne ve menşe ülkesine göre değişebilir. Satın alma sırasında sağlanan listeden uyumluluğu doğrulamak müşterinin sorumluluğundadır."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "2. Kayıt ve Aktivasyon",
+          "content": [],
+          "subTitles": [
+            {
+              "title": "2.1. Kayıt Gereklilikleri",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Müşteriler eSIM hizmetlerimize erişmek ve kullanmak için bir kayıt sürecini tamamlamalıdır. Bu süreç güvenli ve sorunsuz bir deneyim sağlamak üzere tasarlanmıştır. Temel gereklilikler şunlardır:"
+                },
+                {
+                  "type": "bold",
+                  "text": "Kişisel Bilgiler: Ad, soyad, fatura adresi ve geçerli e-posta adresi gibi doğru ve güncel bilgiler sağlanmalıdır."
+                },
+                {
+                  "type": "bold",
+                  "text": "Hesap Oluşturma: Gerekli bilgiler sağlandıktan sonra platformumuzda bir hesap oluşturulur. Bu hesap satın almaları, eSIM kullanımını ve destek erişimini yönetir."
+                },
+                {
+                  "type": "bold",
+                  "text": "Şartların Kabulü: Kayıt sırasında Genel Şartlar ve Koşullar kabul edilmelidir; bu kabul bağlayıcıdır."
+                },
+                {
+                  "type": "bold",
+                  "text": "Cihaz Uyumluluğu Kontrolü: Müşteri cihazının eSIM uyumlu olduğunu doğrulamaktan sorumludur. Kayıtla birlikte uyumluluğu kabul etmiş sayılır."
+                }
+              ]
+            },
+            {
+              "title": "2.2. Satın Alma ve Aktivasyon Süreci",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kayıt tamamlandıktan sonra müşteriler eSIM satın alma ve aktivasyonuna geçebilir:"
+                },
+                {
+                  "type": "bold",
+                  "text": "eSIM Seçimi: Farklı ihtiyaç ve destinasyonlara göre uyarlanmış eSIM seçenekleri arasından seçim yapılır."
+                },
+                {
+                  "type": "bold",
+                  "text": "Ödeme Süreci: Kredi/Banka Kartı, Google Pay, Apple Pay ve Alipay dahil çeşitli yöntemler kabul edilir. Tüm işlemler güvenlidir ve para birimi ABD Dolarıdır ($)."
+                },
+                {
+                  "type": "bold",
+                  "text": "eSIM Teslimatı: Satın alma sonrası eSIM elektronik olarak teslim edilir; kurulum ve aktivasyon talimatları e-posta ile gönderilir. Hesaptaki “eSIM’lerim” bölümünden de erişilebilir."
+                },
+                {
+                  "type": "bold",
+                  "text": "Aktivasyon: Aktivasyon müşterinin sorumluluğundadır; genellikle QR kod tarama ile yapılır ve plan koşullarına göre kullanıma hazır olur."
+                },
+                {
+                  "type": "bold",
+                  "text": "Destek: Kayıt veya aktivasyon sırasında sorun yaşanırsa destek ekibimiz yardımcı olur."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "3. Ödeme ve Finansal Şartlar",
+          "content": [],
+          "subTitles": [
+            {
+              "title": "3.1. Ücretler ve Ödeme",
+              "content": [
+                {
+                  "type": "bold",
+                  "text": "Ödeme Koşulları: Kredi/Banka Kartları, PayPal, Google Pay, Apple Pay ve Alipay kabul edilir."
+                },
+                {
+                  "type": "bold",
+                  "text": "Para Birimi: Tüm işlemler ABD Doları (USD) cinsindendir."
+                },
+                {
+                  "type": "bold",
+                  "text": "Güvenlik: İşlemler Stripe gibi güvenilir sağlayıcılar üzerinden güvenle işlenir."
+                },
+                {
+                  "type": "bold",
+                  "text": "Ücretlere Dahil Olanlar: Aksi belirtilmedikçe vergiler ve ücretler dahildir."
+                }
+              ]
+            },
+            {
+              "title": "3.2. İadeler ve İptaller",
+              "content": [
+                {
+                  "type": "bold",
+                  "text": "Genel Politika: eSIM’ler tek seferliktir ve iade edilmez. Kilitsiz veya eSIM uyumlu olmayan cihazlar için iade yoktur."
+                },
+                {
+                  "type": "bold",
+                  "text": "Sınırsız Paketler: Belirli bir yüksek hız kotasından sonra hız düşürme uygulanır."
+                },
+                {
+                  "type": "bold",
+                  "text": "Aylık Abonelikler: Sürenin dolmasından önce yenilenmelidir."
+                },
+                {
+                  "type": "bold",
+                  "text": "Dolandırıcılık: Şüpheli kullanımda satın alma iptal edilebilir."
+                },
+                {
+                  "type": "bold",
+                  "text": "Sanal Numaralar: WhatsApp vb. servislerde çalışmaz; OTP alınamaması iade hakkı doğurmaz."
+                },
+                {
+                  "type": "bold",
+                  "text": "Not: Kurulmuş olsun ya da olmasın, satın alma tarihinden 60 gün sonra iade yoktur."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "4. Hukuk ve Uyum",
+          "content": [],
+          "subTitles": [
+            {
+              "title": "4.1. Geçerli Hukuk",
+              "content": [
+                {
+                  "type": "bold",
+                  "text": "Yargı Yetkisi: Hizmetler, sağlayıcının bulunduğu yargı alanı hukukuna tabidir."
+                }
+              ]
+            },
+            {
+              "title": "4.2. Sorumluluk ve Garanti",
+              "content": [
+                {
+                  "type": "bold",
+                  "text": "Hizmet Sürekliliği: Kesintisiz hizmet garantisi yoktur."
+                },
+                {
+                  "type": "bold",
+                  "text": "Garanti Reddi: Hizmetler “olduğu gibi” sunulur."
+                },
+                {
+                  "type": "bold",
+                  "text": "Sorumluluk Sınırı: Dolaylı veya sonuçsal zararlar için sorumluluk yoktur."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "5. İletişim Bilgileri",
+          "content": [
+            {
+              "type": "text",
+              "text": "Daha fazla bilgi veya destek için aşağıdaki kanallardan bize ulaşabilirsiniz:"
+            },
+            { "type": "bold", "text": "E-posta Desteği: support@yaalo.com" },
+            {
+              "type": "bold",
+              "text": "Canlı Sohbet: Web sitesinin sağ alt köşesinde."
+            },
+            { "type": "bold", "text": "WhatsApp: {{whatsappNumber}}, 7/24" },
+            { "type": "bold", "text": "İş Talepleri: sales@yaalo.com" },
+            {
+              "type": "bold",
+              "text": "Posta: Yaalo, 250 S Ronald Reagan Blvd, Str 106, Orlando, FL"
+            }
+          ]
+        },
+        {
+          "title": "6. Ek Hükümler",
+          "content": [],
+          "subTitles": [
+            {
+              "title": "6.1. Hizmet Sunumu",
+              "content": [
+                {
+                  "type": "bold",
+                  "text": "Aktivasyon: Satın alma sonrası hemen veya planlanan zamanda."
+                },
+                {
+                  "type": "bold",
+                  "text": "Erişim: Web hesabı veya mobil uygulama üzerinden yönetim."
+                },
+                {
+                  "type": "bold",
+                  "text": "Uyumluluk: Uyumluluk kontrolü müşterinin sorumluluğundadır."
+                },
+                {
+                  "type": "bold",
+                  "text": "Sınırlamalar: Hizmet kalitesi konum, cihaz ve ağ yoğunluğundan etkilenebilir."
+                }
+              ]
+            },
+            {
+              "title": "6.2. Muhtelif Hükümler",
+              "content": [
+                {
+                  "type": "bold",
+                  "text": "Değişiklikler: Şartlar önceden bildirilmeksizin değiştirilebilir."
+                },
+                {
+                  "type": "bold",
+                  "text": "Fikri Mülkiyet: Tüm haklar sağlayıcıya aittir."
+                },
+                {
+                  "type": "bold",
+                  "text": "Bütünlük: Bu şartlar tüm anlaşmanın tamamını oluşturur."
+                },
+                {
+                  "type": "bold",
+                  "text": "Ayrılabilirlik: Geçersiz kısım kalanları etkilemez."
+                },
+                {
+                  "type": "bold",
+                  "text": "Feragat Yok: Hakların kullanılmaması feragat sayılmaz."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Hizmet Şartları hakkında daha fazla bilgi",
+          "content": [
+            { "type": "bold", "text": "E-posta: support@yaalo.com" },
+            {
+              "type": "bold",
+              "text": "Canlı Sohbet: Web sitesinin sağ alt köşesi."
+            },
+            { "type": "bold", "text": "İş Talepleri: sales@yaalo.com" },
+            {
+              "type": "bold",
+              "text": "Telefon: {{whatsappNumber}} (09:00–17:00 CET)"
+            },
+            {
+              "type": "bolder",
+              "text": "``` Yaalo 250 S Ronald Reagan Blvd Str 106 Orlando, FL ```"
+            },
+            {
+              "type": "link",
+              "text": "Yaalo ekibi, deneyiminizin sorunsuz ve memnuniyet verici olması için buradadır.",
+              "linkText": "Yaalo",
+              "linkTo": "/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "AffiliatePartnerPage": {
+    "metaData": {
+      "title": "Yaalo eSIM Affiliate Programına Katıl | %20’ye Varan Kazanç",
+      "description": "Yaalo eSIM affiliate programına katıl, seyahat eSIM veri planlarını tanıtarak %20’ye kadar komisyon kazan. Gerçek zamanlı takip, aylık ödemeler ve kolay kurulum.",
+      "keywords": "kazanç elde et, affiliate partner, eSIM partneri, partner ol, affiliate"
+    },
+    "hero": {
+      "title": "Yaalo eSIM Affiliate Programına Katıl",
+      "trophy": "Seyahat İçerik Üreticileri İçin En İyi eSIM Affiliate Programlarından Biri",
+      "description": "Dürüst bir kazanç modeline hoş geldin. Katıl, tanıt ve linkin üzerinden biri küresel eSIM veri planı satın aldığında komisyon kazan.",
+      "button": "Yaalo Affiliate Programına Katıl"
+    },
+    "imageCarousel": {
+      "title": "Neden Yaalo eSIM ile Partner Olmalısın?",
+      "descripton": "Doğru affiliate programını seçmek sonuçta kazançla biter. Yaalo dünya çapında güçlü hizmetler sunarken, bizimle ortaklık sana şunları kazandırır:",
+      "1": {
+        "title": "Rekabetçi Komisyonlar",
+        "description": "Affiliate linkin üzerinden yapılan her başarılı eSIM satın alımında %20’ye kadar komisyon kazanırsın. Kazanç limiti yok, minimum kitle şartı yok."
+      },
+      "2": {
+        "title": "Gerçek Zamanlı Takip",
+        "description": "Tıklamaları, dönüşümleri ve komisyonları temiz bir affiliate paneli üzerinden anlık olarak takip et. Linklerinin performansını her zaman bilirsin."
+      },
+      "3": {
+        "title": "Aylık Ödemeler",
+        "description": "Ödemelerini her ay zamanında alırsın. PayPal, banka transferi veya diğer güvenilir ödeme yöntemlerinden birini seçebilirsin."
+      },
+      "4": {
+        "title": "Özel Destek",
+        "description": "Link oluşturma, banner seçimi veya istatistiklerini anlama konusunda yardıma ihtiyacın olursa ekibimiz yanında. Asla yalnız bırakılmazsın."
+      },
+      "5": {
+        "title": "Kolay Tanıtım Araçları",
+        "description": "Kullanımı kolay tanıtım araçları"
+      }
+    },
+    "features": {
+      "button": "Yaalo Affiliate Programına Katıl",
+      "title": "Kimler Yaalo Affiliate Partneri Olabilir?",
+      "description": "Yaalo eSIM Affiliate Programı farklı türde iş ortakları için uygundur:",
+      "ending": "Büyük bir marka olman gerekmez. Kitlen seyahat, teknoloji, pratiklik veya tasarrufla ilgileniyorsa Yaalo eSIM tam uyum sağlar.",
+      "cards": {
+        "1": {
+          "title": "Seyahat blog yazarları & destinasyon rehberleri",
+          "description": "eSIM’leri dolaşım veya yerel SIM kartlara modern bir alternatif olarak öner."
+        },
+        "2": {
+          "title": "YouTuber’lar & içerik üreticileri",
+          "description": "Seyahat videolarına, valiz hazırlama rehberlerine ve gezi anlatımlarına değer kat."
+        },
+        "3": {
+          "title": "Teknoloji & karşılaştırma siteleri",
+          "description": "Yaalo’yu en iyi uluslararası eSIM sağlayıcıları arasında listele."
+        },
+        "4": {
+          "title": "Dijital göçebeler & uzaktan çalışma toplulukları",
+          "description": "Kitlenin gerçekten kullandığı pratik bir çözümü paylaş."
+        }
+      }
+    },
+    "affiliateWorkingSteps": {
+      "title": "Affiliate Programı Nasıl Çalışır?",
+      "description": "Yaalo sadeliği destekler çünkü zamanının değerli olduğunu biliyoruz.",
+      "cards": {
+        "1": {
+          "title": "Başvur",
+          "description": "Hızlı başvuru formunu doldur. İnceleriz ve kısa sürede onaylarız."
+        },
+        "2": {
+          "title": "Linkini Al",
+          "description": "Onaylandıktan sonra sana özel affiliate linkini ve panel erişimini alırsın."
+        },
+        "3": {
+          "title": "Kazan",
+          "description": "Linkinle yapılan her satın alımda %20’ye kadar komisyon kazanırsın. Her şeyi panelinden takip edebilirsin."
+        },
+        "4": {
+          "title": "Paylaş",
+          "description": "Linkini blogunda, YouTube açıklamalarında, sosyal medyada veya e-posta bültenlerinde kullan."
+        }
+      }
+    },
+    "speacialFeatures": {
+      "title": "Yaalo eSIM’i Özel Kılan Nedir",
+      "recommend": "ve Önerilmesi Kolaydır",
+      "description": "İnsanlar “seyahat eSIM veri planları”, “turistler için en iyi eSIM” veya “uluslararası mobil internet” gibi terimleri arıyor. Yaalo eSIM ile onlara güvenle şunu söyleyebilirsin:",
+      "ending": "Büyük bir marka olman gerekmez. Kitlen seyahat, teknoloji, pratiklik veya tasarrufla ilgileniyorsa Yaalo eSIM tam uyum sağlar.",
+      "cards": {
+        "text1": "Seyahatte SIM kart değiştirmeye gerek yok",
+        "text2": "200+ ülkede bağlantı",
+        "text3": "Satın alımdan hemen sonra çalışan planlar",
+        "text4": "Tek global uygulamada esnek yerel veri seçenekleri"
+      }
+    },
+    "affiliateForm": {
+      "title": "Yaalo ile kazanmaya hazır mısın?",
+      "description": "Formu doldurman yeterli. Ekibimiz 24 saat içinde seninle iletişime geçer. Lütfen doldurduğun bilgileri sakla; giriş bilgilerin için kullanılacaktır."
+    },
+    "faqsData": {
+      "title": "Sıkça sorulan sorular",
+      "description": "En yaygın sorulara hızlı yanıtlar bulun.",
+      "faqs": {
+        "1": {
+          "title": "Yaalo eSIM affiliate programına nasıl katılırım?",
+          "body": "Web siten veya sosyal profilinle affiliate formu doldurarak başvur. Onaylandıktan sonra affiliate linkin ve panel erişimin gönderilir."
+        },
+        "2": {
+          "title": "Yaalo eSIM affiliate programına katılmak ücretsiz mi?",
+          "body": "Evet. Yaalo Affiliate Programına katılım tamamen ücretsizdir. Kayıt veya bakım ücreti yoktur."
+        },
+        "3": {
+          "title": "Yaalo affiliate olarak ne kadar kazanabilirim?",
+          "body": "Affiliate’ler satış başına %20’ye kadar komisyon kazanır, kazanç limiti yoktur."
+        },
+        "4": {
+          "title": "Affiliate komisyonları ne zaman ödenir?",
+          "body": "Komisyon ödemeleri seçtiğin ödeme yöntemiyle aylık olarak yapılır."
+        },
+        "5": {
+          "title": "Affiliate olmak için web sitem olması şart mı?",
+          "body": "Hayır. Yaalo eSIM’i sosyal medya, YouTube, e-posta bültenleri veya kitlenin güvendiği herhangi bir platformda tanıtabilirsin."
+        }
+      }
+    },
+    "sharingBanner": {
+      "title": "Paylaşmak Yaalo eSIM ile Daha Güzel!",
+      "body1": "Yaalo eSIM ile partnerlik sadece kazançtan ibaret değil. Yurt dışında stres ve yüksek dolaşım ücretleri olmadan bağlantıda kalmanın pratik bir yolunu paylaşmak demek. Kitlen kazanırsa, sen de kazanırsın.",
+      "body2": "Kitlen seyahat ediyorsa, uzaktan çalışıyorsa veya kolay mobil bağlantıya önem veriyorsa, Yaalo eSIM’i gönül rahatlığıyla önerebilirsin.",
+      "button": "Hemen başvur",
+      "ending": "ve Yaalo eSIM ile kazanmaya başla."
+    }
+  }
+}

@@ -1,0 +1,376 @@
+@import "@workspace/ui/globals.css";
+
+:root {
+  /* ui/ux background tokens */
+  --bg-primary: hsla(50, 100%, 50%, 1);
+  --bg-accent: hsla(50, 100%, 50%, 0.1);
+  --bg-main: hsla(0, 0%, 100%, 1);
+  --bg-card-a: hsla(0, 0%, 100%, 1);
+  --bg-card-b: hsla(0, 0%, 97%, 1);
+  --bg-card-c: hsla(0, 1%, 22%, 100);
+  --bg-stroke: hsla(0, 0%, 91%, 1);
+  --bg-toggle: hsla(220, 14%, 96%, 1);
+  --bg-dark-50: hsla(0, 0%, 0%, 0.5%);
+
+  /* ui/ux text colors tokens */
+  --text-black: hsla(0, 0%, 0%, 1);
+  --text-white: hsla(0, 0%, 100%, 1);
+  --text-body: hsla(233, 6%, 32%, 1);
+  --text-error: hsla(359, 100%, 68%, 1);
+
+  /* shadcn theme */
+  --background: var(--bg-main);
+  --foreground: var(--text-black);
+  --card: var(--card-a);
+  --card-foreground: var(--text-black);
+  --popover: var(--bg-main);
+  --popover-foreground: var(--text-black);
+  --primary: var(--bg-primary);
+  --primary-foreground: var(--text-black);
+  --secondary: var(--bg-card-b);
+  --secondary-foreground: var(--text-black);
+  --muted: var(--bg-card-b);
+  --muted-foreground: var(--text-body);
+  --accent: var(--bg-accent);
+  --accent-foreground: var(--text-black);
+  --destructive: var(--text-error);
+  --destructive-foreground: var(--text-white);
+  --border: var(--bg-stroke);
+  --input: var(--bg-stroke);
+  --ring: var(--bg-stroke);
+  --chart-1: hsla(12, 76%, 61%, 1);
+  --chart-2: hsla(45, 100%, 51%, 1);
+  --chart-3: hsla(197, 37%, 24%, 1);
+  --chart-4: hsla(43, 74%, 66%, 1);
+  --chart-5: hsla(27, 87%, 67%, 1);
+  --radius: 0.75rem;
+  --sidebar: oklch(0.985 0 0);
+  --sidebar-foreground: oklch(0.145 0 0);
+  --sidebar-primary: oklch(0.205 0 0);
+  --sidebar-primary-foreground: oklch(0.985 0 0);
+  --sidebar-accent: oklch(0.97 0 0);
+  --sidebar-accent-foreground: oklch(0.205 0 0);
+  --sidebar-border: oklch(0.922 0 0);
+  --sidebar-ring: oklch(0.708 0 0);
+
+  --shadow-card: 0px 5px 35px 0px rgba(30, 34, 40, 0.05);
+}
+
+.dark {
+  /* ui/ux background tokens */
+  --bg-primary: hsla(50, 100%, 50%, 1);
+  --bg-accent: hsla(50, 100%, 50%, 0.1);
+  --bg-main: hsla(240, 3%, 15%, 1);
+  --bg-card-a: hsla(252, 4%, 24%, 1);
+  --bg-card-b: hsla(220, 2%, 27%, 1);
+  --bg-card-c: hsla(252, 4%, 24%, 1);
+  --bg-stroke: hsla(220, 2%, 70%, 0.2);
+  --bg-toggle: hsla(252, 4%, 24%, 1);
+  --bg-dark-50: hsla(0, 0%, 100%, 0.5);
+
+  /* ui/ux text colors tokens */
+  --text-black: hsla(0, 0%, 0%, 1);
+  --text-white: hsla(0, 0%, 100%, 1);
+  --text-body: hsla(220, 2%, 70%, 1);
+  --text-error: hsla(359, 100%, 68%, 1);
+
+  /* shadcn theme */
+  --background: var(--bg-main);
+  --foreground: var(--text-white);
+  --card: var(--card-a);
+  --card-foreground: var(--text-black);
+  --popover: var(--bg-main);
+  --popover-foreground: var(--text-black);
+  --primary: var(--bg-primary);
+  --primary-foreground: var(--text-black);
+  --secondary: var(--bg-card-b);
+  --secondary-foreground: var(--text-black);
+  --muted: var(--bg-card-b);
+  --muted-foreground: var(--text-body);
+  --accent: var(--bg-accent);
+  --accent-foreground: var(--text-black);
+  --destructive: var(--text-error);
+  --destructive-foreground: var(--text-white);
+  --border: var(--bg-stroke);
+  --input: var(--bg-stroke);
+  --ring: var(--bg-stroke);
+  --ring: hsla(45, 100%, 51%, 1);
+  --chart-1: hsla(220, 70%, 50%, 1);
+  --chart-2: hsla(45, 100%, 51%, 1);
+  --chart-3: hsla(30, 80%, 55%, 1);
+  --chart-4: hsla(280, 65%, 60%, 1);
+  --chart-5: hsla(340, 75%, 55%, 1);
+  --sidebar: oklch(0.205 0 0);
+  --sidebar-foreground: oklch(0.985 0 0);
+  --sidebar-primary: oklch(0.488 0.243 264.376);
+  --sidebar-primary-foreground: oklch(0.985 0 0);
+  --sidebar-accent: oklch(0.269 0 0);
+  --sidebar-accent-foreground: oklch(0.985 0 0);
+  --sidebar-border: oklch(0.269 0 0);
+  --sidebar-ring: oklch(0.439 0 0);
+
+  --shadow-card: 0px 5px 35px 0px rgba(0, 0, 0, 0.4);
+}
+
+@theme inline {
+  /* optional: --font-sans, --font-serif, --font-mono if they are applied in the layout.tsx */
+  --color-background: var(--background);
+  --color-dark-50: var(--bg-card-50);
+  --color-foreground: var(--foreground);
+  --color-card: var(--bg-card-a);
+  --color-card-dark: var(--bg-card-c);
+  --color-toggle: var(--bg-toggle);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+
+  /* Shadows */
+  --shadow-my-card: var(--shadow-card);
+
+  /* Font Family */
+  --font-sans: var(--font-sans), sans-serif;
+  --font-manrope: var(--font-manrope), sans-serif;
+  --font-poppins: var(--font-poppins), sans-serif;
+
+  /* Font Weights */
+  --font-weight-300: 300;
+  --font-weight-400: 400;
+  --font-weight-500: 500;
+  --font-weight-600: 600;
+  --font-weight-700: 700;
+
+  /* Border Radius */
+  --radius: 0.75rem;
+  --radius-sm: 0.75rem;
+  --radius-md: 0.95rem;
+  --radius-lg: 1rem;
+  --radius-pill: calc(infinity * 1px);
+
+  /* Animations */
+  --animate-accordion-down: accordion-down 0.2s ease-out;
+  --animate-accordion-up: accordion-up 0.2s ease-out;
+
+  /* Breakpoints */
+  --breakpoint-xs: 400px;
+  --breakpoint-xxl: 1400px;
+
+  /* shadows */
+  --shadow-card: 2px 4px 4px 0 rgba(0, 0, 0, 0.05);
+  --shadow-custom: 0px 5px 35px 0px rgba(30, 34, 40, 0.05);
+}
+
+@keyframes accordion-down {
+  from {
+    height: 0;
+  }
+  to {
+    height: var(--radix-accordion-content-height);
+  }
+}
+
+@keyframes accordion-up {
+  from {
+    height: var(--radix-accordion-content-height);
+  }
+  to {
+    height: 0;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground!;
+
+  }
+
+}
+
+@layer utilities {
+  /* Scrollbar styling from v3 CSS */
+  .bar::-webkit-scrollbar {
+    width: 12px;
+    height: 12px;
+  }
+
+  .bar::-webkit-scrollbar-track {
+    border-radius: 100vh;
+    background: hsl(var(--muted));
+  }
+
+  .bar::-webkit-scrollbar-thumb {
+    background: hsl(var(--primary));
+    border-radius: 100vh;
+  }
+
+  .barMini::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  .barMini::-webkit-scrollbar-track {
+    border-radius: 100vh;
+    background: hsl(var(--muted));
+  }
+
+  .barMini::-webkit-scrollbar-thumb {
+    background: var(--grey);
+    border-radius: 100vh;
+  }
+
+  /* Glass morphism utilities */
+  .glass-nav {
+    background: rgba(255, 255, 255, 0.25);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    box-shadow:
+      0 8px 32px rgba(0, 0, 0, 0.08),
+      0 0 0 1px rgba(255, 255, 255, 0.05);
+  }
+
+  .glass-button {
+    background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+  }
+
+  .glass-button-active {
+    background: rgba(255, 211, 0, 0.1);
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
+    border: 1px solid rgba(255, 211, 0, 0.2);
+  }
+
+  .blogDetail {
+    @apply text-base;
+  }
+
+  .blogDetail h1 {
+    @apply mb-[1.5rem] text-[1.875rem] font-500 leading-[1] text-foreground! xl:text-[2.5rem];
+  }
+
+  .blogDetail h2 {
+    @apply my-[1.3rem] text-[1.625rem] font-500 leading-[1.5rem] text-foreground! xl:text-[2rem];
+  }
+
+  .blogDetail h3 {
+    @apply my-[1rem] text-[1.5rem] font-500 leading-[1.5rem] text-foreground! xl:text-[1.75rem];
+  }
+
+  .blogDetail h4 {
+    @apply my-[0.8rem] text-[1.3rem] font-500 leading-[1.4rem] text-foreground! xl:text-[1.5rem];
+  }
+
+  .blogDetail img {
+    @apply my-[1.5rem] rounded-[1.5rem];
+  }
+
+  .blogDetail span {
+    @apply leading-[2rem] text-foreground!;
+  }
+
+  .blogDetail ul {
+    @apply mb-[0.8rem] list-disc ps-[1.25rem] marker:text-[13px] marker:text-foreground! text-foreground!;
+  }
+
+  .blogDetail ol {
+    @apply mb-[1rem] list-decimal ps-[1.25rem] marker:text-[13px] marker:text-foreground! text-foreground!;
+  }
+
+  .blogDetail a {
+    @apply text-primary underline underline-offset-4;
+  }
+
+  .blogDetail p {
+    @apply mb-[0.5rem] text-foreground!;
+  }
+
+  .blogDetail iframe {
+    @apply aspect-video w-full;
+  }
+
+  .blogDetail strong {
+    @apply font-600 text-foreground!;
+  }
+}
+
+.no-scrollbar {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+@utility text-h1 {
+  @apply font-manrope text-[38px] leading-[44px] font-semibold tracking-[0]
+         md:text-[48px] md:leading-[60px] md:font-bold
+         lg:text-[58px] lg:font-bold;
+}
+
+@utility text-h2 {
+  @apply font-manrope text-[32px] leading-[38px] font-semibold tracking-[0]
+         md:text-[38px] md:leading-[44px] md:font-bold
+         lg:text-[48px] lg:leading-[60px];
+}
+
+@utility text-body-xs {
+  @apply font-sans text-[12px] leading-[18px]  tracking-[0];
+}
+
+@utility text-body-sm {
+  @apply font-sans text-[14px] leading-[18px]  tracking-[0];
+}
+
+@utility text-body-base {
+  @apply font-sans text-[16px] leading-[20px]  tracking-[0];
+}
+
+@utility text-body-md {
+  @apply font-sans text-[18px] leading-[24px]  tracking-[0];
+}
+
+@utility text-body-lg {
+  @apply font-sans text-[20px] leading-[28px]  tracking-[0];
+}
+
+@utility text-body-xl {
+  @apply font-sans text-[24px] leading-[30px]  tracking-[0];
+}
+
+html {
+  scroll-behavior: smooth;
+}

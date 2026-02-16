@@ -1,0 +1,181 @@
+@import "@workspace/ui/globals.css";
+
+:root {
+  --background: hsla(0, 0%, 100%, 1);
+  --foreground: hsla(0, 0%, 0%, 1);
+  --foreground-light: hsla(0, 0%, 19%, 1);
+  --card: hsla(0, 0%, 100%, 1);
+  --grey: hsla(0, 0%, 76%, 1);
+  --card-foreground: hsla(0, 0%, 3.9%, 1);
+  --popover: hsla(0, 0%, 100%, 1);
+  --popover-foreground: hsla(0, 0%, 3.9%, 1);
+  --primary: hsla(172, 100%, 28%, 1);
+  --primary-gradient: hsla(168, 100%, 8%, 1);
+  --primary-accent: hsla(108, 100%, 50%, 1);
+  --primary-light: hsla(143, 93%, 63%, 0.1);
+  --primary-foreground: hsla(0, 0%, 100%, 1);
+  --secondary: hsla(0, 0%, 96%, 1);
+  --secondary-foreground: hsla(0, 0%, 0%, 1);
+  --muted: hsla(0, 0%, 96%, 1);
+  --muted-foreground: hsla(0, 0%, 41%, 1);
+  --accent: hsla(0, 0%, 96.1%, 1);
+  --accent-foreground: hsla(0, 0%, 9%, 1);
+  --destructive: hsla(349, 100%, 42%, 1);
+  --destructive-foreground: hsla(0, 0%, 100%, 1);
+  --border: hsla(0, 0%, 89.8%, 1);
+  --input: hsla(0, 0%, 89.8%, 1);
+  --ring: hsla(0, 0%, 3.9%, 1);
+  --chart-1: hsla(12, 76%, 61%, 1);
+  --chart-2: hsla(173, 58%, 39%, 1);
+  --chart-3: hsla(197, 37%, 24%, 1);
+  --chart-4: hsla(43, 74%, 66%, 1);
+  --chart-5: hsla(27, 87%, 67%, 1);
+  --radius: 0.75rem;
+  --info: hsla(41, 100%, 42%, 1);
+  --primary-dark: hsla(171, 100%, 17%, 1);
+  --bottom-nav-background: hsla(0, 0%, 100%, 1);
+}
+
+.dark {
+  --background: hsla(20, 14.3%, 4.1%, 1);
+  --foreground: hsla(0, 0%, 95%, 1);
+  --card: hsla(24, 9.8%, 10%, 1);
+  --card-foreground: hsla(0, 0%, 95%, 1);
+  --popover: hsla(0, 0%, 9%, 1);
+  --popover-foreground: hsla(0, 0%, 95%, 1);
+  --primary: hsla(142.1, 70.6%, 45.3%, 1);
+  --primary-foreground: hsla(144.9, 80.4%, 10%, 1);
+  --secondary: hsla(240, 3.7%, 15.9%, 1);
+  --secondary-foreground: hsla(0, 0%, 98%, 1);
+  --muted: hsla(0, 0%, 15%, 1);
+  --muted-foreground: hsla(240, 5%, 64.9%, 1);
+  --accent: hsla(12, 6.5%, 15.1%, 1);
+  --accent-foreground: hsla(0, 0%, 98%, 1);
+  --destructive: hsla(0, 62.8%, 30.6%, 1);
+  --destructive-foreground: hsla(0, 85.7%, 97.3%, 1);
+  --border: hsla(240, 3.7%, 15.9%, 1);
+  --input: hsla(240, 3.7%, 15.9%, 1);
+  --ring: hsla(142.4, 71.8%, 29.2%, 1);
+  --chart-1: hsla(220, 70%, 50%, 1);
+  --chart-2: hsla(160, 60%, 45%, 1);
+  --chart-3: hsla(30, 80%, 55%, 1);
+  --chart-4: hsla(280, 65%, 60%, 1);
+  --chart-5: hsla(340, 75%, 55%, 1);
+}
+
+@theme inline {
+  /* colors  */
+  --color-foreground-light: var(--foreground-light);
+  --color-primary-light: var(--primary-light);
+  --color-primary-gradeint: var(--primary-gradeint);
+  --color-primary-accent: var(--primary-accent);
+  --color-grey: var(--grey);
+  --color-bottomNav: var(--bottom-nav-background);
+  --color-info: var(--info);
+
+  /* backgrounds */
+  --primary-gradient: linear-gradient(90deg, #008e7c 0%, #002823 100%);
+  --image-overlay: linear-gradient(
+    101deg,
+    rgba(0, 0, 0, 0.5) 0.87%,
+    rgba(0, 0, 0, 0) 100%
+  );
+  --image-overlay-light: linear-gradient(
+    324deg,
+    rgba(0, 0, 0, 0.5) 20.61%,
+    rgba(0, 0, 0, 0) 78.89%
+  );
+  --country-image-overlay: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0) 71.48%,
+    #000 100%
+  );
+
+  /* shadows */
+  --shadow-custom: 0px 5px 35px 0px rgba(30, 34, 40, 0.05);
+  --shadow-myCard: 0px 5px 35px 0px rgba(30, 34, 40, 0.07);
+  --shadow-bottomNav:
+    0 8px 32px rgba(0, 0, 0, 0.08), 0 0 0 1px rgba(255, 255, 255, 0.05);
+
+  /* typography  */
+  --text-2xl: 1.375rem;
+  --leading-2xl: 1.75rem;
+
+  --text-3xl: 1.75rem;
+  --leading-3xl: 1;
+
+  --text-4xl: 2.375rem;
+  --leading-4xl: 1;
+
+  --text-5xl: 2.98625rem;
+  --leading-5xl: 1;
+
+  --text-6xl: 3.58125rem;
+  --leading-6xl: 1;
+
+  --text-h1-base: 1.375rem;
+  --leading-h1-base: 1;
+
+  --text-h1-md: 2.3125rem;
+  --leading-h1-md: 1;
+
+  --text-h1-xl: 3.5625rem;
+  --leading-h1-xl: 1;
+
+  --text-h2-base: 1.375rem;
+  --leading-h2-base: 1;
+
+  --text-h2-md: 2rem;
+  --leading-h2-md: 1;
+
+  --text-h2-xl: 2.9375rem;
+  --leading-h2-xl: 1;
+
+  --text-body-base: 1rem;
+  --leading-body-base: 1.5rem;
+
+  --text-body-sm: 0.875rem;
+  --leading-body-sm: 1.5;
+
+  --text-body-md: 1.125rem;
+  --leading-body-md: 1.6;
+
+  --text-body-lg: 1.375rem;
+  --leading-body-lg: 1.6;
+
+  /* font weights */
+  --font-weight-300: 300;
+  --font-weight-400: 400;
+  --font-weight-500: 500;
+  --font-weight-600: 600;
+  --font-weight-700: 700;
+
+  /* font family  */
+  --font-sans: var(--font-sans), sans-serif;
+  --font-montserrat: var(--font-montserrat), sans-serif;
+  --font-poppins: var(--font-poppins), sans-serif;
+
+  /* animations  */
+  --animate-accordion-down: accordion-down 0.2s ease-out;
+  --animate-accordion-up: accordion-up 0.2s ease-out;
+
+  --radius-pill: calc(infinity * 1px);
+}
+
+@keyframes accordion-down {
+  from {
+    height: 0;
+  }
+  to {
+    height: var(--radix-accordion-content-height);
+  }
+}
+
+@keyframes accordion-up {
+  from {
+    height: var(--radix-accordion-content-height);
+  }
+  to {
+    height: 0;
+  }
+}

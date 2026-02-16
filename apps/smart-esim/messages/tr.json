@@ -1,0 +1,1889 @@
+{
+  "HomePage": {
+    "metaData": {
+      "title": "Smart eSIM - 200+ Ülkede Anında Seyahat eSIM | Hızlı 4G/5G İnternet",
+      "description": "Smart eSIM ile 200+ ülkede hızlı ve güvenilir 4G/5G internet kullanın. Dolaşım ücreti yok, saniyeler içinde aktivasyon ve güvenli küresel bağlantı.",
+      "keywords": "eSIM, eSIM satın al, seyahat eSIM, Türkiye eSIM, uluslararası eSIM, eSIM veri paketi, mobil internet"
+    },
+    "hero": {
+      "title": "<highlight>Smart</highlight> eSIM ile Seyahatte Bağlantı Özgürlüğünü Satın Alın",
+      "subtitle": "200+ Ülkede <strong>4G/5G Yüksek Hızlı</strong> İnternet eSIM Paketleri – Saniyeler İçinde Aktif!",
+      "downloadApp": "Uygulamayı İndir",
+      "imageAlt": "Seyahat için eSIM bağlantı illüstrasyonu"
+    },
+    "esimFeatures": {
+      "title": "Uluslararası Seyahatler İçin Uygun Fiyatlı Operatörlerle Ön Ödemeli eSIM Satın Alın",
+      "features": {
+        "fair": {
+          "title": "Adil Fiyatlar",
+          "description": "Dolaşım ücretlerine değil, gezginlerin kullanım alışkanlıklarına odaklanan veri paketleri."
+        },
+        "roaming": {
+          "title": "Gerçek Dolaşım Özgürlüğü",
+          "description": "Tek bir eSIM ile birden fazla ülkede bağlantıda kalın."
+        },
+        "fast": {
+          "title": "Hızlı Küresel İnternet",
+          "description": "İndiğiniz her yerde güvenilir 4G/5G bağlantı."
+        },
+        "setup": {
+          "title": "Hızlı Kurulum",
+          "description": "Saniyeler içinde aktif edin. Sorunsuz seyahat edin."
+        }
+      }
+    },
+    "startingPrice": {
+      "title": "200+ Ülke Arasından Bir Sonraki Destinasyonunuzu Seçin!",
+      "tabs": {
+        "local": "Yerel",
+        "regional": "Bölgesel",
+        "global": "Küresel"
+      },
+      "allDestinations": "Tüm Destinasyonları Gör",
+      "startsAt": "Başlangıç",
+      "globalPackage": "Küresel Paketler",
+      "noOfCountries": "149 Ülke Destekleniyor"
+    },
+    "esimCompatible": {
+      "title": "TELEFONUNUZ ESIM TEKNOLOJİSİNİ DESTEKLİYOR MU KONTROL EDİN",
+      "description": "Çoğu modern akıllı telefon eSIM uyumludur. iPhone XS ve sonrası tüm modeller eSIM destekler. Bazı Android markaları da amiral gemisi modellerinde eSIM sunmaktadır.",
+      "compatibleBtn": "Tüm eSIM uyumlu telefonlar",
+      "srOnlyText": "eSIM teknolojisini destekleyen bazı telefonlar"
+    },
+    "whyEsim": {
+      "title": "Neden Smart eSIM uluslararası seyahatler için en iyi eSIM?",
+      "description": "Burada güven her şeydir ve Smart eSIM kullanıcıyı her zaman öncelik yapar.",
+      "showPlansBtn": "eSIM Paketlerini Göster",
+      "cards": {
+        "1": {
+          "title": "Dünya Genelinde Kapsama",
+          "body": "200+ ülkede eSIM kullanın. Yerel, Bölgesel veya Küresel eSIM seçin."
+        },
+        "2": {
+          "title": "Güvenli Bağlantı",
+          "body": "Tüm güvenlik standartlarını karşılayan şifreli koruma."
+        },
+        "3": {
+          "title": "Anında Aktivasyon",
+          "body": "Satın alın, tarayın ve dakikalar içinde bağlanın. Evden veya havalimanından kullanın."
+        },
+        "4": {
+          "title": "Şeffaf Fiyatlandırma",
+          "body": "Sözleşme yok. Dolaşım ücreti yok. Gizli masrafsız adil seyahat internet fiyatları."
+        }
+      }
+    },
+    "customerReviews": {
+      "title": "Bizi Güvenilir Kılan Müşteri Yorumları",
+      "reviews": {
+        "1": "Tek bir taramayla internete bağlandım. Seyahatin en kolay kısmıydı.",
+        "2": "Sonunda teknik bilgi gerektirmeyen bir eSIM. Sorunsuz çalıştı.",
+        "3": "Havalimanında SIM kuyruğu yok, stres yok. Smart eSIM bana zaman ve para kazandırdı.",
+        "4": "Üç ülkede ayarlarıma dokunmadan dolaştım. Şimdiye kadarki en sorunsuz seyahat deneyimi.",
+        "5": "Dakikalar içinde eSIM indirdim ve her yerde bağlantıda kaldım. Tüm seyahatim daha rahat geçti."
+      }
+    },
+    "faqsData": {
+      "title": "Sıkça sorulan sorular",
+      "description": "En sık sorulan soruların hızlı yanıtlarını bulun.",
+      "faqs": {
+        "1": {
+          "title": "eSIM nasıl çalışır?",
+          "body": "eSIM, fiziksel SIM kartın dijital bir versiyonu gibi çalışır. Telefona herhangi bir kart takmadan, mobil planı doğrudan cihazınıza indirirsiniz. Aktif edildiğinde, yerel ağlara normal bir SIM gibi bağlanır ve seyahat sırasında kart değiştirme zahmetini ortadan kaldırır."
+        },
+        "2": {
+          "title": "Smart eSIM’i seyahat ettiğim her ülkede kullanabilir miyim?",
+          "body": "Evet. Smart eSIM 200+ destinasyonu kapsar. Avrupa, Asya, Orta Doğu veya Amerika’da nereye giderseniz gidin anında bağlantıda kalırsınız. Paketinizi seçin, kurun ve mobil veriyi açtığınız anda internete bağlanın."
+        },
+        "3": {
+          "title": "Smart eSIM’i nasıl kurar veya aktif ederim?",
+          "body": "Aktivasyon çok hızlıdır. Paket satın aldıktan sonra bir QR kodu veya uygulama içi kurulum bağlantısı alırsınız. Telefonunuzun Mobil/Hücresel ayarlarından “eSIM Ekle” seçeneğine dokunun, kodu tarayın ve etkinleştirin. Dakikalar içinde kullanıma hazır olur."
+        },
+        "4": {
+          "title": "Hangi telefonlar eSIM destekler?",
+          "body": "iPhone XS ve sonrası modeller, Samsung Galaxy serileri, Google Pixel cihazlar ve birçok yeni Android telefon eSIM destekler. Emin değilseniz, Daha Fazla menüsünden eSIM uyumlu cihazlar listemizi kontrol edebilirsiniz."
+        },
+        "5": {
+          "title": "eSIM kullanımı güvenli mi?",
+          "body": "Evet. eSIM teknolojisi, SIM kopyalama ve yetkisiz erişime karşı koruma sağlayan şifreli profiller kullanır. Telefonunuz ekran kilidi ve güvenli uygulama ayarlarıyla korunduğu sürece verileriniz güvendedir."
+        },
+        "6": {
+          "title": "Aynı seyahatte birden fazla ülke arasında geçiş yaparken Smart eSIM kullanabilir miyim?",
+          "body": "Evet. Paketiniz çoklu ülke kapsaması sunuyorsa, sınır geçtiğinizde Smart eSIM otomatik olarak yerel iş ortaklarına bağlanır. Yeniden kurulum gerekmez."
+        },
+        "7": {
+          "title": "eSIM’i hemen kullanmazsam süresi dolar mı?",
+          "body": "Çoğu Smart eSIM paketinde genellikle 30 ila 90 gün arasında bir aktivasyon süresi bulunur. Şimdi satın alabilir, hazır olduğunuzda kurabilirsiniz. Geçerlilik, eSIM ilk kez ağa bağlandığında başlar."
+        }
+      }
+    }
+  },
+  "EsimPage": {
+    "metaData": {
+      "title": "Seyahat İçin Smart eSIM Satın Al | Anında Küresel Mobil İnternet",
+      "description": "Her ülke, bölge veya dünya genelinde seyahatleriniz için Smart eSIM edinin. Dakikalar içinde aktif edin, dolaşım ücretlerinden kurtulun ve hızlı, güvenilir mobil internetle her yerde bağlantıda kalın.",
+      "keywords": "eSIM, eSIM satın al, seyahat eSIM, bölgesel eSIM, yerel eSIM, uluslararası eSIM, eSIM veri paketi, uygun fiyatlı eSIM, mobil internet"
+    },
+    "hero": {
+      "heading": "Bir Sonraki Destinasyonunuzu Arayın",
+      "description": "Bir ülkeyi mi ziyaret ediyorsunuz? Tüm bir bölge için seyahat mi planlıyorsunuz? Dünya turu hayaliniz mi var? Bağlantı özgürlüğü için uluslararası bir eSIM satın alın!"
+    },
+    "tabs": {
+      "local": "Yerel",
+      "regional": "Bölgesel",
+      "global": "Küresel"
+    },
+    "exploreEsims": "200+ Destinasyon İçin Veri eSIM Seçeneklerimizi Keşfedin",
+    "faqsData": {
+      "title": "Sıkça sorulan sorular",
+      "description": "En yaygın sorulara hızlı yanıtlar bulun.",
+      "faqs": {
+        "1": {
+          "title": "Seyahatimden önce Smart eSIM satın alabilir miyim?",
+          "body": "Evet. Seyahatinizden önce dilediğiniz zaman Smart eSIM satın alabilirsiniz. Paket, eSIM hedef ülkedeki yerel ağa bağlandığında başlar. Önceden satın almak, havalimanı stresinden kaçınmanın akıllı bir yoludur."
+        },
+        "2": {
+          "title": "Yurt dışındayken Smart eSIM satın alıp aktif edebilir miyim?",
+          "body": "Evet, edebilirsiniz. Wi-Fi bağlantınız olduğu sürece paketi satın alabilir, QR kodu tarayabilir ve eSIM’i dakikalar içinde aktif edebilirsiniz. Son dakika seyahatleri veya pahalı dolaşım ücretleri için idealdir."
+        },
+        "3": {
+          "title": "Uluslararası seyahat için Smart eSIM’i nereden satın alabilirim?",
+          "body": "Smart eSIM’i doğrudan web sitemizden satın alabilir veya mobil uygulamamızı indirebilirsiniz. Uygulama iOS ve Android için mevcuttur. Ülkenizi ya da bölgenizi seçin, paketinizi belirleyin ve anında kurun."
+        },
+        "4": {
+          "title": "Başka biri için Smart eSIM satın alabilir miyim?",
+          "body": "Evet. Satın alma işlemi tamamlandıktan sonra aktivasyon QR kodunu arkadaşınızla veya aile üyenizle paylaşabilirsiniz. Onlar da kendi cihazlarında tarayıp bağlanabilir. Hediye etmek veya grup seyahatleri için idealdir."
+        },
+        "5": {
+          "title": "Telefonumun eSIM destekleyip desteklemediğini nasıl kontrol ederim?",
+          "body": "Yeni nesil iPhone’lar, Samsung Galaxy modelleri, Google Pixel cihazlar ve birçok amiral gemisi Android telefon eSIM destekler. Satın almadan önce cihazınızı doğrulamak için sitemizdeki uyumluluk listesini inceleyebilirsiniz."
+        },
+        "6": {
+          "title": "Smart eSIM’i seyahatten önce mi sonra mı satın almak daha uygun?",
+          "body": "Genellikle seyahatten önce satın almak daha ekonomiktir. Havalimanı SIM satış noktalarından, son dakika dolaşım ücretlerinden ve turistlere özel şişirilmiş fiyatlardan kaçınmanızı sağlar. Ayrıca internete hazır şekilde varırsınız."
+        },
+        "7": {
+          "title": "Smart eSIM birden fazla ülkede çalışır mı?",
+          "body": "Bölgesel veya Küresel bir eSIM paketi seçtiğinizde evet. Seyahat ederken Smart eSIM otomatik olarak en güçlü yerel ağa bağlanır. Yeniden kurulum veya manuel geçiş gerekmez."
+        }
+      }
+    }
+  },
+  "RegionalPage": {
+    "metaData": {
+      "title": "Bölgesel eSIM’ler: 200+ Ülke İçin Uygun Fiyatlı İnternet",
+      "description": "200+ destinasyon için yerel fiyatlarla bölgesel eSIM edinin. Uluslararası ve yerel seyahatlerde kesintisiz bağlantı sunan güvenilir, ön ödemeli paketler.",
+      "keywords": "eSIM, eSIM satın al, bölgesel eSIM, yerel eSIM, seyahat eSIM, uluslararası eSIM, eSIM veri paketi, uygun fiyatlı eSIM, mobil internet"
+    },
+    "hero": {
+      "heading": "Bir Sonraki Destinasyonunuzu Arayın",
+      "description": "Bir ülkeyi mi ziyaret ediyorsunuz? Tüm bir bölge için seyahat mi planlıyorsunuz? Dünya turu hayaliniz mi var? Bağlantı özgürlüğü için uluslararası bir eSIM satın alın!"
+    },
+    "tabs": {
+      "local": "Yerel",
+      "regional": "Bölgesel",
+      "global": "Küresel"
+    },
+    "discoverEsim": "Farklı Bölgelerdeki Bölgesel eSIM Seçeneklerini Keşfedin",
+    "startsAt": "Başlangıç",
+    "faqsData": {
+      "title": "Sıkça sorulan sorular",
+      "description": "En sık sorulan soruların hızlı yanıtlarını bulun.",
+      "faqs": {
+        "1": {
+          "title": "Bölgesel eSIM nedir?",
+          "body": "Bölgesel eSIM, tek bir veri paketi ve tek bir eSIM profili ile birden fazla ülkeyi kapsayan bir eSIM’dir. Örneğin, Avrupa bölgesindeki tüm ülkeleri tek bir eSIM profiliyle ziyaret edebilirsiniz."
+        },
+        "2": {
+          "title": "eSIM’i farklı ülkelerde kullanabilir miyim?",
+          "body": "Evet, ancak bu kullandığınız eSIM paketine bağlıdır. Yerel eSIM’ler tek bir ülkede çalışır, Bölgesel eSIM’ler 34 ülkeye kadar kapsama sunar, Küresel eSIM’ler ise yaklaşık 64 ülkede kullanılabilir."
+        },
+        "3": {
+          "title": "Smart eSIM hangi bölgelerde hizmet sunuyor?",
+          "body": "Smart eSIM; Afrika, Asya, Avrupa, Kuzey Amerika, Güney Amerika ve Okyanusya dahil olmak üzere birçok bölgede hizmet sunar."
+        },
+        "4": {
+          "title": "En iyi Avrupa Bölgesel eSIM paketi hangisi?",
+          "body": "Smart eSIM, Avrupa için 7 ila 30 gün geçerliliğe ve aylık 1GB ile 20GB arasında veri seçeneklerine sahip farklı bölgesel eSIM paketleri sunar. En avantajlı paket, yalnızca 13.03 $ karşılığında 30 gün geçerli 10GB pakettir."
+        },
+        "5": {
+          "title": "En iyi Asya Bölgesel eSIM paketi hangisi?",
+          "body": "Smart eSIM, Asya için 7 ila 30 gün geçerliliğe ve aylık 1GB ile 20GB arasında veri sunan çeşitli bölgesel eSIM paketleri sağlar. En ideal paket, 30 gün geçerli 10GB veri içeren ve 34.70 $ fiyatlı seçenektir."
+        },
+        "6": {
+          "title": "Bu Bölgesel eSIM’ler ön ödemeli mi, faturalı mı?",
+          "body": "Smart eSIM’in Bölgesel eSIM’leri ön ödemelidir. Yani kullanmak istediğiniz veri miktarı için önceden ödeme yaparsınız."
+        }
+      }
+    }
+  },
+  "RegionalSlugPage": {
+    "faqsData": {
+      "title": "Sıkça sorulan sorular",
+      "description": "En yaygın sorulara hızlı yanıtlar bulun.",
+      "faqs": {
+        "1": {
+          "title": "{region} için hangi eSIM veri paketini seçmeliyim?",
+          "body": "Veri ihtiyacınıza ve seyahat sürenize göre bir paket seçin. eSIMCard, 1 günden 30 güne kadar geçerli yerel, bölgesel ve küresel eSIM paketleri sunar."
+        },
+        "2": {
+          "title": "{region} için eSIM nasıl satın alınır?",
+          "body": "eSIM’i eSIMCard’ın web sitesinden veya iOS ve Android için sunulan mobil uygulamasından online olarak satın alabilirsiniz. İstediğiniz paketi seçip ödeme adımlarını takip etmeniz yeterlidir."
+        },
+        "3": {
+          "title": "{region} için eSIM nasıl aktif edilir?",
+          "body": "Satın alma işleminden sonra, Android ve iOS’ta kullanılabilen eSIMCard uygulaması üzerinden eSIM’inizi aktif edebilirsiniz. Aktivasyon, satın alma sonrası verilen eSIM QR kodunun taranmasıyla gerçekleştirilir."
+        },
+        "4": {
+          "title": "{region} içinde eSIM nasıl kullanılır?",
+          "body": "Cihazınızın eSIM desteklediğinden emin olun. Sağlanan QR kodu kullanarak eSIM’i kurun ve cihaz ayarlarından aktif hücresel plan olarak seçin."
+        },
+        "5": {
+          "title": "Veri paketim ne zaman başlar?",
+          "body": "Hedef bölgeye ulaşıp ilk veri kullanımını gerçekleştirdiğiniz anda eSIM veri paketiniz aktif olur. Bu andan itibaren veri kullanımı paket kotanızdan düşülür."
+        },
+        "6": {
+          "title": "eSIM’imde veri yükleme veya süre uzatma yapabilir miyim?",
+          "body": "Evet. eSIMCard uygulaması üzerinden paketlerinizi yönetebilir, ek veri satın alabilir veya mevcut paketinizi uzatabilirsiniz."
+        },
+        "7": {
+          "title": "eSIMCard’dan geri ödeme alabilir miyim?",
+          "body": "eSIMCard’da kapsama sorunları, teknik problemler veya hatalı ücretlendirmeler için geri ödeme imkânı sunulmaktadır. Geri ödeme talepleri 12 gün içinde iletilmelidir ve onaylanması halinde tutar 1 ila 3 iş günü içinde iade edilir."
+        },
+        "8": {
+          "title": "Sınırsız eSIM veri paketleri için adil kullanım politikası nedir?",
+          "body": "Adil Kullanım Politikası’na (FUP) göre, nadir durumlarda günlük 1 GB veri kullanımından sonra internet hızı düşürülebilir. Tüm kullanıcılar için dengeli hizmet sağlamak amacıyla hızlar ertesi gün normale döner."
+        },
+        "9": {
+          "title": "Fiziksel SIM kartım ve eSIMCard eSIM’i aynı anda kullanabilir miyim?",
+          "body": "Evet. Cihazınız çift SIM özelliğini destekliyorsa, fiziksel SIM kart ve eSIM’i aynı anda kullanabilirsiniz."
+        },
+        "10": {
+          "title": "İnternet paylaşımı veya kişisel erişim noktası kullanabilir miyim?",
+          "body": "Evet. eSIMCard eSIM’inizle internet paylaşımı yapabilir ve kişisel erişim noktası oluşturabilirsiniz. Bu sayede seyahat sırasında bağlantınızı diğer cihazlarla paylaşabilirsiniz."
+        }
+      }
+    }
+  },
+  "GlobalPage": {
+    "metaData": {
+      "title": "Gezginler İçin Uluslararası eSIM Al | Ön Ödemeli Veri Paketleri",
+      "description": "Küresel eSIM veri paketlerimizle dünya genelinde bağlantıda kalın. Birden fazla ülkede dolaşım ücreti olmadan internet erişimine ihtiyaç duyan gezginler için ideal çözüm.",
+      "keywords": "eSIM, eSIM satın al, küresel eSIM, uluslararası eSIM, seyahat eSIM, eSIM veri paketi, uygun fiyatlı eSIM, mobil internet"
+    },
+    "global": "Küresel",
+    "hero": {
+      "heading": "Bir Sonraki Destinasyonunuzu Arayın",
+      "description": "Bir ülkeyi mi ziyaret ediyorsunuz? Tüm bir bölge için seyahat mi planlıyorsunuz? Dünya turu hayaliniz mi gerçekleşiyor? Bağlantı özgürlüğü için uluslararası bir eSIM satın alın!"
+    },
+    "tabs": {
+      "local": "Yerel",
+      "regional": "Bölgesel",
+      "global": "Küresel"
+    },
+    "faqsData": {
+      "title": "Sıkça sorulan sorular",
+      "description": "En sık sorulan sorulara hızlı yanıtlar bulun.",
+      "faqs": {
+        "1": {
+          "title": "Uluslararası seyahat için en iyi eSIM hangisidir?",
+          "body": "Uluslararası seyahatler için en iyi eSIM; gideceğiniz destinasyona, veri kullanımınıza ve bütçenize bağlıdır. Geniş kapsama alanı, esnek ve uygun fiyatlı paketler sunan sağlayıcıları tercih etmelisiniz. En iyi küresel seçenekler için Smart eSIM’i öneriyoruz."
+        },
+        "2": {
+          "title": "Uluslararası eSIM paketlerini nereden satın alabilirim?",
+          "body": "Uluslararası eSIM paketlerini eSIM sağlayıcılarının web siteleri veya mobil uygulamaları üzerinden online olarak satın alabilirsiniz. Smart eSIM ile eSIM profilinizi doğrudan cihazınıza indirerek hızlı ve zahmetsiz şekilde kullanmaya başlayabilirsiniz."
+        },
+        "3": {
+          "title": "Uluslararası bir eSIM ne kadar tutar?",
+          "body": "Uluslararası eSIM fiyatları; veri miktarına, kapsama alanına ve kullanım süresine göre değişir. Kısa süreli kullanım için birkaç dolardan başlayan paketler bulunur, daha geniş kapsama alanlarında fiyatlar artabilir. Smart eSIM paketleri aylık yalnızca 2.40 $’dan başlar."
+        },
+        "4": {
+          "title": "eSIM uluslararası dolaşımda çalışır mı?",
+          "body": "Evet. eSIM’ler yurt dışında yerel ağlara bağlanarak uluslararası dolaşımı destekler. Bu sayede geleneksel roaming ücretlerini ödemeden internet kullanabilir ve arama yapabilirsiniz."
+        },
+        "5": {
+          "title": "Dünya genelinde dolaşım için en iyi eSIM hangisidir?",
+          "body": "Dünya genelinde dolaşım için en iyi eSIM, birden fazla ülkede SIM değiştirmeden kullanım imkânı sunan geniş kapsama alanlı bir pakettir. Smart eSIM’in küresel eSIM paketleri bu ihtiyaç için idealdir."
+        },
+        "6": {
+          "title": "Küresel eSIM nasıl çalışır?",
+          "body": "Küresel eSIM, dijital bir SIM profilini cihazınıza indirmenizi sağlar ve desteklenen ülkelerde yerel ağlara otomatik olarak bağlanır. Fiziksel SIM karta gerek yoktur; sadece aktive edin ve bağlantının keyfini çıkarın."
+        },
+        "7": {
+          "title": "Küresel eSIM ile yerel eSIM arasındaki fark nedir?",
+          "body": "Küresel eSIM’ler birden fazla ülkede kapsama sunar ve çok duraklı seyahatler için idealdir. Yerel eSIM’ler ise tek bir ülke veya belirli bir bölgede çalışır, uzun süreli konaklamalar için daha ekonomik olabilir."
+        }
+      }
+    }
+  },
+  "AboutUsPage": {
+    "metaData": {
+      "title": "Smart eSIM Hakkında - Güvenilir Küresel Seyahat eSIM Sağlayıcısı",
+      "description": "Smart eSIM, 200+ ülkede hızlı ve güvenli mobil internet ile gezginleri bağlantıda tutar. Dolaşım ücreti yok, SIM kart yok. Anında ve uygun fiyatlı küresel bağlantı.",
+      "keywords": "eSIM, eSIM satın al, bölgesel eSIM, yerel eSIM, seyahat eSIM, uluslararası eSIM, eSIM veri paketi, Smart eSIM hakkında"
+    },
+    "hero": {
+      "title": "Smart eSIM Hakkında",
+      "description": "Seyahat ederken bağlantıda kalmak pahalı, karmaşık veya stresli olmamalı."
+    },
+    "globalTravelSection": {
+      "title": " Küresel Bir Seyahat eSIM Şirketi Olarak Biz Kimiz?",
+      "description": " Biz gezginlerden, mühendislerden ve dijital ürün uzmanlarından oluşan bir ekibiz. Yurt dışında yavaş ağlar ve pahalı mobil internetle yıllarca uğraştıktan sonra daha akıllı bir çözüm üretmeye karar verdik.",
+      "descriptionTwo": " Smart eSIM, dünyanın dört bir yanındaki gezginlere aşağıdakileri sunmak amacıyla tasarlandı:",
+      "features": {
+        "1": {
+          "body": "Dolaşım ücreti olmadan uygun fiyatlı uluslararası mobil internet"
+        },
+        "2": {
+          "body": "QR kod veya mobil uygulama üzerinden anında eSIM aktivasyonu"
+        },
+        "3": {
+          "body": "200+ ülke ve bölgede küresel eSIM kapsaması"
+        },
+        "4": {
+          "body": "Seyahat ederken dijital kimliğinizi koruyan güvenli ve şifreli bağlantı"
+        }
+      },
+      "descriptionThree": " Bir gezginin anılarını oluştururken hak ettiği konfor seviyesine inanıyoruz."
+    },
+    "missionSection": {
+      "title": "Misyonumuz",
+      "description": "Misyonumuz, Smart eSIM teknolojisiyle küresel seyahat bağlantısını basit, güvenli ve erişilebilir hale getirmektir. Dolaşım ücreti olmadan hızlı uluslararası internet sunarak, gezginlerin sınırlar arasında güvenilir kapsama ve anında aktivasyonla bağlantıda kalmasını sağlıyoruz."
+    },
+    "storySection": {
+      "title": "Hikayemiz",
+      "description": "Smart eSIM, seyahat eden herkesin yaşadığı tanıdık bir sorunu çözmek için ortaya çıktı: Yeni bir ülkeye internetsiz, haritasız ve bağlantısız varmak. Her yolculuğu bağlantılı bir deneyime dönüştüren sorunsuz bir eSIM çözümü geliştirdik. Bugün yerel kullanıcılar, gezginler, dijital göçebeler ve küresel işletmeler tarafından güvenle tercih ediliyor."
+    },
+    "joinSection": {
+      "title": "Özgürce Seyahat Etmek ve Anında Bağlanmak İçin Bize Katılın",
+      "description": "Bir sonraki rotanız neresi olursa olsun, bağlantıda kalmak sizi yavaşlatmamalı. Smart eSIM, indiğiniz anda hızlı ve güvenli mobil internet sunar. Dolaşım ücreti yok, sıra yok, doğrulama yok ve SIM kart değiştirme derdi yok. Sadece tarayın, aktive edin ve 200+ destinasyonda en iyi eSIM çözümünün keyfini çıkarın."
+    },
+    "faqsData": {
+      "title": "Sıkça sorulan sorular",
+      "description": "En sık sorulan sorulara hızlı yanıtlar bulun.",
+      "faqs": {
+        "1": {
+          "title": "eSIM nedir ve Smart eSIM nasıl çalışır?",
+          "body": "eSIM, telefonunuza entegre edilmiş dijital bir SIM’dir ve fiziksel kart değiştirmeden mobil ağlara bağlanmanızı sağlar. Smart eSIM bu süreci basitleştirir: destinasyonunuzu seçin, paketinizi satın alın, QR kodu tarayın ve cihazınız anında aktive olsun. İndiğiniz anda hızlı ve güvenli seyahat interneti."
+        },
+        "2": {
+          "title": "eSIM’in dezavantajları nelerdir ve Smart eSIM bunları nasıl çözer?",
+          "body": "Bazı gezginler cihaz uyumluluğu veya ağ geçişleri sırasında bağlantı kaybı konusunda endişe eder. Smart eSIM; net cihaz uyumluluk bilgileri, adım adım aktivasyon ve 200+ ülkede üst düzey ağlara erişim sunarak bu sorunları ortadan kaldırır. Gerektiğinde hızlı destek de sağlarız. Amacımız basit: eSIM kullanımını herkes için sorunsuz hale getirmek."
+        },
+        "3": {
+          "title": "Uluslararası seyahat için eSIM, fiziksel SIM’den daha mı iyidir?",
+          "body": "Çoğu gezgin için evet. Smart eSIM; anında aktivasyon, dolaşım ücreti olmaması ve her yerde bağlantı özgürlüğü sunar. Ana fiziksel SIM’inizi aramalar için kullanabilir, Smart eSIM’i ise yurt dışında hızlı ve güvenilir internet için tercih edebilirsiniz. Geleneksel SIM kartlara göre daha hızlı, daha güvenli ve çok daha pratiktir."
+        },
+        "4": {
+          "title": "Smart eSIM bana yerel mi yoksa uluslararası bir numara mı verir?",
+          "body": "Smart eSIM seyahat paketleri veri bağlantısı odaklıdır, bu nedenle çoğu pakette yerel bir telefon numarası bulunmaz. WhatsApp, FaceTime, Messenger ve VoIP uygulamalarını normal şekilde kullanabilirsiniz. Arama özelliğine ihtiyaç duyarsanız, ülke veya bölgeye göre sesli arama içeren paketlerimiz de mevcuttur."
+        },
+        "5": {
+          "title": "Seyahat için Smart eSIM almaya değer mi?",
+          "body": "Kesinlikle. Smart eSIM, dolaşım ücretlerinden kaçınmanızı, havalimanı SIM kuyruklarını atlamanızı ve indiğiniz anda internete bağlanmanızı sağlar. Sık seyahat edenler, dijital göçebeler, öğrenciler ve birden fazla ülkede uygun fiyatlı internet ihtiyacı olan aileler için idealdir. Tek satın alma, tek tarama ve seyahatiniz baştan sona bağlantıda kalır."
+        },
+        "6": {
+          "title": "eSIM kullanmanın riskleri nelerdir ve Smart eSIM güvenli midir?",
+          "body": "Smart eSIM, SIM kopyalama ve yetkisiz erişime karşı verilerinizi koruyan güvenli ve şifreli bağlantı altyapısıyla geliştirilmiştir. Fiziksel SIM’lerin aksine, eSIM çıkarılamaz veya kopyalanamaz. Bilgileriniz güvende kalır ve dünya genelindeki güvenilir ağ ortaklarına bağlanırsınız. Gezginler için en güvenli bağlantı yöntemlerinden biridir."
+        }
+      }
+    }
+  },
+  "ContactUsPage": {
+    "metaData": {
+      "title": "Smart eSIM Destek | Seyahat eSIM Yardımı İçin İletişim",
+      "description": "Aktivasyon, paketler veya eSIM kurulumu konusunda yardıma mı ihtiyacınız var? Smart eSIM ile iletişime geçin. Canlı sohbet, e-posta desteği ve dünya genelinde hızlı yanıtlar.",
+      "keywords": "eSIM, eSIM satın al, seyahat eSIM, bölgesel eSIM, yerel eSIM, eSIM destek, eSIM iletişim, mobil internet"
+    },
+    "hero": {
+      "title": "Bizimle İstediğiniz Zaman İletişime Geçebilirsiniz!",
+      "description": "Bir sonraki seyahatinize hazırlanıyor olun ya da uçağa yeni binmiş olun — destek ekibimiz sorunsuz bir Smart eSIM deneyimi için 7/24 hizmetinizde."
+    },
+    "reachOut": {
+      "title": " Bizimle Şu Kanallar Üzerinden İletişime Geçin!",
+      "description": "Müşteri memnuniyetini önceliklendiriyoruz ve size hızlıca yardımcı olmak için aşağıdaki platformları sunuyoruz:",
+      "features": {
+        "emailSupport": {
+          "title": "E-posta Desteği",
+          "description": "Sorularınızı <email>support@smartesim.co</email> adresine gönderin, en geç bir iş günü içinde (çoğu zaman daha erken) yanıtlayalım."
+        },
+        "liveChat": {
+          "title": "Canlı Sohbet",
+          "description": "Dakikalar içinde bir uzmana bağlanın. Hızlı sorular, aktivasyon yardımı veya seyahat sırasında bilgi almak için idealdir. Bizi <email>+38346122270</email> numarasından arayabilirsiniz."
+        }
+      }
+    },
+    "contactForm": {
+      "title": "Bize Mesaj Gönderin",
+      "description": "Sorunuz mu var, teknik desteğe mi ihtiyacınız var ya da size en uygun Smart eSIM paketini seçmekte yardım mı istiyorsunuz?",
+      "nameLabel": "Ad Soyad",
+      "emailLabel": "E-posta",
+      "subjectLabel": "Konu",
+      "messageLabel": "Mesaj",
+      "phoneLabel": "Telefon Numarası",
+      "submitButton": "Gönder",
+      "validationMessages": {
+        "name": {
+          "required": "Ad Soyad alanı zorunludur",
+          "minLength": "Ad Soyad en az 2 karakter olmalıdır",
+          "maxLength": "Ad Soyad 50 karakteri geçmemelidir"
+        },
+        "email": {
+          "required": "E-posta adresi zorunludur",
+          "invalid": "Lütfen geçerli bir e-posta adresi girin"
+        },
+        "subject": {
+          "required": "Lütfen mesajınız için bir konu belirtin",
+          "maxLength": "Konu 200 karakterden kısa olmalıdır"
+        },
+        "phone": {
+          "required": "Telefon numarası zorunludur",
+          "maxLength": "Telefon numarası çok uzun"
+        },
+        "description": {
+          "required": "Mesaj alanı boş bırakılamaz",
+          "maxLength": "Mesaj 600 karakteri geçmemelidir"
+        },
+        "recaptchaError": "Lütfen reCAPTCHA doğrulamasını tamamlayın."
+      }
+    },
+    "faqsData": {
+      "title": "Sıkça sorulan sorular",
+      "description": "En yaygın soruların hızlı yanıtlarını bulun.",
+      "faqs": {
+        "1": {
+          "title": "Smart eSIM müşteri desteğine nasıl ulaşabilirim?",
+          "body": "Ekibimize dilediğiniz zaman canlı sohbet veya e-posta yoluyla ulaşabilirsiniz. Canlı sohbet en hızlı yanıtı sağlar, e-posta talepleri ise bir iş günü içinde yanıtlanır."
+        },
+        "2": {
+          "title": "eSIM ağ veya bağlantı sorunlarını nasıl çözebilirim?",
+          "body": "Çoğu sorun, veri dolaşımını açarak, telefonu yeniden başlatarak veya farklı bir mevcut ağı seçerek çözülür. Sorun devam ederse destek ekibimize mesaj atın, birlikte çözelim."
+        },
+        "3": {
+          "title": "Smart eSIM’i nasıl aktive ederim?",
+          "body": "Paketinizi satın aldıktan sonra QR kodu tarayın veya uygulama içi kurulum seçeneğini kullanın. Cihaz ayarları → eSIM Ekle → yönlendirmeleri takip edin. Aktivasyon genellikle iki dakikadan kısa sürer."
+        },
+        "4": {
+          "title": "eSIM’im iPhone’da neden aktif olmuyor?",
+          "body": "Telefonunuzun operatör kilitsiz olduğundan, Wi-Fi’ye bağlı bulunduğundan ve eSIM desteklediğinden emin olun. QR kod kurulmazsa cihazı yeniden başlatıp tekrar deneyin. Gerekirse ekibimiz size yardımcı olur."
+        },
+        "5": {
+          "title": "Smart eSIM bana bir telefon numarası verir mi?",
+          "body": "Bazı Smart eSIM paketleri yalnızca veri içerirken, bazıları telefon numarası veya sanal numara sunar. Satın almadan önce paket detaylarını kontrol edin veya ekibimizden bilgi isteyin."
+        },
+        "6": {
+          "title": "eSIM’imin otomatik yenilenmesini nasıl durdurabilirim?",
+          "body": "Otomatik yenilemeyi Smart eSIM hesabınızdan kapatabilir veya destek ekibimizle iletişime geçebilirsiniz. Kapatıldıktan sonra paketiniz otomatik olarak yenilenmez."
+        }
+      }
+    }
+  },
+  "FAQsPage": {
+    "metaData": {
+      "title": "Smart eSIM SSS: Kurulum, Aktivasyon, Kapsama ve Destek",
+      "description": "Smart eSIM kurulumu, aktivasyon adımları, desteklenen telefonlar, güvenlik, veri kullanımı, seyahat kapsamı ve sorun giderme hakkında yanıtlar bulun.",
+      "keywords": "eSIM, eSIM satın al, seyahat eSIM, bölgesel eSIM, yerel eSIM, eSIM bilgi, eSIM destek, mobil internet"
+    },
+    "hero": {
+      "title": "Sıkça Sorulan Sorular",
+      "description": "En sık sorulan sorulara hızlı yanıtlar bulun"
+    },
+    "faqsData": {
+      "title": "En çok sorulan sorulardan bazıları",
+      "description": "En yaygın sorulara hızlı yanıtlar bulun.",
+      "faqs": {
+        "1": {
+          "title": "eSIM nedir ve nasıl çalışır?",
+          "body": "eSIM, fiziksel SIM karta ihtiyaç duymadan mobil hizmeti aktif etmenizi sağlayan dahili bir dijital SIM’dir. Mobil planı doğrudan telefonunuza indirir ve sizi anında yerel ağlara bağlar. Gezginler için havalimanlarında veya mağazalarda SIM değiştirme ihtiyacını ortadan kaldırır."
+        },
+        "2": {
+          "title": "eSIM’in dezavantajları nelerdir?",
+          "body": "eSIM’in en büyük dezavantajı uyumlu bir cihaza ve sorunsuz bir kurulum sürecine ihtiyaç duymasıdır. Fiziksel SIM gibi çıkarılamaz ve telefon değiştirirken ek bir aktarım adımı gerekir. Çoğu gezgin için bu sınırlamalar, sunduğu esnekliğe kıyasla oldukça küçüktür."
+        },
+        "3": {
+          "title": "eSIM telefon numaranızı kullanır mı?",
+          "body": "Evet, operatörünüz numara taşıma desteği sunuyorsa eSIM telefon numaranızı kullanabilir. Seyahat eSIM’leri genellikle yalnızca veri sağlar; bu nedenle WhatsApp, iMessage ve sosyal uygulamalar mevcut numaranızla çalışır. Aramalar için ana SIM’inizi, internet için eSIM’i kullanabilirsiniz."
+        },
+        "4": {
+          "title": "eSIM almak iyi bir fikir mi?",
+          "body": "Evet. eSIM; hızlı kurulum, daha iyi güvenlik ve seyahatlerde kolay kullanım sunar. Dolaşım ücretlerinden, havalimanı SIM kuyruklarından ve fiziksel kart kaybetme riskinden kaçınmanızı sağlar. Çoğu gezgin eSIM’i geleneksel SIM’lere göre daha pratik ve ekonomik bulur."
+        },
+        "5": {
+          "title": "Bir eSIM sağlayıcısıyla nasıl iletişime geçebilirim?",
+          "body": "Bir eSIM sağlayıcısıyla uygulama, yardım merkezi veya 7/24 canlı destek üzerinden iletişime geçebilirsiniz. Çoğu marka e-posta desteği ve kontrol paneli içinde adım adım sorun giderme sunar. Destek genellikle fiziksel operatörlere kıyasla daha hızlıdır."
+        },
+        "6": {
+          "title": "eSIM’i nasıl aktive ederim?",
+          "body": "eSIM’i bir QR kodu tarayarak veya uygulama içi kurulum düğmesine dokunarak aktive edersiniz. Telefonunuz Mobil/Hücresel Ayarlar’a eSIM profilini ekler ve dakikalar içinde bağlantı sağlar. Seyahatten önce veya vardığınızda aktivasyon aynı şekilde çalışır."
+        },
+        "7": {
+          "title": "eSIM size bir telefon numarası verir mi?",
+          "body": "Operatörünüzden alınan standart bir eSIM, fiziksel SIM gibi telefon numaranızı taşıyabilir. Seyahat eSIM’leri genellikle yalnızca veri sunar ve aramalar için yeni bir numara vermez. WhatsApp, FaceTime ve Messenger gibi uygulamalar mevcut numaranızı kullanmaya devam eder."
+        },
+        "8": {
+          "title": "eSIM almaya değer mi?",
+          "body": "Evet. Daha uygun fiyatlı veri, daha güvenli bağlantı ve sürpriz dolaşım ücretleri olmadan internet istiyorsanız eSIM kesinlikle değerlidir. Tek sefer kurulur, ülkeler arasında sorunsuz geçiş yapar ve SIM tepsileriyle uğraşmanıza gerek kalmaz."
+        },
+        "9": {
+          "title": "eSIM’in riskleri nelerdir?",
+          "body": "En yaygın risk, QR kodunun yanlış taranması veya erken silinmesi nedeniyle kurulum hatalarıdır. Ayrıca telefon zarar görürse eSIM fiziksel olarak çıkarılamaz. Güvenilir bir sağlayıcı kullanmak eSIM ile ilgili risklerin neredeyse tamamını ortadan kaldırır."
+        },
+        "10": {
+          "title": "eSIM pili daha mı hızlı tüketir?",
+          "body": "Hayır. eSIM, fiziksel SIM’e göre daha fazla pil tüketmez. Pil kullanımı ağ gücüne, arka plandaki uygulamalara ve konum servislerine bağlıdır. Çoğu gezgin eSIM kullanırken benzer veya daha iyi pil performansı görür."
+        },
+        "11": {
+          "title": "Smart eSIM mesajlaşmaya izin verir mi?",
+          "body": "Evet. Smart eSIM veri paketiyle WhatsApp, iMessage ve Telegram gibi uygulamalar üzerinden mesajlaşabilirsiniz. Ancak standart SMS yalnızca operatör tarafından verilen eSIM’lerde desteklenir. Seyahatlerde çoğu kullanıcı SMS yerine mesajlaşma uygulamalarını tercih eder."
+        },
+        "12": {
+          "title": "Fiziksel SIM’imi eSIM’e dönüştürebilir miyim?",
+          "body": "Evet. Birçok operatör, uygulama veya müşteri paneli üzerinden fiziksel SIM’i eSIM’e dönüştürmeye izin verir. QR kodu veya aktivasyon bağlantısı alırsınız ve numaranız eSIM profiline taşınır. İşlem genellikle iki dakikadan kısa sürer."
+        },
+        "13": {
+          "title": "eSIM mi yoksa fiziksel SIM mi daha iyidir?",
+          "body": "Seyahat, esneklik, güvenlik ve ağ değiştirme kolaylığı açısından eSIM daha iyidir. Fiziksel SIM yalnızca cihazınız eskiyse veya operatörünüz eSIM desteklemiyorsa tercih edilir. Yeni telefonların çoğu eSIM ile en iyi performansı sunar."
+        },
+        "14": {
+          "title": "eSIM sorunlara yol açabilir mi?",
+          "body": "eSIM sorunları nadirdir ve genellikle yanlış kurulum veya uyumsuz cihazlardan kaynaklanır. Çoğu problem profili yeniden yükleyerek veya telefon ayarlarını güncelleyerek çözülür. Smart eSIM gibi güvenilir sağlayıcılar sorun yaşandığında hızlıca yeniden aktivasyon sunar."
+        },
+        "15": {
+          "title": "eSIM yerel bir numara verir mi?",
+          "body": "Yerel telefon numarası yalnızca operatör paketlerinde bulunur. Seyahat eSIM’leri veri odaklıdır ve aramalar için yeni bir numara sağlamaz. Gerçek bir yerel numaraya ihtiyacınız varsa ayrı bir sesli arama paketi almanız gerekir."
+        },
+        "16": {
+          "title": "eSIM ile ABD numarası alabilir miyim?",
+          "body": "Evet, bir ABD operatör eSIM’i veya sanal numara hizmeti satın alırsanız mümkündür. ABD için seyahat eSIM’leri veri sunar ancak mobil numara vermez. Gerekirse Google Voice gibi VoIP uygulamaları ABD numarası sağlayabilir. Smart eSIM şu an veri odaklıdır, ileride sanal numara seçenekleri sunmayı planlamaktadır."
+        },
+        "17": {
+          "title": "Neden eSIM kullanmamalıyım?",
+          "body": "Cihazınız uyumlu değilse veya fiziksel SIM değiştirme ihtiyacınız varsa eSIM tercih etmeyebilirsiniz. Sık telefon değiştiren bazı kullanıcılar fiziksel SIM’i daha pratik bulur. Ancak çoğu gezgin için eSIM daha kolay ve avantajlıdır."
+        },
+        "18": {
+          "title": "eSIM ağ sorunlarını nasıl çözerim?",
+          "body": "Uçak Modu’nu açıp kapatarak, telefonu yeniden başlatarak veya ağ ayarlarını sıfırlayarak eSIM sorunlarını çözebilirsiniz. Bazen doğru ağı manuel olarak seçmek de sinyal problemlerini giderir. Smart eSIM uygulaması ayrıca yerleşik bir sorun giderme rehberi sunar."
+        },
+        "19": {
+          "title": "eSIM’i silmek hizmeti iptal eder mi?",
+          "body": "eSIM’i silmek profili telefonunuzdan kaldırır. Bazı sağlayıcılar tek seferlik kullanım politikasını uygular. Bu durumda eSIM’i sildiğinizde yeniden kullanmak için tekrar satın almanız gerekir. Smart eSIM profilini silerseniz hizmet iptal edilir ve yeniden satın almanız gerekir."
+        }
+      }
+    }
+  },
+  "EsimCompatiblePage": {
+    "metaData": {
+      "title": "eSIM Uyumlu Telefonlar | Android ve iPhone Listesi (2025)",
+      "description": "eSIM uyumlu Android ve iPhone’ların tam listesini inceleyin. En yeni modellerden daha eski (eSIM uyumlu) cihazlara kadar maksimum eSIM kapasitesiyle sunuyoruz.",
+      "keywords": "eSIM, eSIM satın al, seyahat eSIM, eSIM uyumlu telefon, iPhone eSIM, Samsung eSIM, Huawei eSIM, Motorola eSIM"
+    },
+    "hero": {
+      "heading": "eSIM Uyumlu Telefonlar",
+      "searchPlaceholder": "Uyumlu telefonları ara",
+      "description": "eSIM uyumlu cihazlar; eSIM (gömülü SIM) teknolojisini destekleyen akıllı telefonlar, tabletler, akıllı saatler ve diğer cihazlardır. Geleneksel SIM kartların aksine eSIM’ler cihaza gömülüdür ve fiziksel karta ihtiyaç duymadan dijital olarak etkinleştirilebilir. Bu sayede operatörler arasında geçiş daha kolay, güvenlik daha yüksek ve tek cihazda birden fazla profil desteği mümkündür. Apple, Samsung ve Google’ın yeni modelleri ile bazı dizüstü bilgisayarlar ve giyilebilir cihazlar eSIM uyumludur.",
+      "compatibleDevices": "eSIM Uyumlu Cihazlar",
+      "noMatch": "Cihaz bulunamadı 🙂",
+      "compatibleDevicesDescription": "Buraya cihaz adınızı yazabilir veya <FooterLink>Desteklenen Cihazlar Sayfası</FooterLink>nı kontrol edebilirsiniz",
+      "searchDevice": "Cihazınızı arayın",
+      "chooseBrand": "Bir marka seçin",
+      "congratsText": "Tebrikler! Telefonunuz uyumlu",
+      "wantToBuy": " eSIM satın almak ister misiniz:",
+      "yesBuy": "Evet, eSIM Satın Al"
+    },
+    "iPhones": {
+      "heading": " İşte eSIM Uyumlu iPhone’ların Listesi",
+      "description": "iPhone XR ve üzeri iPhone’lar eSIM destekler. iPhone XR, eSIM dünyasına adım atan ilk modeldir; ardından XS ve XS Max gelmiştir. Daha sonra iPhone 11 serisi ve 2020’de SE 2 eSIM desteği sunmuştur."
+    },
+    "iPads": {
+      "heading": "eSIM’li iPad’ler (Hücresel Modeller)",
+      "description": "“iPad’im eSIM uyumlu mu?” diye merak edebilirsiniz. İyi haber: birçok yeni model uyumludur. iPad Pro’dan iPad Air’e, hatta iPad mini’ye kadar yaşam tarzınıza uygun bir eSIM’li iPad bulmanız mümkündür."
+    },
+    "Samsung": {
+      "heading": "eSIM destekleyen Samsung telefonlar",
+      "description": "Hazır ve yerleşik özellikler her zaman işleri kolaylaştırır. Samsung telefonlardaki eSIM teknolojisi sayesinde sadece birkaç dokunuşla ağa bağlanabilirsiniz. Peki hangi Samsung telefonlar eSIM destekliyor?",
+      "descriptionTwo": "İşte eSIM teknolojisine sahip Samsung telefonların tam listesi"
+    },
+    "GooglePixel": {
+      "heading": "Google Pixel telefonlar",
+      "description": "Cebinizde bir Google Pixel varsa eSIM için büyük ihtimalle hazırsınız. Her şeyin basit olması güzel değil mi? Şimdi şu soruya bakalım: Google Pixel telefonum eSIM uyumlu mu?",
+      "descriptionTwo": "Güneydoğu Asya ülkelerindeki Pixel 3a modelleri eSIM desteklemez."
+    },
+    "Huawei": {
+      "heading": "eSIM destekleyen Huawei telefonlar",
+      "description": "Huawei telefonlar eSIM destekler mi? Tüm Huawei modelleri eSIM desteklemez; ancak bazı Huawei telefonlar eSIM uyumludur. Cihazınızın destekleyip desteklemediğini görmek için Huawei eSIM uyumlu telefonlar listesine göz atın.",
+      "noSupport": "eSIM desteklemez"
+    },
+    "Oppo": {
+      "heading": "eSIM destekleyen Oppo telefonlar",
+      "description": "Oppo telefonlar eSIM destekler mi? Hangi cihazların sizi zahmetsizce bağlantıda tuttuğunu görmek için Oppo eSIM uyumlu telefonlar listesine göz atın."
+    },
+    "Sony": {
+      "heading": "eSIM’li Sony telefonlar",
+      "description": "eSIM destekleyen bir Sony telefon bulmakta zorlanıyor musunuz? Tüm modeller eSIM uyumlu değildir. Cihazınızın destekleyip desteklemediğini görmek için Sony eSIM uyumlu telefonlar listesine bakın."
+    },
+    "Xiaomi": {
+      "heading": "eSIM destekleyen Xiaomi telefonlar",
+      "description": "Hangi Xiaomi telefonların eSIM desteklediğini görmek ve fiziksel SIM’e ihtiyaç duymadan kesintisiz dijital bağlantının keyfini çıkarmak için Xiaomi eSIM telefon listesine göz atın."
+    },
+    "Motorola": {
+      "heading": "eSIM destekleyen Motorola telefonlar",
+      "description": "Hangi Motorola telefonların eSIM desteklediğini görmek ve yolculuğunuz sizi nereye götürürse götürsün bağlantıda kalmak için Motorola eSIM uyumlu telefonlar listesini inceleyin."
+    },
+    "Honor": {
+      "heading": " eSIM destekleyen Honor telefonlar",
+      "description": "Pahalı amiral gemileri yerine eSIM uyumlu telefonlar mı arıyorsunuz? Honor, herkes için erişilebilir bazı eSIM uyumlu modeller sunuyor. Honor eSIM uyumlu telefonlar listesini inceleyin."
+    },
+    "OtherAndroid": {
+      "heading": "eSIM destekleyen diğer Android telefonlar",
+      "description": "Hangi diğer Android telefonlar eSIM destekliyor? Surface Pro tabletlerden Sharp Aquos’a, Gemini PDA’dan Rakuten ve Honor Magic’e kadar birçok cihaz eSIM uyumluluğu sunar."
+    },
+    "supportedSection": {
+      "heading": "Akıllı Telefonlar ve Giyilebilir Cihazlarda Desteklenen eSIM Sayısı",
+      "description": "Akıllı telefonların desteklediği eSIM sayısı, üreticiye ve modele göre değişir. Apple, Samsung ve Google gibi büyük markaların çoğu amiral gemisi modeli genellikle en az bir eSIM destekler. Bazı yeni modeller ise birden fazla eSIM desteği sunarak aynı cihazda farklı hat veya planların kullanılmasına olanak tanır.",
+      "descriptionTwo": "Desteklenen eSIM sayısı genellikle cihazın teknik özelliklerinde yer alır. Kolaylık sağlaması için her cihazın desteklediği eSIM sayısını burada listeledik."
+    },
+    "tableHeadings": {
+      "manufacturer": "Üretici",
+      "phoneModel": " Telefon Modeli",
+      "numberOfEsims": "eSIM Sayısı"
+    },
+    "faqsData": {
+      "title": "Sıkça sorulan sorular",
+      "description": "En sık sorulan sorulara hızlı yanıtlar bulun.",
+      "faqs": {
+        "1": {
+          "title": "Cihazımı eSIM uyumlu hale getirebilir miyim?",
+          "body": "Maalesef sihirli bir değnekle telefonunuzu eSIM uyumlu yapamazsınız. Bu, tost makinesini kahve makinesine çevirmek gibi bir şey — donanım farklıdır. eSIM uyumluluğu cihazın donanım ve yazılımına bağlıdır; eğer baştan eSIM için tasarlanmadıysa sonradan eklenemez."
+        },
+        "2": {
+          "title": "Telefonumun eSIM uyumlu olduğunu nasıl anlarım?",
+          "body": "Telefonunuzun eSIM uyumlu olup olmadığını kontrol etmek için ayarlar veya teknik özelliklere bakın. iPhone’larda Ayarlar → Genel → Hakkında bölümünde eSIM bilgilerini görebilirsiniz. Ya da model adınızı internette aratarak hızlıca kontrol edebilirsiniz."
+        },
+        "3": {
+          "title": "iPhone 12 eSIM destekliyor mu?",
+          "body": "Evet. iPhone 12 serisi hem fiziksel nanoSIM hem de eSIM destekler. Böylece biri iş, diğeri kişisel kullanım için ya da seyahatlerde iki hattı birden kullanabilirsiniz."
+        },
+        "4": {
+          "title": "eSIM, fiziksel SIM’den daha mı iyidir?",
+          "body": "“Daha iyi” güçlü bir ifade olabilir; eSIM’ler daha modern ve pratiktir. Fiziksel karta gerek kalmadan operatör veya paket değiştirmeyi hızlandırır. Özellikle gezginler için, SIM değiştirmeden yerel veri paketlerine geçmeyi sağlar. Ancak fiziksel SIM’lerde olduğu gibi eSIM’lerin de cihaz desteğine ihtiyacı vardır."
+        }
+      }
+    }
+  },
+  "SharedUI": {
+    "appInstall": {
+      "download": "50.000+ İndirme",
+      "title": "Uygulamayı Şimdi İndirin",
+      "description": "Sanal Numara ve Uluslararası Arama özelliklerini kullanmak için. eSIM’lerinizi kolayca satın alın, kurun ve yönetin."
+    },
+    "emailReceive": {
+      "title": "eSIM Profilinizi e-posta yoluyla veya Uygulama içinde alacaksınız",
+      "description": "Satın alma işlemini tamamladığınız anda Türkiye eSIM’inizi kurmanız ve aktive etmeniz için gerekli talimatları size göndeririz. Seyahatleriniz boyunca uygun fiyatlı internetin keyfini çıkarın.",
+      "shareWith": "Sizinle paylaşacağız:",
+      "installation": "QR kod ile kurulum ve Manuel kurulum talimatları"
+    },
+    "esimSteps": {
+      "title": "Smart eSIM’i Bir Dakikadan Kısa Sürede Nasıl Aktive Edersiniz?",
+      "titleWithCountry": "{country} için eSIM nasıl çalışır?",
+      "description": "Uçuş öncesinde ya da havalimanında, bagajınız gelmeden önce veri odaklı eSIM’inizi aktif etmenizi sağlayan basit 3 adımlı kurulum.",
+      "steps": {
+        "step1": {
+          "heading": "Bir Paket Seçin",
+          "description": "Gideceğiniz destinasyonu seçin ve seyahat sürenize ile kullanım ihtiyacınıza uygun veri paketini belirleyin."
+        },
+        "step2": {
+          "heading": "Tara ve Kur",
+          "description": "QR kodunuz anında gelir. Tek bir tarama ile eSIM profiliniz telefonunuza yüklenir."
+        },
+        "step3": {
+          "heading": "Bağlanın ve Güvenle Seyahat Edin",
+          "description": "Navigasyon, ulaşım, check-in işlemleri, iş görüşmeleri ve yayın izleme için stabil ve yüksek hızlı mobil internetin keyfini çıkarın."
+        }
+      }
+    },
+    "searchPackagesList": {
+      "placeholder": "Bir sonraki maceranız ne?",
+      "searchPlaceholder": "Destinasyonunuzu girin",
+      "searchDestination": "Destinasyonunuzu arayın",
+      "dataOnly": "Sadece Veri",
+      "noMatch": "Eşleşme bulunamadı — en popüler destinasyonlarımıza göz atın!",
+      "topDestinations": " Popüler Destinasyonlar"
+    },
+    "checkEsim": "eSIM Cihazını Kontrol Et",
+    "filter": "Filtrele",
+    "addToCart": "Sepete Ekle",
+    "buyNow": "Şimdi Satın Al",
+    "details": "Detaylar",
+    "days": "Gün",
+    "selectData": "Veri Seç",
+    "selectDays": "Gün Seç",
+    "resetFilter": "Filtreyi Sıfırla",
+    "orLine": "Veya devam et",
+    "unlimited": "Sınırsız",
+    "data": "Veri",
+    "globalPlaceholder": "Ülke veya ağ ara",
+    "unlimitedSms": "Sınırsız SMS",
+    "yes": "Evet",
+    "no": "Hayır",
+    "highSpeedThenUnlimited": "Günde {unthrottle_data} yüksek hızlı veri, ardından ${throttle_speed} hızında sınırsız veri. Veri limiti, ilk kullanımdan itibaren her 24 saatte bir sıfırlanır.",
+    "features": {
+      "data": "Veri",
+      "validity": "Geçerlilik",
+      "speed": "Hız Sınırı",
+      "tethering": "Paylaşım/Hotspot"
+    },
+    "widerCoverage": {
+      "title": "Daha geniş kapsama mı arıyorsunuz?",
+      "description": "Kesintisiz bağlantı için belirtilen başlangıç fiyatlarından sunulan eSIM paketlerimizi keşfedin."
+    },
+    "supportedCountries": "Desteklenen Ülkeler ve Ağlar",
+    "noSearchMatch": "Aramanızla eşleşen sonuç bulunamadı",
+    "countryHeadings": {
+      "title": {
+        "dataVoice": "Seyahat eSIM",
+        "dataOnly": "Ön Ödemeli Seyahat"
+      },
+      "headingDescription": {
+        "dataVoice": "Veri ve Arama ile {country} için",
+        "dataOnly": "{country} için eSIM"
+      },
+      "paragraph": {
+        "dataVoice": "{country} seyahatleriniz için sınırsız konuşma içeren en iyi eSIM veri paketlerini edinin. Aramalar ve gelen SMS’ler için Birleşik Krallık numarasına sahip eSIM’in keyfini çıkarın. Her yerde bağlantıda kalın.",
+        "dataOnly": "{country} seyahatleri için Smart eSIM’den en iyi eSIM’i edinin. Kesintisiz bağlantı ve uygun fiyatlı sınırsız veri paketlerinin keyfini çıkarın. Nereye giderseniz gidin bağlantıda kalın."
+      }
+    },
+    "pagesMetaComponent": {
+      "feature": {
+        "title": "Özellik",
+        "subheading": "{country} eSIM Temel Özellikleri"
+      },
+      "description": {
+        "title": "Açıklama",
+        "subheading": "Smart eSIM’in {country} eSIM’i Hakkında"
+      },
+      "technicalSpecs": {
+        "title": "Teknik Özellikler",
+        "subheading": "Sanal SIM Teknik Özelliklerimiz"
+      }
+    },
+    "navLinks": {
+      "buyEsim": "eSIM Satın Al",
+      "aboutUs": "Hakkımızda",
+      "contactInfo": "İletişim",
+      "more": "Daha Fazla",
+      "esimCompatible": "eSIM Uyumlu Telefonlar",
+      "faqs": "SSS",
+      "blog": "Blog",
+      "login": "Giriş Yap",
+      "wallet": "Cüzdan",
+      "account": "Hesap",
+      "home": "Ana Sayfa",
+      "esim": "eSIM",
+      "myEsim": "eSIM’lerim",
+      "logout": "Çıkış Yap"
+    },
+    "footerLinks": {
+      "contactInfo": "İletişim",
+      "popularDestinations": "Popüler Destinasyonlar",
+      "links": "Bağlantılar",
+      "support": "Destek",
+      "privacyPolicy": "Gizlilik Politikası",
+      "terms": "Hizmet Şartları ",
+      "refundPolicy": "İade Politikası",
+      "esimCompatible": "eSIM Uyumlu Telefonlar",
+      "faqs": "SSS",
+      "blog": "Blog",
+      "home": "Ana Sayfa",
+      "aboutUs": "Hakkımızda",
+      "buyEsim": "eSIM Satın Al",
+      "allRights": "Tüm Hakları Saklıdır"
+    }
+  },
+  "TermsPage": {
+    "metaData": {
+      "title": "Smart eSIM Şartları: Güvenli Küresel eSIM Hizmetleri, İade ve Gizlilik",
+      "description": "Smart eSIM’in güvenli ve küresel eSIM hizmetlerine ilişkin şartlarını inceleyin. Sorunsuz bir seyahat deneyimi için iade politikaları, cihaz uyumluluğu ve gizlilik bilgilerini öğrenin.",
+      "keywords": "eSIM, eSIM satın al, bölgesel eSIM, yerel eSIM, seyahat eSIM, eSIM veri paketi, mobil internet"
+    },
+    "terms": {
+      "heading": "Şartlar ve Koşullar",
+      "pageTitle": "Şartlar ve Koşullar",
+      "data": [
+        {
+          "title": "1. Genel Şartlar ve Koşulların Geçerliliği",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bu Şartlar ve Koşullar, şirketimiz tarafından ön ödemeli eSIM’lerin yeniden satışıyla bağlantılı olarak sunulan tüm hizmetler için geçerlidir. Hizmetlerimizin kullanılmasıyla birlikte bu şartlar bağlayıcı ve uygulanabilir hale gelir."
+            },
+            {
+              "type": "text",
+              "text": "Bu şartlarda yapılacak değişiklikler yalnızca yazılı olarak açıkça kabul edilmesi halinde geçerli olur."
+            }
+          ]
+        },
+        {
+          "title": "1.2. Hizmetlerin Tanımı",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hizmetlerimiz, mobil cihazlar için eSIM (elektronik SIM kart) sağlanmasını ve yönetimini kapsar. Bu sayede kullanıcılar fiziksel bir SIM karta ihtiyaç duymadan mobil şebekelere erişebilir."
+            },
+            {
+              "type": "text",
+              "text": "Sınırsız paketler, ilk kullanımdan itibaren her 24 saat içinde 1 GB sınırlamasız 5G veri sunar. 1 GB kullanıldıktan sonra, kalan 24 saat boyunca daha düşük hızlarda sınırsız veri sağlanır."
+            }
+          ],
+          "subTitles": [
+            {
+              "title": "1.2.1. eSIM Yeniden Satışı",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Farklı bölgeler ve ülkelerde kullanılabilen ön ödemeli eSIM’ler sunuyoruz. Bu eSIM’ler, müşterilere mobil veri hizmetlerine erişimde pratik ve esnek bir çözüm sağlar."
+                }
+              ]
+            },
+            {
+              "title": "1.2.2. Hizmetlerimizi Kullanmak İçin Kayıt",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Hizmetlerimizi kullanabilmek için müşterilerin ad, adres ve e-posta gibi gerekli kişisel bilgileri sağlayarak kayıt olmaları gerekir. Bu kayıt süreci, eSIM hizmetlerinin aktivasyonu ve yönetimi için zorunludur."
+                }
+              ]
+            },
+            {
+              "title": "1.2.3. Taahhütlerimiz",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Müşterilerimize yüksek kaliteli hizmet sunmak için çaba gösteriyoruz. Ancak kesintisiz veya hatasız hizmet garantisi vermiyoruz."
+                }
+              ]
+            },
+            {
+              "title": "1.2.4. Müşteri Yükümlülükleri",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Müşterilerin hizmetlerimizi sorumlu bir şekilde kullanmaları beklenir. Kötüye kullanım, yasa dışı veya dolandırıcılık faaliyetleri yasaktır ve hizmetlerin askıya alınmasına neden olabilir."
+                }
+              ]
+            },
+            {
+              "title": "1.2.5. Cihaz Uyumluluğu",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Müşteriler, cihazlarının eSIM teknolojisiyle uyumlu olduğundan emin olmakla yükümlüdür. Uyumluluk, operatöre ve cihazın menşei ülkesine göre değişiklik gösterebilir."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "2. Kayıt ve Aktivasyon",
+          "content": [],
+          "subTitles": [
+            {
+              "title": "2.1. Kayıt Gereklilikleri",
+              "content": [
+                {
+                  "type": "bold",
+                  "text": "Kişisel Bilgiler: Müşteriler ad, fatura adresi ve e-posta dahil olmak üzere doğru kişisel bilgileri sağlamalıdır."
+                },
+                {
+                  "type": "bold",
+                  "text": "Hesap Oluşturma: Müşteriler, satın alma ve eSIM kullanımını yönetmek için bir hesap oluşturur."
+                },
+                {
+                  "type": "bold",
+                  "text": "Şartların Kabulü: Kayıt sırasında Şartlar ve Koşullar kabul edilmelidir."
+                },
+                {
+                  "type": "bold",
+                  "text": "Cihaz Uyumluluğu Kontrolü: Satın alma öncesinde cihaz uyumluluğunu doğrulamak müşterinin sorumluluğundadır."
+                }
+              ]
+            },
+            {
+              "title": "2.2. Satın Alma ve Aktivasyon Süreci",
+              "content": [
+                {
+                  "type": "bold",
+                  "text": "eSIM Seçimi: Müşteriler birden fazla eSIM paketi arasından seçim yapabilir."
+                },
+                {
+                  "type": "bold",
+                  "text": "Ödeme Süreci: Ödemeler USD cinsinden Kredi/Banka Kartı, Google Pay, Apple Pay ve Alipay ile kabul edilir."
+                },
+                {
+                  "type": "bold",
+                  "text": "eSIM Teslimi: eSIM’ler e-posta ve kullanıcı hesabı üzerinden elektronik olarak teslim edilir."
+                },
+                {
+                  "type": "bold",
+                  "text": "Aktivasyon: Aktivasyon, QR kodunun taranması ve sağlanan talimatların izlenmesiyle gerçekleştirilir."
+                },
+                {
+                  "type": "bold",
+                  "text": "Destek ve Yardım: Destek ekibimiz aktivasyon sorunlarında yardımcı olur."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "3. Ödeme ve Finansal Şartlar",
+          "content": [],
+          "subTitles": [
+            {
+              "title": "3.1. Ücretler ve Ödeme",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ödemeler Kredi/Banka Kartları, PayPal, Google Pay, Apple Pay ve Alipay ile yapılabilir."
+                },
+                {
+                  "type": "text",
+                  "text": "Tüm işlemler ABD Doları (USD) üzerinden gerçekleştirilir ve Stripe gibi ödeme sağlayıcıları aracılığıyla güvence altına alınır."
+                }
+              ]
+            },
+            {
+              "title": "3.2. İadeler ve İptaller",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "eSIM’ler iade edilemez. Uyumsuz veya kilitli cihazlar için geri ödeme yapılmaz."
+                },
+                {
+                  "type": "text",
+                  "text": "Sınırsız paketlerde maksimum veri kullanımından sonra hız düşüşü yaşanabilir."
+                },
+                {
+                  "type": "text",
+                  "text": "Aylık aboneliklerin numaranın korunması için yenilenmesi gerekir."
+                },
+                {
+                  "type": "text",
+                  "text": "Sanal numaralar WhatsApp OTP kodlarını desteklemez ve iade edilemez."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "4. Hukuki ve Uyumluluk",
+          "content": [],
+          "subTitles": [
+            {
+              "title": "4.1. Uygulanacak Hukuk ve Yasal Uyumluluk",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bu şartlar, hizmet sağlayıcının kayıtlı olduğu yargı bölgesinin yasalarına tabidir."
+                }
+              ]
+            },
+            {
+              "title": "4.2. Sorumluluk ve Garanti",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Hizmetler “olduğu gibi” sunulur ve herhangi bir garanti verilmez. Sağlayıcı, dolaylı veya sonuçsal zararlardan sorumlu değildir."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "5. İletişim ve Hukuki Bilgiler",
+          "content": [
+            {
+              "type": "text",
+              "text": "Destek için e-posta yoluyla destek ekibimizle iletişime geçebilirsiniz."
+            },
+            {
+              "type": "link",
+              "text": "E-posta Desteği: support@smartesim.co",
+              "linkText": "support@smartesim.co"
+            },
+            {
+              "type": "text",
+              "text": "WhatsApp Desteği: +38346122270",
+              "linkText": "+38346122270"
+            }
+          ],
+          "subTitles": [
+            {
+              "title": "5.3. Fikri Mülkiyet Hakları",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Hizmete ilişkin tüm fikri mülkiyet hakları hizmet sağlayıcıya aittir."
+                }
+              ]
+            },
+            {
+              "title": "5.4. Gizlilik Politikası",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kişisel veriler Gizlilik Politikamıza uygun olarak işlenir."
+                }
+              ]
+            },
+            {
+              "title": "5.5. Devir",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kullanıcılar, önceden yazılı onay alınmaksızın haklarını devredemez."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "6. Ek Hükümler",
+          "content": [],
+          "subTitles": [
+            {
+              "title": "6.1. Hizmetlerin Sunulması",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Hizmetler, satın alma işleminden sonra hemen veya planlanan bir zamanda aktive edilir."
+                },
+                {
+                  "type": "text",
+                  "text": "Hizmete erişim, kullanıcı hesabındaki “eSIM’lerim” bölümü üzerinden sağlanır."
+                }
+              ]
+            },
+            {
+              "title": "6.2. Çeşitli Hükümler",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bu şartları dilediğimiz zaman değiştirme hakkını saklı tutarız."
+                },
+                {
+                  "type": "text",
+                  "text": "Herhangi bir hükmün geçersiz sayılması durumunda diğer hükümler yürürlükte kalır."
+                },
+                {
+                  "type": "text",
+                  "text": "Herhangi bir hakkın kullanılmaması, bu haktan feragat edildiği anlamına gelmez."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "RefundPolicyPage": {
+    "metaData": {
+      "title": "Smart eSIM İade Politikası: İade ve Uygunluk İçin Net Kurallar",
+      "description": "Smart eSIM iade politikası; uygunluk şartları, teknik sorunlar ve cihaz uyumluluğunu kapsar. Sorunsuz bir eSIM deneyimi için iade taleplerinizi kolayca iletin.",
+      "keywords": "eSIM, eSIM satın al, seyahat eSIM, bölgesel eSIM, yerel eSIM, eSIM iade, mobil internet"
+    },
+    "refundPolicy": {
+      "title": "İade Politikası",
+      "description": "eSIM olarak müşterilerimize sorunsuz ve keyifli bir deneyim sunmayı taahhüt ediyoruz. İade politikamız, nadir durumlarda iade talep etmeniz gerekebilecek senaryolar için netlik sağlamak amacıyla hazırlanmıştır. Aşağıda iade süreçlerimiz ve koşullarımızla ilgili ayrıntılı bilgileri bulabilirsiniz.",
+      "data": [
+        {
+          "title": "İade Uygunluğu ve Koşulları",
+          "content": [
+            {
+              "type": "bold",
+              "text": "Kapsama Sorunları: eSIM kapsama problemleri nedeniyle kurulamazsa, iade veya değişim talep edebilirsiniz."
+            },
+            {
+              "type": "bold",
+              "text": "Teknik Sorunlar: eSIM kaynaklı teknik sorunlar hızlıca çözülemezse ve veri kullanılmamışsa iade mümkündür."
+            },
+            {
+              "type": "bold",
+              "text": "Veri Paketi Geçerliliği: eSIM kurulduktan ve kullanıldıktan sonra iade yapılmaz."
+            },
+            {
+              "type": "bold",
+              "text": "Yanlışlıkla Satın Alma: eSIM kurulduktan ve kullanıldıktan sonra iade yapılmaz."
+            },
+            {
+              "type": "bold",
+              "text": "Hatalı Ücretlendirme: Ücret itirazları, ödemenin alınmasından itibaren 12 gün içinde ve hatanın nedenine dair detaylarla bildirilmelidir."
+            },
+            {
+              "type": "bold",
+              "text": "Dolandırıcılık Faaliyetleri: Kötüye kullanım, şart ihlali veya dolandırıcılık şüphesi bulunan durumlarda eSIM iade talebini reddetme hakkını saklı tutar."
+            },
+            {
+              "type": "bold",
+              "text": "Telefon Uyumluluğu: Satın almadan önce telefonunuzun eSIM uyumlu olduğundan emin olmanız gerekir. Uyumsuzluk nedeniyle iade yapılmaz."
+            },
+            {
+              "type": "bold",
+              "text": "Tek Seferlik Satın Alma: eSIM tek seferlik bir satın almadır ve iade edilemez."
+            },
+            {
+              "type": "bold",
+              "text": "Sanal Numaralar: Sanal numaralar WhatsApp ve diğer sosyal medya servislerinde çalışmaz; OTP kodları alınamadığında iade hakkı doğmaz."
+            }
+          ]
+        },
+        {
+          "title": "İade Talep Süreci",
+          "content": [
+            {
+              "type": "bold",
+              "text": "Süre: İade talepleri satın alma tarihinden itibaren 30 gün içinde yapılmalıdır."
+            },
+            {
+              "type": "bold",
+              "text": "İş Birliği: İade değerlendirmesi için sorun giderme sürecinde hızlı ve zamanında iş birliği gereklidir."
+            },
+            {
+              "type": "bold",
+              "text": "Bildirim: İade talebinizi ilgili detaylar ve gerekçelerle birlikte support@smartesim.co adresine e-posta göndererek iletin."
+            }
+          ]
+        },
+        {
+          "title": "İstisnalar ve Özel Durumlar",
+          "content": [
+            {
+              "type": "bold",
+              "text": "Yetkisiz Satın Almalar: İnceleme ve onaya tabidir."
+            },
+            {
+              "type": "bold",
+              "text": "Değişiklikler: Satın alma sonrasında herhangi bir değişiklik veya özelleştirme yapılamaz."
+            },
+            {
+              "type": "bold",
+              "text": "Ultimate Mobile Hizmetleri: Hizmet askıya alma işlemleri bildirim yapılmaksızın gerçekleşebilir ve iade kapsamına girmez."
+            },
+            {
+              "type": "bold",
+              "text": "Not: Dolandırıcılık veya spam kullanım şüphesi halinde eSIM satın alımları iptal etme hakkını saklı tutar."
+            }
+          ]
+        },
+        {
+          "title": "Ek Şartlar",
+          "content": [
+            {
+              "type": "bold",
+              "text": "Adil Kullanım Politikası: Tüm paketler ve planlar için geçerlidir."
+            },
+            {
+              "type": "bold",
+              "text": "Sorumluluk: eSIM, hizmetin kullanılamaması veya ağ kaynaklı sorunlardan sorumlu değildir."
+            },
+            {
+              "type": "bold",
+              "text": "Garanti: Kesintisiz veya sürekli ağ erişimi için herhangi bir garanti verilmez."
+            }
+          ]
+        },
+        {
+          "title": "İletişim ve Destek",
+          "content": [
+            {
+              "type": "text",
+              "text": "Herhangi bir soru veya destek için lütfen destek ekibimizle iletişime geçin "
+            },
+            {
+              "type": "link",
+              "text": "support@smartesim.co",
+              "linkText": "support@smartesim.co"
+            },
+            {
+              "type": "text",
+              "text": "Sorunsuz ve zahmetsiz bir deneyim yaşamanız için buradayız."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "PrivacyPolicyPage": {
+    "metaData": {
+      "title": "Smart eSIM Gizlilik Politikası: Kişisel Verilerinizin Korunması ve Güvenliği",
+      "description": "Smart eSIM’in verilerinizi nasıl topladığını, kullandığını ve koruduğunu öğrenin. Gizlilik hakları, çerez kullanımı ve güvenli bir çevrim içi deneyim için alınan güvenlik önlemleri hakkında bilgi edinin.",
+      "keywords": "eSIM, eSIM satın al, bölgesel eSIM, yerel eSIM, bölgesel eSIM satın al, yerel eSIM satın al, yerel eSIM satın alma, bölgesel eSIM satın alma, veri eSIM, e-SIM, eSIM paketi, eSIM mağazası, eSIM pazaryeri, gezgin, veri paketi, e-SIM satın al, uygun fiyatlı veri, bağlantı"
+    },
+    "privacyPolicy": {
+      "title": "Gizlilik Politikası",
+      "data": [
+        {
+          "title": "1. Biz Kimiz",
+          "content": [
+            {
+              "type": "text",
+              "text": "Web sitemizin adresi:"
+            },
+            {
+              "type": "link",
+              "text": " https://smartesim.co/",
+              "linkText": "https://smartesim.co/"
+            }
+          ]
+        },
+        {
+          "title": "2. Yorumlar",
+          "content": [
+            {
+              "type": "text",
+              "text": "Ziyaretçiler sitede yorum bıraktığında, spam tespitine yardımcı olmak amacıyla yorum formunda gösterilen verilerin yanı sıra ziyaretçinin IP adresini ve tarayıcı kullanıcı aracısı bilgisini toplarız."
+            },
+            {
+              "type": "text",
+              "text": "Yorumunuz onaylandıktan sonra profil resminiz, yorumunuzun bağlamında herkese açık olarak görüntülenir."
+            }
+          ]
+        },
+        {
+          "title": "3. Medya",
+          "content": [
+            {
+              "type": "text",
+              "text": "Web sitesine görsel yüklüyorsanız, konum verileri (EXIF GPS) içeren görselleri yüklemekten kaçınmalısınız."
+            },
+            {
+              "type": "text",
+              "text": "Web sitesini ziyaret edenler, sitedeki görsellerden herhangi bir konum verisini indirebilir ve çıkarabilir."
+            }
+          ]
+        },
+        {
+          "title": "4. Çerezler",
+          "content": [
+            {
+              "type": "text",
+              "text": "Sitemize bir yorum bırakırsanız, adınızı, e-posta adresinizi ve web sitenizi çerezlerde saklamayı seçebilirsiniz. Bu, tekrar yorum yaparken bilgilerinizi yeniden girmenize gerek kalmaması için sağlanır."
+            },
+            {
+              "type": "text",
+              "text": "Bu çerezler bir yıl boyunca saklanır."
+            },
+            {
+              "type": "text",
+              "text": "Giriş sayfamızı ziyaret ederseniz, tarayıcınızın çerezleri kabul edip etmediğini belirlemek için geçici bir çerez ayarlanır. Bu çerez herhangi bir kişisel veri içermez ve tarayıcınızı kapattığınızda silinir."
+            },
+            {
+              "type": "text",
+              "text": "Giriş yaptığınızda, giriş bilgilerinizi ve ekran görüntüleme tercihlerinizi kaydetmek için de çerezler ayarlanır. Giriş çerezleri iki gün, ekran seçenekleri çerezleri ise bir yıl boyunca geçerlidir."
+            },
+            {
+              "type": "text",
+              "text": "“Beni Hatırla” seçeneğini işaretlerseniz, girişiniz iki hafta boyunca aktif kalır. Çıkış yaptığınızda giriş çerezleri kaldırılır."
+            },
+            {
+              "type": "text",
+              "text": "Bir makaleyi düzenler veya yayınlarsanız, tarayıcınıza ek bir çerez kaydedilir. Bu çerez kişisel veri içermez ve bir gün sonra sona erer."
+            }
+          ]
+        },
+        {
+          "title": "5. Diğer Web Sitelerinden Gömülü İçerikler",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bu sitedeki makaleler, video, görsel veya makale gibi gömülü içerikler içerebilir."
+            },
+            {
+              "type": "text",
+              "text": "Diğer web sitelerinden gömülü içerikler, ziyaretçi o web sitesini doğrudan ziyaret etmiş gibi davranır."
+            },
+            {
+              "type": "text",
+              "text": "Bu web siteleri sizinle ilgili veri toplayabilir, çerez kullanabilir, üçüncü taraf izleme araçları entegre edebilir ve gömülü içerikle etkileşiminizi izleyebilir."
+            }
+          ]
+        },
+        {
+          "title": "6. Verilerinizi Kimlerle Paylaşıyoruz",
+          "content": [
+            {
+              "type": "text",
+              "text": "Şifre sıfırlama talebinde bulunursanız, IP adresiniz sıfırlama e-postasına dahil edilir."
+            }
+          ]
+        },
+        {
+          "title": "7. Verilerinizi Ne Kadar Süreyle Saklıyoruz",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bir yorum bırakırsanız, yorum ve ilgili meta veriler, takip eden yorumları otomatik olarak tanıyıp onaylayabilmemiz için süresiz olarak saklanır."
+            },
+            {
+              "type": "text",
+              "text": "Web sitemize kayıt olan kullanıcılar için, sağladıkları kişisel bilgileri kullanıcı profillerinde saklarız."
+            },
+            {
+              "type": "text",
+              "text": "Tüm kullanıcılar kişisel bilgilerini istedikleri zaman görüntüleyebilir, düzenleyebilir veya silebilir. Ancak kullanıcı adını değiştiremezler. Site yöneticileri de bu bilgileri görüntüleyebilir ve düzenleyebilir."
+            }
+          ]
+        },
+        {
+          "title": "8. Verileriniz Üzerindeki Haklarınız",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bu sitede bir hesabınız varsa veya yorum bıraktıysanız, hakkınızda tuttuğumuz kişisel verilerin dışa aktarılmış bir dosyasını talep edebilirsiniz."
+            },
+            {
+              "type": "text",
+              "text": "Ayrıca, idari, yasal veya güvenlik amaçlarıyla saklamamız gereken veriler hariç olmak üzere, hakkınızda tuttuğumuz kişisel verilerin silinmesini talep edebilirsiniz."
+            }
+          ]
+        },
+        {
+          "title": "9. Verileriniz Nereye Gönderilir",
+          "content": [
+            {
+              "type": "text",
+              "text": "Ziyaretçi yorumları, otomatik bir spam tespit hizmeti aracılığıyla kontrol edilebilir."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "LoginPage": {
+    "metaData": {
+      "title": "Smart eSIM: Uluslararası Seyahatleriniz İçin En İyi eSIM Paketlerini Satın Alın",
+      "description": "Uluslararası seyahatleriniz için Yerel, Bölgesel ve Küresel eSIM satın alın. Smart eSIM ile gezgin dostu fiyatlarla hızlı ve güvenilir kapsamanın keyfini çıkarın. İhtiyacınıza uygun eSIM’i hemen edinin.",
+      "keywords": "eSIM, eSIM satın al, seyahat eSIM, bölgesel eSIM, yerel eSIM, uluslararası eSIM, eSIM veri paketi, mobil internet"
+    },
+    "authImage": {
+      "rating": "14.000+ müşteri tarafından 4.9 yıldızla değerlendirildi"
+    },
+    "tabLinks": {
+      "login": "Giriş Yap",
+      "register": "Kayıt Ol"
+    },
+    "form": {
+      "signIn": "Giriş Yap",
+      "emailLabel": "E-posta",
+      "passwordLabel": "Şifre",
+      "forgotPassword": "Şifremi unuttum?",
+      "login": "Giriş Yap",
+      "enterName": "Adınızı girin",
+      "enterEmail": "E-posta adresinizi girin",
+      "enterPassword": "Şifrenizi girin",
+      "confirmPassword": "Şifrenizi onaylayın",
+      "loginSuccess": "Giriş başarıyla yapıldı!",
+      "validationMessages": {
+        "email": {
+          "invalid": "Lütfen geçerli bir e-posta adresi girin."
+        },
+        "password": {
+          "min": "Şifre zorunludur.",
+          "max": "Şifre 100 karakterden kısa olmalıdır."
+        }
+      }
+    }
+  },
+  "RegisterPage": {
+    "authImage": {
+      "rating": "14.000+ müşteri tarafından 4.9 yıldızla değerlendirildi"
+    },
+    "tabLinks": {
+      "login": "Giriş Yap",
+      "register": "Kayıt Ol"
+    },
+    "form": {
+      "signUp": "Şimdi kayıt olun",
+      "nameLabel": "Ad",
+      "emailLabel": "E-posta",
+      "passwordLabel": "Şifre",
+      "confirmPassword": "Şifreyi Onayla",
+      "otpLabel": "E-postanıza gelen OTP’yi girin",
+      "resendOtp": "OTP’yi Tekrar Gönder",
+      "forgotPassword": "Şifremi unuttum?",
+      "register": "Kayıt Ol",
+      "enterName": "Adınızı girin",
+      "enterEmail": "E-posta adresinizi girin",
+      "enterPassword": "Şifrenizi girin",
+      "confirmYourPassword": "Şifrenizi onaylayın",
+      "validationMessages": {
+        "name": {
+          "min": "Ad en az 4 karakter olmalıdır.",
+          "max": "Ad 100 karakterden kısa olmalıdır."
+        },
+        "email": {
+          "invalid": "Lütfen geçerli bir e-posta adresi girin."
+        },
+        "password": {
+          "min": "Şifre en az 8 karakter olmalıdır.",
+          "max": "Şifre 100 karakterden kısa olmalıdır."
+        },
+        "confirmPassword": {
+          "min": "Şifre Onayı en az 8 karakter olmalıdır.",
+          "max": "Şifre Onayı 100 karakterden kısa olmalıdır."
+        },
+        "otp": {
+          "min": "OTP en az 4 karakter olmalıdır.",
+          "max": "OTP en fazla 4 karakter olmalıdır."
+        },
+        "refine": {
+          "message": "Şifreler eşleşmiyor."
+        }
+      },
+      "registerSuccess": "Hesabınız başarıyla oluşturuldu. Lütfen yeni hesabınızla giriş yapın.",
+      "otpSendSuccess": "OTP e-postanıza gönderildi. Lütfen doğrulayın."
+    }
+  },
+  "ResetPasswordPage": {
+    "resetPassword": "Şifreyi Sıfırla",
+    "emailLabel": "E-posta",
+    "passwordLabel": "Şifre",
+    "confirmPassword": "Şifreyi Onayla",
+    "enterOtp": "E-postanıza gelen OTP kodunu girin",
+    "resendOtp": "OTP Kodunu Tekrar Gönder",
+    "submit": "Gönder",
+    "emailReceive": "Şifrenizi sıfırlamak için size bir OTP kodu göndereceğiz",
+    "validationMessages": {
+      "email": {
+        "invalid": "Lütfen geçerli bir e-posta adresi girin."
+      },
+      "password": {
+        "min": "Şifre en az 8 karakter uzunluğunda olmalıdır.",
+        "max": "Şifre 100 karakterden kısa olmalıdır."
+      },
+      "confirmPassword": {
+        "min": "Şifre onayı en az 8 karakter uzunluğunda olmalıdır.",
+        "max": "Şifre onayı 100 karakterden kısa olmalıdır."
+      },
+      "otp": {
+        "min": "OTP kodu en az 4 karakter uzunluğunda olmalıdır.",
+        "max": "OTP kodu en fazla 6 karakter uzunluğunda olmalıdır."
+      },
+      "refine": {
+        "message": "Şifreler eşleşmiyor."
+      }
+    }
+  },
+  "BlogPage": {
+    "metaData": {
+      "title": "eSIM Blogu: eSIM Teknolojisinde En Son Güncellemeler, İpuçları ve Bilgiler",
+      "description": "Smart eSIM blogu ile eSIM teknolojisindeki en son güncellemeleri, kullanım rehberlerini, sorun giderme ipuçlarını ve seyahat bilgilerini takip edin.",
+      "keywords": "eSIM, eSIM satın al, seyahat eSIM, bölgesel eSIM, yerel eSIM, eSIM blog, eSIM rehberi, mobil internet"
+    },
+    "hero": {
+      "download": "50.000+ İndirme",
+      "title": "Smart eSIM Blogları",
+      "description": " Dünyanın en güvenilir eSIM hizmetleriyle bağlantıda kalın.",
+      "noBlogs": "Blog Bulunamadı 🙂",
+      "allBlogs": "Tüm Bloglar",
+      "searchPlaceholder": "Bloglarda ara"
+    },
+    "paginationBtn": {
+      "previous": "Önceki",
+      "next": "Sonraki"
+    }
+  },
+  "refillPage": {
+    "validationMessages": {
+      "stripeMissing": "Stripe ödeme bağlantısı bulunamadı",
+      "stripeRedirect": "Stripe’a yönlendiriliyor...",
+      "refreshedFailed": "Cüzdan yenileme başarısız oldu",
+      "paymentFailed": "Ödeme başarısız oldu. Lütfen tekrar deneyin.",
+      "refreshedSuccess": "Cüzdan yükleme başarılı"
+    },
+    "metaData": {
+      "title": "Smart eSIM - Cüzdan Yükleme",
+      "description": "Kart veya Apple Pay ile Smart eSIM Cüzdanınızı doldurun",
+      "keywords": "eSIM, eSIM satın al, seyahat eSIM, bölgesel eSIM, yerel eSIM, eSIM cüzdan, bakiye yükleme, mobil internet"
+    },
+    "title": " Cüzdanınızı doldurun",
+    "refillForm": {
+      "placeholder": "Yüklenecek tutarı girin",
+      "paybtn": "Öde",
+      "validationMessages": {
+        "amount": {
+          "typeError": "Tutar bir sayı olmalıdır",
+          "min": "Minimum tutar 1’dir",
+          "max": "Maksimum tutar 300’dür"
+        }
+      }
+    },
+    "currentBalance": "Mevcut Bakiye",
+    "errorMessage": "Kullanıcı bilgileri alınırken bir hata oluştu!",
+    "orderHistoryTable": {
+      "sucessMessage": "Cüzdan başarıyla dolduruldu",
+      "errorMessage": "Ödeme başarısız oldu. Lütfen tekrar deneyin.",
+      "title": "İşlem Geçmişi",
+      "refreshing": "Yenileniyor...",
+      "refresh": "Yenile",
+      "id": "ID",
+      "amount": "Tutar",
+      "description": "Açıklama",
+      "time": "Zaman",
+      "nodata": "Veri bulunamadı"
+    }
+  },
+  "mySimPage": {
+    "metaData": {
+      "title": "Smart eSIM: Uluslararası Seyahatleriniz İçin En İyi eSIM Paketlerini Satın Alın",
+      "description": "Uluslararası seyahatleriniz için Yerel, Bölgesel ve Küresel eSIM satın alın. Smart eSIM ile gezgin dostu fiyatlarla hızlı ve güvenilir kapsamanın keyfini çıkarın. İhtiyacınıza uygun eSIM’i hemen edinin.",
+      "keywords": "eSIM, eSIM satın al, seyahat eSIM, bölgesel eSIM, yerel eSIM, uluslararası eSIM, eSIM veri paketi, mobil internet"
+    },
+    "title": "eSIM Detayları",
+    "mySimTab": "eSIM’lerim",
+    "pendingSimTab": "Bekleyen eSIM’ler",
+    "mysim": "eSIM’lerim",
+    "noSimFound": "eSIM Bulunamadı",
+    "noPendingSimFound": "Bekleyen eSIM Bulunamadı",
+    "failedToGetSims": "eSIM’ler alınamadı"
+  },
+  "simDetailPage": {
+    "title": " eSIM Detayları",
+    "description": "Dünyanın en güvenilir eSIM hizmetleriyle bağlantıda kalın",
+    "esimInstallation": "eSIM Kurulumu",
+    "devices": "Cihazlar",
+    "direct": "Doğrudan",
+    "qrCode": "QR Kod",
+    "manual": "Manuel",
+    "clickHere": "Kurmak için buraya tıklayın",
+    "notWorking": "eSIM çalışmıyorsa lütfen kontrol edin",
+    "apn": "APN",
+    "dataRoaming": "Veri Dolaşımı",
+    "on": "Açık",
+    "smdpAddress": "SMDP+ Adresi",
+    "inprocess": "İşlemde",
+    "activationCode": "Aktivasyon Kodu",
+    "descriptionTwo": "Bu numarayı kopyalayın ve eSIM’inizi manuel olarak kurmak için bilgileri girin. Kurulumdan önce stabil bir internet bağlantınız olduğundan emin olun",
+    "manualEntry": "Manuel Giriş",
+    "dataUsage": "Veri Kullanımı",
+    "outOf": "/",
+    "unlimitedData": "Sınırsız Veri",
+    "remainingData": "Kalan Veri",
+    "address": "Adres",
+    "number": "numara",
+    "purchaseData": "Satın Alma Tarihi",
+    "coverage": "Kapsama",
+    "status": "Durum",
+    "activationInProcess": "Paket aktivasyonu devam ediyor",
+    "coverageModal": {
+      "coverage": "Kapsamayı Gör",
+      "supportedCountries": "Desteklenen Ülkeler ve Ağlar",
+      "searchCountryNetwork": "Ülke veya ağ ara"
+    },
+    "simDetail": {
+      "simId": "SIM ID",
+      "iccid": "ICCID",
+      "status": "Durum",
+      "purchaseDateEt": "Satın Alma Tarihi (ET)",
+      "activatedBundle": "Aktif Paket",
+      "seeDetails": "Detayları Gör",
+      "activationInProcess": "Paket aktivasyonu devam ediyor..."
+    },
+    "iosInstallationInstruction": {
+      "direct": {
+        "step1": {
+          "key1": "Adım 1/2:",
+          "key2": "1. 'eSIM Yükle'ye dokunun.",
+          "key3": "2. Onay isteyen açılır pencerede 'İzin Ver'e dokunun.",
+          "key4": "3. Ekrandaki talimatları izleyerek eSIM indirme ve kurulumunu tamamlayın.",
+          "key5": "4. Yeni eSIM paketiniz için bir etiket seçin.",
+          "key6": "5. Varsayılan hat olarak 'Birincil'i seçin ve 'Devam Et'e dokunun.",
+          "key7": "6. Apple Kimliğiniz için iMessage ve FaceTime’da kullanmak istediğiniz 'Birincil'i seçin ve 'Devam Et'e dokunun.",
+          "key8": "7. Hücresel/mobil veri için yeni eSIM planınızı seçin ve 'Devam Et'e dokunun."
+        },
+        "step2": {
+          "key1": "Adım 2/2 (isteğe bağlı):",
+          "key2": "1. 'Hücresel/Mobil Veri'ye gidin, ardından cihazınıza yeni indirilen eSIM’i seçin. 'Bu Hattı Aç' seçeneğini etkinleştirin ve hücresel/mobil veri için yeni eSIM planınızı seçin.",
+          "key3": "2. 'Ağ Seçimi'ne dokunun, 'Otomatik' seçeneğini kapatın ve eSIM yanlış ağa bağlandıysa desteklenen ağı manuel olarak seçin.",
+          "key4": "3. Yeni eSIM planınız için 'Veri Dolaşımı'nı etkinleştirin."
+        }
+      },
+      "qr": {
+        "step1": {
+          "key1": "Adım 1/2:",
+          "key2": "1. Cihazınızda Ayarlar’a gidin.",
+          "key3": "2. 'Hücresel' veya 'Mobil'e dokunun.",
+          "key4": "3. 'Hücresel Plan Ekle' veya 'Mobil Veri Planı Ekle'ye dokunun.",
+          "key5": "4. Basılı QR kodunuzu veya QR kodu gösteren başka bir cihazı kullanarak eSIM QR Kodunu tarayın.",
+          "key6": "5. eSIM’iniz için bir etiket seçin veya özelleştirin.",
+          "key7": "6. Varsayılan Hat ekranında, yalnızca hücresel veri için eSIM’i seçin.",
+          "key8": "7. Yeni eSIM’inizi 'Hücresel Veri' veya 'Mobil Veri Planları' altında görmelisiniz."
+        },
+        "step2": {
+          "key1": "Adım 2/2 (isteğe bağlı):",
+          "key2": "1. 'Hücresel Planlar' altında eSIM’inizi seçin.",
+          "key3": "2. 'Bu Hattı Aç' seçeneğinin açık olduğundan emin olun.",
+          "key4": "3. 'Ağ Seçimi'ne gidin ve desteklenen ağı seçin.",
+          "key5": "4. 'Hücresel Veri Ağı'na gidin ve 'HÜCRESEL VERİ' altındaki 'APN' alanını güncelleyin. Diğer alanlar boş bırakılmalıdır.",
+          "key6": "5. 'Veri Dolaşımı'nı açın.",
+          "key7": "6. Yardıma mı ihtiyacınız var? Bizimle sohbet edin."
+        }
+      },
+      "manual": {
+        "step1": {
+          "key1": "Adım 1/2:",
+          "key2": "1. Ayarlar > Hücresel/Mobil > Hücresel/Mobil Plan Ekle’ye gidin.",
+          "key3": "2. 'Bilgileri Manuel Gir'e dokunun.",
+          "key4": "3. SM-DP+ Adresinizi ve Aktivasyon Kodunuzu girin.",
+          "key5": "4. 'Hücresel Plan Ekle'ye dokunun.",
+          "key6": "5. eSIM’i etiketleyin.",
+          "key7": "6. Arama veya mesajlar için tercih ettiğiniz varsayılan hattı seçin.",
+          "key8": "7. iMessage, FaceTime ve Apple Kimliği için tercih edilen hattı seçin.",
+          "key9": "8. Hücresel Veri için eSIM planını varsayılan hat olarak seçin ve diğer hattınızda ücret oluşmaması için 'Hücresel Veri Değişimine İzin Ver'i kapalı tutun.",
+          "key10": "9. eSIM’iniz başarıyla kuruldu, lütfen aşağı kaydırın."
+        },
+        "step2": {
+          "key1": "Adım 2/2 (isteğe bağlı):",
+          "key2": "1. 'Hücresel Planlar' altında eSIM’inizi seçin.",
+          "key3": "2. 'Bu Hattı Aç' seçeneğinin açık olduğundan emin olun.",
+          "key4": "3. 'Ağ Seçimi'ne gidin ve desteklenen ağı seçin.",
+          "key5": "4. 'Hücresel Veri Ağı'na gidin ve 'HÜCRESEL VERİ' altındaki 'APN' alanını güncelleyin. Diğer alanlar boş bırakılmalıdır.",
+          "key6": "5. 'Veri Dolaşımı'nı açın.",
+          "key7": "6. Yardıma mı ihtiyacınız var? Bizimle sohbet edin."
+        }
+      }
+    },
+    "androidInstallationInstruction": {
+      "qr": {
+        "step1": {
+          "key1": "Adım 1:",
+          "key2": "1. 'Ayarlar'a gidin, 'Ağ ve internet'e dokunun, ardından SIM bölümünün yanındaki '(+)' simgesine dokunun. Eğer yoksa, cihazınızda 'SIM’ler'e dokunun.",
+          "key3": "2. 'Bunun yerine SIM indir?'e dokunun, ardından 'İleri'ye dokunun.",
+          "key4": "3. Ağınızı doğrulamanız gerekiyorsa 'Farklı bir ağ kullan'a dokunun.",
+          "key5": "4. QR kodu tarayın, ardından 'İndir'e dokunun.",
+          "key6": "5. 'İndirme Tamamlandı' ekranını gördüğünüzde 'Ayarlar'a dokunun."
+        },
+        "step2": {
+          "key1": "Adım 2/2 (isteğe bağlı):",
+          "key2": "1. 'SIM’ler'e gidin ve cihazınıza yeni indirilen eSIM’i seçin.",
+          "key3": "2. 'SIM Kullan' seçeneğini etkinleştirin ve 'Evet'e dokunun.",
+          "key4": "3. 'Mobil veri'yi etkinleştirin.",
+          "key5": "4. 'Dolaşım'ı etkinleştirin ve 'Tamam'a dokunun.",
+          "key6": "5. 'Ağı otomatik seç' seçeneğini kapatın ve eSIM yanlış ağa bağlandıysa desteklenen ağı manuel olarak seçin.",
+          "key7": "6. 'Erişim Noktası Adları'na dokunun ve ardından '(+)'ya dokunun.",
+          "key8": "7. eSIM uygulamasında bulunan APN’yi kopyalayarak Ad ve APN alanlarına girin.",
+          "key9": "8. Ekranın sağ üst köşesindeki üç noktaya dokunun, 'Kaydet'e dokunun ve ardından kaydettiğiniz APN’yi radyo düğmesine tıklayarak seçin."
+        }
+      },
+      "manual": {
+        "step1": {
+          "key1": "Adım 01/02:",
+          "key2": "1. 'Ayarlar'a gidin, 'Ağ ve internet'e dokunun, ardından SIM bölümünün yanındaki '(+)' simgesine dokunun. Eğer yoksa, cihazınızda 'SIM’ler'e dokunun.",
+          "key3": "2. 'Bunun yerine SIM indir?'e dokunun, ardından 'İleri'ye dokunun.",
+          "key4": "3. Ağınızı doğrulamanız gerekiyorsa 'Farklı bir ağ kullan'a dokunun.",
+          "key5": "4. 'Yardıma mı ihtiyacınız var?'a dokunun, ardından 'Manuel gir'e dokunun.",
+          "key6": "5. eSIM uygulamasında bulunan Kodu kopyalayarak girin, 'Devam Et'e dokunun ve ardından 'İndir'e dokunun.",
+          "key7": "6. 'İndirme Tamamlandı' ekranını gördüğünüzde 'Ayarlar'a dokunun."
+        },
+        "step2": {
+          "key1": "Adım 2/2 (isteğe bağlı):",
+          "key2": "1. 'SIM’ler'e gidin ve cihazınıza yeni indirilen eSIM’i seçin.",
+          "key3": "2. 'SIM Kullan' seçeneğini etkinleştirin ve 'Evet'e dokunun.",
+          "key4": "3. 'Mobil veri'yi etkinleştirin.",
+          "key5": "4. 'Dolaşım'ı etkinleştirin ve 'Tamam'a dokunun.",
+          "key6": "5. 'Ağı otomatik seç' seçeneğini kapatın ve eSIM yanlış ağa bağlandıysa desteklenen ağı manuel olarak seçin.",
+          "key7": "6. 'Erişim Noktası Adları'na dokunun ve ardından '(+)'ya dokunun.",
+          "key8": "7. eSIM uygulamasında bulunan APN’yi kopyalayarak Ad ve APN alanlarına girin.",
+          "key9": "8. Ekranın sağ üst köşesindeki üç noktaya dokunun, 'Kaydet'e dokunun ve ardından kaydettiğiniz APN’yi radyo düğmesine tıklayarak seçin."
+        }
+      }
+    },
+    "activatedPackages": {
+      "title": "Aktif Paketler",
+      "package": "Paket",
+      "activated": "Aktif",
+      "expiry": "Bitiş Tarihi"
+    },
+    "completedPackages": {
+      "pastPackages": "Geçmiş Paketler",
+      "package": "Paket",
+      "activated": "Aktif Edildi",
+      "expiry": "Bitiş Tarihi"
+    },
+    "assignedPackages": {
+      "notActivated": "Aktifleştirilmemiş Paketler",
+      "package": "Paket",
+      "quantity": "Adet"
+    },
+    "revokedPackages": {
+      "revoked": "İptal Edilen Paketler",
+      "package": "Paket",
+      "revokedAt": "İptal Tarihi"
+    },
+    "qrCodeMessages": {
+      "notFound": "QR Kod bulunamadı.",
+      "failedCanvas": "Canvas bağlamı alınamadı.",
+      "FailedLoad": "QR Kod yüklenemedi.",
+      "notSupported": "Desteklenmiyor",
+      "shareTitle": "QR Kod",
+      "shareText": "İşte QR kodu.",
+      "fallbackDownload": "Paylaşım desteklenmiyor. Bunun yerine QR Kod indirildi."
+    }
+  },
+  "cartPage": {
+    "purchasePackagesMessages": {
+      "redirectingToStripe": "Stripe’a yönlendiriliyor...",
+      "orderProcessed": "Siparişiniz başarıyla işlendi!",
+      "alreadyRegistered": "E-posta adresiniz zaten kayıtlı. Lütfen giriş yapın."
+    },
+    "emptyCart": "Sepetiniz boş",
+    "reviewCart": "Sepetinizi İnceleyin",
+    "checkout": "Ödeme",
+    "continueShopping": "Alışverişe Devam Et",
+    "exploreText": " Henüz sepete eSIM paketi eklemediniz. Bağlantıda kalmak için planlarımızı keşfetmeye başlayın!",
+    "browseText": " eSIM Paketlerimizi İnceleyin",
+    "unlimitedDataFor": "Sınırsız Veri:",
+    "esimDataFor": "eSIM Verisi:",
+    "Duration": "Süre",
+    "Data": "Veri",
+    "Unlimited": "Sınırsız",
+    "checkoutProcessBar": {
+      "shoppingCart": "Alışveriş Sepeti",
+      "checkout": "Ödeme Detayları",
+      "orderComplete": "Sipariş Tamamlandı",
+      "two": "2",
+      "three": "3"
+    },
+    "currentBalance": "Mevcut Bakiye",
+    "payAsGuest": {
+      "loginSuccess": "Giriş başarılı!",
+      "signLogin": "Kayıt Ol / Giriş Yap",
+      "loginAsGuest": "Misafir Olarak Giriş Yap",
+      "loginAsUser": "Kullanıcı Olarak Giriş Yap",
+      "description": "Kayıt olduğunuzda ilk siparişinizde %15 Nakit İade kazanın.",
+      "descriptionTwo": " eSIM’iniz e-posta adresinize gönderilecektir. Size yalnızca hizmet kalitesiyle ilgili önemli e-postalar göndereceğimizi taahhüt ederiz.",
+      "fullName": "Ad Soyad",
+      "email": "E-posta",
+      "password": "Şifre",
+      "hidePassword": "Şifreyi Gizle",
+      "showPassword": "Şifreyi Göster",
+      "forgetPassword": "Şifremi Unuttum?",
+      "login": "Giriş Yap",
+      "continueAsGuest": "Misafir Olarak Devam Et",
+      "clickToContinueAsGuest": "'Misafir Olarak Devam Et'e tıklayarak",
+      "termsOfUse": "Kullanım Şartları",
+      "privacyPolicy": "Gizlilik Politikası",
+      "and": "ve",
+      "stripeText": " kabul etmiş olursunuz ve güvenli ödeme için Stripe’a yönlendirilirsiniz.",
+      "validationMessages": {
+        "name": {
+          "minLength": "Ad en az 2 karakter olmalıdır."
+        },
+        "email": {
+          "invalid": "Lütfen geçerli bir e-posta adresi girin."
+        },
+        "password": {
+          "required": "Şifre gereklidir.",
+          "maxLength": "Şifre 100 karakterden kısa olmalıdır."
+        }
+      }
+    },
+    "checkoutDetails": {
+      "orderSummary": "Sipariş Özeti",
+      "pricing": "Fiyatlandırma",
+      "payFromWallet": "Cüzdandan Öde",
+      "toPayOnCheckout": "Ödemede Ödenecek Tutar",
+      "gurantedText": "Güvenli ve emniyetli ödeme garantisi",
+      "checkout": "Ödeme",
+      "summary": "Özet",
+      "subTotal": "Ara Toplam",
+      "total": "Toplam",
+      "cartSummary": "Sipariş Özeti",
+      "discountCode": "İndirim kodunuz mu var?",
+      "promoCode": "Promosyon Kodu",
+      "apply": "Uygula"
+    },
+    "cartItemList": {
+      "product": "Ürün",
+      "price": "Fiyat",
+      "quantity": "Adet"
+    },
+    "checkoutBtn": {
+      "purchaseNow": "Şimdi Satın Al",
+      "secureCheckout": "Güvenli Ödemeye Git"
+    },
+    "checkoutTermsConditionMessage": {
+      "byClicking": "Tıklayarak",
+      "purchaseNow": "Şimdi Satın Al",
+      "secureCheckout": "Güvenli Ödemeye Git",
+      "youAgree": "ile",
+      "termsOfUse": "Kullanım Şartları",
+      "and": "ve",
+      "privacyPolicy": "Gizlilik Politikası",
+      "redirectedStripe": " kabul etmiş olursunuz ve güvenli ödeme için Stripe’a yönlendirilirsiniz."
+    },
+    "errorMessage": "Kullanıcı bilgileri alınırken bir hata oluştu!",
+    "orderHistoryTable": {
+      "sucessMessage": "Cüzdan başarıyla dolduruldu",
+      "errorMessage": "Ödeme başarısız oldu. Lütfen tekrar deneyin.",
+      "title": "İşlem Geçmişi",
+      "refreshing": "Yenileniyor...",
+      "refresh": "Yenile",
+      "id": "ID",
+      "amount": "Tutar",
+      "description": "Açıklama",
+      "time": "Zaman",
+      "nodata": "Veri bulunamadı"
+    },
+    "applyPromoCode": {
+      "validationMessages": {
+        "promo_code": {
+          "required": "Lütfen bir promosyon kodu girin",
+          "minLength": "Promosyon kodu en az 3 karakter olmalıdır",
+          "maxLength": "Promosyon kodu en fazla 30 karakter olabilir",
+          "pattern": "Promosyon kodu yalnızca harf, rakam, tire ve alt çizgi içerebilir",
+          "alreadyApplied": "Bir kupon kodu zaten uygulanmış"
+        }
+      }
+    },
+    "addToCartMessages": {
+      "noSelectedPackage": "Lütfen önce bir paket seçin.",
+      "cartFull": "Sepetinize en fazla 5 eSIM paketi ekleyebilirsiniz."
+    }
+  },
+  "NotFoundPage": {
+    "title": "Oops! Sayfa Bulunamadı",
+    "description": " Görünüşe göre aradığınız sayfa artık mevcut değil — ya da belki hiç var olmadı. Endişelenmeyin, bağlantıda kalmanız için buradayız. Hadi sizi yeniden doğru yola yönlendirelim!",
+    "popularLinks": "Aradığınız Popüler Sayfalar:",
+    "links": {
+      "esims": "Tüm eSIM Destinasyonlarını Keşfedin",
+      "blog": "Blogumuzu Ziyaret Edin",
+      "contact": "Bizimle İletişime Geçin",
+      "faqs": "SSS",
+      "home": "Ana Sayfaya Dön"
+    }
+  },
+  "ErrorPage": {
+    "title": "Bir Şeyler Yanlış Gitti",
+    "description": "Şu anda tarafımızda geçici teknik sorunlar yaşıyoruz. Ancak endişelenmeyin — sorunu çözmek için zaten çalışıyoruz.",
+    "description2": "Lütfen birkaç dakika sonra tekrar deneyin.",
+    "popularLinks": "🚀 Bu Sırada Şunları Yapabilirsiniz:",
+    "links": {
+      "esims": "Tüm eSIM Destinasyonlarını Keşfedin",
+      "blog": "Blogumuzu Ziyaret Edin",
+      "contact": "Bizimle İletişime Geçin",
+      "faqs": "SSS",
+      "home": "Ana Sayfaya Dön"
+    }
+  },
+  "ThankYouPage": {
+    "success": {
+      "title": " Teşekkürler!",
+      "text": " eSIM’iniz başarıyla satın alındı"
+    },
+    "failed": {
+      "title": "Ödemeniz işlenemedi.",
+      "text": " Lütfen tekrar deneyin",
+      "paymentFailed": "Ödeme işlemi başarısız oldu."
+    }
+  }
+}

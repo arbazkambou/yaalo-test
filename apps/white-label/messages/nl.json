@@ -1,0 +1,2309 @@
+{
+  "HomePage": {
+    "metaData": {
+      "title": "Beste prepaid Yaalo eSIM kopen voor internationaal reizen",
+      "description": "Koop de beste Yaalo eSIM voor internationaal reizen op iPhone, iPad en Android. Betaalbare databundels, directe activatie en overal direct online.",
+      "keywords": "eSIM Nederland, eSIM kopen, internationale eSIM, prepaid eSIM, eSIM databundel, reis eSIM, lokale eSIM, eSIM voor reizen, mobiele data buitenland"
+    },
+    "hero": {
+      "title": "<brand>Yaalo <product>eSIM</product></brand> Reis de wereld rond, niet de kosten",
+      "subtitle": "Reizen wordt eenvoudiger. Met Yaalo eSIM land je, verbind je direct en krijg je instant 5G-data in 200+ bestemmingen tegen lokale tarieven.",
+      "tagTitle": "Digitale vrijheid met 3-stappen activatie",
+      "downloadApp": "Download de app nu"
+    },
+    "esimFeatures": {
+      "features": {
+        "Local": {
+          "title": "Lokale tarieven",
+          "description": "Databundels afgestemd op de manier waarop reizigers echt internet gebruiken, zonder dure roamingkosten."
+        },
+        "Plug": {
+          "title": "Activeer & ga online",
+          "description": "Naadloze eSIM-connectiviteit die met je meereist, zonder gedoe."
+        },
+        "Buy": {
+          "title": "Online kopen",
+          "description": "Van Parijs tot Praag en Porto, blijf verbonden zonder van SIM te wisselen."
+        },
+        "Support": {
+          "title": "Support die altijd klaarstaat",
+          "description": "Hulp nodig om 02:00 uur ’s nachts? Wij zijn er."
+        }
+      }
+    },
+    "startingPrice": {
+      "title": "Kies jouw reisroute",
+      "subtitle": "Vind Yaalo eSIM-bundels die passen bij jouw bestemming",
+      "tabs": {
+        "local": "Lokaal",
+        "regional": "Regionaal",
+        "global": "Wereldwijd"
+      },
+      "allDestinations": "Zoek jouw bestemming",
+      "startsAt": "Vanaf €3,99",
+      "globalPackage": "Wereldwijde bundels",
+      "noOfCountries": "149 landen ondersteund",
+      "startsPrice": "Vanaf"
+    },
+    "esimCompatible": {
+      "title": "Is jouw telefoon eSIM-geschikt?",
+      "description": "Controleer het binnen enkele seconden. Vul merk en model in om te zien of je toestel werkt. De meeste moderne smartphones ondersteunen eSIM.",
+      "compatibleBtn": "Alle eSIM-geschikte telefoons",
+      "checkCompatibility": "Controleer eSIM-compatibiliteit hier:"
+    },
+    "whyEsim": {
+      "title": "Waarom kiezen reizigers in Nederland voor Yaalo?",
+      "description": "Door geen roamingkosten en internationale eSIM-dekking in 200+ bestemmingen is Yaalo een slimme keuze voor moderne reizigers.",
+      "cards": {
+        "1": {
+          "title": "Licht reizen, altijd verbonden",
+          "body": "Geen formulieren of documentverificatie. Volledig digitaal met eenvoudige 3-stappen activatie. Je ontvangt de QR-code direct per e-mail."
+        },
+        "2": {
+          "title": "Jouw datapasje voor de wereld",
+          "body": "Direct internet in 200+ landen met lokale, regionale en wereldwijde eSIM-bundels. Activeer al thuis of zodra je landt op de luchthaven."
+        },
+        "3": {
+          "title": "Betaalbaar en transparant",
+          "body": "Geen onverwachte kosten of verborgen toeslagen. Betaal alleen voor wat je gebruikt, tegen eerlijke lokale tarieven."
+        },
+        "4": {
+          "title": "Hotspot & tethering",
+          "body": "Gebruik je data zoals je wilt. Deel je verbinding met laptop of andere apparaten zonder beperkingen of snelheidsverlaging."
+        },
+        "5": {
+          "title": "Duurzaam & digitaal",
+          "body": "Geen plastic SIM-kaarten meer. Yaalo helpt je milieubewust te reizen met een volledig digitale oplossing."
+        },
+        "6": {
+          "title": "De Yaalo App (iOS & Android)",
+          "body": "Beheer je verbruik, laad data op en wissel bundels eenvoudig. Alles overzichtelijk in één app, beschikbaar in de App Store en Google Play."
+        }
+      },
+      "showPlansBtn": "Bekijk eSIM-bundels"
+    },
+    "faqsData": {
+      "title": "Nog vragen? Deze FAQ’s helpen je verder",
+      "description": "Snelle antwoorden op veelgestelde vragen over eSIM en reizen.",
+      "faqs": {
+        "1": {
+          "title": "Is eSIM handig voor reizen?",
+          "body": "Ja. Yaalo eSIM is speciaal ontwikkeld voor reizigers. Met dekking in 200+ bestemmingen en zonder roamingkosten blijf je overal moeiteloos online."
+        },
+        "2": {
+          "title": "Welke eSIM is het beste voor reizen?",
+          "body": "Iedere reiziger heeft andere databestanden. Yaalo biedt vaste en onbeperkte databundels, inclusief data-only en Data+Voice+SMS opties."
+        },
+        "3": {
+          "title": "Kan ik mijn eSIM vooraf installeren?",
+          "body": "Ja, je kunt de Yaalo eSIM vooraf installeren. De bundel start pas zodra je op locatie bent en data gebruikt."
+        },
+        "4": {
+          "title": "Werkt eSIM in elk land?",
+          "body": "In de meeste gevallen wel. Yaalo ondersteunt 200+ landen en regio’s. Controleer altijd de dekking van je gekozen bundel."
+        },
+        "5": {
+          "title": "Welke apparaten ondersteunen eSIM?",
+          "body": "De meeste recente toestellen van Apple, Samsung en Google ondersteunen eSIM. Controleer eenvoudig of jouw toestel geschikt is."
+        },
+        "6": {
+          "title": "Hoe weet ik of mijn eSIM actief is?",
+          "body": "Zodra je verbinding maakt met het Yaalo-netwerk en internet werkt, is je eSIM actief. Je ziet dit ook terug in de app."
+        },
+        "7": {
+          "title": "Wat als de eSIM niet werkt?",
+          "body": "Neem contact op met onze support. We helpen je direct of bieden een passende oplossing, inclusief restitutie indien nodig."
+        },
+        "8": {
+          "title": "Kan ik data opwaarderen?",
+          "body": "Ja, je kunt eenvoudig data of geldigheid verlengen via de Yaalo app. Opwaarderen gaat direct in."
+        },
+        "9": {
+          "title": "Is Yaalo eSIM veilig?",
+          "body": "Zeker. We gebruiken veilige profieldownloads en versleuteling volgens industriestandaarden om je data te beschermen."
+        }
+      }
+    },
+    "Reviews": {
+      "title": "Ervaringen van reizigers – Ze gebruiken Yaalo keer op keer",
+      "noReviews": "Nog geen beoordelingen beschikbaar.",
+      "reviews": {
+        "1": "Binnen 30 seconden actief op Schiphol zonder papierwerk of hoge kosten. Ideaal voor reizen.",
+        "2": "Gebruikt van Rome tot Berlijn. Altijd bereik en makkelijk opwaarderen via de app.",
+        "3": "Veel goedkoper dan roaming. Support reageerde binnen één minuut.",
+        "4": "Gedownload in het vliegtuig. Direct online na het uitschakelen van de vliegtuigmodus.",
+        "5": "Door meerdere landen gereisd zonder instellingen aan te passen. Super soepel.",
+        "6": "Binnen minuten geïnstalleerd en overal verbonden. Reizen voelde meteen relaxter."
+      }
+    }
+  },
+  "SlugPage": {
+    "getCardsData": {
+      "title": "Welke voordelen biedt Yaalo voor de <br></br> {countryName} reis-eSIM?",
+      "cards": {
+        "1": {
+          "title": "Binnen enkele minuten online",
+          "body": "Sla wachtrijen voor simkaarten en papierwerk over. Met Yaalo eSIM ben je binnen enkele minuten verbonden in {countryName}. Scan je QR-code, activeer je bundel en ga direct online. Geen fysieke sim, geen gedoe!"
+        },
+        "2": {
+          "title": "Direct per e-mail ontvangen",
+          "body": "Geen wachten en geen verzendvertraging. Zodra je een bundel koopt, ontvang je je eSIM-QR-code direct via e-mail, zodat je alles kunt instellen voordat je in {countryName} aankomt. Yaalo is gemaakt voor reizigers én locals."
+        },
+        "3": {
+          "title": "Voor reizigers én locals",
+          "body": "Of je {countryName} bezoekt voor een korte trip of langer blijft voor werk: Yaalo eSIM houdt je online met snelle data, zonder roamingkosten of onverwachte toeslagen. Reizigersvriendelijk, betaalbaar en ideaal voor dagelijks gebruik."
+        },
+        "4": {
+          "title": "Houd je hoofdnummer actief",
+          "body": "Blijf bereikbaar op je hoofd-sim terwijl je Yaalo eSIM gebruikt voor data in ${countryName}. eSIM-geschikte toestellen met Dual SIM laten je eenvoudig schakelen tussen persoonlijke oproepen en lokale data, zonder iets te missen."
+        },
+        "5": {
+          "title": "Flexibele bundels die passen",
+          "body": "Van korte databundels tot opties voor langere verblijven: Yaalo biedt flexibele plannen voor elke reiziger. Transparante prijzen, geen verborgen kosten. Precies de data die je nodig hebt, wanneer je die nodig hebt."
+        },
+        "6": {
+          "title": "24/7 support van experts",
+          "body": "Hulp nodig? Yaalo’s supportteam staat 24/7 voor je klaar. Krijg snel antwoord via chat, e-mail of WhatsApp van echte mensen die met je meedenken."
+        }
+      }
+    },
+    "faqsData": {
+      "title": "Veelgestelde vragen{countryName, select, undefined {} other { over {countryName} eSIM}}",
+      "description": "Vind snel antwoord op veelgestelde vragen.",
+      "faqs": {
+        "1": {
+          "title": "Welke eSIM-databundel kies ik voor {countryName}?",
+          "body": "Dat hangt af van hoelang je blijft en hoe je data gebruikt. Yaalo biedt flexibele eSIM-bundels voor {countryName}: van korte databundels voor reizigers tot langere geldigheid voor remote workers of digitale nomaden. Vergelijk de bundelgroottes op de landpagina vóór je afrekent en kies wat het beste past bij jouw reis."
+        },
+        "2": {
+          "title": "Hoe koop ik een eSIM in {countryName}?",
+          "body": "Kopen is eenvoudig en 100% online. Ga naar Yaalo’s eSIM-pagina voor {countryName}, kies je bundel en rond de betaling af. Je ontvangt direct een QR-code via e-mail die je kunt scannen om je eSIM binnen enkele minuten te installeren. Geen ID, geen verzending, geen wachttijd."
+        },
+        "3": {
+          "title": "Hoe activeer ik mijn Yaalo eSIM?",
+          "body": "Na aankoop krijg je een e-mail met je eSIM-QR-code en installatie-instructies. Open je telefooninstellingen, scan de QR en volg de stappen. Na installatie activeert je bundel automatisch zodra je verbinding maakt met een lokaal netwerk in {countryName}."
+        },
+        "4": {
+          "title": "Hoe gebruik ik mijn Yaalo eSIM in {countryName}?",
+          "body": "Na activatie gebruik je Yaalo eSIM net als een normaal mobiel abonnement. Surf op internet, gebruik kaarten, bel via internet of stream je favoriete apps. Je eSIM maakt automatisch verbinding met de beste beschikbare lokale provider voor een soepele ervaring met hoge snelheid."
+        },
+        "5": {
+          "title": "Wanneer begint mijn databundel te tellen?",
+          "body": "Je bundel start pas wanneer je eSIM verbinding maakt met een mobiel netwerk in {countryName}. Daardoor kun je vooraf kopen en installeren zonder dat je geldigheidsdagen verliest. Ideaal als je graag alles regelt vóór vertrek."
+        },
+        "6": {
+          "title": "Kan ik mijn Yaalo eSIM-bundel opwaarderen of verlengen?",
+          "body": "Ja. Als je meer data of extra tijd nodig hebt, log je in op je Yaalo app-dashboard of gebruik je de link in je bevestigingsmail om data toe te voegen. Opwaarderen gaat direct en je blijft verbonden zonder opnieuw te installeren."
+        },
+        "7": {
+          "title": "Kan ik een refund aanvragen als ik mijn Yaalo eSIM niet gebruik?",
+          "body": "Als je eSIM nog niet is geactiveerd of gedownload, kun je volgens Yaalo’s fair-use beleid een refund aanvragen. Zodra de eSIM is geactiveerd of gescand, zijn bundels niet restitueerbaar omdat netwerkcapaciteit direct wordt gereserveerd. Ons supportteam helpt je natuurlijk graag bij eventuele installatieproblemen."
+        },
+        "8": {
+          "title": "Wat is Yaalo’s fair usage policy voor onbeperkte databundels?",
+          "body": "Onbeperkte databundels zijn bedoeld voor eerlijk, persoonlijk gebruik. Om stabiele snelheden voor iedereen te waarborgen, kan extreem hoog of niet-typisch gebruik na een bepaalde drempel onderhevig zijn aan redelijke snelheidsoptimalisatie, net zoals bij lokale providers."
+        },
+        "9": {
+          "title": "Kan ik mijn fysieke sim en Yaalo eSIM tegelijk gebruiken?",
+          "body": "Ja, de meeste moderne smartphones ondersteunen Dual SIM. Je kunt je primaire sim actief houden voor bellen of berichten en Yaalo eSIM gebruiken voor snelle lokale data in {countryName}."
+        },
+        "10": {
+          "title": "Kan ik Yaalo eSIM-data delen via Hotspot of Tethering?",
+          "body": "In de meeste ondersteunde toestellen wel. Je kunt de hotspot van je telefoon inschakelen om data te delen met je laptop, tablet of reisgenoten."
+        }
+      }
+    }
+  },
+  "GlobalPage": {
+    "metaData": {
+      "title": "Internationale eSIM voor reizigers | Prepaid databundels",
+      "description": "Blijf wereldwijd verbonden met Yaalo Global eSIM-databundels. Ideaal voor reizigers die in meerdere landen online willen blijven zonder roamingkosten.",
+      "keywords": "wereldwijde eSIM, eSIM kopen, internationale eSIM, prepaid eSIM, eSIM databundel, reis eSIM, goedkope eSIM data, mobiele data buitenland, eSIM voor reizigers"
+    },
+    "global": "Wereldwijd",
+    "hero": {
+      "heading": "Reis de wereld rond met Yaalo’s wereldwijde internationale eSIM",
+      "description": "De beste eSIM voor reizigers die alle connectiviteitsproblemen tijdens een wereldreis willen vermijden"
+    },
+    "tabs": {
+      "local": "Lokaal",
+      "regional": "Regionaal",
+      "global": "Wereldwijd"
+    },
+    "globalFeatureData": {
+      "title": "Voordelen & functies van Yaalo Global eSIM",
+      "cards": {
+        "1": {
+          "title": "Veilige verbindingen waarop je kunt vertrouwen",
+          "body": "Blijf overal verbonden zonder je data in gevaar te brengen. Yaalo Global eSIM gebruikt geavanceerde versleuteling en betrouwbare netwerkpartners voor veilige en privé connectiviteit over meerdere continenten."
+        },
+        "2": {
+          "title": "Snelle & eenvoudige installatie",
+          "body": "Geen gedoe meer met fysieke simkaarten. Met Yaalo reis-eSIM ben je binnen enkele minuten online. Je wereldwijde eSIM is actief nog vóór je tweede slok koffie. Tijd, gemak en betrouwbaarheid staan centraal."
+        },
+        "3": {
+          "title": "Supersnel internet wereldwijd",
+          "body": "Ervaar naadloze internettoegang tijdens je wereldreis. Yaalo werkt samen met topnetwerken in 200+ landen voor snelle data en stabiele roaming. Stream, navigeer en blijf verbonden zonder onderbrekingen."
+        },
+        "4": {
+          "title": "Flexibele databundels voor elke reiziger",
+          "body": "Digitale nomade, zakenreiziger of backpacker: Yaalo biedt flexibele eSIM-databundels die passen bij jouw reisstijl. Kies uit dagelijkse, wekelijkse of maandelijkse wereldwijde bundels en beheer alles via de Yaalo-app."
+        },
+        "5": {
+          "title": "Directe activatie",
+          "body": "Yaalo eSIM voor internationaal reizen wordt direct geactiveerd. Kopen, QR-code scannen en online gaan. Perfect voor spontane trips, overstappen en last-minute reizen."
+        },
+        "6": {
+          "title": "Privacybescherming",
+          "body": "Bescherm je persoonlijke gegevens tijdens het reizen. Yaalo Global eSIM vereist geen fysieke registratie bij lokale providers, wat het risico op simfraude of identiteitsmisbruik verlaagt. Jij houdt controle over je data, altijd veilig en privé."
+        }
+      }
+    },
+    "faqsData": {
+      "title": "Veelgestelde vragen",
+      "description": "Vind snel antwoord op veelgestelde vragen.",
+      "faqs": {
+        "1": {
+          "title": "Wat is een wereldwijde eSIM?",
+          "body": "Een enkele eSIM waarmee je wereldwijd verbonden blijft zonder van simkaart te wisselen of nieuwe eSIM’s te kopen. Met een Yaalo Global eSIM verbind je automatisch met lokale netwerken in elk land waar je aankomt. Zet de vliegtuigmodus uit en je bent direct online."
+        },
+        "2": {
+          "title": "Welke eSIM-bundel past het beste bij mijn reis?",
+          "body": "Kies een bundel op basis van je gebruik. Voor licht gebruik (kaarten, e-mail) is 1 tot 3 GB voldoende. Voor streamen, videobellen of remote werken zijn 10 tot 20+ GB of langere geldigheid beter. Twijfel je? Start met een middenbundel en waardeer later eenvoudig op via de app."
+        },
+        "3": {
+          "title": "Is Yaalo Global eSIM beter dan lokale simkaarten?",
+          "body": "Ja. Yaalo Global eSIM bespaart je het wisselen van simkaarten en het zoeken naar lokale winkels. Het werkt in 200+ landen, activeert direct en voorkomt roamingkosten. Voor korte of meerlandenreizen is het sneller, eenvoudiger en betrouwbaarder."
+        },
+        "4": {
+          "title": "Hoe activeer ik mijn Yaalo eSIM?",
+          "body": "Na aankoop ontvang je een QR-code en een duidelijke activatiehandleiding via e-mail en in de app. Ga naar Instellingen > Mobiel netwerk > Voeg mobiel abonnement toe en scan de QR-code. Activatie duurt meestal slechts enkele seconden."
+        },
+        "5": {
+          "title": "Wanneer start mijn databundel en hoe lang is deze geldig?",
+          "body": "Je bundel start zodra de eSIM actief wordt op je telefoon, niet bij aankoop. De geldigheid hangt af van de gekozen bundel (bijvoorbeeld 7, 15 of 30 dagen). Exacte start- en eindtijden zie je in de Yaalo-app."
+        },
+        "6": {
+          "title": "Wat kost een Yaalo Global eSIM?",
+          "body": "Afhankelijk van je gebruik biedt Yaalo wereldwijde eSIM-bundels vanaf ongeveer €4,49. Er zijn vaste, onbeperkte en data+voice+sms opties beschikbaar. Controleer altijd de bundeldetails vóór aankoop."
+        },
+        "7": {
+          "title": "Kan ik mijn fysieke sim en Yaalo Global eSIM tegelijk gebruiken?",
+          "body": "Ja. Als je toestel Dual SIM ondersteunt (fysiek + eSIM), kun je je thuisnummer actief houden voor bellen en Yaalo gebruiken voor data. Controleer de dual-siminstellingen van je telefoon."
+        },
+        "8": {
+          "title": "Kan ik hotspot of tethering gebruiken met Yaalo eSIM?",
+          "body": "Ja, je kunt je verbinding delen via hotspot of tethering. Voor meerdere apparaten of intensief gebruik is het aan te raden een geschikte wereldwijde databundel te kiezen."
+        },
+        "9": {
+          "title": "Werkt mijn eSIM bij reizen tussen meerdere landen?",
+          "body": "Ja. Met een wereldwijde eSIM-bundel kun je meerdere landen bezoeken met één plan. Kies een Global eSIM die past bij je gebruik en blijf naadloos verbonden in elk land waar je aankomt."
+        }
+      }
+    }
+  },
+  "EsimPage": {
+    "metaData": {
+      "title": "Lokale eSIM kopen voor 200+ landen | 5G & onbeperkte data",
+      "description": "Koop Yaalo eSIM met 5G-dekking in 200+ bestemmingen. Reis vrij zonder roamingkosten – snelle, flexibele en betaalbare wereldwijde connectiviteit.",
+      "keywords": "lokale eSIM, eSIM kopen Nederland, internationale eSIM, prepaid eSIM, eSIM databundel, reis eSIM, goedkope eSIM data, 5G eSIM, mobiele data buitenland"
+    },
+    "hero": {
+      "heading": "Reis de wereld rond met Yaalo – naadloze wereldwijde connectiviteit!",
+      "description": "Online een eSIM kopen was nog nooit zo eenvoudig"
+    },
+    "tabs": {
+      "local": "Lokaal",
+      "regional": "Regionaal",
+      "global": "Wereldwijd"
+    },
+    "esimPageFeatureData": {
+      "title": "Waarom stappen reizigers over op Yaalo?",
+      "description": "Dankzij nul roamingkosten en internationale eSIM-dekking in 200+ bestemmingen is Yaalo de slimme keuze.",
+      "cards": {
+        "1": {
+          "title": "Gebouwd op vertrouwen en veiligheid",
+          "body": "Elke Yaalo eSIM is end-to-end versleuteld. Je data blijft volledig beschermd, zonder risico’s. Gewoon veilige, privé connectiviteit om te browsen, streamen en delen."
+        },
+        "2": {
+          "title": "Transparante prijzen",
+          "body": "Geen verwarrende of hoge roamingkosten meer, en geen verborgen toeslagen. Yaalo biedt prepaid eSIM-bundels met duidelijke tarieven – van vaste databundels tot onbeperkte plannen. Je betaalt alleen voor wat je gebruikt."
+        },
+        "3": {
+          "title": "Directe installatie, geen moeite",
+          "body": "Kopen, scannen en binnen minuten online – zonder balies op het vliegveld, documentcontrole of plastic simkaarten. Volledige connectiviteit binnen handbereik."
+        },
+        "4": {
+          "title": "Één eSIM voor je hele reis",
+          "body": "Meerdere landen, een hele regio of zelfs een wereldreis. Yaalo eSIM voor lokale, regionale en wereldwijde reizen is jouw alles-in-één oplossing. Koop snel 4G/5G-internet zonder ooit van sim te wisselen."
+        },
+        "5": {
+          "title": "Ontworpen voor moderne reizigers",
+          "body": "Elke reiziger is anders, net als de Yaalo eSIM-bundels. Van digitale nomaden en studenten tot zakenreizigers en bedrijven – Yaalo heeft een passende eSIM voor iedereen."
+        },
+        "6": {
+          "title": "Altijd bereikbare menselijke support",
+          "body": "Ons supportteam staat dag en nacht voor je klaar. Je spreekt echte mensen die je taal begrijpen en problemen snel oplossen – geen bots."
+        }
+      }
+    },
+    "whyYaalo": {
+      "cards": {
+        "1": {
+          "title": "Waarom Yaalo eSIM voor connectiviteit?",
+          "paras": {
+            "1": "Het antwoord is gemak met een slimmere manier van verbinden. Reizen brengt al genoeg regelwerk met zich mee, en een fysieke simkaart maakt dat alleen maar lastiger.",
+            "2": "Met Yaalo eSIM ben je direct ontzorgd. Je koopt online, scant de QR-code en bent binnen enkele minuten online met sterk 4G- of 5G-signaal, waar je ook landt.",
+            "3": "Omdat alles 100% digitaal is, zijn er geen onverwachte roamingrekeningen, geen verloren simkaarten en geen extra stress. Alleen direct internet, duidelijke prijzen en volledige bewegingsvrijheid."
+          }
+        },
+        "2": {
+          "title": "Waar staat Yaalo als eSIM-provider?",
+          "paras": {
+            "1": "Waar voor je geld is voor iedereen belangrijk, en daar blinkt Yaalo in uit. Met één scan ben je online in 200+ bestemmingen tegen lokale tarieven in plaats van toeristische prijzen. Geen roamingvalkuilen, geen paspoortverificatie en geen gedoe. Gewoon snelle, betrouwbare data met hotspotdeling.",
+            "2": "Het aanbod bestaat uit vaste en onbeperkte databundels wereldwijd, en data + voice + SMS-eSIMs in geselecteerde landen. Alles prepaid, transparant en binnen minuten actief. Yaalo hanteert strikt pay-as-you-go, wat het vertrouwen binnen internationale reisgemeenschappen versterkt."
+          }
+        },
+        "3": {
+          "title": "Waarom kiezen voor Yaalo eSIM?",
+          "paras": {
+            "1": "Het antwoord is simpel: Yaalo levert. Van globetrotters en digitale nomaden tot studenten, werknemers en zakelijke reizigers – Yaalo houdt rekening met iedereen. De volgende eigenschappen maken het verschil:"
+          }
+        }
+      }
+    },
+    "exploreEsims": "Ontdek Yaalo eSIM-data voor 200+ bestemmingen",
+    "anyCountry": "elk land",
+    "EmailReceive": {
+      "title": "Je Yaalo eSIM wordt direct geleverd, zonder gedoe!",
+      "description": "Zodra je bestelling is afgerond, ontvang je jouw Yaalo eSIM direct in je inbox of in de Yaalo App. Open, scan en je bent online – zo simpel is het. Binnen enkele minuten ben je verbonden in {countryName} met snelle en betrouwbare data om te delen, navigeren en streamen tijdens je reis."
+    },
+    "faqsData": {
+      "title": "Veelgestelde vragen",
+      "description": "Vind snel antwoord op veelgestelde vragen.",
+      "faqs": {
+        "1": {
+          "title": "Kan ik mijn Yaalo eSIM installeren vóór vertrek?",
+          "body": "Zeker. Je kunt je Yaalo reis-eSIM al thuis downloaden en installeren via wifi. De bundel activeert pas wanneer je landt en data gebruikt. Zo hoef je je geen zorgen te maken over connectiviteit op het vliegveld."
+        },
+        "2": {
+          "title": "Wat is een eSIM en hoe werkt het?",
+          "body": "Een eSIM (embedded SIM) is een digitale sim die in je telefoon, tablet of laptop is ingebouwd. Je hoeft geen fysieke simkaart te plaatsen. Je koopt online een bundel, scant de QR-code en bent direct verbonden. Met Yaalo hoef je geen winkel te bezoeken en geen sim te wisselen."
+        },
+        "3": {
+          "title": "Krijg ik roamingkosten of verborgen toeslagen met Yaalo eSIM?",
+          "body": "Nee. Alle Yaalo internationale eSIM-bundels zijn prepaid met duidelijke prijzen vooraf. Je kiest je bestemming en databundel en dat is alles wat je betaalt. Geen contracten, geen roamingkosten en geen verrassingen."
+        },
+        "4": {
+          "title": "Kan ik bellen of sms’en met mijn Yaalo eSIM?",
+          "body": "Dat hangt af van de bundel. Sommige bestemmingen bieden data-only bundels, andere hebben data + voice + SMS. Met een data-only bundel kun je nog steeds bellen en berichten sturen via WhatsApp, FaceTime of andere VOIP-apps."
+        }
+      }
+    }
+  },
+  "RegionalPage": {
+    "metaData": {
+      "title": "Regionale eSIMs: Betaalbare data voor 200+ landen",
+      "description": "Kies regionale eSIMs met lokale tarieven voor 200+ bestemmingen. Betrouwbare prepaid databundels voor naadloze connectiviteit tijdens internationale en regionale reizen.",
+      "keywords": "regionale eSIM, eSIM kopen Nederland, internationale eSIM, prepaid eSIM, eSIM databundel, reis eSIM, goedkope eSIM data, mobiele data buitenland"
+    },
+    "hero": {
+      "heading": "Regionale eSIM van Yaalo – één verbinding voor elke grens",
+      "description": "Yaalo houdt jouw wereld verbonden, waar je reiskaart je ook brengt."
+    ,
+      "descriptionTwo": "Voordelen en kenmerken van de Yaalo regionale eSIM"},
+    "tabs": {
+      "local": "Lokaal",
+      "regional": "Regionaal",
+      "global": "Wereldwijd"
+    },
+    "discoverEsim": "Ontdek de beste regionale eSIM-bundels per continent!",
+    "anyCountry": "elk land",
+    "startsAt": "Vanaf",
+    "regionalPageFeaturesData": {
+      "title": "Blijf verbonden over grenzen heen",
+      "description": "Geen gedoe met simkaartslots en geen meldingen over verbindingsverlies. Met Yaalo Regionale eSIM krijg je naadloze dekking in meerdere landen binnen één regio, van Europese steden tot Aziatische eilanden. Je data reist met je mee, waar je ook gaat.",
+      "cards": {
+        "1": {
+          "title": "Naadloze connectiviteit over grenzen",
+          "body": "Geen simkaartwissels en geen onderbroken verbindingen. Met Yaalo Regionale eSIM blijf je online in meerdere landen binnen één regio. Je data volgt je reis automatisch."
+        },
+        "2": {
+          "title": "Reisklaar en budgetvriendelijk",
+          "body": "Blijf online zonder je budget te overschrijden. Yaalo biedt regionale eSIM-bundels met duidelijke en eerlijke prijzen. Geen roamingstress of verborgen kosten, je betaalt alleen voor wat je nodig hebt."
+        },
+        "3": {
+          "title": "Snelle 4G- en 5G-internetverbinding",
+          "body": "Werk, stream en deel in realtime. Yaalo Regionale eSIM verbindt je met toonaangevende lokale netwerken voor stabiele 4G- en 5G-snelheden. Reis door meerdere landen zonder dataverlies of onveilige wifi."
+        },
+        "4": {
+          "title": "Eén eSIM voor een hele regio",
+          "body": "Reis je door meerdere Europese landen? Geen probleem. Met de Europese Regionale Yaalo eSIM geniet je van naadloze connectiviteit in tot wel 50 landen met één eSIM. Met Yaalo zijn grenzen geen beperking."
+        },
+        "5": {
+          "title": "Flexibele bundels voor elke reis",
+          "body": "Een korte citytrip of een maandlange rondreis? Yaalo laat je de data en looptijd kiezen die bij jouw reis passen. Bundels van 1GB tot 100GB of onbeperkt, met een geldigheid van 3 tot 30 dagen, beschikbaar als data-only of data + voice + SMS."
+        },
+        "6": {
+          "title": "Installatie in enkele minuten",
+          "body": "Wachtrijen en documentverificatie zijn verleden tijd. Tik, scan en je bent online. Activeer je Yaalo Regionale eSIM direct via de Yaalo-website of app (iOS en Android) en blijf verbonden nog vóór je je koffer uitpakt."
+        }
+      }
+    },
+    "Reviews": {
+      "title": "Lees wat onze klanten zeggen",
+      "noReviews": "Nog geen beoordelingen beschikbaar.",
+      "reviews": {
+        "1": "Ik ben lastig tevreden, maar Yaalo heeft me positief verrast. Door mijn werk reis ik veel door Noord-Amerika en mijn connectiviteitsproblemen zijn eindelijk opgelost. Aanrader.",
+        "2": "Ik gebruik Yaalo al enkele maanden. Vooral de klantenservice verdient een compliment. Ik liep vast bij het toevoegen van een databundel en het supportteam hielp me snel en vriendelijk.",
+        "3": "Ik wissel vaak tussen Australië en Fiji. Connectiviteit was altijd een probleem. Yaalo heeft me veel tijd en kosten bespaard. Ik blijf het gebruiken.",
+        "4": "Ik reisde door heel Afrika met de Regionale eSIM voor Afrika van Yaalo en verloor geen moment verbinding. Voor ongeveer €32 was ik een hele maand online voor mijn werk. Zeer aan te raden.",
+        "5": "In Azië had ik vaak moeite met betrouwbare eSIMs. Tijdens mijn reis naar Japan probeerde ik Yaalo en alles werkte probleemloos. Normaal schrijf ik geen reviews, maar dit was het waard.",
+        "6": "In Europa is het lastig om betaalbare eSIM-bundels te vinden. 20GB voor een maand voor een scherpe prijs was ideaal. De app is bovendien erg gebruiksvriendelijk."
+      }
+    },
+    "whyChooseCardsData": {
+      "title": "Waarom kiezen voor Yaalo eSIM voor regionale reizen?",
+      "description": "Slimme reizigers en bedrijven wereldwijd vertrouwen op Yaalo om één simpele reden: het werkt. Directe activatie, geen roamingstress, alleen snelle, flexibele en betaalbare connectiviteit.",
+      "description2": "Dit is waarom Yaalo zich onderscheidt:",
+      "cards": {
+        "1": {
+          "title": "Flexibele en betaalbare bundels",
+          "body": "Yaalo biedt regionale prepaid eSIM-bundels vanaf ongeveer €2,29. Kies zelf de hoeveelheid data en looptijd. Blijf online voor een weekend, een maand of een heel seizoen."
+        },
+        "2": {
+          "title": "Naadloze app-ervaring",
+          "body": "Eén app, meerdere regio’s, geen complicaties. Met de Yaalo-app activeer je je regionale eSIM direct, bekijk je realtime verbruik en waardeer je data eenvoudig op."
+        },
+        "3": {
+          "title": "Exclusieve reisvoordelen",
+          "body": "Goede connectiviteit verdient extra’s. Profiteer van bonusdata, gratis belminuten en speciale regionale aanbiedingen in meer dan 200 bestemmingen."
+        }
+      }
+    },
+    "faqsData": {
+      "title": "Veelgestelde vragen",
+      "description": "Vind snel antwoord op veelgestelde vragen.",
+      "faqs": {
+        "1": {
+          "title": "Wat is een regionale eSIM?",
+          "body": "Een regionale eSIM houdt je verbonden in meerdere landen binnen dezelfde regio met één databundel. In plaats van meerdere simkaarten krijg je één digitale eSIM die werkt in regio’s zoals Europa, Azië of Amerika."
+        },
+        "2": {
+          "title": "Kan ik eSIM in meerdere landen gebruiken?",
+          "body": "Ja. Dat is precies het voordeel van Yaalo Regionale eSIMs. Je reist probleemloos over grenzen zonder je verbinding te verliezen of van bundel te wisselen."
+        },
+        "3": {
+          "title": "Welke regio’s dekt Yaalo?",
+          "body": "Yaalo biedt regionale eSIM-dekking in Europa, Azië, het Midden-Oosten (GCC), Afrika, Noord-Amerika, Zuid-Amerika, het Caribisch gebied en Oceanië. Elke regio is geoptimaliseerd voor stabiele 4G- en 5G-snelheden."
+        },
+        "4": {
+          "title": "Wat is de beste Europese regionale eSIM?",
+          "body": "De Europese regionale eSIM-bundels van Yaalo zijn geschikt voor korte en lange reizen. Kies uit 1GB tot 100GB of onbeperkt, met flexibele geldigheid van 1 tot 30 dagen. Inclusief directe activatie, 5G-snelheden en geen roamingkosten."
+        },
+        "5": {
+          "title": "Wat is de beste Aziatische regionale eSIM?",
+          "body": "Voor reizen door Azië biedt Yaalo regionale eSIM-bundels met snelle en betaalbare connectiviteit. Geniet van betrouwbare dekking in landen zoals Japan, Thailand, Singapore en Zuid-Korea, met directe activatie en volledige 4G/5G-ondersteuning."
+        },
+        "6": {
+          "title": "Zijn Yaalo regionale eSIMs prepaid of postpaid?",
+          "body": "Alle Yaalo regionale eSIMs zijn prepaid. Je betaalt vooraf, krijgt direct toegang en hoeft je geen zorgen te maken over onverwachte roamingkosten of verborgen toeslagen."
+        }
+      }
+    }
+  },
+  "EsimCompatiblePage": {
+    "metaData": {
+      "title": "Lijst met eSIM-compatibele apparaten (2026) | Android & iPhone",
+      "description": "Ontdek de complete lijst met eSIM-compatibele apparaten voor Android en iPhone. Van de nieuwste tot oudere modellen, alles overzichtelijk op één plek.",
+      "keywords": "eSIM telefoon, eSIM compatibel, eSIM apparaten, iPhone eSIM, Samsung eSIM, Android eSIM, eSIM kopen Nederland, eSIM ondersteuning"
+    },
+    "hero": {
+      "heading": "Yaalo eSIM-compatibele apparaten",
+      "searchPlaceholder": "Zoek compatibele telefoons",
+      "description": "Hoewel veel iPhone-gebruikers sinds de iPhone 11 bekend zijn met eSIM-compatibiliteit, weten veel mensen dit nog niet. Daarom hebben wij al het zoekwerk voor je gedaan. Yaalo eSIM werkt met elk apparaat dat eSIM-ondersteuning in de specificaties vermeldt.",
+      "descriptionTwo": "Alle eSIM-geschikte apparaten op één plek!",
+      "descriptionThree": "Staat jouw apparaat in onderstaande lijst? Dan ben je klaar om te scannen, installeren en te gaan!",
+      "compatibleDevices": "Compatibele apparaten met eSIM",
+      "noMatch": "Geen apparaat gevonden 🙂",
+      "compatibleDevicesDescription": "Hier kun je je apparaatnaam invoeren of onze <FooterLink>pagina met ondersteunde apparaten</FooterLink> bekijken",
+      "searchDevice": "Zoek je apparaat",
+      "chooseBrand": "Kies een merk",
+      "congratsText": "Gefeliciteerd! Je toestel is compatibel",
+      "wantToBuy": "Wil je een eSIM kopen voor",
+      "yesBuy": "Ja, eSIM kopen"
+    },
+    "numberOfeSimSupportedSmartPhones": "Aantal eSIMs ondersteund door smartphones en wearables",
+    "iPhones": {
+      "heading": "iPhones die eSIM ondersteunen",
+      "description": "Apple is een van de grootste voorstanders van eSIM. Of je nu een nieuwe iPhone hebt of een oudere XR, voor reizigers is Yaalo een uitstekende keuze.",
+      "descriptionTwo": "Koop je een Yaalo eSIM voor de VS? Houd er rekening mee dat sinds de iPhone 14 alle iPhones in de VS uitsluitend eSIM gebruiken, zonder fysieke simkaart."
+    },
+    "iPads": {
+      "heading": "iPads met eSIM (Cellular-modellen)",
+      "description": "Apple’s iPads met cellular zijn ideaal voor digitale nomaden en frequente reizigers. Met Yaalo eSIM verbindt je iPad zich met lokale 2G-, 3G-, 4G- of 5G-netwerken in 200+ bestemmingen.",
+      "descriptionTwo": "Alle iPads met “Wi-Fi + Cellular” en “eSIM” of “Apple SIM” in de specificaties zijn compatibel. Installatie duurt slechts enkele minuten via Instellingen → Mobiel netwerk → Voeg eSIM toe."
+    },
+    "Samsung": {
+      "heading": "Samsung-telefoons die eSIM ondersteunen",
+      "description": "Samsung biedt reizigers flexibiliteit met Dual SIM, krachtige hardware en volledige eSIM-ondersteuning. Yaalo werkt perfect met Samsung Galaxy-modellen, van vlaggenschepen tot foldables.",
+      "descriptionTwo": "Let op: sommige regio’s of varianten kunnen beperkingen hebben. Controleer altijd de specificaties van je toestel."
+    },
+    "GooglePixel": {
+      "heading": "Google Pixel-telefoons met eSIM",
+      "description": "Google zette eSIM echt op de kaart met de Pixel-serie. Deze serie was een gamechanger en Yaalo ondersteunt Pixel-apparaten volledig.",
+      "descriptionTwo": "Pixel 3a-modellen uit sommige Zuidoost-Aziatische landen ondersteunen geen eSIM."
+    },
+    "Huawei": {
+      "heading": "Huawei-telefoons met eSIM",
+      "description": "Huawei heeft een sterke positie in de telecomwereld en biedt inmiddels meerdere eSIM-compatibele apparaten. Yaalo ondersteunt Huawei-gebruikers volledig.",
+      "descriptionTwo": "Na installatie geniet je van stabiele, ononderbroken data met Yaalo eSIM voor Huawei."
+    },
+    "Oppo": {
+      "heading": "Oppo-telefoons met eSIM",
+      "description": "Oppo combineert design en prestaties en biedt nu ook eSIM-ondersteuning. Yaalo verwelkomt deze technologische vooruitgang.",
+      "descriptionTwo": "Yaalo is een uitstekende reis-eSIM voor Oppo: eenvoudig te installeren, betaalbaar en wereldwijd inzetbaar."
+    },
+    "Sony": {
+      "heading": "Sony-telefoons met eSIM",
+      "description": "Sony staat bekend om zijn schermkwaliteit en audio. Met eSIM-ondersteuning werken Sony-smartphones probleemloos met Yaalo.",
+      "descriptionTwo": "Yaalo biedt lokale, regionale en wereldwijde eSIM-databundels (vast of onbeperkt), inclusief Data+Voice+SMS-opties."
+    },
+    "Xiaomi": {
+      "heading": "Xiaomi-telefoons met eSIM",
+      "description": "Xiaomi blijft innoveren en introduceerde eSIM-ondersteuning. Met Yaalo eSIM voor Xiaomi krijg je snelle en betaalbare wereldwijde data.",
+      "descriptionTwo": "Reizigers waarderen hoe eenvoudig het is om online een eSIM te kopen. Yaalo zorgt voor stabiele connectiviteit waar je ook bent."
+    },
+    "Motorola": {
+      "heading": "Motorola-telefoons met eSIM",
+      "description": "Motorola combineert duurzaamheid met slimme technologie. Met eSIM-ondersteuning zijn deze toestellen ideaal voor reizigers. Yaalo biedt volledige ondersteuning.",
+      "descriptionTwo": "Met Yaalo eSIM voor Motorola krijg je flexibele prepaid databundels met sterke 2G-, 3G-, 4G- en 5G-snelheden."
+    },
+    "Honor": {
+      "heading": "HONOR-telefoons met eSIM",
+      "description": "HONOR betreedt het eSIM-tijdperk met dezelfde elegantie als altijd. Ideaal voor fotografie, gaming en reizen. Yaalo + HONOR is een sterke combinatie.",
+      "descriptionTwo": "Met Yaalo eSIM voor HONOR reis je probleemloos van land tot land met snelle 5G-data."
+    },
+    "Lenovo": {
+      "heading": "Lenovo-laptops met eSIM",
+      "description": "Lenovo ThinkPad- en Yoga-laptops zijn gemaakt voor professionals. Dankzij eSIM wordt mobiel werken nog slimmer. Yaalo staat tethering en hotspot toe.",
+      "descriptionTwo": "Yaalo is ideaal voor Lenovo ThinkPad-gebruikers: prepaid, snel en veilig, waar je ook werkt."
+    },
+    "Microsoft": {
+      "heading": "Microsoft Surface-apparaten met eSIM",
+      "description": "Microsoft Surface-laptops hebben het leven van digitale nomaden veranderd. Activeer Yaalo eSIM voor 5G- of LTE-netwerken in 200+ bestemmingen.",
+      "descriptionTwo": "Yaalo is een uitstekende eSIM-oplossing voor Microsoft Surface-gebruikers: snel, prepaid en betrouwbaar."
+    },
+    "Dell": {
+      "heading": "Dell-laptops met eSIM",
+      "description": "Dell-laptops met eSIM maken reizen eenvoudiger. Activeer Yaalo eSIM en blijf overal verbonden zonder onderbrekingen.",
+      "descriptionTwo": "Met Yaalo internationale eSIM voor Dell Latitude blijf je online voor werk of ontspanning, waar je ook bent."
+    },
+    "Hp": {
+      "heading": "HP-laptops met eSIM",
+      "description": "HP-laptops met ingebouwde mobiele connectiviteit zijn ideaal voor wie altijd online wil zijn. Yaalo ondersteunt deze technologische vooruitgang volledig.",
+      "descriptionTwo": "Reizigers zeggen dat Yaalo een van de beste eSIMs is voor HP EliteBook dankzij hoge betrouwbaarheid."
+    },
+    "OtherLaptops": {
+      "heading": "Andere eSIM-geschikte laptops en tablets",
+      "description": "Ook buiten de grote merken zijn er apparaten met eSIM-ondersteuning. Yaalo verwelkomt alle fabrikanten die inzetten op digitale connectiviteit.",
+      "descriptionTwo": "Reizigers geven aan dat Yaalo een betrouwbare eSIM-oplossing is voor diverse laptopmerken."
+    },
+    "Watches": {
+      "heading": "Smartwatches met eSIM",
+      "description": "Altijd verbonden blijven zonder je telefoon mee te nemen. Met eSIM-smartwatches en Yaalo reist je verbinding gewoon met je mee.",
+      "descriptionTwo": "Yaalo is een uitstekende eSIM voor smartwatches, met flexibele databundels voor onderweg."
+    },
+    "OtherAndroid": {
+      "heading": "Andere Android-telefoons met eSIM",
+      "description": "Van Surface Pro en Sharp Aquos tot Rakuten en Honor Magic: steeds meer Android-apparaten ondersteunen eSIM voor naadloze connectiviteit."
+    },
+    "supportedSection": {
+      "heading": "Aantal eSIMs ondersteund door smartphones en wearables",
+      "description": "Het aantal eSIMs verschilt per fabrikant en model. De meeste moderne smartphones ondersteunen minstens één eSIM, terwijl nieuwere modellen er soms meerdere ondersteunen.",
+      "descriptionTwo": "Voor jouw gemak hebben wij het aantal ondersteunde eSIMs per apparaat overzichtelijk op een rij gezet."
+    },
+    "tableHeadings": {
+      "manufacturer": "Fabrikant",
+      "phoneModel": "Telefoonmodel",
+      "numberOfEsims": "Aantal eSIMs"
+    },
+    "faqsData": {
+      "title": "Veelgestelde vragen",
+      "description": "Vind snel antwoord op veelgestelde vragen.",
+      "faqs": {
+        "1": {
+          "title": "Kan ik mijn apparaat eSIM-compatibel maken?",
+          "body": "Helaas niet. eSIM-ondersteuning is afhankelijk van hardware en software. Als je toestel niet met eSIM is ontworpen, kan dit niet worden toegevoegd."
+        },
+        "2": {
+          "title": "Hoe weet ik of mijn telefoon eSIM ondersteunt?",
+          "body": "Controleer de instellingen of specificaties van je toestel. Bij iPhone ga je naar Instellingen → Algemeen → Info. Of zoek online op je modelnaam in combinatie met eSIM."
+        },
+        "3": {
+          "title": "Ondersteunt de iPhone 12 eSIM?",
+          "body": "Ja. De iPhone 12-serie ondersteunt zowel een fysieke nanoSIM als eSIM, ideaal voor reizen of het scheiden van werk en privé."
+        },
+        "4": {
+          "title": "Is eSIM beter dan een fysieke SIM?",
+          "body": "eSIM is moderner en flexibeler omdat je geen fysieke kaart nodig hebt. Vooral voor reizigers is het handig om eenvoudig lokale databundels te activeren zonder te wisselen van SIM."
+        }
+      }
+    },
+    "SupportedPhoneSection": {
+      "heading": "Aantal eSIMs ondersteund door smartphones en wearables",
+      "description": "Het aantal eSIMs verschilt per fabrikant en model. De meeste moderne smartphones ondersteunen minimaal één eSIM, sommige zelfs meerdere.",
+      "descriptionTwo": "Voor jouw gemak hebben wij het aantal ondersteunde eSIMs per apparaat overzichtelijk weergegeven."
+    },
+    "stepUpInstructions": {
+      "title": "Scan & ga (automatische installatie)",
+      "Step1": "Controleer compatibiliteit",
+      "Step2": "Neem contact op met je provider om een QR-code te krijgen.",
+      "Step3": "Scan de QR-code.",
+      "Step4": "Wanneer de melding ‘Mobiel abonnement gedetecteerd’ verschijnt, tik erop",
+      "Step5": "Tik op Doorgaan onderaan het scherm.",
+      "Step6": "Tik op Voeg mobiel abonnement toe. Als je om een bevestigingscode wordt gevraagd, voer de code in die je provider heeft gegeven."
+    },
+    "manualInstructions": {
+      "title": "Handmatig invoeren (als je controle wilt)",
+      "Step1": "Ga naar Instellingen → Mobiel netwerk → Voeg eSIM toe.",
+      "Step2": "Kies Gegevens handmatig invoeren.",
+      "Step3": "Kopieer de gegevens uit je Yaalo-e-mail met het SM-DP+-adres en de activatiecode.",
+      "Step4": "Wanneer de melding ‘Mobiel abonnement gedetecteerd’ verschijnt, tik erop",
+      "Step5": "Sla op, herstart je telefoon en je bent online.",
+      "Step6": "💡Handmatige installatie is handig als scannen niet lukt of je al onderweg bent."
+    }
+  },
+  "AboutUsPage": {
+    "metaData": {
+      "title": "Over Yaalo eSIM - jouw betrouwbare eSIM-provider wereldwijd",
+      "description": "Yaalo eSIM biedt betrouwbare, betaalbare eSIMs voor internationaal reizen. Prepaid eSIM-bundels in 200+ landen met snelle, stabiele wereldwijde dekking.",
+      "keywords": "eSIM, eSIM kopen, internationale eSIM, prepaid eSIM, reis eSIM, eSIM databundel, wereldwijde eSIM, Yaalo over"
+    },
+    "hero": {
+      "title": "Over ons - Yaalo eSIM voor wereldwijde connectiviteit",
+      "description": "Reisconnectiviteit opnieuw uitgevonden met eSIM voor de moderne wereld"
+    },
+    "ourStorySetion": {
+      "title": "Ons verhaal, onze vonk",
+      "description": "Het frustrerende moment van geen internet zodra je in een nieuw land landt, was de aanleiding voor Yaalo. Door alle drempels weg te nemen, hebben we Yaalo gebouwd als een blijvende oplossing voor wereldwijde connectiviteit."
+    },
+    "imageSection": {
+      "newyork": "New York",
+      "brazil": "Brazilië",
+      "dubai": "Dubai"
+    },
+    "timelineSection": {
+      "title": "Gemaakt voor eenvoud, gedreven door vrijheid",
+      "years": {
+        "2021": "In 2021 lanceerde Yaalo zijn eerste reis-eSIM",
+        "2022": "In 2022 breidden we uit over continenten met betaalbare regionale databundels",
+        "2025": "Vandaag maakt Yaalo wereldwijd verbinden net zo makkelijk als je telefoon ontgrendelen."
+      },
+      "description": "Yaalo is gebouwd op één simpele overtuiging: verbonden blijven mag nooit een probleem zijn. Terwijl eSIM-technologie zich ontwikkelde, richtte Yaalo zich op betrouwbaardere en gebruiksvriendelijkere wereldwijde connectiviteit over grenzen heen. Met één wereldwijd eSIM-netwerk biedt Yaalo stabiele internettoegang en naadloze apparaatconnectiviteit in 200+ bestemmingen. Vandaag ondersteunt Yaalo dagelijks mobiel gebruik, internationale reizen en IoT-toepassingen met een betrouwbare, schaalbare connectiviteitsoplossing."
+    },
+    "featuresSection": {
+      "title": "Altijd bij je, waar je ook landt",
+      "description": "Van vertrek tot thuiskomst: Yaalo ondersteunt je bij elke stap. En als er iets speelt, staat 24/7 expertsupport klaar in meerdere tijdzones. Yaalo onderscheidt zich omdat",
+      "cards": {
+        "1": {
+          "tittle": "Goed voor jou, vriendelijk voor de planeet",
+          "description": "Wij geloven in slimmer reizen zonder extra impact op de aarde. Door plastic simkaarten en verpakkingsafval te vermijden, helpt Yaalo je ecologische voetafdruk te verkleinen. Moderne tech kan ook bewust zijn."
+        },
+        "2": {
+          "tittle": "Eenvoudig ontworpen",
+          "description": "Geen winkels en geen aanmeldstress. Met Yaalo kost het kopen en activeren van je eSIM minder tijd dan een koffie bestellen. De Yaalo App (iOS, Android) maakt onze service nog makkelijker."
+        },
+        "3": {
+          "tittle": "Overal verbonden, van hoek tot hoek",
+          "description": "Reizigers gaan overal naartoe, en connectiviteit is overal essentieel. Yaalo biedt snelle 2G/3G/4G/5G-dekking in meer dan 200 bestemmingen. Kies uit lokale, regionale of wereldwijde bundels."
+        }
+      }
+    }
+  },
+  "LoginPage": {
+    "metaData": {
+      "title": "Inloggen op account – Beheer je eSIM-profiel | Yaalo",
+      "description": "Log veilig in op je Yaalo-account. Beheer je dashboard, volg actieve bestellingen, bekijk aankoopgeschiedenis en update je voorkeuren.",
+      "keywords": "eSIM, eSIM kopen, internationale eSIM, regionale eSIM, lokale eSIM, reis eSIM, databundel, goedkope data, Yaalo account"
+    },
+    "tabLinks": {
+      "login": "Inloggen",
+      "register": "Registreren"
+    },
+    "form": {
+      "signIn": "Inloggen",
+      "emailLabel": "E-mailadres",
+      "passwordLabel": "Wachtwoord",
+      "forgotPassword": "Wachtwoord vergeten?",
+      "login": "Inloggen",
+      "enterName": "Voer je naam in",
+      "enterEmail": "Voer je e-mailadres in",
+      "enterPassword": "Voer je wachtwoord in",
+      "confirmPassword": "Bevestig je wachtwoord",
+      "loginSuccess": "Succesvol ingelogd!",
+      "validationMessages": {
+        "email": {
+          "invalid": "Voer een geldig e-mailadres in."
+        },
+        "password": {
+          "min": "Wachtwoord is verplicht.",
+          "max": "Wachtwoord mag niet langer zijn dan 100 tekens."
+        }
+      }
+    }
+  },
+  "RegisterPage": {
+    "metaData": {
+      "title": "Nieuw account aanmaken – Registreer en profiteer | Yaalo",
+      "description": "Word lid van de Yaalo-community. Maak gratis een account aan voor sneller afrekenen, realtime ordertracking en exclusieve aanbiedingen voor leden.",
+      "keywords": "eSIM, eSIM kopen, internationale eSIM, regionale eSIM, lokale eSIM, reis eSIM, databundel, goedkope data, Yaalo account"
+    },
+    "tabLinks": {
+      "login": "Inloggen",
+      "register": "Registreren"
+    },
+    "form": {
+      "affiliate": "Word lid van ons affiliateprogramma",
+      "signUp": "Nu registreren",
+      "nameLabel": "Naam",
+      "emailLabel": "E-mailadres",
+      "passwordLabel": "Wachtwoord",
+      "confirmPassword": "Bevestig wachtwoord",
+      "otpLabel": "Voer de OTP in die je per e-mail hebt ontvangen",
+      "resendOtp": "OTP opnieuw verzenden",
+      "forgotPassword": "Wachtwoord vergeten?",
+      "register": "Registreren",
+      "enterName": "Voer je naam in",
+      "enterEmail": "Voer je e-mailadres in",
+      "enterPassword": "Voer je wachtwoord in",
+      "confirmYourPassword": "Bevestig je wachtwoord",
+      "validationMessages": {
+        "name": {
+          "min": "Naam moet minimaal 4 tekens bevatten.",
+          "max": "Naam mag niet langer zijn dan 100 tekens."
+        },
+        "email": {
+          "invalid": "Voer een geldig e-mailadres in."
+        },
+        "password": {
+          "min": "Wachtwoord moet minimaal 8 tekens bevatten.",
+          "max": "Wachtwoord mag niet langer zijn dan 100 tekens."
+        },
+        "confirmPassword": {
+          "min": "Bevestig wachtwoord moet minimaal 8 tekens bevatten.",
+          "max": "Bevestig wachtwoord mag niet langer zijn dan 100 tekens."
+        },
+        "otp": {
+          "min": "OTP moet minimaal 4 tekens bevatten.",
+          "max": "OTP mag maximaal 4 tekens bevatten."
+        },
+        "refine": {
+          "message": "Wachtwoorden komen niet overeen."
+        }
+      },
+      "registerSuccess": "Je account is succesvol aangemaakt. Log in met je nieuwe account.",
+      "otpSendSuccess": "De OTP is naar je e-mailadres verzonden. Verifieer deze alstublieft."
+    },
+    "AffiliateRedirectDialog": "Je wordt doorgestuurd naar het Affiliate Portaal"
+  },
+  "refillPage": {
+    "metaData": {
+      "title": "Yaalo eSIM – Wallet opwaarderen",
+      "description": "Waardeer je Yaalo eSIM Wallet op met kaart of Apple Pay",
+      "keywords": "eSIM, eSIM kopen, regionale eSIM, lokale eSIM, prepaid eSIM, databundel, eSIM wallet, wallet opwaarderen, bundel kopen, pakket kopen"
+    },
+    "validationMessages": {
+      "stripeMissing": "Stripe-checkout-URL ontbreekt",
+      "stripeRedirect": "Doorverwijzen naar Stripe...",
+      "refreshedFailed": "Vernieuwen van wallet mislukt",
+      "paymentFailed": "Betaling mislukt. Probeer het opnieuw.",
+      "refreshedSuccess": "Wallet succesvol opgewaardeerd"
+    },
+    "title": "Wallet opwaarderen",
+    "refillForm": {
+      "placeholder": "Voer het bedrag in om op te waarderen",
+      "paybtn": "Betalen",
+      "validationMessages": {
+        "amount": {
+          "typeError": "Bedrag moet een getal zijn",
+          "min": "Minimumbedrag is 1",
+          "max": "Maximumbedrag is 300"
+        }
+      }
+    },
+    "currentBalance": "Huidig saldo",
+    "errorMessage": "Er is iets misgegaan bij het ophalen van de gebruiker!",
+    "orderHistoryTable": {
+      "sucessMessage": "Wallet succesvol opgewaardeerd",
+      "errorMessage": "Betaling mislukt. Probeer het opnieuw.",
+      "title": "Transactiegeschiedenis",
+      "refreshing": "Bezig met vernieuwen...",
+      "refresh": "Vernieuwen",
+      "id": "ID",
+      "amount": "Bedrag",
+      "description": "Omschrijving",
+      "time": "Tijd",
+      "nodata": "Geen gegevens beschikbaar"
+    }
+  },
+  "mySimPage": {
+    "metaData": {
+      "title": "Yaalo eSIM online kopen – Voor 200+ bestemmingen",
+      "description": "Een Yaalo eSIM online kopen is eenvoudig. 4G/5G-data in 200+ bestemmingen wereldwijd. Zeg voorgoed vaarwel tegen roaming. Beschikbaar voor iPhone- en Android-reizigers. Download de app!",
+      "keywords": "eSIM, eSIM kopen, regionale eSIM, lokale eSIM, internationale eSIM, prepaid eSIM, reis eSIM, databundel, goedkope data, Yaalo eSIM"
+    },
+    "title": "SIM-gegevens",
+    "mySimTab": "Mijn eSIMs",
+    "pendingSimTab": "eSIMs in behandeling",
+    "mysim": "Mijn SIMs",
+    "noSimFound": "Geen eSIM gevonden",
+    "noPendingSimFound": "Geen eSIMs in behandeling gevonden",
+    "failedToGetSims": "Ophalen van eSIMs mislukt"
+  },
+  "simDetailPage": {
+    "metaData": {
+      "title": "Yaalo eSIM online kopen – Voor 200+ bestemmingen",
+      "description": "Een Yaalo eSIM online kopen is eenvoudig. 4G/5G-data in 200+ bestemmingen wereldwijd. Zeg voorgoed vaarwel tegen roaming. Beschikbaar voor iPhone- en Android-reizigers. Download de app.",
+      "keywords": "eSIM, eSIM kopen, regionale eSIM, lokale eSIM, internationale eSIM, prepaid eSIM, databundel, goedkope data, connectiviteit"
+    },
+    "title": "eSIM-gegevens",
+    "description": "Maak verbinding met de meest betrouwbare eSIM-diensten ter wereld",
+    "esimInstallation": "eSIM-installatie",
+    "devices": "Apparaten",
+    "direct": "Direct",
+    "qrCode": "QR-code",
+    "manual": "Handmatig",
+    "clickHere": "Klik hier om te installeren",
+    "notWorking": "Als de eSIM niet werkt, controleer dan",
+    "apn": "APN",
+    "dataRoaming": "Dataroaming",
+    "on": "Aan",
+    "smdpAddress": "SM-DP+ adres",
+    "inprocess": "In behandeling",
+    "activationCode": "Activatiecode",
+    "descriptionTwo": "Kopieer dit nummer en voer de gegevens handmatig in om je eSIM te installeren. Zorg voor een stabiele internetverbinding vóór installatie.",
+    "manualEntry": "Handmatige invoer",
+    "dataUsage": "Dataverbruik",
+    "outOf": "van",
+    "unlimitedData": "Onbeperkte data",
+    "remainingData": "Resterende data",
+    "address": "Adres",
+    "number": "nummer",
+    "purchaseData": "Aankoopdatum",
+    "coverage": "Dekking",
+    "status": "Status",
+    "activationInProcess": "Activering van het pakket is in behandeling",
+    "coverageModal": {
+      "coverage": "Bekijk dekking",
+      "supportedCountries": "Ondersteunde landen & netwerken",
+      "searchCountryNetwork": "Zoek land of netwerk"
+    },
+    "simDetail": {
+      "simId": "SIM-ID",
+      "iccid": "ICCID",
+      "status": "Status",
+      "purchaseDateEt": "Aankoopdatum (ET)",
+      "activatedBundle": "Geactiveerde bundel",
+      "seeDetails": "Bekijk details",
+      "activationInProcess": "Activering van het pakket is in behandeling..."
+    },
+    "iosInstallationInstruction": {
+      "direct": {
+        "step1": {
+          "key1": "Stap 1/2:",
+          "key2": "1. Tik op ‘eSIM installeren’.",
+          "key3": "2. Tik op ‘Toestaan’ in het bevestigingsvenster.",
+          "key4": "3. Volg de instructies op het scherm om de eSIM te downloaden en te installeren.",
+          "key5": "4. Kies een label voor je nieuwe eSIM-abonnement.",
+          "key6": "5. Kies ‘Primair’ als standaardlijn en tik op ‘Ga door’.",
+          "key7": "6. Kies ‘Primair’ voor iMessage en FaceTime met je Apple ID en tik op ‘Ga door’.",
+          "key8": "7. Kies je nieuwe eSIM-abonnement voor mobiele data en tik op ‘Ga door’."
+        },
+        "step2": {
+          "key1": "Stap 2/2 (optioneel):",
+          "key2": "1. Ga naar ‘Mobiele data’ en selecteer de recent gedownloade eSIM. Schakel ‘Deze lijn inschakelen’ in en selecteer de eSIM voor mobiele data.",
+          "key3": "2. Ga naar ‘Netwerkselectie’, schakel ‘Automatisch’ uit en selecteer handmatig het ondersteunde netwerk indien nodig.",
+          "key4": "3. Schakel ‘Dataroaming’ in voor je nieuwe eSIM."
+        }
+      },
+      "qr": {
+        "step1": {
+          "key1": "Stap 1/2:",
+          "key2": "1. Ga op je toestel naar Instellingen.",
+          "key3": "2. Tik op ‘Mobiel netwerk’.",
+          "key4": "3. Tik op ‘Mobiel abonnement toevoegen’.",
+          "key5": "4. Scan de QR-code met een ander apparaat of geprinte QR-code.",
+          "key6": "5. Kies of pas een label voor je eSIM aan.",
+          "key7": "6. Selecteer je eSIM alleen voor mobiele data.",
+          "key8": "7. Je ziet nu je nieuwe eSIM onder ‘Mobiele data-abonnementen’."
+        },
+        "step2": {
+          "key1": "Stap 2/2 (optioneel):",
+          "key2": "1. Selecteer je eSIM onder ‘Mobiele abonnementen’.",
+          "key3": "2. Controleer of ‘Deze lijn inschakelen’ aan staat.",
+          "key4": "3. Ga naar ‘Netwerkselectie’ en kies het ondersteunde netwerk.",
+          "key5": "4. Ga naar ‘Mobiel datanetwerk’ en werk het APN-veld bij onder ‘MOBIELE DATA’.",
+          "key6": "5. Schakel ‘Dataroaming’ in.",
+          "key7": "6. Hulp nodig? Chat met ons."
+        }
+      },
+      "manual": {
+        "step1": {
+          "key1": "Stap 1/2:",
+          "key2": "1. Ga naar Instellingen > Mobiel netwerk > Voeg mobiel abonnement toe.",
+          "key3": "2. Tik op ‘Gegevens handmatig invoeren’.",
+          "key4": "3. Voer je SM-DP+-adres en activatiecode in.",
+          "key5": "4. Tik op ‘Mobiel abonnement toevoegen’.",
+          "key6": "5. Geef de eSIM een label.",
+          "key7": "6. Kies je voorkeurslijn voor bellen en berichten.",
+          "key8": "7. Kies de voorkeurslijn voor iMessage, FaceTime en Apple ID.",
+          "key9": "8. Stel de eSIM in als standaardlijn voor mobiele data en schakel ‘Wisselen van mobiele data’ uit.",
+          "key10": "9. Je eSIM is succesvol geïnstalleerd, scroll naar beneden."
+        },
+        "step2": {
+          "key1": "Stap 2/2 (optioneel):",
+          "key2": "1. Selecteer je eSIM onder ‘Mobiele abonnementen’.",
+          "key3": "2. Controleer of ‘Deze lijn inschakelen’ aan staat.",
+          "key4": "3. Ga naar ‘Netwerkselectie’ en kies het ondersteunde netwerk.",
+          "key5": "4. Ga naar ‘Mobiel datanetwerk’ en werk het APN-veld bij.",
+          "key6": "5. Schakel ‘Dataroaming’ in.",
+          "key7": "6. Hulp nodig? Chat met ons."
+        }
+      }
+    },
+    "androidInstallationInstruction": {
+      "qr": {
+        "step1": {
+          "key1": "Stap 1:",
+          "key2": "1. Ga naar ‘Instellingen’ > ‘Netwerk & internet’ en tik op ‘(+)’ bij SIM.",
+          "key3": "2. Tik op ‘SIM downloaden?’ en vervolgens op ‘Volgende’.",
+          "key4": "3. Tik op ‘Gebruik een ander netwerk’ indien nodig.",
+          "key5": "4. Scan de QR-code en tik op ‘Downloaden’.",
+          "key6": "5. Tik op ‘Instellingen’ zodra het downloaden is voltooid."
+        },
+        "step2": {
+          "key1": "Stap 2/2 (optioneel):",
+          "key2": "1. Ga naar ‘SIMs’ en selecteer de nieuwe eSIM.",
+          "key3": "2. Schakel ‘SIM gebruiken’ in en bevestig.",
+          "key4": "3. Schakel ‘Mobiele data’ in.",
+          "key5": "4. Schakel ‘Roaming’ in.",
+          "key6": "5. Kies handmatig het juiste netwerk indien nodig.",
+          "key7": "6. Ga naar ‘APN’ en voeg een nieuw toegangspunt toe.",
+          "key8": "7. Voer de APN in vanuit de eSIM-app.",
+          "key9": "8. Sla op en selecteer de nieuwe APN."
+        }
+      },
+      "manual": {
+        "step1": {
+          "key1": "Stap 01/02:",
+          "key2": "1. Ga naar ‘Instellingen’ > ‘Netwerk & internet’ en tik op ‘(+)’ bij SIM.",
+          "key3": "2. Tik op ‘SIM downloaden?’ en vervolgens op ‘Volgende’.",
+          "key4": "3. Tik op ‘Gebruik een ander netwerk’ indien nodig.",
+          "key5": "4. Tik op ‘Hulp nodig?’ en kies ‘Handmatig invoeren’.",
+          "key6": "5. Voer de code in vanuit de eSIM-app en tik op ‘Doorgaan’.",
+          "key7": "6. Tik op ‘Instellingen’ wanneer het downloaden is voltooid."
+        },
+        "step2": {
+          "key1": "Stap 2/2 (optioneel):",
+          "key2": "1. Ga naar ‘SIMs’ en selecteer de eSIM.",
+          "key3": "2. Schakel ‘SIM gebruiken’ in.",
+          "key4": "3. Schakel ‘Mobiele data’ in.",
+          "key5": "4. Schakel ‘Roaming’ in.",
+          "key6": "5. Kies handmatig het juiste netwerk indien nodig.",
+          "key7": "6. Voeg een nieuwe APN toe.",
+          "key8": "7. Vul de APN-gegevens in.",
+          "key9": "8. Sla op en selecteer de APN."
+        }
+      }
+    },
+    "activatedPackages": {
+      "title": "Geactiveerde pakketten",
+      "package": "Pakket",
+      "activated": "Geactiveerd",
+      "expiry": "Vervaldatum"
+    },
+    "completedPackages": {
+      "pastPackages": "Eerdere pakketten",
+      "package": "Pakket",
+      "activated": "Geactiveerd",
+      "expiry": "Vervaldatum"
+    },
+    "assignedPackages": {
+      "notActivated": "Niet-geactiveerde pakketten",
+      "package": "Pakket",
+      "quantity": "Aantal"
+    },
+    "revokedPackages": {
+      "revoked": "Ingetrokken pakketten",
+      "package": "Pakket",
+      "revokedAt": "Ingetrokken op"
+    },
+    "qrCodeMessages": {
+      "notFound": "QR-code kon niet worden gevonden.",
+      "failedCanvas": "Canvascontext ophalen mislukt.",
+      "FailedLoad": "Laden van QR-code mislukt.",
+      "notSupported": "Niet ondersteund",
+      "shareTitle": "QR-code",
+      "shareText": "Hier is de QR-code.",
+      "fallbackDownload": "Delen niet ondersteund. QR-code is gedownload.",
+      "activationInProcess": "Activering van het pakket is in behandeling..."
+    },
+    "pendingPackages": {
+      "package": "Pakket",
+      "status": "Status",
+      "createdAt": "Aangemaakt op"
+    }
+  },
+  "ResetPasswordPage": {
+    "metaData": {
+      "title": "Wachtwoord resetten – Toegang tot account herstellen | Yaalo",
+      "description": "Je inloggegevens vergeten? Start een veilige wachtwoordreset voor je Yaalo-account. Verifieer je identiteit en herstel direct de toegang tot je profiel.",
+      "keywords": "eSIM, eSIM kopen, internationale eSIM, regionale eSIM, lokale eSIM, reis eSIM, databundel, goedkope data, Yaalo account"
+    },
+    "resetPassword": "Wachtwoord resetten",
+    "emailLabel": "E-mailadres",
+    "passwordLabel": "Wachtwoord",
+    "enterEmail": "Voer je e-mailadres in",
+    "enterPassword": "Voer je wachtwoord in",
+    "confirmPassword": "Bevestig wachtwoord",
+    "enterconfirmPassword": "Bevestig je wachtwoord",
+    "enterOtp": "Voer de OTP in die je per e-mail hebt ontvangen",
+    "resendOtp": "OTP opnieuw verzenden",
+    "submit": "Verzenden",
+    "emailReceive": "We sturen je een OTP om je wachtwoord te resetten",
+    "validationMessages": {
+      "email": {
+        "invalid": "Voer een geldig e-mailadres in."
+      },
+      "password": {
+        "min": "Wachtwoord moet minimaal 8 tekens bevatten.",
+        "max": "Wachtwoord mag niet langer zijn dan 100 tekens."
+      },
+      "confirmPassword": {
+        "min": "Bevestig wachtwoord moet minimaal 8 tekens bevatten.",
+        "max": "Bevestig wachtwoord mag niet langer zijn dan 100 tekens."
+      },
+      "otp": {
+        "min": "OTP moet minimaal 4 tekens bevatten.",
+        "max": "OTP mag maximaal 6 tekens bevatten."
+      },
+      "refine": {
+        "message": "Wachtwoorden komen niet overeen."
+      }
+    }
+  },
+  "FAQsPage": {
+    "metaData": {
+      "title": "Yaalo eSIM FAQ’s – Al je vragen over reis-eSIM beantwoord",
+      "description": "De hulpgids van Yaalo eSIM. Vind antwoorden op veelgestelde vragen over eSIM bij Yaalo: activatie, compatibiliteit, dekking en probleemoplossing.",
+      "keywords": "eSIM, eSIM kopen, reis eSIM, regionale eSIM, lokale eSIM, eSIM informatie, eSIM gids, Yaalo eSIM FAQ"
+    },
+    "hero": {
+      "title": "Veelgestelde vragen",
+      "description": "Vind snel antwoord op veelgestelde vragen"
+    },
+    "faqsData": {
+      "sections": {
+        "aboutYaalo": {
+          "heading": "Meer over Yaalo",
+          "faqs": {
+            "1": {
+              "title": "Wat is Yaalo?",
+              "body": "Yaalo is een reis-eSIM provider voor mensen die overal verbonden willen blijven zonder roamingkosten of fysieke simkaarten. Wij maken mobiele data eenvoudig en betrouwbaar. Met Yaalo blijf je online in 200+ bestemmingen, zonder hoge roamingtarieven."
+            },
+            "2": {
+              "title": "Wat biedt Yaalo aan reizigers?",
+              "body": "Yaalo biedt data-only (vast & onbeperkt) en data + voice + SMS eSIM-bundels. Zodra je op je bestemming aankomt, maak je automatisch verbinding met een lokaal netwerk. Installatie duurt slechts enkele minuten en je beheert alles via de Yaalo app."
+            },
+            "3": {
+              "title": "Waarom kiezen voor Yaalo in plaats van andere eSIM-aanbieders?",
+              "body": "Omdat Yaalo staat voor transparantie en echte ondersteuning. Onze prepaid bundels hebben duidelijke prijzen, snelle data en 24/7 support door echte mensen. Dankzij brede dekking en directe activatie vertrouwen reizigers én locals wereldwijd op Yaalo."
+            }
+          }
+        },
+        "plansAndWorkings": {
+          "heading": "Bundels en werking",
+          "faqs": {
+            "1": {
+              "title": "Wat kosten Yaalo eSIM-bundels?",
+              "body": "Yaalo hanteert een eenvoudig pay-as-you-go model met transparante prijzen. Alle bundels zijn prepaid, zonder verborgen kosten. Je kiest de data die je nodig hebt en betaalt alleen daarvoor. Hotspot en tethering zijn toegestaan."
+            },
+            "2": {
+              "title": "Wat is een eSIM-profiel?",
+              "body": "Een eSIM-profiel is jouw digitale sim-identiteit. Koop je bijvoorbeeld een eSIM voor de VS, dan wordt dit als profiel op je toestel opgeslagen. Na activatie werkt het net als een normale simkaart, maar dan tegen lokale tarieven."
+            },
+            "3": {
+              "title": "Hoe koop en activeer ik een Yaalo eSIM?",
+              "body": "Kopen en activeren duurt minder dan een minuut. Kies je bestemming, selecteer een bundel en ontvang direct een QR-code per e-mail. Scan deze via je instellingen of gebruik handmatige installatie. Alle stappen vind je ook in de Yaalo Blogs."
+            },
+            "4": {
+              "title": "Hoe wordt mijn Yaalo eSIM geleverd?",
+              "body": "Na aankoop ontvang je een e-mail met een QR-code voor automatische installatie en een SM-DP+ adres voor handmatige installatie. Kies wat voor jou het makkelijkst is en je bent binnen minuten online."
+            },
+            "5": {
+              "title": "Welke soorten Yaalo eSIM-bundels zijn beschikbaar?",
+              "body": "Yaalo biedt lokale, regionale en wereldwijde eSIM-bundels. Data-only (vast of onbeperkt) voor kort verblijf en data + voice + SMS voor geselecteerde bestemmingen. Alles is eenvoudig te beheren en op te waarderen via de website of app."
+            },
+            "6": {
+              "title": "Kan ik mijn Yaalo eSIM opnieuw gebruiken?",
+              "body": "Elke Yaalo eSIM is gekoppeld aan één bundel en bestemming. Voor een nieuwe reis koop je eenvoudig een nieuwe eSIM via de app of website."
+            }
+          }
+        },
+        "aboutESim": {
+          "heading": "Meer over eSIM",
+          "faqs": {
+            "1": {
+              "title": "Wat is het verschil tussen eSIM en een fysieke simkaart?",
+              "body": "Een eSIM slaat je mobiele abonnement digitaal op. Je hoeft geen fysieke kaart te plaatsen en kunt bundels direct via instellingen toevoegen of wisselen."
+            },
+            "2": {
+              "title": "Hoe koop en activeer ik een Yaalo eSIM?",
+              "body": "Na aankoop ontvang je direct een QR-code of handmatige codes. Ga naar Instellingen → Mobiel netwerk → Voeg eSIM toe, scan de QR-code of voer de gegevens in en je bent binnen seconden verbonden."
+            },
+            "3": {
+              "title": "Kan ik mijn Yaalo eSIM installeren vóór vertrek?",
+              "body": "Ja, dat raden we zelfs aan. Installeren via wifi thuis voorkomt problemen en zorgt ervoor dat je direct online bent zodra je landt."
+            },
+            "4": {
+              "title": "Hoeveel eSIM-profielen kan mijn telefoon opslaan?",
+              "body": "Dat verschilt per toestel. Veel telefoons kunnen meerdere profielen opslaan, maar meestal is er slechts één actief voor data. Dual SIM (fysiek + eSIM) wordt vaak ondersteund."
+            },
+            "5": {
+              "title": "Verbruikt eSIM meer batterij dan een fysieke sim?",
+              "body": "Nee. Het batterijverbruik is vrijwel gelijk. Slechte dekking of meerdere actieve lijnen kunnen wel extra energie kosten, maar dat ligt niet aan eSIM zelf."
+            },
+            "6": {
+              "title": "Krijg ik 5G met Yaalo eSIM?",
+              "body": "Ja, mits je toestel en het lokale netwerk 5G ondersteunen. eSIM is alleen de activatiemethode; snelheid hangt af van netwerk en apparaat."
+            },
+            "7": {
+              "title": "Wat als mijn QR-code niet werkt?",
+              "body": "Controleer je wifi en herstart je toestel. Werkt scannen niet, gebruik dan de handmatige activatiegegevens. Onze support is 24/7 beschikbaar om je te helpen."
+            },
+            "8": {
+              "title": "Kan ik meerdere providers op één toestel gebruiken?",
+              "body": "Ja. Je kunt eenvoudig profielen toevoegen of verwijderen. Ideaal om je thuisnummer actief te houden en Yaalo eSIM te gebruiken voor data."
+            },
+            "9": {
+              "title": "Bevatten Yaalo eSIMs een telefoonnummer?",
+              "body": "De meeste bundels zijn data-only. Sommige bestemmingen bieden data + voice + SMS. Dit staat altijd duidelijk vermeld in de bundeldetails."
+            },
+            "10": {
+              "title": "Hoe lang zijn Yaalo eSIM-bundels geldig en kan ik opwaarderen?",
+              "body": "De geldigheid verschilt per bundel (bijvoorbeeld 1, 7 of 30 dagen). Veel bundels zijn verlengbaar en je kunt eenvoudig opwaarderen via de app of website."
+            },
+            "11": {
+              "title": "Zijn Yaalo eSIMs veilig en hoe zit het met privacy?",
+              "body": "Ja. eSIM-profielen worden versleuteld geleverd en veilig opgeslagen op je toestel. Yaalo volgt strikte privacyprincipes en deelt geen persoonlijke gegevens zonder toestemming."
+            }
+          }
+        }
+      }
+    }
+  },
+  "BlogPage": {
+    "metaData": {
+      "title": "Yaalo eSIM Blog – eSIM tips, compatibiliteit, iPhone & Android",
+      "description": "Ontdek wat eSIM is en hoe het werkt. Leer hoe je een eSIM koopt voor internationaal reizen. Tips en probleemoplossing voor eSIM op iPhone en Android, inclusief compatibiliteit.",
+      "keywords": "eSIM, eSIM kopen, reis eSIM, regionale eSIM, lokale eSIM, eSIM tips, eSIM compatibiliteit, iPhone eSIM, Android eSIM"
+    },
+    "hero": {
+      "title": "Yaalo eSIM Blogs",
+      "noBlogs": "Geen blogs gevonden 🙂",
+      "allBlogs": "Alle blogs",
+      "searchPlaceholder": "Zoek je blog"
+    },
+    "paginationBtn": {
+      "previous": "Vorige",
+      "next": "Volgende",
+      "page": "Pagina",
+      "of": "van"
+    },
+    "blogDetail": {
+      "blog": "Blog",
+      "share": "Delen",
+      "interestedInPlans": "eSIM-bundels die je mogelijk interesseren",
+      "startsAt": "Vanaf",
+      "relatedBlogs": "Gerelateerde blogs"
+    }
+  },
+  "NotFoundPage": {
+    "title": "Oeps! Pagina niet gevonden",
+    "description": "Het lijkt erop dat de pagina die je zoekt niet (meer) bestaat — of misschien heeft ze nooit bestaan. Geen zorgen, wij helpen je weer op weg en zorgen dat je verbonden blijft. Laten we verdergaan!",
+    "popularLinks": "Populaire pagina’s die je misschien zoekt:",
+    "links": {
+      "esims": "Bekijk alle eSIM-bestemmingen",
+      "blog": "Bezoek onze blog",
+      "contact": "Neem contact met ons op",
+      "faqs": "Veelgestelde vragen",
+      "home": "Terug naar de homepage"
+    }
+  },
+  "ErrorPage": {
+    "title": "Er is iets misgegaan",
+    "description": "We ondervinden momenteel tijdelijke technische problemen aan onze kant. Maar geen zorgen — we werken er al hard aan om dit op te lossen.",
+    "description2": "Probeer het over een paar minuten opnieuw.",
+    "popularLinks": "🚀 Terwijl je wacht, kun je dit doen:",
+    "links": {
+      "esims": "Bekijk alle eSIM-bestemmingen",
+      "blog": "Bezoek onze blog",
+      "contact": "Neem contact met ons op",
+      "faqs": "Veelgestelde vragen",
+      "home": "Terug naar de homepage"
+    },
+    "leaveEmpty": "Ga niet met lege handen weg",
+    "ComparingEsimText": "We weten dat je eSIM-aanbieders vergelijkt — en we hebben vertrouwen in wat wij bieden:",
+    "stillCurious": "Nog steeds nieuwsgierig?",
+    "instantActivation": "Directe activatie van eSIMs",
+    "reliableGlobal": "Betrouwbare wereldwijde dekking",
+    "affordAbleData": "Betaalbare databundels",
+    "fullSupport": "24/7 live support",
+    "contactSupport": "Neem contact op met support",
+    "getBackQuickly": " — we nemen snel contact met je op."
+  },
+  "ThankYouPage": {
+    "metaData": {
+      "title": "Bedankt",
+      "description": "Een geweldige werkplek combineert uitzonderlijke collega’s met uitdagende problemen",
+      "keywords": "eSIM, eSIM kopen, regionale eSIM, lokale eSIM, internationale eSIM, databundel, prepaid eSIM, connectiviteit"
+    },
+    "success": {
+      "title": "Bedankt!",
+      "text": "Je eSIM is succesvol gekocht"
+    },
+    "failed": {
+      "title": "Je betaling kon niet worden verwerkt.",
+      "text": "Probeer het opnieuw",
+      "paymentFailed": "Het betalingsproces is mislukt."
+    }
+  },
+  "SharedUI": {
+    "esimSteps": {
+      "title": "Hoe werkt Yaalo eSIM?<br></br>(Spoiler: het is super eenvoudig)",
+      "description": "Gebruikers denken vaak dat technische processen complex zijn.<br></br>Maar het activeren van Yaalo eSIM is zo gepiept: 1, 2, 3 en je bent verbonden!",
+      "steps": {
+        "step1": {
+          "heading": "Koop een databundel",
+          "description": "Zoek je bestemming en ontdek eSIM-bundels die zijn afgestemd op jouw reis."
+        },
+        "step2": {
+          "heading": "Installeer de eSIM",
+          "description": "Installeer je eSIM snel via een eenvoudige QR-code. Geen fysieke simkaart of winkelbezoek nodig."
+        },
+        "step3": {
+          "heading": "Activeer je bundel",
+          "description": "Bepaal zelf wanneer je bundel start. Flexibel reizen zonder ongebruikte data te verspillen."
+        }
+      }
+    },
+    "appInstall": {
+      "download": "50.000+ downloads",
+      "title": "Download de app nu",
+      "description": "Voor virtuele nummers en internationaal bellen. Koop, installeer en beheer je eSIMs eenvoudig."
+    },
+    "checkout": "Afrekenen",
+    "selectPlan": "Selecteer de beste eSIM-bundels voor",
+    "checkEsim": "Controleer eSIM-apparaat",
+    "filter": "Filter",
+    "addToCart": "Toevoegen aan winkelwagen",
+    "buyNow": "Nu kopen",
+    "details": "Details",
+    "days": "Dagen",
+    "selectData": "Selecteer data",
+    "selectDays": "Selecteer dagen",
+    "resetFilter": "Filter resetten",
+    "orLine": "Of ga verder met",
+    "unlimited": "Onbeperkt",
+    "data": "Data",
+    "day": "dag",
+    "globalPlaceholder": "Zoek land of netwerk",
+    "unlimitedSms": "Onbeperkte sms",
+    "yes": "Ja",
+    "no": "Nee",
+    "highSpeedThenUnlimited": "{unthrottle_data}/dag high-speed data, daarna onbeperkte data met ${throttle_speed}. De datalimiet wordt elke 24 uur na eerste gebruik gereset.",
+    "comingSoon": "Binnenkort beschikbaar...",
+    "features": {
+      "data": "Data",
+      "validity": "Geldigheid",
+      "speed": "Snelheidslimiet",
+      "tethering": "Tethering/Hotspot",
+      "sms": "SMS"
+    },
+    "widerCoverage": {
+      "title": "Op zoek naar bredere dekking?",
+      "description": "Ontdek onze eSIM-bundels vanaf de vermelde prijs voor naadloze connectiviteit.",
+      "errorMessage": "Laden van landen mislukt:"
+    },
+    "supportedCountries": "Ondersteunde landen & netwerken",
+    "noSearchMatch": "Geen resultaten gevonden",
+    "countryHeadings": {
+      "title": {
+        "dataVoice": "Reis eSIM",
+        "dataOnly": "Prepaid reis"
+      },
+      "headingDescription": {
+        "dataVoice": "Voor {country} met data & bellen",
+        "dataOnly": "eSIM voor {country}"
+      },
+      "paragraph": {
+        "dataVoice": "Ontvang de beste eSIM-databundels met onbeperkt bellen voor reizen naar {country}. Geniet van een UK-nummer voor gesprekken en inkomende sms. Blijf overal verbonden.",
+        "dataOnly": "Ontvang de beste eSIM voor reizen naar {country} van Smart eSIM. Geniet van stabiele connectiviteit en betaalbare onbeperkte databundels."
+      }
+    },
+    "pagesMetaComponent": {
+      "feature": {
+        "title": "Kenmerk",
+        "subheading": "{country} eSIM – belangrijkste kenmerken"
+      },
+      "description": {
+        "title": "Beschrijving",
+        "subheading": "Over Yaalo {country} eSIM"
+      },
+      "technicalSpecs": {
+        "title": "Technische specificaties",
+        "subheading": "Onze virtuele simspecificaties"
+      }
+    },
+    "navLinks": {
+      "buyEsim": "eSIM kopen",
+      "aboutUs": "Over ons",
+      "contactInfo": "Contactgegevens",
+      "more": "Meer",
+      "esimCompatible": "eSIM-compatibele telefoons",
+      "faqs": "FAQ’s",
+      "blog": "Blog",
+      "login": "Inloggen",
+      "wallet": "Wallet",
+      "account": "Account",
+      "home": "Home",
+      "esim": "eSIM",
+      "myEsim": "Mijn eSIM",
+      "logout": "Uitloggen",
+      "affiliatePartner":"Affiliatepartner",
+       "myesim":"Mijn eSIMs"
+    },
+    "footerLinks": {
+      "contactInfo": "Contactgegevens",
+      "popularDestinations": "Populaire bestemmingen",
+      "followus": "Volg ons",
+      "links": "Links",
+      "support": "Support",
+      "privacyPolicy": "Privacybeleid",
+      "terms": "Servicevoorwaarden",
+      "refundPolicy": "Restitutiebeleid",
+      "esimCompatible": "eSIM-compatibele telefoons",
+      "faqs": "FAQ’s",
+      "blog": "Blog",
+      "home": "Home",
+      "aboutUs": "Over ons",
+      "buyEsim": "eSIM kopen",
+      "affiliatePartner":"Affiliatepartner",
+      "allRights": "Alle rechten voorbehouden",
+      "popularDestinationsLinks": {
+        "us": "Verenigde Staten",
+        "uk": "Verenigd Koninkrijk",
+        "canada": "Canada",
+        "germany": "Duitsland",
+        "france": "Frankrijk",
+        "italy": "Italië",
+        "spain": "Spanje",
+        "turkey": "Turkije",
+        "indonesia": "Indonesië",
+        "japan": "Japan"
+      },
+      "supportLinks": {
+        "general": "Algemeen",
+        "support": "Support",
+        "business": "Zakelijk",
+        "yaaloAddress": "250 S. Ronald Reagan Blvd., #106, Longwood, FL 32750"
+      }
+    },
+    "searchPackagesList": {
+      "search": "Zoeken",
+      "allDestinations": "Alle bestemmingen",
+      "searchPlaceholder": "Waar ga je hierna naartoe?",
+      "noMatch": "Geen overeenkomst gevonden — bekijk onze topbestemmingen!",
+      "popularDestinations": "Populaire bestemmingen"
+    }
+  },
+  "ContactUsPage": {
+    "metadata": {
+      "title": "Contact opnemen met Yaalo eSIM Support – We helpen je altijd",
+      "description": "Vragen over je eSIM? Neem contact op met Yaalo eSIM voor snelle ondersteuning bij activatie en reisplannen, 24/7 beschikbaar. Neem vandaag nog contact met ons op!",
+      "keywords": "eSIM, eSIM kopen, regionale eSIM, lokale eSIM, internationale eSIM, databundel, eSIM support, eSIM contact, Yaalo eSIM"
+    },
+    "hero": {
+      "title": "Neem contact op met ons team",
+      "description": "eSIM – Snelle en betaalbare manier van connectiviteit"
+    },
+    "contactCard": {
+      "whatsapp": {
+        "title": "WhatsApp",
+        "description": "24/7 online support"
+      },
+      "livechat": {
+        "title": "24/7 online support",
+        "body": "Begin met Yaalo en krijg alles wat je nodig hebt",
+        "description": "24/7 online support"
+      }
+    },
+    "business": "Voor bedrijven",
+    "contactUsForm": {
+      "description": "We horen graag van je en helpen je met het oplossen van vragen of problemen.",
+      "nameLabel": "Volledige naam",
+      "emailLabel": "E-mailadres",
+      "subjectLabel": "Onderwerp",
+      "messageLabel": "Bericht",
+      "phoneLabel": "Telefoonnummer",
+      "submitButton": "Verzenden",
+      "validationMessages": {
+        "name": {
+          "required": "Volledige naam is verplicht",
+          "minLength": "Volledige naam moet minimaal 2 tekens bevatten",
+          "maxLength": "Volledige naam mag niet langer zijn dan 50 tekens"
+        },
+        "email": {
+          "required": "E-mailadres is verplicht",
+          "invalid": "Voer een geldig e-mailadres in"
+        },
+        "subject": {
+          "required": "Geef een onderwerp op voor je bericht",
+          "maxLength": "Onderwerp mag maximaal 200 tekens bevatten"
+        },
+        "phone": {
+          "required": "Telefoonnummer is verplicht",
+          "maxLength": "Telefoonnummer is te lang"
+        },
+        "description": {
+          "required": "Het berichtveld mag niet leeg zijn",
+          "maxLength": "Bericht mag maximaal 600 tekens bevatten"
+        },
+        "recaptchaError": "Voltooi de reCAPTCHA."
+      }
+    },
+    "faqsData": {
+      "title": "Veelgestelde vragen",
+      "description": "Vind snel antwoord op veelgestelde vragen.",
+      "faqs": {
+        "1": {
+          "title": "Bieden jullie restituties of een geld-terug-garantie?",
+          "body": "Ja, zeker. Als onze eSIM niet aan je verwachtingen voldoet, maken we retourneren eenvoudig. Bekijk ons eenvoudige <refundPolicy>restitutiebeleid</refundPolicy> en koop met vertrouwen. 100% tevredenheid gegarandeerd."
+        },
+        "2": {
+          "title": "Hoe kan ik jullie klantenservice bereiken?",
+          "body": "Je kunt ons op elk moment bereiken via live chat of per e-mail via <support>support@yaalo.com.</support>"
+        },
+        "3": {
+          "title": "Houden jullie rekening met suggesties van klanten?",
+          "body": "Absoluut. We waarderen de feedback van onze klanten enorm. Stuur ons je ideeën per e-mail en ons managementteam zal elke suggestie zorgvuldig bekijken om onze service continu te verbeteren."
+        },
+        "4": {
+          "title": "Hoe neem ik contact op met Yaalo voor zakelijke doeleinden?",
+          "body": "Neem contact op met ons enterprise-team via <sales>sales@yaalo.com.</sales> om te bespreken hoe eSIM connectiviteit voor jouw organisatie kan transformeren."
+        }
+      }
+    }
+  },
+  "PrivacyPolicyPage": {
+    "metaData": {
+      "title": "Yaalo Privacybeleid: Bescherming van uw persoonsgegevens en veiligheid",
+      "description": "Lees hoe Yaalo uw gegevens verzamelt, gebruikt en beveiligt. Ontdek uw privacyrechten, cookiegebruik en beveiligingsmaatregelen voor een veilige online ervaring.",
+      "keywords": "eSIM, eSIM kopen, regionale eSIM, lokale eSIM, databundel, eSIM privacy, gegevensbescherming, Yaalo eSIM"
+    },
+    "privacyPolicy": {
+      "title": "Privacybeleid",
+      "data": [
+        {
+          "title": "1. Inleiding en algemene voorwaarden",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welkom bij Yaalo.com. Wij begrijpen het belang van uw privacy en zetten ons in om uw persoonlijke gegevens te beschermen. Dit privacybeleid is onze belofte om uw gegevens zorgvuldig, transparant en met respect te behandelen."
+            },
+            {
+              "type": "text",
+              "text": "Bij Yaalo.com bieden wij innovatieve digitale SIM-oplossingen om u wereldwijd verbonden te houden zonder het gedoe van fysieke simkaarten. Onze inzet gaat verder dan het leveren van uitstekende diensten; wij hechten evenveel waarde aan de bescherming van uw persoonlijke informatie."
+            },
+            {
+              "type": "text",
+              "text": "Dit privacybeleid beschrijft hoe wij de persoonlijke gegevens verzamelen, gebruiken, opslaan en beschermen die u met ons deelt bij het gebruik van onze website en diensten. Het is van toepassing op alle gegevens die worden verzameld via uw interacties met onze website, klantenservice en onze producten en diensten."
+            },
+            {
+              "type": "text",
+              "text": "Wij raden u aan dit beleid zorgvuldig te lezen om inzicht te krijgen in onze werkwijze met betrekking tot uw gegevens. Door onze diensten te gebruiken, bevestigt u dat u dit privacybeleid heeft gelezen, begrepen en ermee akkoord gaat. Als u het niet eens bent met onze werkwijze, verzoeken wij u onze website of diensten niet te gebruiken."
+            },
+            {
+              "type": "text",
+              "text": "Houd er rekening mee dat dit beleid periodiek kan worden bijgewerkt om wijzigingen in onze werkwijze of wettelijke vereisten weer te geven. Wij informeren u over belangrijke wijzigingen en zorgen ervoor dat altijd de meest actuele versie van het privacybeleid op onze website beschikbaar is."
+            },
+            {
+              "type": "text",
+              "text": "Uw vertrouwen is belangrijk voor ons. Wij zetten ons in om de privacy en veiligheid van uw persoonlijke gegevens te waarborgen. Heeft u vragen of zorgen over ons privacybeleid, neem dan gerust contact met ons op."
+            }
+          ]
+        },
+        {
+          "title": "2. Welke informatie verzamelen wij?",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bij Yaalo.com hechten wij veel waarde aan het vertrouwen van onze bezoekers en klanten. In dit gedeelte leggen wij transparant uit welke soorten informatie wij verzamelen wanneer u onze website en diensten gebruikt. Wij verzamelen uitsluitend gegevens die nodig zijn om u een hoogwaardige ervaring te bieden, met respect voor uw privacy."
+            }
+          ],
+          "subTitles": [
+            {
+              "title": "Persoonlijk identificeerbare informatie (PII):",
+              "content": [
+                {
+                  "type": "bold",
+                  "text": "Accountgegevens: Wanneer u een account aanmaakt op Yaalo.com, verzamelen wij basisgegevens zoals uw naam, e-mailadres en contactnummer. Deze informatie is noodzakelijk voor het instellen van uw account en voor communicatie met u."
+                },
+                {
+                  "type": "bold",
+                  "text": "Aankoopgegevens: Als u een eSIM of andere dienst bij ons aanschaft, verzamelen wij transactiegerelateerde informatie, waaronder betalingsgegevens, factuuradres en de aangeschafte diensten."
+                },
+                {
+                  "type": "bold",
+                  "text": "Communicatiegegevens: Wanneer u contact opneemt met onze klantenservice, kunnen wij deze communicatie vastleggen, inclusief aanvullende persoonsgegevens die u verstrekt, om uw vragen of problemen op te lossen."
+                }
+              ]
+            },
+            {
+              "title": "Gevoelige persoonsgegevens:",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wij begrijpen dat gevoelige persoonsgegevens extra zorg vereisen. Wij verzamelen niet bewust gegevens zoals ras of etnische afkomst, politieke opvattingen, religieuze overtuigingen, gezondheidsinformatie of seksuele geaardheid. Indien dergelijke gegevens om welke reden dan ook nodig zijn, gebeurt dit uitsluitend met uw uitdrukkelijke toestemming en alleen voor het doel dat op het moment van verzameling wordt vermeld."
+                }
+              ]
+            },
+            {
+              "title": "Niet-persoonlijk identificeerbare informatie:",
+              "content": [
+                {
+                  "type": "bold",
+                  "text": "Gebruiksgegevens: Dit omvat informatie over hoe u onze website gebruikt, zoals bezochte pagina’s, tijd besteed op pagina’s en aangeklikte links. Deze gegevens helpen ons het gebruikersgedrag te begrijpen en onze website te verbeteren."
+                },
+                {
+                  "type": "bold",
+                  "text": "Technische informatie: Wij verzamelen technische gegevens zoals uw IP-adres, browsertype en besturingssysteem. Dit helpt ons om compatibiliteit te waarborgen en een betere gebruikerservaring te bieden."
+                }
+              ]
+            },
+            {
+              "title": "Cookies, pixels en lokale opslag:",
+              "content": [
+                {
+                  "type": "bold",
+                  "text": "Cookies: Kleine gegevensbestanden die op uw apparaat worden geplaatst. Cookies helpen ons uw voorkeuren te onthouden en uw gebruikerservaring te verbeteren."
+                },
+                {
+                  "type": "bold",
+                  "text": "Pixels: Kleine grafische elementen die worden gebruikt om de effectiviteit van onze advertentiecampagnes te meten en gebruikersinteracties te analyseren."
+                },
+                {
+                  "type": "bold",
+                  "text": "Lokale opslag: Wij kunnen lokale opslagtechnologieën gebruiken om gegevens op uw apparaat op te slaan voor betere prestaties en gebruiksgemak."
+                },
+                {
+                  "type": "text",
+                  "text": "Wij gebruiken deze informatie op verantwoorde wijze en nemen passende maatregelen om de veiligheid ervan te waarborgen. De gegevens worden gebruikt om onze diensten te leveren, te onderhouden en te verbeteren, transacties te verwerken, met u te communiceren en uw algehele ervaring met Yaalo.com te optimaliseren."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "3. Cookies die wij gebruiken",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bij Yaalo.com gebruiken wij cookies om uw ervaring op onze website te verbeteren. Cookies zijn kleine tekstbestanden die op uw apparaat worden opgeslagen wanneer u een website bezoekt. Ze helpen ons te begrijpen hoe u onze site gebruikt en om uw voorkeuren te onthouden."
+            },
+            {
+              "type": "bold",
+              "text": "Essentiële cookies: Deze zijn noodzakelijk voor het correct functioneren van de website, zoals toegang tot beveiligde onderdelen en het gebruik van winkelwagens."
+            },
+            {
+              "type": "bold",
+              "text": "Prestatiecookies: Deze verzamelen anonieme informatie over het gebruik van onze website en helpen ons de prestaties te verbeteren."
+            },
+            {
+              "type": "bold",
+              "text": "Functionele cookies: Deze herkennen u wanneer u terugkeert naar onze website en onthouden uw voorkeuren, zoals taal of regio."
+            },
+            {
+              "type": "bold",
+              "text": "Advertentiecookies: Deze registreren uw websitebezoek en bekeken pagina’s om advertenties relevanter te maken voor uw interesses."
+            },
+            {
+              "type": "bold",
+              "text": "Analytics cookies: Deze verzamelen anonieme statistieken over bezoekersaantallen en websitegebruik om rapportages op te stellen en verbeteringen door te voeren."
+            },
+            {
+              "type": "bold",
+              "text": "Cookies beheren: U kunt cookies accepteren of weigeren via uw browserinstellingen. Houd er rekening mee dat het weigeren van cookies invloed kan hebben op de functionaliteit van de website."
+            },
+            {
+              "type": "bold",
+              "text": "Cookies zijn bedoeld om uw gebruikerservaring te verbeteren en worden niet gebruikt om ongeoorloofde toegang tot uw persoonlijke gegevens te verkrijgen. Wij gebruiken cookies op een transparante en verantwoorde manier."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "RefundPolicyPage": {
+    "metaData": {
+      "title": "Yaalo Terugbetalingsbeleid: Duidelijke Richtlijnen voor Terugbetalingen & Geschiktheid",
+      "description": "Het terugbetalingsbeleid van Yaalo met richtlijnen voor geschiktheid, technische problemen en apparaatcompatibiliteit voor een soepele eSIM-ervaring. Dien eenvoudig een terugbetalingsverzoek in.",
+      "keywords": "eSIM, eSIM kopen, regionale eSIM, lokale eSIM, databundel, eSIM terugbetaling, Yaalo eSIM"
+    },
+    "refundPolicy": {
+      "title": "Terugbetalingsbeleid",
+      "description": "Bij Yaalo zetten wij ons in om onze klanten een soepele en prettige ervaring te bieden. Ons terugbetalingsbeleid is opgesteld om duidelijkheid te geven in de zeldzame gevallen waarin u een terugbetaling wilt aanvragen. Hieronder vindt u gedetailleerde informatie over onze procedures en voorwaarden.",
+      "data": [
+        {
+          "title": "Geschiktheid en voorwaarden voor terugbetaling",
+          "content": [
+            {
+              "type": "bold",
+              "text": "Dekkingsproblemen: Als de eSIM niet kan worden geïnstalleerd vanwege dekkingsproblemen, kunt u een terugbetaling of wijziging aanvragen."
+            },
+            {
+              "type": "bold",
+              "text": "Technische problemen: In gevallen waarin technische problemen afkomstig zijn van Yaalo en niet tijdig kunnen worden opgelost, is een terugbetaling alleen mogelijk als er geen data is verbruikt."
+            },
+            {
+              "type": "bold",
+              "text": "Geldigheid van databundels: Er worden geen terugbetalingen verleend voor resterende data nadat de geldigheidsperiode van een databundel is verlopen."
+            },
+            {
+              "type": "bold",
+              "text": "Onbedoelde aankopen: Er worden geen terugbetalingen aangeboden zodra de eSIM is geïnstalleerd en gebruikt."
+            },
+            {
+              "type": "bold",
+              "text": "Onjuiste kosten: Geschillen over kosten moeten binnen 12 dagen na ontvangst worden gemeld, inclusief details waarom het bedrag onjuist is."
+            },
+            {
+              "type": "bold",
+              "text": "Frauduleuze activiteiten: Yaalo behoudt zich het recht voor om terugbetalingen te weigeren bij vermoedens van misbruik, schending van voorwaarden of frauduleuze activiteiten."
+            },
+            {
+              "type": "bold",
+              "text": "Compatibiliteit van het toestel: Het is essentieel om vóór aankoop te controleren of uw toestel eSIM-compatibel is. Er worden geen terugbetalingen verleend bij incompatibiliteitsproblemen."
+            },
+            {
+              "type": "bold",
+              "text": "Eenmalige aankoop: eSIM is een eenmalige aankoop en niet restitueerbaar."
+            },
+            {
+              "type": "bold",
+              "text": "Virtuele nummers: Virtuele nummers werken niet met WhatsApp en andere sociale media. De klant heeft geen recht op terugbetaling als OTP-codes voor dergelijke diensten niet worden ontvangen."
+            }
+          ]
+        },
+        {
+          "title": "Procedure voor het aanvragen van een terugbetaling",
+          "content": [
+            {
+              "type": "bold",
+              "text": "Termijn: Terugbetalingsverzoeken moeten binnen 30 dagen na aankoop worden ingediend."
+            },
+            {
+              "type": "bold",
+              "text": "Medewerking: Tijdige en actieve medewerking bij probleemoplossing is noodzakelijk om in aanmerking te komen voor een terugbetaling."
+            },
+            {
+              "type": "bold",
+              "text": "Melding: Stuur een e-mail naar support@yaalo.com met uw terugbetalingsverzoek, inclusief relevante details en redenen."
+            }
+          ]
+        },
+        {
+          "title": "Uitzonderingen en specifieke situaties",
+          "content": [
+            {
+              "type": "bold",
+              "text": "Ongeautoriseerde aankopen: Onderhevig aan onderzoek en goedkeuring."
+            },
+            {
+              "type": "bold",
+              "text": "Wijzigingen: Na aankoop zijn geen aanpassingen of maatwerk mogelijk."
+            },
+            {
+              "type": "bold",
+              "text": "Ultimate Mobile Services: Dienstonderbrekingen kunnen zonder voorafgaande kennisgeving plaatsvinden en komen niet in aanmerking voor terugbetaling."
+            },
+            {
+              "type": "bold",
+              "text": "Let op: eSIM-aankopen komen niet in aanmerking voor terugbetaling na 60 dagen vanaf de aankoopdatum, ongeacht of de eSIM is geïnstalleerd of niet."
+            }
+          ]
+        },
+        {
+          "title": "Aanvullende voorwaarden",
+          "content": [
+            {
+              "type": "bold",
+              "text": "Fair Use Policy: Van toepassing op alle bundels en plannen."
+            },
+            {
+              "type": "bold",
+              "text": "Aansprakelijkheid: Yaalo is niet aansprakelijk voor onbeschikbaarheid van de dienst of netwerkproblemen."
+            },
+            {
+              "type": "bold",
+              "text": "Garantie: Er worden geen garanties gegeven voor continue netwerkbeschikbaarheid."
+            }
+          ]
+        },
+        {
+          "title": "Contact en ondersteuning",
+          "content": [
+            {
+              "type": "text",
+              "text": "Voor vragen of ondersteuning kunt u contact opnemen met ons supportteam via support@yaalo.com. Wij staan klaar om u te helpen voor een soepele en probleemloze ervaring."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "TermsOfServicePage": {
+    "metaData": {
+      "title": "Yaalo Voorwaarden: Veilige Wereldwijde eSIM-diensten, Terugbetaling & Privacy",
+      "description": "Lees de voorwaarden van Yaalo voor veilige, wereldwijde eSIM-diensten. Begrijp ons terugbetalingsbeleid, apparaatcompatibiliteit en privacy voor een zorgeloze reiservaring.",
+      "keywords": "eSIM, eSIM kopen, regionale eSIM, lokale eSIM, databundel, eSIM voorwaarden, Yaalo eSIM"
+    },
+    "Terms": {
+      "title": "Algemene Voorwaarden",
+      "data": [
+        {
+          "title": "1. Geldigheid van Algemene Voorwaarden",
+          "content": [
+            {
+              "type": "text",
+              "text": "Deze Algemene Voorwaarden zijn van toepassing op alle diensten die door ons bedrijf worden geleverd met betrekking tot de wederverkoop van prepaid eSIM’s. Deze voorwaarden zijn bindend en afdwingbaar bij gebruik van onze diensten. Afwijkingen worden alleen geaccepteerd indien schriftelijk overeengekomen."
+            }
+          ],
+          "subTitles": [
+            {
+              "title": "1.2. Beschrijving van Diensten",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Onze Unlimited-plannen bevatten een dagelijkse high-speed databundel (1GB, 2–3GB of 5GB, afhankelijk van het plan), gevolgd door onbeperkte data met lagere snelheid. De high-speed data wordt elke 24 uur vanaf het eerste gebruik gereset."
+                },
+                {
+                  "type": "bold",
+                  "text": "Let op: Datacaps en snelheidsbeleid kunnen per land verschillen. In sommige landen gelden geen snelheidsbeperkingen. Controleer altijd de volledige plandetails vóór aankoop."
+                }
+              ]
+            },
+            {
+              "title": "1.2.1. Wederverkoop van eSIM",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wij bieden prepaid eSIM’s aan die in meerdere regio’s en landen kunnen worden gebruikt. Deze eSIM’s bieden klanten een flexibele en gemakkelijke manier om mobiele data te gebruiken."
+                }
+              ]
+            },
+            {
+              "title": "1.2.2. Registratie voor Gebruik van Onze Diensten",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Om onze diensten te gebruiken, moeten klanten zich registreren en noodzakelijke persoonsgegevens verstrekken zoals naam, adres en e-mail. Deze registratie is vereist voor activatie en beheer van eSIM-diensten."
+                }
+              ]
+            },
+            {
+              "title": "1.2.3. Onze Verplichtingen",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wij streven naar dienstverlening van hoge kwaliteit, maar garanderen geen ononderbroken of foutloze service. Wij doen redelijke inspanningen om betrouwbaarheid en prestaties te waarborgen."
+                }
+              ]
+            },
+            {
+              "title": "1.2.4. Verplichtingen van de Klant",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Klanten dienen onze diensten verantwoord te gebruiken. Misbruik, illegale of frauduleuze activiteiten zijn verboden en kunnen leiden tot opschorting van de dienst."
+                }
+              ]
+            },
+            {
+              "title": "1.2.5. Apparaatcompatibiliteit",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "De klant is verantwoordelijk voor het controleren of zijn apparaat eSIM-compatibel is. Compatibiliteit kan verschillen per provider en herkomstland. Controleer de compatibiliteitslijst vóór aankoop."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "2. Registratie en Activatie",
+          "content": [],
+          "subTitles": [
+            {
+              "title": "2.1. Registratievereisten",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Om onze eSIM-diensten te gebruiken, moeten klanten zich registreren en correcte gegevens verstrekken."
+                },
+                {
+                  "type": "bold",
+                  "text": "Persoonsgegevens: Volledige en actuele gegevens zijn vereist voor accountbeheer en communicatie."
+                },
+                {
+                  "type": "bold",
+                  "text": "Account aanmaken: Het account wordt gebruikt voor aankopen, gebruiksbeheer en ondersteuning."
+                },
+                {
+                  "type": "bold",
+                  "text": "Acceptatie van voorwaarden: Door registratie gaat de klant akkoord met deze voorwaarden."
+                },
+                {
+                  "type": "bold",
+                  "text": "Compatibiliteitscontrole: De klant bevestigt dat zijn apparaat eSIM-compatibel is."
+                }
+              ]
+            },
+            {
+              "title": "2.2. Aankoop- en Activatieproces",
+              "content": [
+                {
+                  "type": "bold",
+                  "text": "Selectie van eSIM: Kies een eSIM op basis van bestemming en gebruik."
+                },
+                {
+                  "type": "bold",
+                  "text": "Betaling: Betaling kan via Creditcard, Google Pay, Apple Pay of Alipay. Alle bedragen zijn in USD."
+                },
+                {
+                  "type": "bold",
+                  "text": "Levering: De eSIM wordt digitaal geleverd via e-mail en in het account."
+                },
+                {
+                  "type": "bold",
+                  "text": "Activatie: Activatie gebeurt door het scannen van een QR-code."
+                },
+                {
+                  "type": "bold",
+                  "text": "Ondersteuning: Onze support is beschikbaar bij activatieproblemen."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "3. Betaling en Financiële Voorwaarden",
+          "content": [],
+          "subTitles": [
+            {
+              "title": "3.1. Kosten en Betaling",
+              "content": [
+                {
+                  "type": "bold",
+                  "text": "Betalingsmethoden: Creditcard, PayPal, Google Pay, Apple Pay en Alipay."
+                },
+                {
+                  "type": "bold",
+                  "text": "Valuta: Alle betalingen worden verwerkt in USD."
+                },
+                {
+                  "type": "bold",
+                  "text": "Beveiliging: Betalingen worden veilig verwerkt via Stripe."
+                }
+              ]
+            },
+            {
+              "title": "3.2. Terugbetalingen en Annuleringen",
+              "content": [
+                {
+                  "type": "bold",
+                  "text": "Algemeen: eSIM’s zijn eenmalige aankopen en niet restitueerbaar."
+                },
+                {
+                  "type": "bold",
+                  "text": "Unlimited bundels: Snelheden worden verlaagd na overschrijding van de high-speed limiet."
+                },
+                {
+                  "type": "bold",
+                  "text": "Fraude: Yaalo behoudt zich het recht voor om aankopen te annuleren bij vermoedens van fraude."
+                },
+                {
+                  "type": "bold",
+                  "text": "Let op: Geen restitutie mogelijk na 60 dagen na aankoop."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "4. Juridisch en Compliance",
+          "content": [],
+          "subTitles": [
+            {
+              "title": "4.1. Toepasselijk Recht",
+              "content": [
+                {
+                  "type": "bold",
+                  "text": "Deze voorwaarden vallen onder het recht van de jurisdictie waarin de dienstverlener is gevestigd."
+                }
+              ]
+            },
+            {
+              "title": "4.2. Aansprakelijkheid en Garantie",
+              "content": [
+                {
+                  "type": "bold",
+                  "text": "Diensten worden geleverd ‘zoals ze zijn’, zonder garanties."
+                },
+                {
+                  "type": "bold",
+                  "text": "Beperking van aansprakelijkheid: Geen aansprakelijkheid voor indirecte of gevolgschade."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "5. Contactgegevens",
+          "content": [
+            {
+              "type": "bold",
+              "text": "E-mail: support@yaalo.com"
+            },
+            {
+              "type": "bold",
+              "text": "Live chat: Beschikbaar via de website"
+            },
+            {
+              "type": "bold",
+              "text": "WhatsApp: {{whatsappNumber}} (24/7)"
+            },
+            {
+              "type": "bold",
+              "text": "Zakelijke vragen: sales@yaalo.com"
+            },
+            {
+              "type": "bold",
+              "text": "Adres: 250 S Ronald Reagan Blvd, Str 106, Orlando, FL"
+            }
+          ]
+        },
+        {
+          "title": "6. Aanvullende Bepalingen",
+          "content": [],
+          "subTitles": [
+            {
+              "title": "6.1. Dienstverlening",
+              "content": [
+                {
+                  "type": "bold",
+                  "text": "Activatie: De eSIM wordt direct of gepland geactiveerd na aankoop."
+                },
+                {
+                  "type": "bold",
+                  "text": "Toegankelijkheid: Diensten zijn beschikbaar via account of app."
+                },
+                {
+                  "type": "bold",
+                  "text": "Beperkingen: Ononderbroken dienstverlening kan niet worden gegarandeerd."
+                }
+              ]
+            },
+            {
+              "title": "6.2. Overige Bepalingen",
+              "content": [
+                {
+                  "type": "bold",
+                  "text": "Wijzigingen: Voorwaarden kunnen op elk moment worden aangepast."
+                },
+                {
+                  "type": "bold",
+                  "text": "Volledige overeenkomst: Deze voorwaarden vormen de volledige overeenkomst."
+                },
+                {
+                  "type": "bold",
+                  "text": "Scheidbaarheid: Ongeldige bepalingen hebben geen invloed op de rest."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "AffiliatePartnerPage": {
+    "metaData": {
+      "title": "Word Yaalo eSIM Affiliate | Verdien Tot 20% Commissie",
+      "description": "Sluit je aan bij het Yaalo eSIM affiliateprogramma en verdien tot 20% commissie door travel eSIM-dataplannen te promoten. Realtime tracking, maandelijkse uitbetalingen en eenvoudige setup.",
+      "keywords": "geld verdienen, affiliate partner, eSIM partner, partner worden, affiliate"
+    },
+    "hero": {
+      "title": "Word Partner van het Yaalo eSIM Affiliate Programma",
+      "trophy": "Een van de Beste eSIM Affiliate Programma’s voor Travel Creators",
+      "description": "Welkom bij een eerlijke manier om geld te verdienen. Sluit je aan, promoot en verdien commissie elke keer dat iemand via jouw link een globale eSIM-databundel koopt.",
+      "button": "Word Yaalo Affiliate"
+    },
+    "imageCarousel": {
+      "title": "Waarom Samenwerken met Yaalo eSIM?",
+      "descripton": "Het kiezen van het juiste affiliateprogramma draait uiteindelijk om inkomsten. Omdat Yaalo wereldwijd sterke diensten levert, krijg je door met ons samen te werken:",
+      "1": {
+        "title": "Competitieve Commissies",
+        "description": "Je verdient tot 20% commissie op elke succesvolle eSIM-aankoop via jouw affiliate link. Geen limiet op inkomsten en geen minimale publieksgrootte vereist."
+      },
+      "2": {
+        "title": "Realtime Tracking",
+        "description": "Volg klikken, conversies en commissies realtime via een overzichtelijk affiliate dashboard. Je weet altijd hoe je links presteren."
+      },
+      "3": {
+        "title": "Maandelijkse Uitbetalingen",
+        "description": "We betalen je elke maand op tijd uit. Je kunt kiezen uit betrouwbare methoden zoals PayPal, bankoverschrijving of andere vertrouwde opties."
+      },
+      "4": {
+        "title": "Toegewijde Support",
+        "description": "Hulp nodig bij links, banners of statistieken? Ons team staat voor je klaar. Je staat er niet alleen voor."
+      },
+      "5": {
+        "title": "Eenvoudige Promotietools",
+        "description": "Gebruiksvriendelijke promotietools om Yaalo eenvoudig te delen met je publiek."
+      }
+    },
+    "features": {
+      "button": "Word Yaalo Affiliate",
+      "title": "Wie kan Yaalo Affiliate Partner worden?",
+      "description": "Het Yaalo eSIM Affiliate Programma werkt goed voor verschillende soorten partners:",
+      "ending": "Je hoeft geen groot merk te zijn. Als jouw publiek geïnteresseerd is in reizen, technologie, gemak of besparen, past Yaalo eSIM perfect.",
+      "cards": {
+        "1": {
+          "title": "Travel bloggers & bestemmingsgidsen",
+          "description": "Beveel eSIM’s aan als slim alternatief voor roaming of lokale simkaarten."
+        },
+        "2": {
+          "title": "YouTubers & content creators",
+          "description": "Voeg waarde toe aan reisvideo’s, inpaktips en tutorials."
+        },
+        "3": {
+          "title": "Tech- & vergelijkingswebsites",
+          "description": "Plaats Yaalo tussen de beste internationale eSIM-aanbieders."
+        },
+        "4": {
+          "title": "Digital nomads & remote work communities",
+          "description": "Deel een praktische oplossing die je publiek echt gebruikt."
+        }
+      }
+    },
+    "affiliateWorkingSteps": {
+      "title": "Hoe Werkt het Affiliate Programma?",
+      "description": "Bij Yaalo draait alles om eenvoud, omdat jouw tijd belangrijk is.",
+      "cards": {
+        "1": {
+          "title": "Aanmelden",
+          "description": "Vul het korte aanmeldformulier in. We beoordelen het snel en keuren je vlot goed."
+        },
+        "2": {
+          "title": "Ontvang Je Link",
+          "description": "Na goedkeuring ontvang je een unieke affiliate link en toegang tot je dashboard."
+        },
+        "3": {
+          "title": "Verdien",
+          "description": "Elke aankoop via jouw link levert tot 20% commissie op. Volg alles in je dashboard."
+        },
+        "4": {
+          "title": "Delen",
+          "description": "Gebruik je link op je blog, YouTube, social media of e-mailnieuwsbrieven."
+        }
+      }
+    },
+    "speacialFeatures": {
+      "title": "Wat Maakt Yaalo eSIM Uniek",
+      "recommend": "En Makkelijk om Aan te Bevelen",
+      "description": "Mensen zoeken naar termen als “travel eSIM databundels” of “beste eSIM voor toeristen”. Met Yaalo eSIM kun je vol vertrouwen zeggen:",
+      "ending": "Je hoeft geen groot merk te zijn. Als jouw publiek waarde hecht aan gemak, technologie of besparen, is Yaalo eSIM de juiste keuze.",
+      "cards": {
+        "text1": "Geen SIM-kaarten wisselen tijdens het reizen",
+        "text2": "Verbonden in meer dan 200 landen",
+        "text3": "Plannen die direct na aankoop werken",
+        "text4": "Flexibele lokale data-opties in één globale app"
+      }
+    },
+    "affiliateForm": {
+      "title": "Klaar om te starten en te verdienen met Yaalo?",
+      "description": "Vul het formulier in en ons team neemt binnen 24 uur contact met je op. Bewaar je gegevens goed, want deze worden gebruikt voor je login."
+    },
+    "faqsData": {
+      "title": "Veelgestelde vragen",
+      "description": "Vind snel antwoord op veelgestelde vragen.",
+      "faqs": {
+        "1": {
+          "title": "Hoe kan ik me aanmelden voor het Yaalo eSIM affiliateprogramma?",
+          "body": "Meld je aan via het affiliateformulier met je website of social profiel. Na goedkeuring ontvang je je affiliate link en dashboardtoegang."
+        },
+        "2": {
+          "title": "Is deelname aan het Yaalo affiliateprogramma gratis?",
+          "body": "Ja. Deelname aan het Yaalo Affiliate Programma is volledig gratis. Er zijn geen inschrijf- of onderhoudskosten."
+        },
+        "3": {
+          "title": "Hoeveel kan ik verdienen als Yaalo affiliate?",
+          "body": "Affiliates verdienen tot 20% commissie per verkoop, zonder verdienlimiet."
+        },
+        "4": {
+          "title": "Wanneer worden affiliate commissies uitbetaald?",
+          "body": "Uitbetalingen vinden maandelijks plaats via de door jou gekozen betaalmethode."
+        },
+        "5": {
+          "title": "Heb ik een website nodig om affiliate te worden?",
+          "body": "Nee. Je kunt Yaalo eSIM promoten via social media, YouTube, e-mailnieuwsbrieven of elk platform waar je publiek je vertrouwt."
+        }
+      }
+    },
+    "sharingBanner": {
+      "title": "Sharing is Caring met Yaalo eSIM!",
+      "body1": "Samenwerken met Yaalo eSIM draait om meer dan alleen verdienen. Het gaat om iets nuttigs delen: zorgeloze connectiviteit in het buitenland zonder hoge roamingkosten.",
+      "body2": "Als jouw publiek reist, op afstand werkt of eenvoudige mobiele connectiviteit waardeert, is Yaalo eSIM een aanbeveling die je met vertrouwen kunt doen.",
+      "button": "Nu aanmelden",
+      "ending": "en begin te verdienen met Yaalo eSIM."
+    }
+  },
+  "cartPage": {
+    "metaData": {
+      "title": "Je winkelwagen – Artikelen bekijken & veilig afrekenen | Yaalo",
+      "description": "Bekijk de geselecteerde items in je Yaalo-winkelwagen. Rond je aankoop af met ons veilige afrekenproces, beheer aantallen en bekijk verzendopties.",
+      "keywords": "eSIM, eSIM kopen, regionale eSIM, lokale eSIM, regionale eSIM kopen, lokale eSIM kopen, lokale eSIM aanschaffen, regionale eSIM aanschaffen, data eSIM, e-SIM, eSIM-abonnement, eSIM-winkel, eSIM-marktplaats, reiziger, databundel, e-SIM kopen, goedkope data, connectiviteit"
+    },
+    "purchasePackagesMessages": {
+      "redirectingToStripe": "Doorverwijzen naar Stripe...",
+      "orderProcessed": "Je bestelling is verwerkt!",
+      "alreadyRegistered": "Je e-mailadres is al geregistreerd. Log alstublieft in."
+    },
+    "emptyCart": "Je winkelwagen is leeg",
+    "reviewCart": "Bekijk je winkelwagen",
+    "subTotal": "Subtotaal",
+    "checkout": "Afrekenen",
+    "continueShopping": "Verder winkelen",
+    "exploreText": "Je hebt nog geen eSIM-pakketten toegevoegd. Begin met het verkennen van onze plannen om verbonden te blijven!",
+    "browseText": "Bekijk onze eSIM-pakketten",
+    "unlimitedDataFor": "Onbeperkte data voor",
+    "esimDataFor": "eSIM-data voor",
+    "Duration": "Duur",
+    "Data": "Data",
+    "Unlimited": "Onbeperkt",
+    "checkoutProcessBar": {
+      "shoppingCart": "Winkelwagen",
+      "checkout": "Afrekengegevens",
+      "orderComplete": "Bestelling voltooid",
+      "two": "2",
+      "three": "3"
+    },
+    "currentBalance": "Huidig saldo",
+    "payAsGuest": {
+      "loginSuccess": "Succesvol ingelogd!",
+      "signLogin": "Registreren / Inloggen",
+      "loginAsGuest": "Inloggen als gast",
+      "loginAsUser": "Inloggen als gebruiker",
+      "description": "Ontvang 15% cashback op je eerste bestelling wanneer je je registreert.",
+      "descriptionTwo": "Je eSIM wordt naar je e-mailadres verzonden. We beloven alleen belangrijke e-mails te sturen over de kwaliteit van onze service.",
+      "fullName": "Volledige naam",
+      "email": "E-mail",
+      "password": "Wachtwoord",
+      "hidePassword": "Wachtwoord verbergen",
+      "showPassword": "Wachtwoord tonen",
+      "forgetPassword": "Wachtwoord vergeten?",
+      "login": "Inloggen",
+      "continueAsGuest": "Doorgaan als gast",
+      "clickToContinueAsGuest": "Door te klikken op 'Doorgaan als gast' ga je akkoord met onze",
+      "termsOfUse": "Gebruiksvoorwaarden",
+      "privacyPolicy": "Privacybeleid",
+      "and": "en",
+      "stripeText": " en je wordt doorgestuurd naar Stripe voor een veilige betaling.",
+      "validationMessages": {
+        "name": {
+          "minLength": "Naam moet minimaal 2 tekens bevatten."
+        },
+        "email": {
+          "invalid": "Voer een geldig e-mailadres in."
+        },
+        "password": {
+          "required": "Wachtwoord is verplicht.",
+          "maxLength": "Wachtwoord moet minder dan 100 tekens bevatten."
+        }
+      }
+    },
+    "checkoutDetails": {
+      "orderSummary": "Besteloverzicht",
+      "pricing": "Prijsstelling",
+      "payFromWallet": "Betalen vanuit wallet",
+      "toPayOnCheckout": "Te betalen bij afrekenen",
+      "gurantedText": "Gegarandeerd veilig afrekenen",
+      "checkout": "Afrekenen",
+      "summary": "Overzicht",
+      "subTotal": "Subtotaal",
+      "total": "Totaal",
+      "cartSummary": "Besteloverzicht",
+      "discountCode": "Heb je een kortingscode?",
+      "promoCode": "Promocode",
+      "apply": "Toepassen"
+    },
+    "cartItemList": {
+      "product": "Product",
+      "price": "Prijs",
+      "quantity": "Aantal"
+    },
+    "checkoutBtn": {
+      "purchaseNow": "Nu kopen",
+      "secureCheckout": "Ga naar veilig afrekenen"
+    },
+    "checkoutTermsConditionMessage": {
+      "byClicking": "Door te klikken op",
+      "purchaseNow": "Nu kopen",
+      "secureCheckout": "Ga naar veilig afrekenen",
+      "youAgree": "ga je akkoord met onze",
+      "termsOfUse": "Gebruiksvoorwaarden",
+      "and": "en",
+      "privacyPolicy": "Privacybeleid",
+      "redirectedStripe": " en je wordt doorgestuurd naar Stripe voor een veilige betaling."
+    },
+    "errorMessage": "Er is iets misgegaan bij het ophalen van de gebruiker!",
+    "orderHistoryTable": {
+      "sucessMessage": "Wallet succesvol opgewaardeerd",
+      "errorMessage": "Betaling mislukt. Probeer het opnieuw.",
+      "title": "Transactiegeschiedenis",
+      "refreshing": "Vernieuwen...",
+      "refresh": "Vernieuwen",
+      "id": "ID",
+      "amount": "Bedrag",
+      "description": "Beschrijving",
+      "time": "Tijd",
+      "nodata": "Geen gegevens beschikbaar"
+    },
+    "applyPromoCode": {
+      "validationMessages": {
+        "promo_code": {
+          "required": "Voer een promotiecode in",
+          "minLength": "Promotiecode moet minimaal 3 tekens bevatten",
+          "maxLength": "Promotiecode mag maximaal 30 tekens bevatten",
+          "pattern": "Promotiecode mag alleen letters, cijfers, streepjes en underscores bevatten",
+          "alreadyApplied": "Er is al een couponcode toegepast"
+        }
+      }
+    },
+    "addToCartMessages": {
+      "noSelectedPackage": "Selecteer eerst een pakket.",
+      "cartFull": "Je kunt maximaal 5 eSIM-pakketten aan je winkelwagen toevoegen."
+    }
+  }
+}
