@@ -26,6 +26,12 @@ const nextConfig = {
     qualities: [50, 60, 70, 75, 80, 85, 90, 95, 100],
   },
   trailingSlash: true,
+  experimental: {
+    staleTimes: {
+      static: 300,
+      dynamic: 30,
+    },
+  },
 };
 
 const withNextIntl = createNextIntlPlugin();
