@@ -22,6 +22,7 @@ import {
   MetaData,
 } from "@workspace/core/types/services/packages/packages.types";
 import { Locale } from "next-intl";
+import { setRequestLocale } from "next-intl/server";
 import { notFound } from "next/navigation";
 
 type PropsType = {
@@ -33,7 +34,7 @@ export async function generateStaticParams() {
   const regions = await getRegionsThatHavePackages();
   const allDestinations = [...countries, ...regions];
 
-  return allDestinations.map((item) => ({ slug: item.slug }));
+  return allDestinations.map((item) => ({ slug: `esim-${item.slug}` }));
 }
 
 export async function generateMetadata({ params }: PropsType) {
@@ -43,6 +44,7 @@ export async function generateMetadata({ params }: PropsType) {
     notFound();
   }
 
+  setRequestLocale(locale);
   const cleanSlug = slug.replace("esim-", "");
 
   const countriesPromise = getCountriesWithStartingPrice(locale);

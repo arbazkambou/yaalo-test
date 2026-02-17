@@ -2,7 +2,7 @@ import CartDetailSheet from "@/components/cart/CartDetailSheet";
 import FloatingBottomNav from "@/components/layout/FloatingBottomNav";
 import Footer from "@/components/layout/Footer";
 import Header from "@/components/layout/Header";
-import TawkScript from "@/components/third-party/TawkScript";
+import { ChatSupportDialog } from "@/components/third-party/ChatSupportDialog";
 import { routing } from "@/i18n/routing";
 import AuthProvider from "@workspace/core/providers/AuthProvider";
 import ReactQueryProvider from "@workspace/core/providers/ReactQueryProvider";
@@ -13,13 +13,12 @@ import { getAppSettings } from "@workspace/core/services/misc/appSettings.servic
 import { Toaster } from "@workspace/ui/components/sonner";
 import "@workspace/ui/white-label.css";
 import { hasLocale, NextIntlClientProvider } from "next-intl";
-import { Poppins, Work_Sans, Manrope } from "next/font/google";
+import { setRequestLocale } from "next-intl/server";
+import { Manrope, Poppins, Work_Sans } from "next/font/google";
+import { notFound } from "next/navigation";
 import Script from "next/script";
 import NextTopLoader from "nextjs-toploader";
 import { Suspense } from "react";
-import { setRequestLocale } from "next-intl/server";
-import { ChatSupportDialog } from "@/components/third-party/ChatSupportDialog";
-import { notFound } from "next/navigation";
 
 const sans = Work_Sans({
   subsets: ["latin"],
@@ -40,7 +39,7 @@ const poppins = Poppins({
 });
 
 export function generateStaticParams() {
-  return routing.locales.map((locale) => ({ locale }));
+  return routing.locales.slice(0, 2).map((locale) => ({ locale }));
 }
 export default async function RootLayout({
   children,
